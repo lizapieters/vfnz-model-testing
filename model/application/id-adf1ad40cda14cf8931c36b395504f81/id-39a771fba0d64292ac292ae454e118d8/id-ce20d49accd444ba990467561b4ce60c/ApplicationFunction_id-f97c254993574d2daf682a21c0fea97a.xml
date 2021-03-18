@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Partner catalog integration"
+    id="id-f97c254993574d2daf682a21c0fea97a"
+    documentation="Partner integration for both export and import of catalog entities&#xA;- Export to external partners: A Catalog Management application should include the ability to allow partners (e.g. Content Providers, or other SPs) to browse in catalog in real time or batch mode. Not all data shall be exposed; security and access control (as mentioned above) are essentials features&#xA;- Import from external partners: External partners may want to populate catalogs with their own (entities) specifications and be able to create associations with existing entities. Access control, validation and testing must be set appropriately.">
+  <properties
+      key="Function Identifier"
+      value="12"/>
+  <properties
+      key="TAM Application Name"
+      value="Catalog Management"/>
+  <properties
+      key="TAM Application Id"
+      value="11.1"/>
+  <properties
+      key="Constructed Id"
+      value="11.1.12"/>
+</archimate:ApplicationFunction>

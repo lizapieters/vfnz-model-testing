@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer SLA issue information collection"
+    id="id-19d4676f672241c18808ff9535031260"
+    documentation="Customer SLA Collection collects additional customer SLA related information from established sources, including service quality management, service performance management, service problem management, third parties, and customers, related to a SLA issue.">
+  <properties
+      key="Function Identifier"
+      value="290"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer SLA Collection"/>
+  <properties
+      key="TAM Application Id"
+      value="5.18.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.18.2.290"/>
+</archimate:ApplicationFunction>

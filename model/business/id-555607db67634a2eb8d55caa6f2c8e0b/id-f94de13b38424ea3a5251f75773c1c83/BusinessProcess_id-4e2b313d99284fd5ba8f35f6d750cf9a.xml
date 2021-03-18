@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prepare Maturity Matrix"
+    id="id-4e2b313d99284fd5ba8f35f6d750cf9a"
+    documentation="Selection of dimensions to evaluate the maturity of a particular area.">
+  <properties
+      key="Process Identifier"
+      value="1.7.8.2.1.1"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Prepare Maturity Matrix process involves selecting the dimensions that help determine the maturity level of an organization for a particular area. This includes determining the criteria that divide the different levels for a particular dimensions. Examples of dimensions may be : Strategy, Process, Strategy, etc. If a maturity matrix is already available then existing dimensions should be evaluated and/or additions of new dimensions should be determined."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

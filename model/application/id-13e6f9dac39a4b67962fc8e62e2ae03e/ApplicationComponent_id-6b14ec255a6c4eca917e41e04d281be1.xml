@@ -1,0 +1,39 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TXT Balance"
+    id="id-6b14ec255a6c4eca917e41e04d281be1"
+    documentation="TXT Balance">
+  <properties
+      key="StatusForLookUp"
+      value="Active"/>
+  <properties
+      key="Owner"
+      value="AndrewH"/>
+  <properties
+      key="Level of Service"
+      value="Business Premium"/>
+  <properties
+      key="Product / Service"
+      value="Mobile"/>
+  <properties
+      key="Segment"
+      value="Common"/>
+  <properties
+      key="DX Association"
+      value="Integrate"/>
+  <properties
+      key="Existing Retained or Replaced"
+      value="Retained"/>
+  <properties
+      key="Legacy BSS Stack Served"
+      value="C3"/>
+  <properties
+      key="TAM App ID"
+      value="5.4.3"/>
+  <properties
+      key="TAM Domain"
+      value="Customer Domain"/>
+  <properties
+      key="TAM Application"
+      value="Customer Self Empowered Billing"/>
+</archimate:ApplicationComponent>

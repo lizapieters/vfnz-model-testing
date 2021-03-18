@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1194"
+    id="id-bd4cf7ca0faa4bffaf25b9f6dce0aab7"
+    documentation="As a customer logged into web self service, I want to be able to change my app PIN from within web self service if I have set one up, So that I can keep my account secure">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1194"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="bk"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Self Service"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Help"/>
+  <properties
+      key="Topic"
+      value="Security &amp; Authentication"/>
+  <properties
+      key="Remarks"
+      value="Probably outside of Comarch solution now"/>
+  <properties
+      key="Module"
+      value="SC, TUM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

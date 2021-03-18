@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Choose Product Offering to Purchase"
+    id="id-2911cdf1d5de4c27a8c807550b3ea1cb"
+    documentation="Choose a product offering that is offered for purchase.">
+  <properties
+      key="Process Identifier"
+      value="1.2.9.2.1.1.1"/>
+  <properties
+      key="Category"
+      value="(6) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Choose Product Offering to Purchase chooses a product offering that is offered for purchase. One a choice is made the availability of the offering is provided. The availability may be based on eligibility rules defined for the offering or its related product specification. For example, if an offering is chosen, but is mutually exclusive with an offering already chosen then the chosen offering is not eligible for purchase. Any terms/conditions associated with a product offering are also accepted, such as those for a contract or voucher."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

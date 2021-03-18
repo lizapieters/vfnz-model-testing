@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1027"
+    id="id-2b29ed32fa5445d298354d1f882a742c"
+    documentation="As a PO, I want to be able to limit the volume of redemption, such as only first 1000 to redeem or only 1 per customer">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1027"/>
+  <properties
+      key="Status"
+      value="Potential gap"/>
+  <properties
+      key="Created by"
+      value="Gabrielle Paul"/>
+  <properties
+      key="Tribe"
+      value="Loyalty"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Redemption functionality"/>
+  <properties
+      key="Remarks"
+      value="[CLM] OOTB"/>
+  <properties
+      key="Module"
+      value="CLM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

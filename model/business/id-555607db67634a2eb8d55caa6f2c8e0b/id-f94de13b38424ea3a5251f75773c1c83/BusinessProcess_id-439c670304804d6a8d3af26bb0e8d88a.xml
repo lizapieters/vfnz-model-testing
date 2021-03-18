@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Tool Policies"
+    id="id-439c670304804d6a8d3af26bb0e8d88a"
+    documentation="Establish and manage all policies related to the employment, use, and maintenance of tools and/or solution platforms used in fraud detection, investigation, and management.">
+  <properties
+      key="Process Identifier"
+      value="1.7.2.3.1.1"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of Tool Policy Management is to provide oversight to the entire lifecycle of a fraud tool or solution within the organization. This includes several key components: 1. Identification of the need for a tool or solution. This will include the creation of business case materials needed to support the need for investment in technology to replace manual operations or enhance volumes of data being analyzed, etc. This process will also be the origination point for requirements vetting, collecting, and aggregation into RFx issuance, and the subsequent review and scoring of responses received. 2. Deployment scope and project management of any tool or solution. While the operator often contains an internal PMO for deployment activities/oversight, actual requirements needed by the Fraud program must be represented and ensured by the policy process. 3. Staff preparation. Use of technology requires training in both the use of the technology and the fraud domain itself to understand rules and processes being employed by tools. The policy process must identify and maintain the necessary staff requirements to operate tools to the full extent of their deployed capabilities. 4. Ongoing process and rule enhancement. Tools are subject to modifications and enhancements necessary to address constant changes within the fraud environment. The policy process must maintain guidelines on when rules and processes may be enhanced or updated. 5. Access to fraud tools and systems. Tools within the fraud environment have access to particularly sensitive information that require increased levels of security. Policies must be in place to determine who is allowed access to these tools, and specifically, what actions they are allowed to perform within these fraud tools. For example, configuration of rules for detection should be performed by appropriate staff to ensure fair yet thorough application of any given rule. General staff within an organization should not have access to this information or configuration capability. 6. Roadmap development. As needs of the fraud program change, tool support inevitably must also evolve. In cases where tool capabilities do not meet the needs for growth, requirements for enhancements must be maintained within the policy process, and made available to tool developers and/or to subsequent RFx issuing. It is important to examine existing tools within other departments for possible integration or re-use as part of this process."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

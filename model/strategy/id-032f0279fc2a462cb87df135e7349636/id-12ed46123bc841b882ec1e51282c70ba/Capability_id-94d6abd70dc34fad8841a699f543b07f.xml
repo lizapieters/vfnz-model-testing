@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Performance Threshold Setting"
+    id="id-94d6abd70dc34fad8841a699f543b07f"
+    documentation="The ability to determine acceptable or unacceptable levels of performance.">
+  <properties
+      key="TMF_ID"
+      value="1.1.3.13.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Overdue Party Bill/Invoice Payment Plan"
+    id="id-e3fb8b20f067462282781a654c5ce075"
+    documentation="Arrange and monitor a payment plan to allow a party to pay one or more overdue amounts in installments.">
+  <properties
+      key="Process Identifier"
+      value="1.6.16.1.4.2.4"/>
+  <properties
+      key="Category"
+      value="(6) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Manage Overdue Party Bill/Invoice Payment Plan arranges and monitors a payment plan to allow a party to pay one or more overdue amounts in installments. This is accomplished by interacting with the Party Payment Plan Administration process."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

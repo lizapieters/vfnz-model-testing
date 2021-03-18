@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agreement Matching"
+    id="id-485f94a492784aa2962d67d34128af97"
+    documentation="The ability to associate accounts / agreements with clients, messages, Partners, Channels, Products, and/or Financial Accounts.">
+  <properties
+      key="TMF_ID"
+      value="1.1.5.9"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

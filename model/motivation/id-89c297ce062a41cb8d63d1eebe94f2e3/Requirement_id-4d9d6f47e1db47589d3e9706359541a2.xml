@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0639"
+    id="id-4d9d6f47e1db47589d3e9706359541a2"
+    documentation="As a product manager, I want to adjust pricing if a customer discontinues a product required to get a discount (i.e. converged offer)">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0639"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Stop"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Stop"/>
+  <properties
+      key="Topic"
+      value="0"/>
+  <properties
+      key="Remarks"
+      value="clear."/>
+  <properties
+      key="Module"
+      value="PC, OM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

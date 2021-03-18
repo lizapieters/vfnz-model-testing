@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Commissioning Management"
+    id="id-6db43f89c5b3462198cac30f25992621"
+    documentation="The Commissioning Management function consists in calculating commissions for dealers or resellers from information such as orders, activation, usage.">
+  <properties
+      key="Function Identifier"
+      value="392"/>
+  <properties
+      key="TAM Application Name"
+      value="Dealers"/>
+  <properties
+      key="TAM Application Id"
+      value="3.4.4"/>
+  <properties
+      key="Constructed Id"
+      value="3.4.4.392"/>
+</archimate:ApplicationFunction>

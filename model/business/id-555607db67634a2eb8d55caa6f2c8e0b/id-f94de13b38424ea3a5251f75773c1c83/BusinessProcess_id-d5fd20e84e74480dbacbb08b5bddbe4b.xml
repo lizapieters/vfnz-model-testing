@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Decide Self Healing Option"
+    id="id-d5fd20e84e74480dbacbb08b5bddbe4b"
+    documentation="Decide Self Healing Option based on a healing policy/rule of operator.">
+  <properties
+      key="Process Identifier"
+      value="1.5.8.3.8.1"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of &quot;Decide Self Healing Option&quot; process is a responsibility to decide how recover the failure based on a self healing policy ( e.g. total number of times of violating a certain threshold, emergency level of a detected alarm or service level agreement that depends on each service provider). For example, the patterns of recover are divided into following patterns: - Physical network function self healing - Virtual network self function healing - Network service self healing"/>
+  <properties
+      key="Maturity Level"
+      value="2"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

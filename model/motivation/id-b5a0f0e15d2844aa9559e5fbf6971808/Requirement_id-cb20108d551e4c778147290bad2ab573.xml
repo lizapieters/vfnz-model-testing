@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1059"
+    id="id-cb20108d551e4c778147290bad2ab573"
+    documentation="Provide a single digital journey for the customer and a VF front/back office representative, i.e. the same journey to facilitate a  simplified experience, additionally provide a CRM “under the hood” capability to front/back office representatives where complex transaction are required, examples: escalated discounts, manipulating billing start date and other field values that require changes.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1059"/>
+  <properties
+      key="Status"
+      value="Duplicate"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Help"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Order Capture"/>
+  <properties
+      key="Remarks"
+      value="a duplicate of REQ_BSS_0782"/>
+  <properties
+      key="Module"
+      value="CRM, AP, SC, DS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

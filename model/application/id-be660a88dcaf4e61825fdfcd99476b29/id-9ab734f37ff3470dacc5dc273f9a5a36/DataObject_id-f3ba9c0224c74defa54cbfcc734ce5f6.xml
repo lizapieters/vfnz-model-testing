@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BusinessInteractionSpec"
+    id="id-f3ba9c0224c74defa54cbfcc734ce5f6"
+    documentation="The invariant characteristics (attributes in the business view; and methods; constraints; relationships; and behavior in the system view) and behavior of a BusinessInteraction. This is done by optionally defining a set of BusinessInteractionSpecItems; each of which aggregates one or more other types of Specifications. This helps to ensure that different BusinessInteractions have the same basic characteristics and behavior by deriving them from the same BusinessInteractionSpec."/>

@@ -1,0 +1,33 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Scorecard SAAÿ"
+    id="id-887e53cf13744003a62b719e7e645524"
+    documentation="Scorecard SAAÿ">
+  <properties
+      key="StatusForLookUp"
+      value="Decommissioned"/>
+  <properties
+      key="Owner"
+      value="AndrewH"/>
+  <properties
+      key="Level of Service"
+      value="Business Standard"/>
+  <properties
+      key="Product / Service"
+      value="Common"/>
+  <properties
+      key="Segment"
+      value="Common"/>
+  <properties
+      key="DX Association"
+      value="Unrelated"/>
+  <properties
+      key="Existing Retained or Replaced"
+      value="Replace"/>
+  <properties
+      key="ComArch / Other"
+      value="Google Marketing Platform"/>
+  <properties
+      key="Legacy BSS Stack Served"
+      value="Common"/>
+</archimate:ApplicationComponent>

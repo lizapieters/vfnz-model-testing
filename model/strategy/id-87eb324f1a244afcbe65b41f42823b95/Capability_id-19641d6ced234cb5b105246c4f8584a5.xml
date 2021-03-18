@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Procurement"
+    id="id-19641d6ced234cb5b105246c4f8584a5"
+    documentation="Procurement Management provides the necessary functionality to manage the requisitions for material and placing the orders with the contracted supplier/partner. This includes orders placed in conjunction with a customer order as well as orders placed as part of service provider expansions of product, service, or network.A Supplier/Partner Order can also include a simple transaction with a supplier/partner concerning an application purchased via a product catalog, and the app is delivered.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.10.2"/>
+  <properties
+      key="TMF Function"
+      value="Procurement Order Monitoring and Payment Procurement Requisition &amp; Order Management"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

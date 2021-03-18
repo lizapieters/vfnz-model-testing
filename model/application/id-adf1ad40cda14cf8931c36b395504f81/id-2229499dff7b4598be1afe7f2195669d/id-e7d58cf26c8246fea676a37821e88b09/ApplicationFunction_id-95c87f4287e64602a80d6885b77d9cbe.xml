@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Hierarchy &amp; Group Management"
+    id="id-95c87f4287e64602a80d6885b77d9cbe"
+    documentation="Customer Hierarchy &amp; Group Management provides the necessary functionality to manage the customer hierarchy for both business and residential type customers.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="5.1.1"/>
+  <properties
+      key="Frameworx Domain"
+      value="Customer Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

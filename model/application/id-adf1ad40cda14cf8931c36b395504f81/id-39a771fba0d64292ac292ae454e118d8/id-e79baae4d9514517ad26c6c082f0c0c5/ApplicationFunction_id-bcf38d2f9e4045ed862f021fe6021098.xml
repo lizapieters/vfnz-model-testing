@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Support Portal Tools Server"
+    id="id-bcf38d2f9e4045ed862f021fe6021098"
+    documentation="Center Efficiency Tools provides various non-portlet enabled scripts and tools for the agent to automate specific tasks.&#xA;This function can also include terminal and system emulators (Citrix, Attachmate, etc).">
+  <properties
+      key="Function Identifier"
+      value="732"/>
+  <properties
+      key="TAM Application Name"
+      value="Center Efficiency Tools"/>
+  <properties
+      key="TAM Application Id"
+      value="5.22.1.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.22.1.2.732"/>
+</archimate:ApplicationFunction>

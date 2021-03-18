@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Product Capability Delivery Methodology"
+    id="id-500378d104a3447882e6120df58070c2"
+    documentation="Define and manage the methodology to be adopted for product capability delivery across the enterprise">
+  <properties
+      key="Process Identifier"
+      value="1.2.2.6"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Manage Product Capability Delivery Methodology processes define and manage the methodology to be adopted for product capability delivery across the enterprise. The processes define the procedures and steps to follow to ensure that all project activities across the enterprise to develop infrastructure capability are co-coordinated, visible and controlled. These processes define the steps in the methodology, and approval process or gates to be passed by individual product capability delivery projects, and may maintain a repository of all activities as a part of the coordination aspects."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

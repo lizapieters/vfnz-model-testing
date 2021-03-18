@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Case Correlation &amp; Analysis"
+    id="id-c49d11cfad6048aaba829c27eccdf062"
+    documentation="Case Correlation &amp; Analysis applications provide appropriate functionality to relate cases to other reported cases (past or present) as appropriate.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.17.3"/>
+  <properties
+      key="TMF Function"
+      value="Case Correlation"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

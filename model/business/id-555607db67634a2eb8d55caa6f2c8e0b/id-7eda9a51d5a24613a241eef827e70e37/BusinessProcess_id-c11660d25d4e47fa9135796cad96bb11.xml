@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Common Enterprise Processes"
+    id="id-c11660d25d4e47fa9135796cad96bb11"
+    documentation="Processes that occur throughout the enterprise, and, as such, they could be placed in two or more domains. This  includes metric management processes and feature/property management processes, as well as policy management processes, location management processes, and calendaring (such as appointment scheduling) when they are added, and so forth.">
+  <properties
+      key="Process Identifier"
+      value="1.7.8"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Common Enterprise Processes contains processes that occur throughout the enterprise, and, as such, they could be placed in two or more domains. This includes metric management processes and feature/property management processes, as well as policy management processes, location management processes, and calendaring (such as appointment scheduling) when they are added, and so forth. A key characteristic of Common Enterprise Processes is that they can execute on their own, do represent â€œtrueâ€� business processes, but may require specialization. For example, a policy can be defined and associated with Catalog Specification to govern the content of catalogs described by the specification; or the specification of a loyalty rule may represent a specialization of the process that defines a policy rule."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

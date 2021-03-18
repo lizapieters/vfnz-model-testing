@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enable and verify Offer to Customer"
+    id="id-8f589714190d4810a82fa70cd5ddea53"
+    documentation="The Offer enable and verification enables the configuration of the commercial offer chosen by the customer. &#xA;The configuration verifies the technical / functional / commercial pre-requisites">
+  <properties
+      key="Function Identifier"
+      value="727"/>
+  <properties
+      key="TAM Application Name"
+      value="Offer Configuration"/>
+  <properties
+      key="TAM Application Id"
+      value="5.3.1.2.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.3.1.2.2.727"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Escalate/End Resource Performance Degradation Report"
+    id="id-3beb4fb7f03342a58a37f3ee260ad91d"
+    documentation="This process monitors the jeopardy status of open Resource Performance Degradation Reports, and escalates Resource Performance Degradation Reports as necessary.">
+  <properties
+      key="Process Identifier"
+      value="1.5.9.6.5"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

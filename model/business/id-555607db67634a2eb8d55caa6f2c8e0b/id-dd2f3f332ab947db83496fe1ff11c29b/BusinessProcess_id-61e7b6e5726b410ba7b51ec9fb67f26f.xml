@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Create Customer or Party Order Request"
+    id="id-61e7b6e5726b410ba7b51ec9fb67f26f"
+    documentation="Create a standard and/or non-standard order request (in ITIL, &quot;RFCs&quot;) for handover to be fulfilled.">
+  <properties
+      key="Process Identifier"
+      value="1.1.9.5.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Create Customer or Party Order Request creates a standard and/or non-standard order request (in ITIL, &quot;RFCs&quot;) for handover to be fulfilled. The request is passed to other processes to allow formal party or customer orders to be generated and processed or to allow the purchase of one or more product offerings."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,48 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interconnect"
+    id="id-f1f0c3ff2ab7465b8c291708f6b76c78"
+    documentation="ICT">
+  <properties
+      key="StatusForLookUp"
+      value="Active"/>
+  <properties
+      key="Owner"
+      value="AndrewH"/>
+  <properties
+      key="Level of Service"
+      value="Mission Critical"/>
+  <properties
+      key="Annual Support Cost"
+      value="$312,377.00"/>
+  <properties
+      key="Product / Service"
+      value="Common"/>
+  <properties
+      key="Segment"
+      value="Common"/>
+  <properties
+      key="DX Association"
+      value="Replaced Fully"/>
+  <properties
+      key="Existing Retained or Replaced"
+      value="Replace"/>
+  <properties
+      key="ComArch / Other"
+      value="Comarch"/>
+  <properties
+      key="Dig Future Module"
+      value="InterPartner Billing (IPB)"/>
+  <properties
+      key="Legacy BSS Stack Served"
+      value="Blue-Common"/>
+  <properties
+      key="TAM App ID"
+      value="8.3"/>
+  <properties
+      key="TAM Domain"
+      value="Business Partner Domain"/>
+  <properties
+      key="TAM Application"
+      value="Wholesale / Interconnect Billing"/>
+</archimate:ApplicationComponent>

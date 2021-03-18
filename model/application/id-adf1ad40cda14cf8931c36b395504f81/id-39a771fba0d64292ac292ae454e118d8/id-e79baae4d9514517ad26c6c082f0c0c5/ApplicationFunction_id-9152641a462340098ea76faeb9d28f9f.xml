@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transactional Document Information Formatting"
+    id="id-9152641a462340098ea76faeb9d28f9f"
+    documentation="Formats document information in the customer selected or default format">
+  <properties
+      key="Function Identifier"
+      value="337"/>
+  <properties
+      key="TAM Application Name"
+      value="Transactional Document Generator"/>
+  <properties
+      key="TAM Application Id"
+      value="5.2.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.2.2.337"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Currency Valuation"
+    id="id-da6f8ea8803349cba72806c6c4611934"
+    documentation="The ability to determine the value of monetary resources in one currency in relation to another.">
+  <properties
+      key="TMF_ID"
+      value="1.3.6.4.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

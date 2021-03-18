@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop Algorithmic Product Offering Pricing Matrix Cells"
+    id="id-ce118a8d8023402daeb6b7e0063850f3"
+    documentation="Define the content of the product offering pricing matrix cells.">
+  <properties
+      key="Process Identifier"
+      value="1.2.7.2.2.3.2.2"/>
+  <properties
+      key="Category"
+      value="(7) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Develop Algorithmic Product Offering Pricing Matrix Cells defines the content of the product offering pricing matrix cells. The cells represent the values for the product features/properties, such as excess data usage rates, product offering prices that will be charged/allowed, and values for algorithmic evaluation such as student, normal, or very important person (VIP) types of customers. Note that features/properties are also known as characteristic specification values."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

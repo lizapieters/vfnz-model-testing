@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MetricMeasure"
+    id="id-8dac53644d0c40fca94b2b6be3646fe5"
+    documentation="A numerical value or text determined for a MetricDefMeasure that may be collected for a RootEntity; such as a connection or a dealer. A MetricMeasure might be part of a group of MetricMeasures realized at a specific moment (MetricMeasureGroup). For example; a value of .005 ms that represents average packet delay."/>

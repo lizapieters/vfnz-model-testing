@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Program Access Management"
+    id="id-4cc5344475794cd193241d4f8630eba2"
+    documentation="The ability to allow or constrain anyone or anything from viewing, sharing, or modifying a program.">
+  <properties
+      key="TMF_ID"
+      value="1.3.4.4"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

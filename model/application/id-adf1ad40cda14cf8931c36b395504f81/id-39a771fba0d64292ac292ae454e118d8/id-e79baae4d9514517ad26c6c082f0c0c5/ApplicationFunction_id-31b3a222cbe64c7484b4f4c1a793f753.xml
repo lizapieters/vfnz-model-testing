@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Launch in-context Common Actions"
+    id="id-31b3a222cbe64c7484b4f4c1a793f753"
+    documentation="Launch in-context Common Actions � Configurable, short-cut buttons that launch key applications and functions for streamlining actions a CSR commonly performs. (e.g. create a case, prepare an order, update an address)">
+  <properties
+      key="Function Identifier"
+      value="285"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Service Representative Toolbox"/>
+  <properties
+      key="TAM Application Id"
+      value="5.6"/>
+  <properties
+      key="Constructed Id"
+      value="5.6.285"/>
+</archimate:ApplicationFunction>

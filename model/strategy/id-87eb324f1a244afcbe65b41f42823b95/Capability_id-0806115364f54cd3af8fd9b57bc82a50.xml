@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enterprise Information and Collaboration Management"
+    id="id-0806115364f54cd3af8fd9b57bc82a50"
+    documentation="Enterprise Information and Collaboration Management application is responsible for managing the Information of insights related to enterprise processes and practices, market etc. It provides tools and technologies for the development and enhancements of enterprise operations through using/sharing the Information.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.6.2"/>
+  <properties
+      key="TMF Function"
+      value="Collaboration Tools Provisioning Enterprise Processes Information Management Enterprise Web Sites &amp; Portals Platform Knowledge Enhancing"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

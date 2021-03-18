@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Party Revenue Sharing Agreement Management"
+    id="id-227f8b21ee4d449d85faf7ef8d0763a1"
+    documentation="Develop an agreement that specifies how revenue will be shared between an enterprise and one or more other parties whose product offerings are made available in some way by an enterprise.">
+  <properties
+      key="Process Identifier"
+      value="1.6.18.2"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Party Revenue Sharing Agreement Management develops an agreement that specifies how revenue will be shared between an enterprise and one or more other parties whose product offerings are made available in some way by an enterprise. For example an enterprise may make offerings available on behalf of another party or use another party's offering to develop its own offering. It also develops template party revenue sharing agreements that are used as the basis for entering into a revenue sharing agreement with one or more parties. This process uses the general Party Agreement Management process to manage the general agreement lifecycle. The focus of Party Revenue Sharing Agreement Management is on associating party revenue sharing models with the items on the agreement and updating agreement items with agreed upon changes to revenue sharing models by associating revisions to the models to agreement items."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

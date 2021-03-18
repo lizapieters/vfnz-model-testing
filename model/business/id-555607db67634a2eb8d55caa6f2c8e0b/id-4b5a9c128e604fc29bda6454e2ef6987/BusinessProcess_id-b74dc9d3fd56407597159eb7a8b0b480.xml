@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technology Scanning"
+    id="id-b74dc9d3fd56407597159eb7a8b0b480"
+    documentation="Perform scanning and initial assessment of emerging technology from external sources for the enterprise.">
+  <properties
+      key="Process Identifier"
+      value="1.7.4.3"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Technology Scanning processes perform scanning and initial assessment of emerging technology from external sources for the enterprise. This includes identification and evaluation of potential technologies, and sources of technologies, and comparison with the â€œin-houseâ€� research capabilities. It also includes determining the business value of potential technology acquisitions, and provides an initial assessment of any financial or other commitments to actually acquire specific technologies where this is appropriate. These processes cooperates with Research Management processes for corporate-level decisions on â€œinternally develop vs. buyâ€� concerning emerging technology, by providing expert assessment assistance in making the decision. Any sourcing of the proposed technology is delivered through the Party Tender Management and Party Agreement Management processes processes"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

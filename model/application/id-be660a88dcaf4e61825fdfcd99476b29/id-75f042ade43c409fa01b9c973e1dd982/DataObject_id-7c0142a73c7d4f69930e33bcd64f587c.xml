@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ServicePackageSpecAtomic"
+    id="id-7c0142a73c7d4f69930e33bcd64f587c"
+    documentation="A ServicePackageSpecAtomic object models different ServicePackageSpecs as a set of different instances of individual; independent CustomerFacingServiceSpecs. This is fundamentally different than the ServicePackageSpecComposite object; which is used to model one ServicePackageSpec as the combination of other existing ServicePackageSpecs (as well as providing its own extensions). For example; GoldPackageSpec is an individual packaging of services; and is therefore an instance of the ServicePackageSpecAtomic class. If there was a service offering that combined the services defined by the GoldPackageSpec with those defined by another ServicePackageSpecAtomic class; such as the PlatinumPackageSpec; then that combination could be aggregated together; forming an instance of the ServicePackageSpecComposite class."/>

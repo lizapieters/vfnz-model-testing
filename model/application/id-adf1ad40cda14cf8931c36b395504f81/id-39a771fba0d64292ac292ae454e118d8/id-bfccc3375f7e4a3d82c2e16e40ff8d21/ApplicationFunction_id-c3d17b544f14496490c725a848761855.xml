@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Problem Monitoring Reporting"
+    id="id-c3d17b544f14496490c725a848761855"
+    documentation="Service Problem Monitoring Reporting function is responsible for displaying and notifying the operational status of services to operations personnel and applications.">
+  <properties
+      key="Function Identifier"
+      value="981"/>
+  <properties
+      key="TAM Application Name"
+      value="Service Problem Monitoring"/>
+  <properties
+      key="TAM Application Id"
+      value="6.5.2"/>
+  <properties
+      key="Constructed Id"
+      value="6.5.2.981"/>
+</archimate:ApplicationFunction>

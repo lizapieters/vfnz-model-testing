@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1397"
+    id="id-f99a22a043544977bd0ca69d8384c599"
+    documentation="Related to:&#xA;- Feature_20: Mobile Addon&#xA;- Feature_24: Mobile - Add-on - Extra Data - minutes - MVNO&#xA;- Feature_27: Mobile - Carry-over Data&#xA;&#xA;As a customer I want to cancel a recurring &quot;Extra Data&quot; and/or &quot;Extra Minutes&quot; add-on on an existing subscription.   I can specify when to cancel the add-on.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1397"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Angelo Bagay"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="y"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Add-ons"/>
+  <properties
+      key="Remarks"
+      value="Assumed that cancelation is for recurring add ons, so from the next period add will be not generated for a customer, correct?"/>
+  <properties
+      key="Module"
+      value="PC, OCS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="REQ_OSS_221 REQ_OSS_222"/>
+</archimate:Requirement>

@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sales Product Support"
+    id="id-42721f5baec243738bf5d9129e38f465"
+    documentation="Sales Product Support function gives access to appropriate product information on the various products being sold by the service provider. This can include information such as product descriptions, configuration constraints, eligibility rules, and possibly pricing information.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="3.2.2"/>
+  <properties
+      key="Frameworx Domain"
+      value="Market Sales Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

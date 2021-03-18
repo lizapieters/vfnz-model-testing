@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0134"
+    id="id-3e58f2cf960a46d582d3051083f075dd"
+    documentation="As a product owner, I want to implement a set of rules for when a customer is eligible to apply for a device on interest free, so that I can reduce bad debt">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0134"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Topic"
+      value="Interest free eligibilty"/>
+  <properties
+      key="Remarks"
+      value="OOTB - rules are based on customer score and cart value Should also be based on the already owned interest free devices (a total value limit per customer)"/>
+  <properties
+      key="Module"
+      value="OM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="Not Applicable"/>
+</archimate:Requirement>

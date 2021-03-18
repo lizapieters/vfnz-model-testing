@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Entity Risk Threshold Determination"
+    id="id-226c10d82bfa455dbc0166c721f2ba83"
+    documentation="The ability to identify and define the level of acceptable risk associated with a business entity.">
+  <properties
+      key="TMF_ID"
+      value="1.2.4.5.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

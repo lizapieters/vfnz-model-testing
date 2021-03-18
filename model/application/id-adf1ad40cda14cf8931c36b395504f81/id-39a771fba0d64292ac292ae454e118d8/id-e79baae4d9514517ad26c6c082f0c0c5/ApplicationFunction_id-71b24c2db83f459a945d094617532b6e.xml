@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="View exact bill image"
+    id="id-71b24c2db83f459a945d094617532b6e"
+    documentation="Invoking a transactional document generation function">
+  <properties
+      key="Function Identifier"
+      value="65"/>
+  <properties
+      key="TAM Application Name"
+      value="Bill Inquiry"/>
+  <properties
+      key="TAM Application Id"
+      value="5.10.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.10.1.65"/>
+</archimate:ApplicationFunction>

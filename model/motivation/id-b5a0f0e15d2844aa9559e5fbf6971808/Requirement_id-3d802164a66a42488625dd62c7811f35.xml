@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0604"
+    id="id-3d802164a66a42488625dd62c7811f35"
+    documentation="As a customer, I want to see be able to manage (view, accept, cancel) below the line offers all self service channels, so that I can make the most of being a Vodafone customer">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0604"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="2"/>
+  <properties
+      key="Base_Old"
+      value="2"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="use"/>
+  <properties
+      key="Topic"
+      value="Accept below the line offers"/>
+  <properties
+      key="Remarks"
+      value="Does accept mean activating the offer automatically for all subcriptions? Expected is that accept means activating a new offered option/add on (one click action) Cancel means just cancelling the add on (same as any other auto renewal add on) Details to be discussed on a dedicated session."/>
+  <properties
+      key="Module"
+      value="CCM?, SC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

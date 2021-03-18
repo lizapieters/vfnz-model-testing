@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LocalCoordinateSystem"
+    id="id-e9b506f4aa8247b7b8cf91d3403b20f6"
+    documentation="A local coordinate system allows us to position things in a small area where the curvature of the Earth can be ignored. It would commonly be used to define placement in an Exchange building (Central Office) It is an abstract entity that holds common attributes and relationships. For continuative locations; the Units will usually be unity for a given measure (e.g. 1 metre). For grid coordinate systems; the unit will often be a non unity measure (e.g. 600mm)"/>

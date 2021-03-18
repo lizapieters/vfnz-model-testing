@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Guide Resource Usage Records"
+    id="id-efbc935e213f4275b16adef3f408fc95"
+    documentation="Relates the usage record to the appropriate service.">
+  <properties
+      key="Process Identifier"
+      value="1.4.8.3"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Guide Resource Usage Records process converts/relates the record to the appropriate service. In many cases, this process is performed by a resource such as a network element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

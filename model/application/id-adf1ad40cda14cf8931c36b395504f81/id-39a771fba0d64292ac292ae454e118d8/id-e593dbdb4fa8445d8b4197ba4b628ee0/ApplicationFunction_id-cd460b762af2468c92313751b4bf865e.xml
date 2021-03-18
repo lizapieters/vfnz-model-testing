@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Work Order State Management"
+    id="id-cd460b762af2468c92313751b4bf865e"
+    documentation="Managing the transition of the order through its various states.">
+  <properties
+      key="Function Identifier"
+      value="550"/>
+  <properties
+      key="TAM Application Name"
+      value="Work Order Tracking &amp; Management"/>
+  <properties
+      key="TAM Application Id"
+      value="7.12.4"/>
+  <properties
+      key="Constructed Id"
+      value="7.12.4.550"/>
+</archimate:ApplicationFunction>

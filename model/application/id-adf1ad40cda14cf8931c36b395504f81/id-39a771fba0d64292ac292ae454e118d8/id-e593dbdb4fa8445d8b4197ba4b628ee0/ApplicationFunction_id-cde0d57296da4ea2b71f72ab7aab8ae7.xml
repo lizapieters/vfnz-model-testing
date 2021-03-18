@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Usage Event Error correction capabilities"
+    id="id-cde0d57296da4ea2b71f72ab7aab8ae7"
+    documentation="Provide correction capabilities (via mechanized script or manual correction) for usage records which have been identified as being non-processable due to edit, rate, guide, routing, etc. Failures">
+  <properties
+      key="Function Identifier"
+      value="531"/>
+  <properties
+      key="TAM Application Name"
+      value="Usage Event Error Management"/>
+  <properties
+      key="TAM Application Id"
+      value="7.14.2"/>
+  <properties
+      key="Constructed Id"
+      value="7.14.2.531"/>
+</archimate:ApplicationFunction>

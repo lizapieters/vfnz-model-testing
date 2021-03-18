@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0685"
+    id="id-4eed3029b5c543e19ad6614aec62e6ea"
+    documentation="As a customer I want the ability to export usage and spend reporting in the format that suits me e.g PDF, Excel">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0685"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Stephanie Cunneen"/>
+  <properties
+      key="Tribe"
+      value="Business"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="0"/>
+  <properties
+      key="Remarks"
+      value="Which horizon is expected?"/>
+  <properties
+      key="Module"
+      value="SP, REP"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

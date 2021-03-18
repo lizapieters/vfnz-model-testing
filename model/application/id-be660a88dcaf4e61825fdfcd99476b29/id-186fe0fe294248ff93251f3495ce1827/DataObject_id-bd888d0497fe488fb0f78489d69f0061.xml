@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OffCyclePartyBill"
+    id="id-bd888d0497fe488fb0f78489d69f0061"
+    documentation="This entity represents a PartyBill which was generated as a result of an event different from cycle run (such as party request or an account close)"/>

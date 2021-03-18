@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Configure Skill Catalog"
+    id="id-14ebde1bbd0f4515bfdc7ab28ae98884"
+    documentation="This process manages the catalog of technicianâ€™s skills, including description and combination.">
+  <properties
+      key="Process Identifier"
+      value="1.5.5.3.5"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="A skill represents an ability of a person or a group of people to fulfill a particular activity. â€¢{T}Managing the list of single skills and their combinations into whole sets and their descriptions â€¢{T}Synchronizing the skill catalog with HR systems"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

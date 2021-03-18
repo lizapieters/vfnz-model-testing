@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Supplier/Partner Requisition Management"
+    id="id-9ae4d8c566214f93840b34751f899bd5"
+    documentation="The Supplier / Partner Requisition Management function manages the purchase requests and approvals and convert purchase approvals into standard purchase orders.&#xA;It also manages requisitions for Network infrastructure maintenance and investment,  only used for purchase of Network infrastructure. &#xA;Ex: Technical partner needs to purchase material for a planned or emergency infrastructure work. It may then be booked as an investment or maintenance expenditure.">
+  <properties
+      key="Function Identifier"
+      value="646"/>
+  <properties
+      key="TAM Application Name"
+      value="Supplier/Partner Order Management (Deleted)"/>
+  <properties
+      key="TAM Application Id"
+      value="#N/A"/>
+  <properties
+      key="Constructed Id"
+      value="#N/A"/>
+</archimate:ApplicationFunction>

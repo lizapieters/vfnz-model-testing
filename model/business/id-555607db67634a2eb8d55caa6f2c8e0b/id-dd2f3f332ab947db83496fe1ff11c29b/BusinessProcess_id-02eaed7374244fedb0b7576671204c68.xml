@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Handle Interaction"
+    id="id-02eaed7374244fedb0b7576671204c68"
+    documentation="Receive the interaction requests and authenticate the party contact. Either enable its originator to automatically fulfill it, or identify and activate the opportune process to accomplish the request.">
+  <properties
+      key="Process Identifier"
+      value="1.6.9.4.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Receive the interaction requests and authenticate the party contact. Either enable its originator to automatically fulfill it, or identify and activate the opportune process to accomplish the request."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop New Resource Business Proposal"
+    id="id-3df1871f7ed64f558ee77d0323ec1eba"
+    documentation="Develop and document business proposals for the identified new or enhanced Resource ideas">
+  <properties
+      key="Process Identifier"
+      value="1.5.3.3"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Develop New Resource Business Proposal processes develop and document business proposals for the identified new or enhanced Resource ideas (including if necessary a business case). The business proposal (or business case) identifies the resource development (e.g.. network and/or IT resources), management and operations costs and anticipated benefits, including forecast demand, performance gains, productivity gains and/or operational cost improvements specifically associated with the resource business proposal. The business proposal also includes an assessment of the risks and the competitive positioning of the proposal. As a part of the business proposal development a feasibility assessment can be produced. Potential other parties who can assist in the development of the resource classes are also identified (note that commercial arrangements may already be in place with these potential related parties. As a part of the process, the business proposal is appropriately approved, and as a result of the approval, necessary staff and other resources are made available."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

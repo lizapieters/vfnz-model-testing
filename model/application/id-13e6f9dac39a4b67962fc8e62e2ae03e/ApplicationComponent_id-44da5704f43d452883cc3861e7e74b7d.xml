@@ -1,0 +1,45 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eRemedy"
+    id="id-44da5704f43d452883cc3861e7e74b7d"
+    documentation="eRemedy">
+  <properties
+      key="StatusForLookUp"
+      value="Active"/>
+  <properties
+      key="Owner"
+      value="TonyB"/>
+  <properties
+      key="Level of Service"
+      value="Business Premium"/>
+  <properties
+      key="Product / Service"
+      value="Common"/>
+  <properties
+      key="Segment"
+      value="Common"/>
+  <properties
+      key="DX Association"
+      value="Replaced Fully"/>
+  <properties
+      key="Existing Retained or Replaced"
+      value="Replace"/>
+  <properties
+      key="ComArch / Other"
+      value="Comarch"/>
+  <properties
+      key="Dig Future Module"
+      value="Application Integration Framework (AIF)"/>
+  <properties
+      key="Legacy BSS Stack Served"
+      value="Common"/>
+  <properties
+      key="TAM App ID"
+      value="5.17"/>
+  <properties
+      key="TAM Domain"
+      value="Customer Domain"/>
+  <properties
+      key="TAM Application"
+      value="Case Management"/>
+</archimate:ApplicationComponent>

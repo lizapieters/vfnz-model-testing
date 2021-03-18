@@ -1,0 +1,42 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SSO Bridge"
+    id="id-162ccf9d5b9c4578afb22047a4821209"
+    documentation="Single Sign-on">
+  <properties
+      key="StatusForLookUp"
+      value="Active"/>
+  <properties
+      key="Owner"
+      value="AndrewH"/>
+  <properties
+      key="Level of Service"
+      value="Business Premium"/>
+  <properties
+      key="Product / Service"
+      value="Common"/>
+  <properties
+      key="Segment"
+      value="Common"/>
+  <properties
+      key="DX Association"
+      value="Replaced Fully"/>
+  <properties
+      key="Existing Retained or Replaced"
+      value="Replace"/>
+  <properties
+      key="ComArch / Other"
+      value="MS AD and Azure AD, M365 with ATP"/>
+  <properties
+      key="Legacy BSS Stack Served"
+      value="Common"/>
+  <properties
+      key="TAM App ID"
+      value="9.5"/>
+  <properties
+      key="TAM Domain"
+      value="Enterprise Domain"/>
+  <properties
+      key="TAM Application"
+      value="Security Management"/>
+</archimate:ApplicationComponent>

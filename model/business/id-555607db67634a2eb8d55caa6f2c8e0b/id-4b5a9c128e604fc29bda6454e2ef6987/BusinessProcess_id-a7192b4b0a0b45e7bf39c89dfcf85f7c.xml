@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Log Product Offering Analysis Results"
+    id="id-a7192b4b0a0b45e7bf39c89dfcf85f7c"
+    documentation="Not used for this process element">
+  <properties
+      key="Process Identifier"
+      value="1.2.6.5"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Logging the results of the analysis into the product offering inventory repository"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

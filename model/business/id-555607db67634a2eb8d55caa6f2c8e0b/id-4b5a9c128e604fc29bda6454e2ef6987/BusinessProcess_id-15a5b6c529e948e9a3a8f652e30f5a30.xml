@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop Product Capacity Demand"
+    id="id-15a5b6c529e948e9a3a8f652e30f5a30"
+    documentation="Perform all applicable generalized  capacity management processes associated with product capacity demand.">
+  <properties
+      key="Process Identifier"
+      value="1.2.8.2"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Develop Product Capacity Demand performs all generalized capacity management processes associated with product capacity demand, such as capturing capacity demand, consuming available capacity, monitoring capacity demand, and adjusting capacity demand. Specific to product capacity demand is defining its associations with product specifications, product offerings, and products."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

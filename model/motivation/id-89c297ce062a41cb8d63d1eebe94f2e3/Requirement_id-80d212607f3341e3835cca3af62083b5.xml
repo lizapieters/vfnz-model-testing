@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0431"
+    id="id-80d212607f3341e3835cca3af62083b5"
+    documentation="As a BSS Solution, I want to be able to generate reports on customer billing so that I may analyse the billing data.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0431"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Jared Mortlock"/>
+  <properties
+      key="Tribe"
+      value="Business"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="y"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="0"/>
+  <properties
+      key="Remarks"
+      value="Comarch will support this requriement with data exports (no reporting in scope)"/>
+  <properties
+      key="Module"
+      value="REP"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

@@ -1,0 +1,33 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Teradata RDM"
+    id="id-fe0fcfff794743578c1a106866785dab"
+    documentation="Terradata RDM">
+  <properties
+      key="StatusForLookUp"
+      value="Active"/>
+  <properties
+      key="Owner"
+      value="AndrewH"/>
+  <properties
+      key="Level of Service"
+      value="Business Standard"/>
+  <properties
+      key="Product / Service"
+      value="Common"/>
+  <properties
+      key="Segment"
+      value="Common"/>
+  <properties
+      key="DX Association"
+      value="Unrelated"/>
+  <properties
+      key="Existing Retained or Replaced"
+      value="Replace"/>
+  <properties
+      key="ComArch / Other"
+      value="Tableu"/>
+  <properties
+      key="Legacy BSS Stack Served"
+      value="Common"/>
+</archimate:ApplicationComponent>

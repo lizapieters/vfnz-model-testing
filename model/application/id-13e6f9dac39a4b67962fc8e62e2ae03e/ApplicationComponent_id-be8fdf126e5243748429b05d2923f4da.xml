@@ -1,0 +1,30 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SAP BW"
+    id="id-be8fdf126e5243748429b05d2923f4da"
+    documentation="SAP">
+  <properties
+      key="StatusForLookUp"
+      value="Active"/>
+  <properties
+      key="Owner"
+      value="VF Group"/>
+  <properties
+      key="Level of Service"
+      value="Business Premium"/>
+  <properties
+      key="Product / Service"
+      value="Common"/>
+  <properties
+      key="Segment"
+      value="Common"/>
+  <properties
+      key="DX Association"
+      value="Integrate"/>
+  <properties
+      key="Existing Retained or Replaced"
+      value="Retained"/>
+  <properties
+      key="Legacy BSS Stack Served"
+      value="Common"/>
+</archimate:ApplicationComponent>

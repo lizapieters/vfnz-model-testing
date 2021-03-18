@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Order Validation"
+    id="id-de0b4b53517e4c95a605e7204f2483a3"
+    documentation="Service Order Validation applications provide the required functionality to validate a service order request.">
+  <properties
+      key="TMF Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="6.3.9.2"/>
+  <properties
+      key="TMF Function"
+      value="Service Order Validation"/>
+  <properties
+      key="TMF Maturity"
+      value="Service Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

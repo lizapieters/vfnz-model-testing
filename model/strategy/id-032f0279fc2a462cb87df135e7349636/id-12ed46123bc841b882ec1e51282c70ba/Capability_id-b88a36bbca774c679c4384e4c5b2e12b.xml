@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Payment Definition"
+    id="id-b88a36bbca774c679c4384e4c5b2e12b"
+    documentation="The ability to establish a pending or paid payment.">
+  <properties
+      key="TMF_ID"
+      value="1.3.6.6.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

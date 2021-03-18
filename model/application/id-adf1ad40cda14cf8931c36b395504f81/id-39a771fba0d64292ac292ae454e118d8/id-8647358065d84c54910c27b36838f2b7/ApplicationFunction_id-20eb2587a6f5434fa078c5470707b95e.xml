@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Recovery of unclaimed funds support"
+    id="id-20eb2587a6f5434fa078c5470707b95e"
+    documentation="Cash Reconciliation &amp; Escheatment function for Recovery of unclaimed funds payable to the service provider that may be held by various jurisdictions">
+  <properties
+      key="Function Identifier"
+      value="862"/>
+  <properties
+      key="TAM Application Name"
+      value="Cash Reconciliation &amp; Escheatment"/>
+  <properties
+      key="TAM Application Id"
+      value="9.3.8"/>
+  <properties
+      key="Constructed Id"
+      value="9.3.8.862"/>
+</archimate:ApplicationFunction>

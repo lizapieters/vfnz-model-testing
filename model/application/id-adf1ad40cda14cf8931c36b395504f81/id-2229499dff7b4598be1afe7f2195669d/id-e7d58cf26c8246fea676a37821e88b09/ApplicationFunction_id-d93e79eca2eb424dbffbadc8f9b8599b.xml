@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anomaly Management"
+    id="id-d93e79eca2eb424dbffbadc8f9b8599b"
+    documentation="Identifying and preventing any misuse of a network or system that falls outside normal system operation, by monitoring network and system activity and determining whether it is normal or anomalous, based on rules, signatures or heuristics. This is achieved by a combination of Instrumentation and Monitoring, Event and Log Correlation and Intrusion Detection Systems">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="9.5.4"/>
+  <properties
+      key="Frameworx Domain"
+      value="Enterprise Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

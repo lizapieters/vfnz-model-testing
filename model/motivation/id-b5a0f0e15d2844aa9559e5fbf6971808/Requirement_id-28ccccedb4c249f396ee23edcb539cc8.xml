@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0523"
+    id="id-28ccccedb4c249f396ee23edcb539cc8"
+    documentation="As a business I want to be able to do a bulk order of device only, SIM only, device &amp; Sim purchases for my business so that I don’t have to do them one at a time">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0523"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Stephanie Cunneen"/>
+  <properties
+      key="Tribe"
+      value="Business"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="0"/>
+  <properties
+      key="Remarks"
+      value="Please clarify: how data should be loaded from xls or UI, how many items should be ordered in one bulk (100 or 100k), how devices/subscriptions/sims are dispatched to users and when? In Enterprise Portal a customer could request 5-10 (30?) items (for devices only this could be more (say 100) as this should be just a field with requested amount for the customer). More numbers (especially subscriptions) should be handled by a defined spreadsheets. Bulk usecases to be described in more detail."/>
+  <properties
+      key="Module"
+      value="EP"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Business only"/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

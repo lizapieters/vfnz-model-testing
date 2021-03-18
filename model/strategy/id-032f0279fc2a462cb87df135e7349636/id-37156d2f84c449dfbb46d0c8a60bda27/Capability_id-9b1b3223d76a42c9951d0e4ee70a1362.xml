@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agreement Access Management"
+    id="id-9b1b3223d76a42c9951d0e4ee70a1362"
+    documentation="The ability to control, authorize, grant, and otherwise manage access by permitted parties to the rights and privileges allowed by the agreement.">
+  <properties
+      key="TMF_ID"
+      value="1.1.5.7"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

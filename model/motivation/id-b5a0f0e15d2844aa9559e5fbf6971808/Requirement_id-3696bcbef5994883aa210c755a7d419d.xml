@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1016"
+    id="id-3696bcbef5994883aa210c755a7d419d"
+    documentation="As a PO, I want to target customer based on location e.g. offers near you">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1016"/>
+  <properties
+      key="Status"
+      value="Potential gap"/>
+  <properties
+      key="Created by"
+      value="Gabrielle Paul"/>
+  <properties
+      key="Tribe"
+      value="Loyalty"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Interface"/>
+  <properties
+      key="Remarks"
+      value="[CLM] Depending on the solution CLM can keep geo coordinates on offers so that mobile app can place those on map using geofence, or separate Localisation Based Services COmarch module can be implemented to used Beacons in order to trigger offers inside buildings, activate those based on proximity etc."/>
+  <properties
+      key="Module"
+      value="CLM/LBS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

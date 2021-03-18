@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Commissioning &amp; Configuration Management"
+    id="id-831c9bd8ee3649a0b70b98ea2627d54f"
+    documentation="These applications are responsible for managing and tracking the configuration of the resource (AKA CMDB). These applications typically work in a federated environment, where they rely on other applications for the data">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="7.1.1"/>
+  <properties
+      key="TMF Function"
+      value="Resource commissioning Resource configuration Logging Resource configuration management Resource configuration verification Resource topology verification"/>
+  <properties
+      key="TMF Maturity"
+      value="Resource Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

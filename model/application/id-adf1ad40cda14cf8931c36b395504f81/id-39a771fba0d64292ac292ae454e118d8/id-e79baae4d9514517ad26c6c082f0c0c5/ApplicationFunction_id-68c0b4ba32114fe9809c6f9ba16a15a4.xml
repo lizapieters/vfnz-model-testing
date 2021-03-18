@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Currency conversion"
+    id="id-68c0b4ba32114fe9809c6f9ba16a15a4"
+    documentation="Identifies the reuired currency conversion if any needed to approporiately bill the customer">
+  <properties
+      key="Function Identifier"
+      value="184"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Bill Charge Calculation"/>
+  <properties
+      key="TAM Application Id"
+      value="5.15.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.15.1.184"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trip Risk Threshold Determination"
+    id="id-fa7f7e5019924ef0a5e5271c6e2cbeac"
+    documentation="The Ability to identify and define the level of acceptable risk associated with a trip.">
+  <properties
+      key="TMF_ID"
+      value="1.1.6.3.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

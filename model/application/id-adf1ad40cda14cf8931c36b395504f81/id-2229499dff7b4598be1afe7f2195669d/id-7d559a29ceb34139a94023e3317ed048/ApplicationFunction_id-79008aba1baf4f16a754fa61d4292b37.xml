@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Charge Calculation and Balance Management"
+    id="id-79008aba1baf4f16a754fa61d4292b37"
+    documentation="The Charge Calculation and Balance Management applications are responsible for calculating customer specific charges and discounts and management of balances. These support both real-time and batch processing modes of operation.">
+  <properties
+      key="TAM Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="5.19"/>
+  <properties
+      key="Frameworx Domain"
+      value="Customer Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

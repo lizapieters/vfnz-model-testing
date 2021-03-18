@@ -1,0 +1,36 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Mobile CRM FTP (File Server)"
+    id="id-de10a74d9ffe490ebc8b5e963d611ab6"
+    documentation="Digital Mobile CRM FTP (File Server)">
+  <properties
+      key="StatusForLookUp"
+      value="Removed"/>
+  <properties
+      key="Owner"
+      value="Business"/>
+  <properties
+      key="Level of Service"
+      value="Business Premium"/>
+  <properties
+      key="Product / Service"
+      value="Common"/>
+  <properties
+      key="Segment"
+      value="Common"/>
+  <properties
+      key="DX Association"
+      value="Integrate"/>
+  <properties
+      key="Existing Retained or Replaced"
+      value="Retained"/>
+  <properties
+      key="ComArch / Other"
+      value="Network as a Service (VF)"/>
+  <properties
+      key="Dig Future Module"
+      value="Service Activation (SA)"/>
+  <properties
+      key="Legacy BSS Stack Served"
+      value="C3"/>
+</archimate:ApplicationComponent>

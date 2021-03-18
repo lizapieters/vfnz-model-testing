@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Process Management (Workflow/ Integration)"
+    id="id-d0dcc3b6c2794431bbf4f68737f4c8e4"
+    documentation="Resource Process Management (Workflow/Integration) involves the workflow planning and integration between resource provisioning and change processes. A vital component in this job is the logistics coordination. Delays and logistic disturbances can have a huge negative impact the resource projects and a jeopardy management with early discovery of disturbances and  that warns for consequences is vital.">
+  <properties
+      key="TAM Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="7.5"/>
+  <properties
+      key="Frameworx Domain"
+      value="Resource Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

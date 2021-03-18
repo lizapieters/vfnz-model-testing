@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Discovery"
+    id="id-bc484f3b933b4c3a9ced142d34facc8f"
+    documentation="The resource Discovery applications are responsible for automatically discovering the resources and their details through a management channel. These applications may either communicate directly/indirectly with the Network resources or Resource Element Manager.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="7.4.1"/>
+  <properties
+      key="TMF Function"
+      value="Network resources discovery"/>
+  <properties
+      key="TMF Maturity"
+      value="Resource Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

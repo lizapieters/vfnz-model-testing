@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer &amp; Network Care"
+    id="id-94595e0cf49c493ea0f17cd5f603c37a"
+    documentation="The Customer and Network Care domain supports all tools, technology and services that enable a Service Provider and affiliate Care organizations to support customer inquiries and requests. The domain encompasses Billing, Assurance, Ordering and Provisioning domains related inquiries/issues. &#xA;&#xA;This domain supports voice, chat, email, postal mail, and faxes. eService is noted but is addressed in a separate domain.The domain supports all operational tools used by the customer service / work center community including desktops and associated user interfaces.  The domain also supports back-office operations as well as center management.">
+  <properties
+      key="TMF Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.22"/>
+  <properties
+      key="TMF Function"
+      value="0"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

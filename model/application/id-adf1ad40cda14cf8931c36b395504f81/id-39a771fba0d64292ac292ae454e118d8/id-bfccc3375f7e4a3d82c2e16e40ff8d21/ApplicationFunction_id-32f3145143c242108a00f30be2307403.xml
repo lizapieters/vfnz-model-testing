@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Test Access and Control"
+    id="id-32f3145143c242108a00f30be2307403"
+    documentation="The Service Test Command and Control function provides the necessary functionality to access, command and control the various service test devices required to perform service testing.">
+  <properties
+      key="Function Identifier"
+      value="625"/>
+  <properties
+      key="TAM Application Name"
+      value="Service Test Command and Control"/>
+  <properties
+      key="TAM Application Id"
+      value="6.8.3"/>
+  <properties
+      key="Constructed Id"
+      value="6.8.3.625"/>
+</archimate:ApplicationFunction>

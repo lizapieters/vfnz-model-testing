@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Determine Service Strategy Perspective"
+    id="id-644c6c39cffc4bfc929f45ad0b3654f7"
+    documentation="Provide perspective via vision and mission statements about direction, values, beliefs and purpose of established strategy">
+  <properties
+      key="Process Identifier"
+      value="1.4.1.3.4"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Determine Service Strategy Perspective processes generate Mission and Vision statements. Vision statements lead to service goals and Mission statements indicate the value and purpose that the organization uses to realize its vision."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

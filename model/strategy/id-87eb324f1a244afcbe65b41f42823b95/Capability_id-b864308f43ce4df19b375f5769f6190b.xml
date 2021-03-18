@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer SLA Reporting"
+    id="id-b864308f43ce4df19b375f5769f6190b"
+    documentation="Customer SLA Reporting applications provide the necessary functionality to report on Customer SLA performance as well as on open SLA issues.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.18.5"/>
+  <properties
+      key="TMF Function"
+      value="Produce reports on open SLA issues Service Level performance reporting"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identify Party Problem Root Cause"
+    id="id-fcfc390720e84ee0b6010f98dbb159b2"
+    documentation="Receive notification from another process that the root cause for a party problem has been identified. If not, then attempt to identify the root cause.">
+  <properties
+      key="Process Identifier"
+      value="1.6.10.2.4.3"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Identify Party Problem Root Cause may receive notification from Verify Product Proper Product Use or Perform Party Problem Product Diagnostic Testing that the root cause has been identified. If not, it attempts to identify the root cause of a party problem, which could involve the assistance of one or more external parties who have agreed to assist."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

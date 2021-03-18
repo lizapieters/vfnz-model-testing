@@ -1,0 +1,42 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Logs"
+    id="id-29ccc1367b1749be8347103b161b0eef"
+    documentation="Logs">
+  <properties
+      key="StatusForLookUp"
+      value="Removed"/>
+  <properties
+      key="Owner"
+      value="AndrewH"/>
+  <properties
+      key="Level of Service"
+      value="Business Standard"/>
+  <properties
+      key="Product / Service"
+      value="Common"/>
+  <properties
+      key="Segment"
+      value="Consumer"/>
+  <properties
+      key="DX Association"
+      value="Unrelated"/>
+  <properties
+      key="Existing Retained or Replaced"
+      value="Retained"/>
+  <properties
+      key="Dig Future Module"
+      value="Application Integration Framework (AIF)"/>
+  <properties
+      key="Legacy BSS Stack Served"
+      value="Common"/>
+  <properties
+      key="TAM App ID"
+      value="10.1"/>
+  <properties
+      key="TAM Domain"
+      value="Integration Domain"/>
+  <properties
+      key="TAM Application"
+      value="Enterprise Application Integration"/>
+</archimate:ApplicationComponent>

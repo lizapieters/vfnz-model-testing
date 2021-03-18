@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financial Transaction/Partner Matching"
+    id="id-f50fca0e83d34a1781299aea9ebb68c9"
+    documentation="The ability to associate a financial transaction with a partner.">
+  <properties
+      key="TMF_ID"
+      value="1.3.6.7.6.5"/>
+  <properties
+      key="Level"
+      value="4"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

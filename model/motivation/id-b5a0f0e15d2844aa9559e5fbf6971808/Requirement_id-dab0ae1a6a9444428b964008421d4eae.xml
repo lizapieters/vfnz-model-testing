@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0256"
+    id="id-dab0ae1a6a9444428b964008421d4eae"
+    documentation="As a customer, I want to be able to make my home phone number private, so that I can protect my privacy">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0256"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Diane Watson"/>
+  <properties
+      key="Tribe"
+      value="Consumer Home"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="prio2"/>
+  <properties
+      key="Base"
+      value="1?"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Manage"/>
+  <properties
+      key="Topic"
+      value="Home phone listing preference"/>
+  <properties
+      key="Remarks"
+      value="This one is about making a number private (protected, CLI). Note: to be discussed with the OSS team. To be checked in aspect of UI journey (whether this option should be available for all customers, etc)"/>
+  <properties
+      key="Module"
+      value="SC, BR"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Consumer only"/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="REQ_OSS_200, REQ_OSS_331"/>
+</archimate:Requirement>

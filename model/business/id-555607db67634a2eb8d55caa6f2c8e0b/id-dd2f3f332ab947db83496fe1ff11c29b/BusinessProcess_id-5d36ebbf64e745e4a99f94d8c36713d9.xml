@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Data Compliance"
+    id="id-5d36ebbf64e745e4a99f94d8c36713d9"
+    documentation="Manage data compliance process provides capabilities to manage the data compliance, perform data compliance audit and manage the compliance audit reporting.">
+  <properties
+      key="Process Identifier"
+      value="1.7.8.5.4"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Manage data compliance process ensures that the data maintained within the enterprise meets the compliance requirements. Additionally it provides capabilities to perform the data compliance audit on periodic basis and manage the audit reports. The level of data compliance requirements might differ based on various factors like location (Country), Enterprise strategy etc. process within â€œManage Data Complianceâ€� should ensure that requirements from various perspective are met and fulfilled."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

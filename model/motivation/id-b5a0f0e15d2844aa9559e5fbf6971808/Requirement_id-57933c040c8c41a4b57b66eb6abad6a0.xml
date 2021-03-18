@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1017"
+    id="id-57933c040c8c41a4b57b66eb6abad6a0"
+    documentation="As a PO, I want to targeted offers 1-1 (i.e. BTL offer, tier specific) or mass (i.e. ATL offer) using a list upload and/or pre-determined segments">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1017"/>
+  <properties
+      key="Status"
+      value="Potential gap"/>
+  <properties
+      key="Created by"
+      value="Gabrielle Paul"/>
+  <properties
+      key="Tribe"
+      value="Loyalty"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Interface"/>
+  <properties
+      key="Remarks"
+      value="[CLM] CLM enable to import segments and use those in offer targetting process OOTB as per IF specification"/>
+  <properties
+      key="Module"
+      value="CLM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

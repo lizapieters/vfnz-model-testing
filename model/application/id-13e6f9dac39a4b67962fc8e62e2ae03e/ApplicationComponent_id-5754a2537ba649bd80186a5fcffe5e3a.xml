@@ -1,0 +1,33 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Active Directory (ROOT-VFNZ OU)"
+    id="id-5754a2537ba649bd80186a5fcffe5e3a"
+    documentation="Active Directory">
+  <properties
+      key="StatusForLookUp"
+      value="Active"/>
+  <properties
+      key="Owner"
+      value="TonyB"/>
+  <properties
+      key="Level of Service"
+      value="Mission Critical"/>
+  <properties
+      key="Product / Service"
+      value="Common"/>
+  <properties
+      key="Segment"
+      value="Common"/>
+  <properties
+      key="DX Association"
+      value="Replaced Fully"/>
+  <properties
+      key="Existing Retained or Replaced"
+      value="Replace"/>
+  <properties
+      key="ComArch / Other"
+      value="MS AD and Azure AD, M365 with ATP"/>
+  <properties
+      key="Legacy BSS Stack Served"
+      value="C3"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tax Calculation"
+    id="id-3ff3cd2ced804945ad04c67317c4e074"
+    documentation="Tax Calculation provides the necessary functionality to calculate taxes, including surcharges and fees&amp; where applicable. This function can occur within the Invoicing application or through the use of an external Tax module.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="5.15.3"/>
+  <properties
+      key="Frameworx Domain"
+      value="Customer Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

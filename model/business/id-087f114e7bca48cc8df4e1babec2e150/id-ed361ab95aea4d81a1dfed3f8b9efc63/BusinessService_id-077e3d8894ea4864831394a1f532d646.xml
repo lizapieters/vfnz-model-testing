@@ -1,0 +1,30 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mobile - Video Calling - OTT"
+    id="id-077e3d8894ea4864831394a1f532d646"
+    documentation="OTT supported. Not Network driven. Jared confirmed this is required&#xA;What is the commercial benefit for this feature?&#xA;Not for Consumer, only for Business">
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Segment"
+      value="Business"/>
+  <properties
+      key="Access/Service Type"
+      value="Mobile"/>
+  <properties
+      key="Comarch can support"
+      value="Yes"/>
+  <properties
+      key="Non-Comarch IT support needed"
+      value="Yes"/>
+  <properties
+      key="NaaS will support"
+      value="Yes"/>
+  <properties
+      key="Automated non-NaaS support"
+      value="Yes"/>
+  <properties
+      key="Unexpected"
+      value="true"/>
+</archimate:BusinessService>

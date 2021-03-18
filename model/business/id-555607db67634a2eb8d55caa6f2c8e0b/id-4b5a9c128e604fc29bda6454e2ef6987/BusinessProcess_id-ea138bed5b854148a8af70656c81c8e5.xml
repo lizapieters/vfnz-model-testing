@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Assess Party Problem"
+    id="id-ea138bed5b854148a8af70656c81c8e5"
+    documentation="Assess a party problem to determine the nature of a problem and to isolate a problem.">
+  <properties
+      key="Process Identifier"
+      value="1.6.10.2"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Assess Party Problem assesses a party problem to determine the nature of a problem and to isolate a problem. The responsibilities of these processes include, but are not limited to: - Involving external parties if necessary to assess a party problem - Verifying whether the information supplied by a party is correct - Categorizing a party problem - Updating the party problem as required during the assessment and when the root cause has been identified."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

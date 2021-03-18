@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0120"
+    id="id-33ce2d4921ea4963b98628ab6ebdb280"
+    documentation="As a product owner, I want to mandate that the kids plan is only available with a standard base plan, so that customers can't abuse the kids plan">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0120"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="2"/>
+  <properties
+      key="Base_Old"
+      value="2"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Topic"
+      value="Core proposition"/>
+  <properties
+      key="Remarks"
+      value="Should the kids plan be visible as standalone in Digital Sales or as an add-on to the standard plan Rather a standalone plan that can be only selected if customer already has a standard plan. There can be more kids plans for one base (with some predefined limit). It would be good to see a buy journey. How this should look like for anonymous buyer in Digital Sales. Should he be able to first see and select the kids plan and later, after he logs in the check for standard plan should be done? Maybe he shouldn't see the kids plan without loggin in?"/>
+  <properties
+      key="Module"
+      value="OM, PC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Consumer only"/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="REQ_OSS_224 REQ_OSS_334 REQ_OSS_333"/>
+</archimate:Requirement>

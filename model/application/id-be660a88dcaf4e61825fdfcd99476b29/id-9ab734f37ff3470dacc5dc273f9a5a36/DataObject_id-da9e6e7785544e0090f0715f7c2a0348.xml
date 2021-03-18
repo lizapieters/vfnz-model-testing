@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyRoleGroup"
+    id="id-da9e6e7785544e0090f0715f7c2a0348"
+    documentation="Parties may play PartyRoles in a specific context. This context is represented by a PartyRoleGroup that groups PartyRoles. A PartyRoleGroup might be a Family; a Club; a Friends group... A PartyRoleGroup may or may not represent an Organization that has a legal standing or not; meaning they may not have a formal means to identify them (think Facebook groups). A PartyRoleGroup is described by a unique PartyRoleGroupSpecification."/>

@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0188"
+    id="id-5af8aeab457940789a3306a7d51eda5a"
+    documentation="As a Privacy, Fraud and Compliance Representative   &#xA;I want order transactions and their attributes to be recorded&#xA;So that the attributes can be referred to for the purpose of early fraud detection&#xA;&#xA;The following order atributes to be recorded:&#xA;- First Name&#xA;- Middle Name&#xA;- Last Name&#xA;- Email Address&#xA;- IP Address&#xA;- Order Number&#xA;- Service Address (UUID)&#xA;- Delivery Address (UUID)&#xA;- Billing Addresss (UUID)&#xA;- Contact Number&#xA;- Date of Birth">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0188"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Tim Munnik"/>
+  <properties
+      key="Tribe"
+      value="OSS Squad"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Use"/>
+  <properties
+      key="Topic"
+      value="BSS | Fraud Detection | Record Order Attributes"/>
+  <properties
+      key="Remarks"
+      value="is this IP address as captured during order registration or IP address of the device from which the order is registered? no MSISDN?"/>
+  <properties
+      key="Module"
+      value="0"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="N/A"/>
+</archimate:Requirement>

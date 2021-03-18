@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define Monitoring to Facilitate Security Management"
+    id="id-5b46bc8ecfd74be7957d4a2ce01d1856"
+    documentation="Policy-based multimodal (active/passive, dynamic/scheduled) collection, filtering, aggregation, distribution, and retention of relevant data.   Within the Monitoring process the organization collects and retains relevant data emanating from or associated with a given set of managed resources and services.Â  Baseline Monitoring policies are best developed as an integral part of the Prevention process, and applied as part of the Configuration process.Â  Such policy-based Monitoring will tend to reflect the multi-modal nature of the activity â€“ to include, for example, active and/or passive collection methodologies and dynamic and/or scheduled temporal constraints.">
+  <properties
+      key="Process Identifier"
+      value="1.7.2.2.9"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProjectElementRelationship"
+    id="id-096db31c285e477dadc55ed0f5471fef"
+    documentation="Allows us to relate ProjectElements. This is an abstract entity used to hold common attributes and associations for the concrete relationship types Substitution; Division; Fusion &amp; Dependency"/>

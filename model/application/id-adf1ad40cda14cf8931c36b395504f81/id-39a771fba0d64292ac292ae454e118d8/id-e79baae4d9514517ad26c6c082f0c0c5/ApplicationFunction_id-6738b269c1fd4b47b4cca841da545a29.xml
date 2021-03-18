@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inboud notification recommendation function"
+    id="id-6738b269c1fd4b47b4cca841da545a29"
+    documentation="Give recommendation and a guided action flow to complete the suitable customer treatment for Inbound, Self-Service or Call Center touch points (ex. Credit Adjustment handled by agent, or bill dispute initiation via self-service)">
+  <properties
+      key="Function Identifier"
+      value="240"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Recommended Action"/>
+  <properties
+      key="TAM Application Id"
+      value="5.5.15"/>
+  <properties
+      key="Constructed Id"
+      value="5.5.15.240"/>
+</archimate:ApplicationFunction>

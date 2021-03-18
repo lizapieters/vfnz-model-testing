@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0057"
+    id="id-503031dd280740e0880b0acb403cc9e7"
+    documentation="As a customer, I want to be able to cancel an order that hasn't yet been dispatched for delivery, so that I can easily change my mind if I no longer want it">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0057"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Topic"
+      value="Order cancellation"/>
+  <properties
+      key="Remarks"
+      value="OOTB"/>
+  <properties
+      key="Module"
+      value="OM, SC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="REQ_OSS_350 REQ_OSS_359 REQ_OSS_373 REQ_OSS_375 REQ_OSS_380"/>
+</archimate:Requirement>

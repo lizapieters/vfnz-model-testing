@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1445"
+    id="id-966d289bee754fe9b4e327d74a4e5e6d"
+    documentation="As a PO, I want to be able to provide a unique rewards experience to customers based on their customer lifetime value (such as tenure, value and entanglement)">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1445"/>
+  <properties
+      key="Status"
+      value="Potential gap"/>
+  <properties
+      key="Created by"
+      value="Gabrielle Paul"/>
+  <properties
+      key="Tribe"
+      value="Loyalty"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Marketing and Campaign Management"/>
+  <properties
+      key="Remarks"
+      value="[CLM] Depending on the definition of LTV it can be calculated on CLM or processed as an information from external system integrated via API/Kafka/batch and can be used to segment customers and target loyalty offers, rewards as per OOTB capability"/>
+  <properties
+      key="Module"
+      value="CLM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

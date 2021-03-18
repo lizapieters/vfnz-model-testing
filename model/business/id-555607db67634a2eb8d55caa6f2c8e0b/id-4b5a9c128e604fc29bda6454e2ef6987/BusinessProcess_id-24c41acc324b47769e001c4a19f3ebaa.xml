@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plan Marketing Campaign"
+    id="id-24c41acc324b47769e001c4a19f3ebaa"
+    documentation="Put together a plan for a marketing campaign to be used for positioning the enterprise and its product offerings in the marketplace. The plan includes targets, delivery channels, budget, return on investment (ROI). This process also ensures the campaign adheres to the overall campaign plan developed by Market Strategy &amp; Policy.">
+  <properties
+      key="Process Identifier"
+      value="1.1.15.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Plan Marketing Campaign defines the specific strategy, objectives, start/end date, and messages to be used for positioning the enterprise in the marketplace, including its relationship to competitors. Establish Market Strategy defines the overall umbrella, and this process operates within that umbrella to target the marketing campaigns for the enterprise in general, specific products, market segments, customers and prospects, and so forth. It selects the appropriate channel or channels to support delivery of the campaign and defines contact rules in order to make certain that commercial pressure on customers is managed. A budget and return on investment (ROI) are also prepared and the budget is approved by the appropriate stakeholders. It ensures that that the campaign adheres to the campaign plan defined by Market Strategy &amp; Policy specifically to fall in sequence with other campaigns in the plan to reach the expected business objectives for a specific market segment."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

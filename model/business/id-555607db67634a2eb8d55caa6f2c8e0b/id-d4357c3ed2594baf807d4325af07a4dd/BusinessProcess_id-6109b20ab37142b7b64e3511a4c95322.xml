@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define &amp; Maintain Metric Dimension Specifications"
+    id="id-6109b20ab37142b7b64e3511a4c95322"
+    documentation="Define grouping (categories, dimensions) and dependencies (including hierarchies) of a Metric with respect to other Metrics.">
+  <properties
+      key="Process Identifier"
+      value="1.7.3.4.5.1.2"/>
+  <properties
+      key="Category"
+      value="(6) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Metric Dimension Specification defines and maintains for each Metric: categories (organizational or technical classifications), dimensions (time, space, user groups, priority levels, â€¦), cross-references, dependencies, and tree hierarchies which characterize the Metric with respect to other Metrics."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

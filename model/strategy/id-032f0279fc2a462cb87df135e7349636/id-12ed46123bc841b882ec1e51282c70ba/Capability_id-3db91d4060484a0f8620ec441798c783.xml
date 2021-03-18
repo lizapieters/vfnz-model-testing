@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Program/Human Resource Matching"
+    id="id-3db91d4060484a0f8620ec441798c783"
+    documentation="The ability to associate a program with a human resource.">
+  <properties
+      key="TMF_ID"
+      value="1.3.4.7.5"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

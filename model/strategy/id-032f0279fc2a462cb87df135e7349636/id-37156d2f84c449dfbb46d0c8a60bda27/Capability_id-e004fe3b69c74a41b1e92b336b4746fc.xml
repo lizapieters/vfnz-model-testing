@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Network Information Management"
+    id="id-e004fe3b69c74a41b1e92b336b4746fc"
+    documentation="The ability to capture, organize, track, report on, or otherwise disseminate basic attributes, data, and other perspectives about a network.">
+  <properties
+      key="TMF_ID"
+      value="1.1.7.9"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

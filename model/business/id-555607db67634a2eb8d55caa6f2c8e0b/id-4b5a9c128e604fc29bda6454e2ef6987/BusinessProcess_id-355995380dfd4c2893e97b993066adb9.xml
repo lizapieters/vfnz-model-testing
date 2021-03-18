@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Report Resource Provisioning"
+    id="id-355995380dfd4c2893e97b993066adb9"
+    documentation="Monitor the status of resource orders, provide notifications of any changes and provide management reports.">
+  <properties
+      key="Process Identifier"
+      value="1.5.6.5"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of the Report Resource Provisioning processes is to monitor the status of resource orders, provide notifications of any changes and provide management reports. These processes are responsible for continuously monitoring the status of resource orders and managing notifications to processes and other parties registered to receive notifications of any status changes. Notification lists are managed and maintained by the Enable Resource Provisioning processes. These processes record, analyze and assess the resource order status changes to provide management reports and any specialized summaries of the efficiency and effectiveness of the overall Resource Provisioning process. These specialized summaries could be specific reports required by specific audiences."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

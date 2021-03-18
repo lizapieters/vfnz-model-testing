@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RA Tracking &amp; Management"
+    id="id-ab26e21d9f9749d5816eb69dc026eb04"
+    documentation="RA Tracking &amp; Management applications provide necessary functionality to assure that Revenue Assurance anomalies are remedied in an efficient manner. This is done by monitoring the lifecycle of revenue assurance activities, including monitoring, analysis, and initiation of correction &amp; recovery.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.1.2"/>
+  <properties
+      key="TMF Function"
+      value="RA Problem Management RA Problem resolution Verification RA Problem Tracking"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

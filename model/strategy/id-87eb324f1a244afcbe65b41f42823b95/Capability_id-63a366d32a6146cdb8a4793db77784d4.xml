@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anomaly Management"
+    id="id-63a366d32a6146cdb8a4793db77784d4"
+    documentation="Identifying and preventing any misuse of a network or system that falls outside normal system operation, by monitoring network and system activity and determining whether it is normal or anomalous, based on rules, signatures or heuristics. This is achieved by a combination of Instrumentation and Monitoring, Event and Log Correlation and Intrusion Detection Systems">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.5.4"/>
+  <properties
+      key="TMF Function"
+      value="Anomaly Monitoring Anomaly Monitoring Data Analysis"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

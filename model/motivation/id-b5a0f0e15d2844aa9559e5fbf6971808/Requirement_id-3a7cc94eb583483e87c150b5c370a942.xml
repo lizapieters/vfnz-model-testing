@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0175"
+    id="id-3a7cc94eb583483e87c150b5c370a942"
+    documentation="As a customer, I want to be notified about the cost and package options for roaming when I leave NZ">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0175"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="2"/>
+  <properties
+      key="Base_Old"
+      value="2"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Use"/>
+  <properties
+      key="Topic"
+      value="Roaming"/>
+  <properties
+      key="Remarks"
+      value="Do you expect Comarch to sent the cross boarder notifications? There is a Vodafone group system that probably will be used. To be verified by VF. There will need to be an integration (currently daily) - feed with customer prices. Parked for architecture discussion."/>
+  <properties
+      key="Module"
+      value="PC, CNS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="Maybe"/>
+</archimate:Requirement>

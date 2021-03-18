@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service-Resource Relationship Management"
+    id="id-355e3f6131e34fa8bf885899517b906c"
+    documentation="Service-Resource Relationship Creation, Update and Deletion of the relations of stand-alone physical or logical resources whose assignment is critical to service's  fulfilment, and whose tracking is critical to service operations, assurance, and billing, as well as, resources, which represent a larger resource structure supporting the service, often referred to as an Access Point.">
+  <properties
+      key="Function Identifier"
+      value="628"/>
+  <properties
+      key="TAM Application Name"
+      value="Service-Resource Inventory"/>
+  <properties
+      key="TAM Application Id"
+      value="6.2.1"/>
+  <properties
+      key="Constructed Id"
+      value="6.2.1.628"/>
+</archimate:ApplicationFunction>

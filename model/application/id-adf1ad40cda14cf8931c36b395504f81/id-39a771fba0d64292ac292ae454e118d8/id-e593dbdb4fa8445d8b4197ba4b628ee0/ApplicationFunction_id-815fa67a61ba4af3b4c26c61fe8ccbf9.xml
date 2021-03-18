@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource end to end test configuration setting up and tearing down"
+    id="id-815fa67a61ba4af3b4c26c61fe8ccbf9"
+    documentation="Setting up and tearing down the end to end test configuration for resource testing">
+  <properties
+      key="Function Identifier"
+      value="513"/>
+  <properties
+      key="TAM Application Name"
+      value="Resource Test Lifecycle Management"/>
+  <properties
+      key="TAM Application Id"
+      value="7.11.2"/>
+  <properties
+      key="Constructed Id"
+      value="7.11.2.513"/>
+</archimate:ApplicationFunction>

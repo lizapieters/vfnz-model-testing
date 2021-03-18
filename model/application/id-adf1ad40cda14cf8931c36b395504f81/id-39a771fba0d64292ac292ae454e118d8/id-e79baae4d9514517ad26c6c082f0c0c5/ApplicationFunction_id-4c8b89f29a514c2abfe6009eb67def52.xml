@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage the dunning and event process"
+    id="id-4c8b89f29a514c2abfe6009eb67def52"
+    documentation="Management of the dunning process pertaining to a dossier and the automatic or manual chaining of actions, as issuing a SMS, a letter, an outbound call, a barring action or delay fees.">
+  <properties
+      key="Function Identifier"
+      value="150"/>
+  <properties
+      key="TAM Application Name"
+      value="Collection Policy Execution and Monitoring"/>
+  <properties
+      key="TAM Application Id"
+      value="5.14.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.14.2.150"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agreement/Product Matching"
+    id="id-a13840d1e4ad48bf89faea86d78010c2"
+    documentation="The ability to associate an agreement with one or more of the organization’s products.">
+  <properties
+      key="TMF_ID"
+      value="1.1.5.9.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

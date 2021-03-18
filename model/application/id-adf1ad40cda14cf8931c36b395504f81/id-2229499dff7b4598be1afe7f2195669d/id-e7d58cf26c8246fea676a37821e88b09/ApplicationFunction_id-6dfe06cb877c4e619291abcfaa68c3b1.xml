@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Campaign Management"
+    id="id-6dfe06cb877c4e619291abcfaa68c3b1"
+    documentation="The Campaign Management applications are responsible for managing the lifecycle of marketing campaigns, sometimes referred to as &quot;closed loop marketing&quot;. Service Provider marketers need to respond to changing market environments with marketing initiatives that push highly targeted messages to increasingly focused segments. &#xA;Marketers need an adaptable and flexible campaign management application that can adjust to evolving customer lifecycles with corresponding targeted marketing strategies. Marketers need to deliver coordinated outbound and inbound campaigns across all points of interaction- focusing marketing resources where the greatest potential value exists. The campaign management application needs to:&#xA;&#xA;  �Leverage a single, consistent view   of customer data. &#xA;  �Be highly usable, which increases marketing productivity and effectiveness. &#xA;  �Provide valuable insight into marketing performance through analytics that enable marketers to continually adjust and improve marketing investments.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="3.9.1"/>
+  <properties
+      key="Frameworx Domain"
+      value="Market Sales Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1217"
+    id="id-1afe64a980df4951a68dd928cfa27884"
+    documentation="As a marketer, I want to show customers offers for interest free phones in their self service when I know they are eligible to purchase them, so that my marketing is tailored and specific.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1217"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Diane Watson"/>
+  <properties
+      key="Tribe"
+      value="Consumer Home"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="2"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Topic"
+      value="Promotional offers and discounts"/>
+  <properties
+      key="Remarks"
+      value="0"/>
+  <properties
+      key="Module"
+      value="CCM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Conduct Maturity Interviews"
+    id="id-6e4c65ce3a014516a50e56f5b1d4620c"
+    documentation="Perform Interviews within organization and organization stakeholders">
+  <properties
+      key="Process Identifier"
+      value="1.7.8.2.2.2"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Conduct Maturity Interviews Process is meant to facilitate formal interviews with stake holders, decision makers and general staff for the maturity assessment questions. Interviews can be with any number of participants. The interview should be conducted in a way which facilitates the most honest and relevant answers."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0088"
+    id="id-936c3cee3f534a7b876109acf962c67a"
+    documentation="As a">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0088"/>
+  <properties
+      key="Status"
+      value="Duplicate"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Unlink account"/>
+  <properties
+      key="Remarks"
+      value="Duplicate of REQ_BSS_0243"/>
+  <properties
+      key="Module"
+      value="SC, CRM, BR, TUM, PIM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

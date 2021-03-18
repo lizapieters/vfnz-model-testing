@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0661"
+    id="id-11aa6048a5e749dfb41c106dd82207b4"
+    documentation="As a customer, I want to be offered assurance options to protect my handset with flexibility to cover damage and/or loss &amp; theft for the right value of my handset, assurance to allow me trouble free swap/repair/upgrade at a time that suits me, so that I know I'll still be connected if something goes wrong.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0661"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="2"/>
+  <properties
+      key="Base_Old"
+      value="2"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Help"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Topic"
+      value="Device assurance"/>
+  <properties
+      key="Remarks"
+      value="Very much like insurance, but Customer pays a service fee. It is an additional option that can be added during device order (or in one months time) and later paid monthly. Once a customer desides to disable this option, he cannot add it again for the same device. There may be a few variants with different prices depending on the device price and level of insurance. Integration with 3rd party (digital portal) for claims. Different levels of integration possible. Light option is preferred (register claim and pass it to 3rd party). Integration details to be defined during AIF sessions."/>
+  <properties
+      key="Module"
+      value="PC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

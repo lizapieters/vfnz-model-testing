@@ -1,0 +1,33 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SMS Blacklist"
+    id="id-e6fb091982eb4decba09ce4ddacd0950"
+    documentation="SMS Blacklist">
+  <properties
+      key="StatusForLookUp"
+      value="Removed"/>
+  <properties
+      key="Owner"
+      value="AndrewH"/>
+  <properties
+      key="Level of Service"
+      value="Basic Systems"/>
+  <properties
+      key="Product / Service"
+      value="Mobile"/>
+  <properties
+      key="Segment"
+      value="Enterprise"/>
+  <properties
+      key="DX Association"
+      value="Integrate"/>
+  <properties
+      key="Existing Retained or Replaced"
+      value="Retained"/>
+  <properties
+      key="ComArch / Other"
+      value="Comarch"/>
+  <properties
+      key="Legacy BSS Stack Served"
+      value="C3"/>
+</archimate:ApplicationComponent>

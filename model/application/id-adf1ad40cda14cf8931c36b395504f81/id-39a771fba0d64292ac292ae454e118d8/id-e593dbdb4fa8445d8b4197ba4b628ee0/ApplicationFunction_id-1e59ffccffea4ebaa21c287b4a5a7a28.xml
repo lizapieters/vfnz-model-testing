@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Periodic bulk work order assigning"
+    id="id-1e59ffccffea4ebaa21c287b4a5a7a28"
+    documentation="Periodic bulk work order assigning taking into consideration the following criteria: &#xA;o work order priority &#xA;o associated SLAs &#xA;o work order due date &#xA;o required skills to perform work &#xA;o dependencies between work items/orders  &#xA;o job location relative to other assignments made to the dispatchable staff &#xA;o workload of staff &#xA;o staff availability hours">
+  <properties
+      key="Function Identifier"
+      value="543"/>
+  <properties
+      key="TAM Application Name"
+      value="Work Order Assignment &amp; Dispatch"/>
+  <properties
+      key="TAM Application Id"
+      value="7.12.3"/>
+  <properties
+      key="Constructed Id"
+      value="7.12.3.543"/>
+</archimate:ApplicationFunction>

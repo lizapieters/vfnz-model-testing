@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1009"
+    id="id-c37f1ed9b20c44f1af01f4ea1a08a65b"
+    documentation="As a customer, I want to 'like' offers to generate insights and preferences for future rewards As">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1009"/>
+  <properties
+      key="Status"
+      value="Potential gap"/>
+  <properties
+      key="Created by"
+      value="Gabrielle Paul"/>
+  <properties
+      key="Tribe"
+      value="Loyalty"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Personalisation"/>
+  <properties
+      key="Remarks"
+      value="[CLM] Customers can rate offers, comment rewards so those can be ranked analysed and verified if those bring value OOTB in CLM How this &quot;like&quot; offers should be realized?"/>
+  <properties
+      key="Module"
+      value="CLM/CMA/CMP"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

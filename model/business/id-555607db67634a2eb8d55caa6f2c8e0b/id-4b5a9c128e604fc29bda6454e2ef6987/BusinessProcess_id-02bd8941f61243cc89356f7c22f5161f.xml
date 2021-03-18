@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ITIL Service Asset and Configuration Management"
+    id="id-02bd8941f61243cc89356f7c22f5161f"
+    documentation="Service Asset and Configuration Management is defined within ITIL. Its role here is as a model or template for how other process areas should operate to align with the ITIL approach, where this is relevant for the enterprise concerned. Note that not all organizations will choose to follow the ITIL approach, and thus other models for Service Asset and Configuration Management (or equivalent) may apply in such cases.">
+  <properties
+      key="Process Identifier"
+      value="1.7.3.6"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Service Asset and Configuration Management is defined within ITIL, and further information is available at: http://www.itsmf.co.uk/Shop/Products/9780113310616TheOfficialIntroductiontotheITILServiceLifecycle.aspx Its role here is as a model or template for how other process areas should operate to align with the ITIL approach, where this is relevant for the enterprise concerned. Note that not all organizations will choose to follow the ITIL approach, and thus other models for Service Asset and Configuration Management (or equivalent) may apply in such cases. Service Asset and Configuration Management identifies, controls, records, reports and verifies the service assets and Configuration Items (CIs) in order to support the business and customerâ€™s control objectives and requirements. The key point within this area is that it considers all Service Assets and not just hardware and software. Service Asset and Configuration Management aims to: â€¢ Identify, control, record, report, audit and verify service assets and configuration items, including versions, baselines, constituent components, their attributes, and relationships â€¢ Account for, manage and protect the integrity of service assets and configuration items (and, where appropriate, those of its customers) through the service lifecycle by ensuring that only authorized components are used and only authorized changes are made â€¢ Protect the integrity of service assets and configuration items (and, where appropriate, those of its customers) through the service lifecycle â€¢ Ensure the integrity of the assets and configurations required to control the services and IT infrastructure by establishing and maintaining an accurate and complete Configuration Management System. The goals of Configuration Management are to: â€¢ Support the business and customerâ€™s control objectives and requirements â€¢ Support efficient and effective Service Management processes by providing accurate configuration information to enable people to make decisions at the right time, e.g. to authorize change and releases, resolve incidents and problems faster. â€¢ Minimize the number of quality and compliance issues caused by improper configuration of services and assets â€¢ Optimize the service assets, IT configurations, capabilities and resources. The objective is to define and control the components of services and infrastructure and maintain accurate configuration information on the historical, planned and current state of the services and infrastructure. â€¢Terminologyâ€¢ None applicable. â€¢Linkage with eTOM process areasâ€¢ ITIL Service Asset and Configuration Management relates to several eTOM process areas. The eTOM processes affected include: â€¢ Service-Ops Support and Readiness â€¢ Resource-Ops Support and Readiness â€¢ Asset Management â€¢ Procurement Management (note: to be developed further)"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

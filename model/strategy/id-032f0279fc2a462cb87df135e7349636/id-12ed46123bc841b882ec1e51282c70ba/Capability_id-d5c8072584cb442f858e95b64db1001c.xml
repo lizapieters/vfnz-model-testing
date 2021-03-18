@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Shipment State Management"
+    id="id-d5c8072584cb442f858e95b64db1001c"
+    documentation="The Ability to determine, modify, and interpret the status or condition of a shipment.">
+  <properties
+      key="TMF_ID"
+      value="1.1.11.7.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

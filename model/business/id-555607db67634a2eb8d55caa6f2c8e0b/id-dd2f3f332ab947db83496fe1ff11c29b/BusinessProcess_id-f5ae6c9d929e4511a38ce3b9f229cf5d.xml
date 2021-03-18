@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Capture Product Performance Shortfalls"
+    id="id-f5ae6c9d929e4511a38ce3b9f229cf5d"
+    documentation="These processes identify specific or imminent product performance shortfalls. These processes take information available from the Customer Relationship Management processes to establish detailed views of anticipated product performance issues.">
+  <properties
+      key="Process Identifier"
+      value="1.2.2.2.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

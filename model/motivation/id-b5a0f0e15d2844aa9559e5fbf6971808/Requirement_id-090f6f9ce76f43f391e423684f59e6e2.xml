@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1199"
+    id="id-090f6f9ce76f43f391e423684f59e6e2"
+    documentation="As a customer, I want to be able to search the site/app easily">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1199"/>
+  <properties
+      key="Status"
+      value="Not Comarch BSS Solution"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Learn"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Use"/>
+  <properties
+      key="Topic"
+      value="0"/>
+  <properties
+      key="Remarks"
+      value="Search itself would be wider then searching the DS only or SC only but the whole portal, so probably a part of some common components. More information needed on LLD if some specific tags, sitemap or anything like this should be provided on DS pages."/>
+  <properties
+      key="Module"
+      value="DS, SC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

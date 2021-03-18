@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Party Special Event Management"
+    id="id-c217652492f34879ba1d4effdfe9a3f8"
+    documentation="Plans, prepare, and produce a special event which targets one or more types of parties. It includes the assessment, definition, acquisition, allocation, direction, control, and analysis of time, finances, people, products, services, and other resources to achieve an event's objectives.">
+  <properties
+      key="Process Identifier"
+      value="1.6.14"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Party Special Event Management plans, prepares, and produces a special event which targets one or more types of parties. It includes the assessment, definition, acquisition, allocation, direction, control, and analysis of time, finances, people, products, services, and other resources to achieve an event's objectives. It is integrated with project management disciplines, such as forming teams, scheduling all event management tasks, monitoring tasks, and so forth. Particularly important is the designation of an event manager who oversees and arranges every aspect of an event, including researching, planning, organizing, implementing, controlling, and evaluating an eventâ€™s design, activities, and production. It interacts with other processes, such as Party Agreement Management, Marketing Campaign Management, and Marketing Communications. An event may be for internal or external parties, accompany a new product line, offering, campaign, and so forth. It may be scheduled by another party where infrastructure is needed to support their event. In this case not all processes would be executed by an enterprise. An enterprise may focus on just the operations aspects of the event, such as operations initiation, planning, implementation, execution, closure, and evaluation. Detailed process that further describe Event Management can be found at http://www.juliasilvers.com/embok.htm. Note that the material on the website is copyrighted and permission to include the hyperlink here was granted by Julia Silvers."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

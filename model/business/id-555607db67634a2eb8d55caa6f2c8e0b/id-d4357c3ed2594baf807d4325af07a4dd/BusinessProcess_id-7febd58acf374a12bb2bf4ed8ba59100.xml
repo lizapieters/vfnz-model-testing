@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verify Outbound Party Payment"
+    id="id-7febd58acf374a12bb2bf4ed8ba59100"
+    documentation="Verify that the party payment being prepared corresponds to payments that should be made to a party.">
+  <properties
+      key="Process Identifier"
+      value="1.6.16.1.1.2.2"/>
+  <properties
+      key="Category"
+      value="(6) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Verify Outbound Party Payment verifies that the party payment being prepared corresponds to payments that should be made to a party. For example, that a refund check should be issued to a party based on an credit in the party's account or that the bills received from a party correspond to orders or other forms of purchases submitted to the party."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

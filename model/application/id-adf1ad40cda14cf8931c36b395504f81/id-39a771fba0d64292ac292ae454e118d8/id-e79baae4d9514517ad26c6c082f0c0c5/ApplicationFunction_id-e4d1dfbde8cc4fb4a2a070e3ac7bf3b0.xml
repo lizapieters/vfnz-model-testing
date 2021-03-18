@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Balance Payment"
+    id="id-e4d1dfbde8cc4fb4a2a070e3ac7bf3b0"
+    documentation="Reception of customer payments from various sources and applying them to customer account balances">
+  <properties
+      key="Function Identifier"
+      value="41"/>
+  <properties
+      key="TAM Application Name"
+      value="Balance Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.19.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.19.2.41"/>
+</archimate:ApplicationFunction>

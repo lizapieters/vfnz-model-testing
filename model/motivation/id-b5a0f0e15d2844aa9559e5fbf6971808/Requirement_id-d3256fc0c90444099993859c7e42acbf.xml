@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0952"
+    id="id-d3256fc0c90444099993859c7e42acbf"
+    documentation="As a Payments specialist, I want to ensure there is no duplication the number ranges of customer numbers and invoice numbers are  so that it reduces the chance of payments being allocated to the wrong customer account">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0952"/>
+  <properties
+      key="Status"
+      value="HLD Completed"/>
+  <properties
+      key="Created by"
+      value="Rochelle Hedley"/>
+  <properties
+      key="Tribe"
+      value="Finance &amp; Business / AR Payments"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Pay"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="AR/Payments"/>
+  <properties
+      key="Remarks"
+      value="OOTB, numbering rules to be provided by VF."/>
+  <properties
+      key="Module"
+      value="BS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

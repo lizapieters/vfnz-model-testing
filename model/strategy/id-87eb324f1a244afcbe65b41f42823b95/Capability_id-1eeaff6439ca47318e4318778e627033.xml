@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sales Aids"
+    id="id-1eeaff6439ca47318e4318778e627033"
+    documentation="The Sales Aids Application provides access to methods and procedures as well as product information and other collateral that can be used to assist in making a sale.">
+  <properties
+      key="TMF Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="3.2"/>
+  <properties
+      key="TMF Function"
+      value="0"/>
+  <properties
+      key="TMF Maturity"
+      value="Market_Sales Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1261"
+    id="id-ac7b8caca3cb4f4cb6214a32e6c421a5"
+    documentation="As a customer, I want to be able to use my own modem , so that I don't have to change my home setup.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1261"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Diane Watson"/>
+  <properties
+      key="Tribe"
+      value="Consumer Home"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="prio2"/>
+  <properties
+      key="Base"
+      value="1?"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Get"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Choose"/>
+  <properties
+      key="Topic"
+      value="Home devices"/>
+  <properties
+      key="Remarks"
+      value="0"/>
+  <properties
+      key="Module"
+      value="PC, OM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

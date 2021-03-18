@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Pricing Policy Association with Product Offering"
+    id="id-e2709d46a4ed46178405c8913a42a334"
+    documentation="Create and remove the association between a product offering and the policy which governs pricing.">
+  <properties
+      key="Process Identifier"
+      value="1.2.7.2.2.2.5"/>
+  <properties
+      key="Category"
+      value="(6) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

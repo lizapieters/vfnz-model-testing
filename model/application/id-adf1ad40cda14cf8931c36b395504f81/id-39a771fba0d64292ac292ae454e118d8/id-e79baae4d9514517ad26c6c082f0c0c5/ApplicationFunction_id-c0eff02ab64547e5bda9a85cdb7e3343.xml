@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Archive maintenance and administrative functions"
+    id="id-c0eff02ab64547e5bda9a85cdb7e3343"
+    documentation="Archive maintenance and administrative functions. Typical documents are stored online for short periods. Maintenance implies offloading to external storage depending on retention periods.">
+  <properties
+      key="Function Identifier"
+      value="305"/>
+  <properties
+      key="TAM Application Name"
+      value="Document Archiving"/>
+  <properties
+      key="TAM Application Id"
+      value="5.2.4"/>
+  <properties
+      key="Constructed Id"
+      value="5.2.4.305"/>
+</archimate:ApplicationFunction>

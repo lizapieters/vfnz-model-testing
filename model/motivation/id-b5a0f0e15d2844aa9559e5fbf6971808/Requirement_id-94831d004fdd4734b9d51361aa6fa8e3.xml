@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0937"
+    id="id-94831d004fdd4734b9d51361aa6fa8e3"
+    documentation="As a Product owner, I want complex customers to be able to be billed in advance for products on a monthly basis so that those customers who aren't supported via the subscription model are catered for">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0937"/>
+  <properties
+      key="Status"
+      value="HLD Completed"/>
+  <properties
+      key="Created by"
+      value="Jared Mortlock"/>
+  <properties
+      key="Tribe"
+      value="Finance &amp; Business / Billing"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Billing"/>
+  <properties
+      key="Remarks"
+      value="Postpaid model, subscription fee created in advance."/>
+  <properties
+      key="Module"
+      value="BS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

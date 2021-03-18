@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ChassisPosition"
+    id="id-6734465580ba4929bb7fd328bd8c2452"
+    documentation="This class represents the semantics of the ChassisInRack aggregation. This class defines two attribute - Position and Location - to define where the Chassis is located in the Rack.This aggregation defines the set of Chassis that are contained within this Rack. It is implemented as an aggregation class."/>

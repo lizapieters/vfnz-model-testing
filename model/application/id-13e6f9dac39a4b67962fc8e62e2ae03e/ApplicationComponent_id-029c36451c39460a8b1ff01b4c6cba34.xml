@@ -1,0 +1,30 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RELY"
+    id="id-029c36451c39460a8b1ff01b4c6cba34"
+    documentation="RELY">
+  <properties
+      key="StatusForLookUp"
+      value="Removed"/>
+  <properties
+      key="Owner"
+      value="VF Group"/>
+  <properties
+      key="Level of Service"
+      value="Business Premium"/>
+  <properties
+      key="Product / Service"
+      value="Common"/>
+  <properties
+      key="Segment"
+      value="Common"/>
+  <properties
+      key="DX Association"
+      value="Unrelated"/>
+  <properties
+      key="Existing Retained or Replaced"
+      value="Retained"/>
+  <properties
+      key="Legacy BSS Stack Served"
+      value="Common"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Self Empowered Assurance"
+    id="id-0ab72922a9f746fd96ee6907436e38f0"
+    documentation="Customer self empowered assurance applications provide an internet technology driven interface to the customer to undertake a variety of assurance functions directly for themselves. These applications interact to provide fully automated service or assisted service over customers touch points. These applications create enablement for customers to assure the service level that they benefit from their service provider.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="5.4.2"/>
+  <properties
+      key="Frameworx Domain"
+      value="Customer Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

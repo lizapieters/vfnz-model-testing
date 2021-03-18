@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Problem Management"
+    id="id-cdcb96ffec724df3ad8a230dd65b8dfe"
+    documentation="The purpose of Customer Problem Management is to manage problems reported by customers, resolving these problems to the customer�s satisfaction, and providing meaningful status on the issue as needed to the customer.&#xA;&#xA;Customer problems can include: &#xA;&#xA;� General questions on products purchased and being used by the customer&#xA;� Problems with products already purchased and being used by the customer either due to lack of education or service/network problems.&#xA;�Problems with a material purchase from the service provider, even if they do not have an account with the said service provider.&#xA;�General  inquiries, complaints, and commendations.&#xA;&#xA;Note: A customer problem may or may not result in a billing adjustment. Billing related issues are handled via Billing Inquiry, Dispute &amp; Adjustment Management, see Case Management for more information.">
+  <properties
+      key="TAM Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="5.8"/>
+  <properties
+      key="Frameworx Domain"
+      value="Customer Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

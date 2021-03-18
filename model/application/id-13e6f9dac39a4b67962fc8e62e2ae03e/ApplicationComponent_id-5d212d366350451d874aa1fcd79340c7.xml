@@ -1,0 +1,39 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Splunk Data Broker"
+    id="id-5d212d366350451d874aa1fcd79340c7"
+    documentation="Splunk">
+  <properties
+      key="StatusForLookUp"
+      value="Active"/>
+  <properties
+      key="Owner"
+      value="AndrewH"/>
+  <properties
+      key="Level of Service"
+      value="Business Standard"/>
+  <properties
+      key="Product / Service"
+      value="Common"/>
+  <properties
+      key="Segment"
+      value="Common"/>
+  <properties
+      key="DX Association"
+      value="Integrate"/>
+  <properties
+      key="Existing Retained or Replaced"
+      value="Retained"/>
+  <properties
+      key="Legacy BSS Stack Served"
+      value="Common"/>
+  <properties
+      key="TAM App ID"
+      value="6.7.1"/>
+  <properties
+      key="TAM Domain"
+      value="Service Domain"/>
+  <properties
+      key="TAM Application"
+      value="Service Performance Monitoring"/>
+</archimate:ApplicationComponent>

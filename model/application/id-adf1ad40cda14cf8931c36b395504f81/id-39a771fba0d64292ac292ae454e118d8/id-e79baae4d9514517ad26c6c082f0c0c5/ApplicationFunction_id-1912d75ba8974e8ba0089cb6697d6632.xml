@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Channel Guided Data Collection"
+    id="id-1912d75ba8974e8ba0089cb6697d6632"
+    documentation="Step guided collection � guide the channel with the specific information items to be collected (e.g. customer identification, required product / order and the pertinent data for the order). Including Validation guidance � for each information element, may provide set of valid input">
+  <properties
+      key="Function Identifier"
+      value="124"/>
+  <properties
+      key="TAM Application Name"
+      value="Channel Guidance and Data Capture"/>
+  <properties
+      key="TAM Application Id"
+      value="5.3.1.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.3.1.1.124"/>
+</archimate:ApplicationFunction>

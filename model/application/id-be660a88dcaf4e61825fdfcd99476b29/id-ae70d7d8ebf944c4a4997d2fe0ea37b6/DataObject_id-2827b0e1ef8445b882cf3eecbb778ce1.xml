@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="InstalledSoftware"
+    id="id-2827b0e1ef8445b882cf3eecbb778ce1"
+    documentation="An InstalledSoftware (renaming the Software concept from previous releases) consists of encoded information or computer instructions deployed on a machine such that it can be executed. An InstalledSoftware is a SoftwareSpecification deployed using the SoftwareSupportPackage on platform which meets the HostingPlatformRequirements. Each InstalledSoftware specifies their input and output respectively with SoftConnectionPoints. Software may be nested within other software; thereby creating a containment relationship."/>

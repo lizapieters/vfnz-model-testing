@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Physical Infrastructure Shortfall Identification"
+    id="id-690667922cae43608f0e01eeb2d2a62c"
+    documentation="Identify Shortfalls in Physical Infrastructure - Identify shortfalls in infrastructure, such as building capacity, which may not be visible to central tactical planning users.&#xA;This requires large amounts of data, potentially leading to a very expensive system solution. However, such systems are used locally for construction projects, so the system does not require a live view of the complete network. It is only necessary to administer a physical planning solution centrally to ensure data consistency; the data itself may be distributed to individual locations">
+  <properties
+      key="Function Identifier"
+      value="427"/>
+  <properties
+      key="TAM Application Name"
+      value="Implementation Planning"/>
+  <properties
+      key="TAM Application Id"
+      value="7.1.2"/>
+  <properties
+      key="Constructed Id"
+      value="7.1.2.427"/>
+</archimate:ApplicationFunction>

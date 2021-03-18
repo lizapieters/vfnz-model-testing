@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voice"
+    id="id-23a0ccbc5c8f4b039925905cc6148d57">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-643ad1417307472a87feb6317aeb7204.xml#id-643ad1417307472a87feb6317aeb7204"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-905f15ac1a104431ab5cfce528712812.xml#id-905f15ac1a104431ab5cfce528712812"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MetricDefMeasureConsequence"
+    id="id-228d9d4e648b4bbcaa95559681243832"
+    documentation="A MetricDefMeasureConsequence defines the action (prescribed action or notification) to take when a MetricDefMeasureThresholdRule is crossed. The same MetricDefMeasureConsequence might be reused by several MetricDefMeasureThresholdRules. Different consequences (MetricDefMeasureConsequence) can be defined for different severities."/>

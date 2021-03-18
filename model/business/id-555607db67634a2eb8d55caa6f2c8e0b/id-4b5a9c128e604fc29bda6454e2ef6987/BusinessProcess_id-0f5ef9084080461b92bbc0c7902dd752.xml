@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Number Portability"
+    id="id-0f5ef9084080461b92bbc0c7902dd752"
+    documentation="The Manage Number Portability process is responsible for receiving, managing and tracking number portability requests issued by customer orders or a third CSP.">
+  <properties
+      key="Process Identifier"
+      value="1.5.4.7"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Manage Number Portability process is responsible for receiving, managing and tracking number portability requests issued by customer orders or a third CSP. The number portability process allows the execution of different types of portability such as Port In, Port Out, Port Over and Retirement from Number Portability. Responsibilities of these processes include, but are not limited to: â€¢ Issuing and reception of number portability requests â€¢ Modifying number portability request status â€¢ Validating number portability requests â€¢ Modifying or canceling open number portability requests â€¢ Undertaking necessary tracking of the execution process â€¢ Adding additional information to number portability request â€¢ Reporting the completion status of number portability request â€¢ Receiving portability requests from a third CSP â€¢ Scheduling number portability request â€¢ Managing the communication flow with Number Portability Clearinghouse â€¢ Implementing business rules â€¢ Implementing regulatory policies â€¢ Determining the number portability feasibility"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

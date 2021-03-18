@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Test Strategy"
+    id="id-1ee376efc6f34d93aab35830884b2be4"
+    documentation="Product Test Strategy develops the strategies of the enterprise for Product Test.">
+  <properties
+      key="Process Identifier"
+      value="1.2.14"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Product Test Strategy develops the strategies of the enterprise for Product Test. This process is in charge of identifying types of Product Test to be conducted according to different context (i.e. business activities) for types of products. The different context for Product Test are: - Product Specification Development &amp; Retirement to qualify the capacity to deliver Products before validating a new ProductSpecification - Order Handling (Customer Order Orchestration) to test the Product before closing the CustomerOrderItem - Product Performance Management to test Product performance - Customer Problem Handling to test Product functioning - Product Test Management to conduct tests not specific to a customerâ€™s product"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

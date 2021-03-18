@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OperatorConstraintDetails"
+    id="id-93a64f91ad644de6b2d99d5e545e5a66"
+    documentation="This is an association class that contains the OCL expression that will be used to define which Operators can be used in this particular PolicyStatement. This association defines any constraints that exist between the type of operator in a PolicyStatement and the variable in the PolicyStatement. For example; if the type of PolicyVariable is IPProtocolVariable; then it makes no sense to have relational or fuzzy operators used. On the other hand; if the type of PolicyVariable is IPv4Variable; then it MAY make sense to use fuzzy operators or string matching operators since an IPv4Variable can also be a host name."/>

@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0163"
+    id="id-088f4f9e22254355a1055303cd8344d0"
+    documentation="As a customer, I want the Vodafone website &amp; app to be 0 rated, so I can access it even if I have no data">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0163"/>
+  <properties
+      key="Status"
+      value="HLD Completed"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="y"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Use"/>
+  <properties
+      key="Topic"
+      value="0 Rated Web &amp; App"/>
+  <properties
+      key="Remarks"
+      value="OOTB, as long as this type of traffic is already marked in a way that can be recognized by Comarch Billing/OCS (such as appropriate rating group setting)"/>
+  <properties
+      key="Module"
+      value="BS, OCS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="Maybe"/>
+</archimate:Requirement>

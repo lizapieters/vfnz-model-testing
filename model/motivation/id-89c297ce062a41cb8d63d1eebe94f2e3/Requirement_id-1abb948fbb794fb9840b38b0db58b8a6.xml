@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0687"
+    id="id-1abb948fbb794fb9840b38b0db58b8a6"
+    documentation="As a transitioning customer i need my vunerable person/medical alarm status brought over from legacy and reflected in comarch">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0687"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Steve Bird"/>
+  <properties
+      key="Tribe"
+      value="Transition"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Transition"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Transition"/>
+  <properties
+      key="Remarks"
+      value="Requirment clear"/>
+  <properties
+      key="Module"
+      value="DS, SC, PIM, TA"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

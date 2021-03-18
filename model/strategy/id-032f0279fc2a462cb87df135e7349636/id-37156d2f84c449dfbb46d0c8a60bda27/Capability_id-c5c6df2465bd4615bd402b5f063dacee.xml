@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Content Schedule Management"
+    id="id-c5c6df2465bd4615bd402b5f063dacee"
+    documentation="The ability to define, evaluate and control an aggregation of times, dates and milestones in context providing broadcast content.">
+  <properties
+      key="TMF_ID"
+      value="1.1.4.8"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

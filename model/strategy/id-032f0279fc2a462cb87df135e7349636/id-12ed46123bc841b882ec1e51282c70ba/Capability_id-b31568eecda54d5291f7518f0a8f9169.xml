@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer/Strategy Matching"
+    id="id-b31568eecda54d5291f7518f0a8f9169"
+    documentation="The ability to associate a customer with a strategy and its objectives and goals.">
+  <properties
+      key="TMF_ID"
+      value="1.1.2.6.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

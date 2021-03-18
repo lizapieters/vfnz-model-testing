@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResourceFacingServiceSpecRole"
+    id="id-fb6305703df0414a89fa19b90231f482"
+    documentation="This class defines a ServiceSpecification; in terms of a set of ServiceSpecificationRoles; for a ResourceFacingService. This is the base class for defining ServiceSpecificationRoles that are used to represent the shared characteristics of a ResourceFacingService. This enables the ResourceFacingService to be managed abstractly using ServiceSpecificationRoles. It also helps define the ServiceSpecification in terms of the functions that it has or provides."/>

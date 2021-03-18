@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MACVariable"
+    id="id-324caa3eab69422782b3ac737b9d7261"
+    documentation="This class represents using the source MAC address value as part of a condition expression. Thus; only BitStringValue and IntegerValue classes can be used in the value portion of the condition expression with this PolicyVariable."/>

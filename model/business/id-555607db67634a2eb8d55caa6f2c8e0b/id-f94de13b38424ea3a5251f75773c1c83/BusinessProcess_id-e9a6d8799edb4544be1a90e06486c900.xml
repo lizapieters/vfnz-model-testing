@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Check Normality"
+    id="id-e9a6d8799edb4544be1a90e06486c900"
+    documentation="Check normality of network function instance/network connectivity.">
+  <properties
+      key="Process Identifier"
+      value="1.5.8.3.8.9"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of &quot;Check Normality&quot; process is to perform testing of virtual network function instance/connection statement ( e.g. to check a current status of alarms regarding failed resources)."/>
+  <properties
+      key="Maturity Level"
+      value="2"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

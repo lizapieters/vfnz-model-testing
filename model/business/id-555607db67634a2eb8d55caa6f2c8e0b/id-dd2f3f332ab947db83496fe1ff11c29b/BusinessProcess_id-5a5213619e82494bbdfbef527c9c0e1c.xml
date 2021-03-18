@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Distribute Resource Quality Management Reports &amp; Summaries"
+    id="id-5a5213619e82494bbdfbef527c9c0e1c"
+    documentation="This process records, analyzes and assesses the Resource Performance Degradation Report status changes to provide management reports and any specialized summaries of the efficiency and effectiveness of the overall Resource Performance Management process.  These specialized summaries could be specific reports required by specific audiences.">
+  <properties
+      key="Process Identifier"
+      value="1.5.9.4.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

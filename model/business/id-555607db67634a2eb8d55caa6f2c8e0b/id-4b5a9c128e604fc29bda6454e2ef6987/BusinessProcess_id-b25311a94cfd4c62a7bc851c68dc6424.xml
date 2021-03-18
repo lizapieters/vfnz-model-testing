@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Control Party Settlements"
+    id="id-b25311a94cfd4c62a7bc851c68dc6424"
+    documentation="The Control Party Settlement processes oversee the efficiency of Settlement process according to party settlement agreements.">
+  <properties
+      key="Process Identifier"
+      value="1.6.18.5"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Control Party Settlement processes oversee the efficiency of Settlement process according to party settlement agreements. The Control Party Settlement process aims to ensure the efficiency and effectiveness of the operational process. The Control Party Settlement processes controls the efficiency of Settlement process according to party settlement agreements. It means controlling (specifically the efficiency) of the Settlement workflow. Its primary aim is to ensure 1) that its cost effective, whether logically (without knowing the underlying contract), pricing (knowing the contract conditions apart from the Network Layout), or a optimum of both. 2) allowing a sub process for handling of differences (disputes), also including mechanisms to handle dynamic change of resource costs (i.e. in mobile networks this is more static). 3) Analyzing the history (i.e. usage patterns) to predict the probabilities and relative importance of optimizing a specific route."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

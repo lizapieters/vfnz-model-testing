@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Problem Configuration Verification"
+    id="id-b5037566cf6443e3958aea9ce0d8bd0b"
+    documentation="Support function for Verification that service configuration matches the product features">
+  <properties
+      key="Function Identifier"
+      value="611"/>
+  <properties
+      key="TAM Application Name"
+      value="Service Problem Analysis"/>
+  <properties
+      key="TAM Application Id"
+      value="6.5.3"/>
+  <properties
+      key="Constructed Id"
+      value="6.5.3.611"/>
+</archimate:ApplicationFunction>

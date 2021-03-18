@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Partner Authentication and Authorization"
+    id="id-7c0337a7f93246c79475179b06211e5f"
+    documentation="The ability to verify partner identity and access rights in context of a given business scenario and allow a partner to proceed based on those rights or otherwise prevent the partner from proceeding.">
+  <properties
+      key="TMF_ID"
+      value="1.1.9.5"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

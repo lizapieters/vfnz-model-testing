@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ServiceLevelProductSpec"
+    id="id-4ad8d638495548e18fee8f18f8ed28a6"
+    documentation="A ServiceLevelProductSpec is a type of ProductSpecification that defines KPI that have to be evaluated and the threshold that must be respected. These KPIs are described by a ServiceLevelSpec. Note: Service Level Spec ABE has to be updated according to Metric ABE."/>

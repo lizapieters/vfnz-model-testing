@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Risk Evaluation"
+    id="id-dcc33153e9c14f12bec954fe9f5c265e"
+    documentation="The ability to understand and determine the impacts of a risk.">
+  <properties
+      key="TMF_ID"
+      value="1.2.2.8"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

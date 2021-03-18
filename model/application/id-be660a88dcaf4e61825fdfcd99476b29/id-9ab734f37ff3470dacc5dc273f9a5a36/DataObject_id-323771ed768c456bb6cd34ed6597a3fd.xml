@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Entity"
+    id="id-323771ed768c456bb6cd34ed6597a3fd"
+    documentation="This is an abstract class that extends the RootEntity class in order to represent classes of objects that play a business function. Entities can be either managed or unmanaged. If it is managed; then it is further defined by a ManagedEntity; else it has no relationship with ManagedEntity. More formally; an Entity represents objects that have a separate and distinct existence. They are not just a collection of attributes or an abstraction of behavior."/>

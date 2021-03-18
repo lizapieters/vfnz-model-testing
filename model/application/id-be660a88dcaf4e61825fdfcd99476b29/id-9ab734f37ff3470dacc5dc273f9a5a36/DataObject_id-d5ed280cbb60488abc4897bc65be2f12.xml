@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MetricDefMeasureThresholdSet"
+    id="id-d5ed280cbb60488abc4897bc65be2f12"
+    documentation="A MetricDefMeasureThresholdSet provides a way to group a set of one or more MetricDefMeasureThresholdRules specifying the condition to evaluate for applying consequences. A MetricDefMeasureThresholdSet is used to evaluate one or more MetricDefMesures. A MetricDefMeasureThresholdSet contains either MetricThresholdRuleDefinition instances or PreDefinedMetricThresholdRule instances."/>

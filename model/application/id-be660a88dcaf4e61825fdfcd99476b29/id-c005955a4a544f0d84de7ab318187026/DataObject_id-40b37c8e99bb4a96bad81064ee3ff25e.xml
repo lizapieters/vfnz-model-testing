@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LoyaltyRule"
+    id="id-40b37c8e99bb4a96bad81064ee3ff25e"
+    documentation="A LoyaltyRule is a type of PolicyRule defined by a LoyaltyProgramProdSpec. A LoyaltyRule specifies: â€¢ Events triggering the evaluation of the rule (LoyaltyEvent) o Ex: Every first of a month; a CustomerProductOrder of Top-Up â€¢ Conditions that have to be checked (LoyaltyCondition) o Ex: If the invoice amount is above 100 â‚¬; If more than 2 hours of international call â€¢ Actions that should be performed if the condition clause is evaluated to TRUE (LoyaltyAction) o Ex: Give 50 SMS free; Credit 10 points on the LoyaltyAccount Loyalty Rules may result in â€¢ either rewards directly used / usable by the customer o Ex: 5% more time on the communications package after 6 months of age; and 10% after one year ... â€¢ or loyalty earn that are gathered on an account to be used to pay later a ProductOffering o Ex: 400 points to welcome a subscription then 10 points for every Euro charged. The points collected can be used to buy rewards like a USB stick; 100 SMSâ€¦"/>

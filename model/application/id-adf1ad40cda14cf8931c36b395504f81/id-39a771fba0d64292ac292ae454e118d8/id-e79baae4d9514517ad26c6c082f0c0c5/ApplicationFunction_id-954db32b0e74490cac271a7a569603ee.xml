@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collection Execution Monitoring"
+    id="id-954db32b0e74490cac271a7a569603ee"
+    documentation="Monitors events that may change the collection execution. Such events includes: customer paid, customer status has been changed, payment back-outs. As a result stop, resume or reselect the collection policy.">
+  <properties
+      key="Function Identifier"
+      value="141"/>
+  <properties
+      key="TAM Application Name"
+      value="Collection Policy Execution and Monitoring"/>
+  <properties
+      key="TAM Application Id"
+      value="5.14.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.14.2.141"/>
+</archimate:ApplicationFunction>

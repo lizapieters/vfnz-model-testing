@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Handle Trading and Routing Party Billing"
+    id="id-1548a8b29a004b68a0cbf6b4203c5664"
+    documentation="Handle Trading and Routing Party Billing process performs the billing with interconnect party about trading and routing. &#xA;Trading revolves around the buying and selling of voice and data capacity. &#xA;Routing involves the delivery of traffic from one carrierâ€™s network to another.">
+  <properties
+      key="Process Identifier"
+      value="1.6.15.4.2.2"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Handle Trading and Routing Party Billing process performs the billing with interconnect party about trading and routing. Trading revolves around the buying and selling of voice and data capacity. Routing involves the delivery of traffic from one carrierâ€™s network to another. Trading and routing are bound together through various interconnect agreements, especially pricing agreements. Trading revolves around the buying and selling of voice and data capacity. Routing involves the delivery of traffic from one carrierâ€™s network to another. Based on the agreement type, the interconnect billing process is handled differently: 1) Bi-Lateral Agreement: Each party agrees to exchange digital communications traffic with the other party over its Network at the Interconnection Points and/or in one or more direct interconnections. Payment settlement among different partners happens on monthly or bi-monthly basis as per the agreement. Invoicing &amp; Balance Settlement. 2) Uni-Lateral Agreement: One party sends their traffic to other party's Network at the Interconnection and does not take traffic back from other party. Invoicing."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

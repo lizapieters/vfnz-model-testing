@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Process Information and Data"
+    id="id-a837b3687e554385bef470edac22cb4c"
+    documentation="This process is the ongoing processing of information and data against rules designed to detect threats, and the subsequent alerts and alarms resulting from rule violations and other detection processes.">
+  <properties
+      key="Process Identifier"
+      value="1.7.2.3.2.1"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Fraud operations in general should be receiving data almost continuously, and analysis of the received data should take place without delay where possible. Earlier processing and/or analysis of datasets enables not only more rapid detection of fraud, but also the subsequent ability to take meaningful action to stop fraudulent activities before (any) damage is incurred by the business. There are 3 primary functional areas within this process to address and define: 1. Rule Processing: During rule processing activities, information and data is passed through rules either through automated (technology-based) means or other manual processes. Depending on the volume of data and the complexity of the rules (interdependencies, aggregated or weighted triggering, etc.), increasing levels of technology will be necessary to quickly implement rules against data and determine the results. 2. Alert Generation: Configuration of alerts. Alerts may be generated when certain expected conditions are not met, including missing dataset delivery, failure to act on investigation requests (escalations), etc. Alerts may also be issued when certain conditions are exceeded, including excessive alarm quantities resulting from â€œlooseâ€� rules producing false positive results. 3. Alarm Generation: Configuration of alarms. Alarms are typically the result of detected events or activities that are suspicious and should be investigated as possible fraud. Alarms may be the result of single rule violations, or of multiple rule violations that contribute to weighted levels of suspicion (more complex scenario) etc. Other functions may also include the configuration of supplementary reports for scenarios not configured through rules and alarms as listed above. The configuration of rules, alerts, and alarms should be governed by policies as described in the 1.1.x processes for Fraud Management. Additionally, the procedures that should be followed as a result of the issuance of an alert or alarm should be governed by policies as described within the 1.1.x processes for Fraud Management."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

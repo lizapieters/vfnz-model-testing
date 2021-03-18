@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Handle Interconnect Party Billing"
+    id="id-271f4e2e960a4aee96b33b5da73c1f4a"
+    documentation="Handle Interconnect Party Billing process handle the billing with Interconnect Party .  Interconnect party entails the reception of records from networks outside the own network, for various scenarios of outbound, inbound, and in transit communication for the purpose of determining the cost and revenues incurred from or caused to other communication service providers (often Fixed Line Voice or IP traffic), with the aim of product of invoices, receiving payments for an interconnect partner .">
+  <properties
+      key="Process Identifier"
+      value="1.6.15.4.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Handle Interconnect Party Billing process handle the billing with Interconnect Party . Interconnect party entails the reception of records from networks outside the own network, for various scenarios of outbound, inbound, and in transit communication for the purpose of determining the cost and revenues incurred from or caused to other communication service providers (often Fixed Line Voice or IP traffic), with the aim of product of invoices, receiving payments for an interconnect partner . This process includes: (1)Perform Interconnect Party Netting process which calculates the balance of money owed and earned from two partners. (2) Handle IP Interconnect Billing process which handle particular billing which occurs in IP Backhaul Traffic. (3) Handle Interconnect Party Trading and Routing Billing process handling the billing with interconnect party about trading and routing. The following types of network can be involved in an interconnect process: (1)Originating network: where a call originates, Transit network(s): network(s) which passes the call on. (2)Terminating network: where a call terminates. An interconnect process always involves an originating and terminating network; a transit network or networks possible but optional. The cost added for handling an interconnect event is called the interconnect charge. An interconnect charge is calculated according to a service agreement between interconnect parties. Definition as per ITU: â€œinterconnection may be said to be the sum of all the commercial and technical arrangements which operators and service providers use to connect their equipment, networks and services so as to provide their customers with access to the customers, services and networks of other service providers.â€�"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Givebacks"
+    id="id-6635cb5fb6f343af9642c21e78400d40">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-35f8035d45784996a3976f99064324db.xml#id-35f8035d45784996a3976f99064324db"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ed2f28913c924e708eb312bed438dfe9.xml#id-ed2f28913c924e708eb312bed438dfe9"/>
+</archimate:FlowRelationship>

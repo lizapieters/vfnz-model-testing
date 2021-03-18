@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Initiate Additional Product Offering Purchase(s)"
+    id="id-0f03be68d8f24702ab825a5aee89792b"
+    documentation="Prepare product offering purchases in the form of product offering orders for each product offering fulfilled by another party.">
+  <properties
+      key="Process Identifier"
+      value="1.2.9.5.4"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Initiate Additional Product Offering Purchase(s) prepares product offering purchase(s) in the form of product offering orders for each product offering fulfilled by one or more other parties. The order(s) is/are provided to the Initiate Product Offering Purchase process."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collection Decision Engine"
+    id="id-da5623a8319d4fe882128e60d27c4f69"
+    documentation="Collection Decision Engine - Evaluates each arriving account, decides whether the account needs collection treatment, and assigns the relevant collection treatment policy to each account.">
+  <properties
+      key="Function Identifier"
+      value="140"/>
+  <properties
+      key="TAM Application Name"
+      value="Collection Policy Execution and Monitoring"/>
+  <properties
+      key="TAM Application Id"
+      value="5.14.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.14.2.140"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Job/Plan Pairing"
+    id="id-36e6cbeff2374c859e6f6721c540c24d"
+    documentation="The ability to associate a job with a plan.">
+  <properties
+      key="TMF_ID"
+      value="1.3.7.8.5"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

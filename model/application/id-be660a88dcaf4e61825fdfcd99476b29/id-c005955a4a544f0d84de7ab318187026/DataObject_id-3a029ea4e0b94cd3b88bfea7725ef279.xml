@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UsageVolumeProduct"
+    id="id-3a029ea4e0b94cd3b88bfea7725ef279"
+    documentation="A UsageVolumeProduct is a type of ProductComponent described by a UsageVolumeProductSpec that carries UsageVolumeBalances. A UsageVolumeProduct relies on one or many NetworkProducts."/>

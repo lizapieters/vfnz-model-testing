@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RA Correction Initiation"
+    id="id-4132b3b7887243569f3e2f8ee4461601"
+    documentation="RA Correction Initiation provides the necessary functionality to initiate correction of the revenue assurance anomalies. Given that Revenue Assurance will detect issues originating in ordering, provisioning, billing, and usage, it is likely the correction or recovery will also need to be performed in those domains.">
+  <properties
+      key="Function Identifier"
+      value="765"/>
+  <properties
+      key="TAM Application Name"
+      value="RA Correction &amp; Recovery Initiation"/>
+  <properties
+      key="TAM Application Id"
+      value="9.1.5"/>
+  <properties
+      key="Constructed Id"
+      value="9.1.5.765"/>
+</archimate:ApplicationFunction>

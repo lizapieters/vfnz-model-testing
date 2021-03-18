@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Preferences Management"
+    id="id-e746bd16b0994788af8d58a5436e3f3c"
+    documentation="Managing Customer Preferences - including customer proprietary information preferences (CPNI), email versus US Mail, how to be contacted (based on type of communication), web look and feel, do not solicit me. Personalization allows delivery of services that more closely match the customer's need.">
+  <properties
+      key="Function Identifier"
+      value="226"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Profile Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.1.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.1.2.226"/>
+</archimate:ApplicationFunction>

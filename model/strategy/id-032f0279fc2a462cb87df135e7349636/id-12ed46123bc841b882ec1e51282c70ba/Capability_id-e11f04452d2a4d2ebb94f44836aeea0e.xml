@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Policy Access Constraints Interpretation"
+    id="id-e11f04452d2a4d2ebb94f44836aeea0e"
+    documentation="The ability to understand imposed access rights limitations for a given policy or set of policies.">
+  <properties
+      key="TMF_ID"
+      value="1.2.3.5.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CSR front end assurance support"
+    id="id-49cd2458c3a449d88c45e0bac6e6bf8b"
+    documentation="A CSR function for front end support for the application flows defined by the case management applications (cf. Case Management Applications).">
+  <properties
+      key="Function Identifier"
+      value="169"/>
+  <properties
+      key="TAM Application Name"
+      value="CSR assurance"/>
+  <properties
+      key="TAM Application Id"
+      value="5.6.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.6.2.169"/>
+</archimate:ApplicationFunction>

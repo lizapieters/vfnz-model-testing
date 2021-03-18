@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0533"
+    id="id-d2efd35561b846599318c7445eeeacc3"
+    documentation="As a business I want devices that are going end of life to show a notification so that I can alert my business and proactively select another device if required">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0533"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Stephanie Cunneen"/>
+  <properties
+      key="Tribe"
+      value="Business"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Learn"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Device lifecycle"/>
+  <properties
+      key="Remarks"
+      value="information about end of live to be stored where? Probably another integration. Details to be delivered during integration meetings Notification = email notification + message on Selfcare channel CCM could potentially send such notification. TBD."/>
+  <properties
+      key="Module"
+      value="CCM? PC? PIM? SC?"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

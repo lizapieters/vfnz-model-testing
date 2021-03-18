@@ -1,0 +1,33 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Asset Management"
+    id="id-6f6148a95485496bb009bd46aa5678a3"
+    documentation="Asset Management - for understanding the physical and financial assets deployed in the enterprise and optimizing the economics associated with those investments along the lifecycle from introduction through maintenance to eventual disposal.">
+  <properties
+      key="TMF_ID"
+      value="1.3.5"/>
+  <properties
+      key="Level"
+      value="1"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+  <properties
+      key="TMF Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.4"/>
+  <properties
+      key="TMF Function"
+      value="0"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

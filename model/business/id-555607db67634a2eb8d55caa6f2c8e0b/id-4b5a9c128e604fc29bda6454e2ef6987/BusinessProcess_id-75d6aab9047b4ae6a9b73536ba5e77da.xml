@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Support Service Problem Management"
+    id="id-75d6aab9047b4ae6a9b73536ba5e77da"
+    documentation="Assist Service Problem Management processes by proactively undertaking statistically driven preventative and scheduled service infrastructure maintenance activities and monitoring, managing and reporting on the capability of the Service Problem Management processes.">
+  <properties
+      key="Process Identifier"
+      value="1.4.4.3"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The responsibilities of the Support Service Problem Management processes are twofold - assist Service Problem Management processes by proactively undertaking statistically driven preventative and scheduled service infrastructure maintenance activities and monitoring, managing and reporting on the capability of the Service Problem Management processes. These processes are responsible for ensuring that the service infrastructure is working effectively and efficiently. Responsibilities of these processes include, but are not limited to: â€¢ Extracting and analyzing, including undertaking trend analysis, historical and current service instance problem reports and performance reports to identify potential service infrastructure or service instances requiring proactive maintenance and/or replacement; â€¢ Requesting scheduling of additional service instance data collection to assist in the analysis activity; â€¢ Requesting scheduling of service instance performance testing to assist in analysis activity; â€¢ Developing and managing service infrastructure and service instance proactive maintenance programs; â€¢ Requesting service provisioning activity to prevent anticipated service problems associated with capacity limitations identified in the analysis activities; â€¢ Reporting outcomes of trend analysis to Service Development &amp; Management processes to influence new and/or modified service infrastructure development; â€¢ Tracking and monitoring of the Service Problem Management processes and associated costs (including where service infrastructure is deployed and managed by third parties), and reporting on the capability of the Service Problem Management processes; â€¢ Establishing and managing service problem notification facilities and lists to support the Service Problem Management notification and reporting processes;"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Specify Metric Collection Job"
+    id="id-1be973a1bc6b4cd3bc8bad88e8b5ac17"
+    documentation="Define a recurrence schedule for collecting and computing data to obtain Metric measurements for a set of objects.">
+  <properties
+      key="Process Identifier"
+      value="1.7.3.4.5.3.2"/>
+  <properties
+      key="Category"
+      value="(6) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Metric Collection Job Specification specifies the time schedule for a data collection task (&quot;job&quot;) for a Metric, applied to a selected set of objects. Metric Collection Job Specification defines the frequency, periodicity, or any time-based repetition of a measurement campaign. Metric Collection Job Specification also defines any additional constraints and conditions driving the Collection Job."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

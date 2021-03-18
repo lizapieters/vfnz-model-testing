@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Verification Management"
+    id="id-6c6ff86af9ce499fbd4a7b3e309d8563"
+    documentation="0">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="7.11.5"/>
+  <properties
+      key="Frameworx Domain"
+      value="Resource Domain"/>
+  <properties
+      key="Maturity Level"
+      value="3"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

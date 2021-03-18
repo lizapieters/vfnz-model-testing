@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LogicalResource"
+    id="id-320502e256bc485fac5ac2a68d76c13c"
+    documentation="This is an abstract base class for describing different logical aspects of devices (e.g.; DeviceInterfaces) that constitute a Product. It has two main purposes: (1) to collect common attributes and relationships for all logical entities; and (2) to provide a convenient; single point where relationships with other managed objects can be defined."/>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define Default Privacy Profile Rules"
+    id="id-eecf88d8e8a04995915bebc22e38b990"
+    documentation="Define the default values for the Privacy Profile Rules based for each Personally Identifiable Information defined by the Define Default Privacy Information process.">
+  <properties
+      key="Process Identifier"
+      value="1.6.7.2.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Define Default Privacy Profile Rules processes is used by the Data Controller to define the default values for the Privacy Policy Rules based for each element of Personally Identifiable Information identified by the Define Default Privacy Information process: - the Internal Purpose Rule : the purpose behind each possible use of a PII element within/by the Data Controller Party (i.e. Data Processor) - the External Purpose Rule : the purpose behind each possible use of a PII element outside the Data Controller Party - the Internal Retention Rule : possible retention times for each PII element within the Data Controller Party - the External Retention Rule : possible retention times for each PII element outside the Data Controller Party (by a third party)"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1039"
+    id="id-bdcc64ea44524de5bec8e311edee9b49"
+    documentation="As a transitioning team i need to be able to set eligibility to offers based on a series of criteria, plan, price, existing customer (As a new or existing customer transitioning 4 endless plans can we offer a free phone)">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1039"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Steve Bird"/>
+  <properties
+      key="Tribe"
+      value="Transition"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Transition"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="0"/>
+  <properties
+      key="Remarks"
+      value="Does every legacy customer that is about to transition see same offers or are they targetted based on different criteria (like being a VF customer for a long time etc). It's actually not different product offers, but some additional discounts, etc. Those will not be given to all customers, but just selected ones (additional rules within the transition app)"/>
+  <properties
+      key="Module"
+      value="BS, DS, PC, TA"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

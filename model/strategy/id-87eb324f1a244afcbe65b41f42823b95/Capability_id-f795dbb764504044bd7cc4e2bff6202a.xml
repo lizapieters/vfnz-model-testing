@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Case Definition and Configuration"
+    id="id-f795dbb764504044bd7cc4e2bff6202a"
+    documentation="Case Definition and Configuration applications provide the necessary functionality to define different types of cases, along with the states for each case type and associated configurations and workflow.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.17.1"/>
+  <properties
+      key="TMF Function"
+      value="Case Detention"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

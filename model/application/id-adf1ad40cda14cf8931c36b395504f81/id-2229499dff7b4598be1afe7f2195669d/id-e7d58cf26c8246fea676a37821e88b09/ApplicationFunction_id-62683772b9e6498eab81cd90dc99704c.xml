@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fallout Technician Dashboard"
+    id="id-62683772b9e6498eab81cd90dc99704c"
+    documentation="Fallout Technician Dashboard applications provide staff the means to access to a variety of tools and information to assist in the handling of order fallout.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="11.2.4"/>
+  <properties
+      key="Frameworx Domain"
+      value="Cross Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

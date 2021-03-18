@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Capability Orchestration"
+    id="id-a6c888d9b78f4ede875a6f4d58c3b383"
+    documentation="Resource Capability Orchestration application will perform automated Resource Task Item decomposition, integration of one or more resources, coordination, and management in resource deployment, resource instantiation and resource element updating. The application function fulfills the needs of orchestration for Operation Support &amp; Readiness, Fulfilment and Assurance domains applications in the Resource Layer with regards to Hybrid ecosystem.">
+  <properties
+      key="TAM Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="7.16"/>
+  <properties
+      key="Frameworx Domain"
+      value="Resource Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="0"/>
+</archimate:ApplicationFunction>

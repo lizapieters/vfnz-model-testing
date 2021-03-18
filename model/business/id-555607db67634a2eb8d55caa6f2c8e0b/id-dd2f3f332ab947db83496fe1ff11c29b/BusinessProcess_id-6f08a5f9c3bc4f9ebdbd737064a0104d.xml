@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Data Storage"
+    id="id-6f08a5f9c3bc4f9ebdbd737064a0104d"
+    documentation="Manage data storage process provides capabilities to manage the storage of data within the enterprise it provides capabilities to Manage Data Store &amp; models, Manage Metadata related to data storage and audit processes to perform auditing and reporting.">
+  <properties
+      key="Process Identifier"
+      value="1.7.8.5.5"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The strategy, requirements of data storage will vary a lot based on various factors like data type (structure, unstructured or semi structured data types), volumes frequency of use etc. therefore it is essentially important to manage the storage of data and continuously keep monitoring it. Manage data storage process provides capabilities fulfilling the various needs of data storage requirements. It provides processes to Manage Data Store &amp; models, Manage Metadata related to data storage and audit processes to perform auditing and reporting. TM Forumâ€™s best practice of data repository ABDR provides a unified data repository of data entities allowing to foster innovation through heterogeneous data systems, across organization various departments and with multiple use cases"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

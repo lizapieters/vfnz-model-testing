@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Campaign &amp; Funnel Management"
+    id="id-5e82781da7cd4752b20d8637a6c3624a"
+    documentation="Campaign &amp; Funnel Management provides the necessary functionality to manage a service provider's campaigns and funnel/workflows.">
+  <properties
+      key="TMF Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="3.9"/>
+  <properties
+      key="TMF Function"
+      value="0"/>
+  <properties
+      key="TMF Maturity"
+      value="Market_Sales Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monetary Amount Matching"
+    id="id-77b58db4324b4f0dad5743698b4f9337"
+    documentation="The ability to associate a monetary amount with another business object.">
+  <properties
+      key="TMF_ID"
+      value="1.3.6.9.4"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

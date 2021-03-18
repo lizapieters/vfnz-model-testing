@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Perform 3rd Party Billing"
+    id="id-74334041735746cab94c6da09f59080a"
+    documentation="Perform 3rd Party Billing process is a form of Partner Billing which describes how services contracted outside the CSP's are received and distributed, payment received and shared">
+  <properties
+      key="Process Identifier"
+      value="1.6.15.4.7"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Perform 3rd Party Billing process is a form of Partner Billing which describes how revenue is shared (proportionally) for the benefit of using the Billing Service of the CSP. Known examples include water &amp; electricity bills, municipal fees, etc. 3rd Party Billing has a Partner &amp; Retail Component i.t.o Billing - is a process that has allows existing customers to make purchases through other authorized merchants, service providers and other telecommunications companies, and have charges placed directly on their local phone bill, as an alternate payment option."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

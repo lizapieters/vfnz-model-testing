@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UsageVolumeBalanceDebit"
+    id="id-995e1b85508a403b84f061f2ad340c57"
+    documentation="The UsageVolumeBalanceDebit represents an amount in a certain unit that decrements the UsageVolumeBalance. The UsageVolumeBalanceDebit is the result of applying a particular UsageVolumeChargingRule for a ProductUsage and decrements the balance of the UsageVolumeProduct (UsageVolumeBalance)."/>

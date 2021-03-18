@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Case Workflow"
+    id="id-aff4b1f3ddf0429881c5f79d895a9273"
+    documentation="Case Workflow applications provide general workflow and orchestration capability for the Case Management area. This capability will be used to implement the flow defined and configured via the Case Definition and Configuration application.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="5.17.2"/>
+  <properties
+      key="Frameworx Domain"
+      value="Customer Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

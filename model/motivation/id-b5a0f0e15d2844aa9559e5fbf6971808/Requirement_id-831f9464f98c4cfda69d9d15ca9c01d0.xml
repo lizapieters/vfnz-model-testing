@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0689"
+    id="id-831f9464f98c4cfda69d9d15ca9c01d0"
+    documentation="As a product manager, I want to be able to save the email address and the associated sign-up journey so that customers who drop out can try again at a later date and retrieve their existing information">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0689"/>
+  <properties
+      key="Status"
+      value="Potential gap"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="bk"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Setup"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Topic"
+      value="Save email"/>
+  <properties
+      key="Remarks"
+      value="how do you envision retrying the sign-up journey? might be realized by creating a mini-customer entity as soon as user provides an email address. An email could be send to the user with a link to continue the order"/>
+  <properties
+      key="Module"
+      value="DS,SC, EP, BR, PIM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

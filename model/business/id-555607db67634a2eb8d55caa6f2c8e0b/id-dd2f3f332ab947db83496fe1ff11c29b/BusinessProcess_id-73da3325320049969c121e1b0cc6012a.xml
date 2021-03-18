@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Capture Resource Demand &amp; Performance Requirements"
+    id="id-73da3325320049969c121e1b0cc6012a"
+    documentation="These processes provide detailed analysis of new resource requirements linked to relevant geographic distributions which may be as small as Cell level for mobile networks. These processes also establish the detailed performance requirements. These processes take the forecast information available from the Produce Resource Business Plans and requirements information from the Map &amp; Analyze Service Requirements processes, as well as resource infrastructure requirements developed by the Develop Detailed Resource Specifications processes, to establish detailed views of anticipated resource demand and performance requirements. These views may be displayed on a console or visual platform and shared by relevant resource owners.&#xA;These processes manage the capacity planning for the resource infrastructure, and identify capacity requirements based on service forecasts and appropriate resource related metrics, i.e., transaction volumes, storage requirements, traffic volumes, port availabilities, etc. These forecasts may be based on near real-time information and use AI forecasting techniques.">
+  <properties
+      key="Process Identifier"
+      value="1.5.2.1.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

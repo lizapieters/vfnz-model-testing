@@ -1,0 +1,27 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SAP AccAD"
+    id="id-514978e929c64605a35676dc436e8820"
+    documentation="SAP">
+  <properties
+      key="StatusForLookUp"
+      value="Decommissioned"/>
+  <properties
+      key="Owner"
+      value="AndrewH"/>
+  <properties
+      key="Level of Service"
+      value="Business Standard"/>
+  <properties
+      key="Product / Service"
+      value="Fixed"/>
+  <properties
+      key="Segment"
+      value="Common"/>
+  <properties
+      key="DX Association"
+      value="Unrelated"/>
+  <properties
+      key="Legacy BSS Stack Served"
+      value="Common"/>
+</archimate:ApplicationComponent>

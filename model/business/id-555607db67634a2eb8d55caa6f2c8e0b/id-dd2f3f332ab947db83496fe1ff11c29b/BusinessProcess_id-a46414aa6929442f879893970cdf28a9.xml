@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Select Short-listed Party"
+    id="id-a46414aa6929442f879893970cdf28a9"
+    documentation="Select a party with whom an agreement is to be negotiated.">
+  <properties
+      key="Process Identifier"
+      value="1.6.2.2.6"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Select Short-listed Party select a party with whom an agreement is to be negotiated. The party may be selected based on their response to a formal tender document that was issued or only based on the results of using requirements gathered by the applicable Determine Sourcing Requirements sub-processes and the other Determine Potential Parties sub-processes. This process typically involves some form of interaction with a short-listed party, such as a visit to the party's site(s), a visit to the enterprise site(s) , conference calls, and so forth. The interaction should include one or more demonstrations of the party's capability to satisfy requirements. This process may be repeated if more than one party is selected from the short list of parties."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Approve Product Offering Purchase Return"
+    id="id-6a68560cc7f34d04a56e4e64e5095020"
+    documentation="Approve the return of one or more purchased product offerings.">
+  <properties
+      key="Process Identifier"
+      value="1.2.9.2.4.2"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Approve Product Offering Purchase Return approves the return of one or more purchased product offerings. Typically some form of authorization number is provided to the party who made the product offering purchase and it may take the form of an email or on the web as part of the party making a return request. Once a purchased product offering is received by the appropriate logistics process various processes may be triggered. For example, a refund may be initiated or the purchased product offering may be replaced with another an delivered back to the party."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

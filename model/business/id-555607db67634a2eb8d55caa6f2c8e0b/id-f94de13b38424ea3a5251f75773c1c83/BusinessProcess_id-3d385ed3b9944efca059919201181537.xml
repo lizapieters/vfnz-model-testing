@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Create Basic Product Offering Purchase Information"
+    id="id-3d385ed3b9944efca059919201181537"
+    documentation="Create basic information about the product offering purchase, such as purchase number or shopping cart ID, date, initiating party.">
+  <properties
+      key="Process Identifier"
+      value="1.2.9.1.2.1"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Create Basic Product Offering Purchase Information creates basic information about the purchase, such as purchase number or shopping cart ID, date, initiating party, and, if necessary, install address, overrides of bill to and ship to that are maintained in a party's profile, special requirements and so forth. In the case of a shopping form of product offering purchase and existing shopping cart may be used instead of creating a new one. This is done if the previous cart contains some existing product offerings to be purchased."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

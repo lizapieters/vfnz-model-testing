@@ -1,0 +1,42 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WebNIS"
+    id="id-5310d173a0a547a3b72157492d895ada"
+    documentation="WebNIS">
+  <properties
+      key="StatusForLookUp"
+      value="Active"/>
+  <properties
+      key="Owner"
+      value="AndrewH"/>
+  <properties
+      key="Level of Service"
+      value="Business Standard"/>
+  <properties
+      key="Product / Service"
+      value="Fixed"/>
+  <properties
+      key="Segment"
+      value="Common"/>
+  <properties
+      key="DX Association"
+      value="Integrate"/>
+  <properties
+      key="Existing Retained or Replaced"
+      value="Replace"/>
+  <properties
+      key="ComArch / Other"
+      value="Network as a Service (VF)"/>
+  <properties
+      key="Legacy BSS Stack Served"
+      value="Common"/>
+  <properties
+      key="TAM App ID"
+      value="6.3.9.3.1"/>
+  <properties
+      key="TAM Domain"
+      value="Service Domain"/>
+  <properties
+      key="TAM Application"
+      value="Service Address Validation"/>
+</archimate:ApplicationComponent>

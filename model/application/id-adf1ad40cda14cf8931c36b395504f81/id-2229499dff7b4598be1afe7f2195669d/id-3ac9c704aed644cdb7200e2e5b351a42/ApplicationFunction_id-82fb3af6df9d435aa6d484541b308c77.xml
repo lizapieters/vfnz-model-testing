@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Availability Validation"
+    id="id-82fb3af6df9d435aa6d484541b308c77"
+    documentation="Service Availability Validation applications validate that the service is available and supportable at the requested location.">
+  <properties
+      key="TAM Category"
+      value="(4) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="6.3.9.3.2"/>
+  <properties
+      key="Frameworx Domain"
+      value="Service Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

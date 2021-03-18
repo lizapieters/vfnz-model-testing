@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Determine the Sourcing Requirements"
+    id="id-7763ec4f9fc6411c85f88e7b922d10e9"
+    documentation="Manage the collection and finalization of the specific requirements to be achieved from the sourcing process.">
+  <properties
+      key="Process Identifier"
+      value="1.6.2.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Determine the Sourcing Requirements processes manage the collection and finalization of the specific requirements to be achieved from the sourcing process including a chronological timetable for anticipated sourcing activities. These requirements take into account the required functional, technical and/or operational specifications produced by the area seeking the sourcing activity and assuring that appropriately aligned commercial aspects (such as special commercial terms, tender timing, cost parameters, etc.) are catered for. The requirements will be determined from the requirements specified in the various business or investment proposals, and any subsequent detailed specifications developed as a part of the architecture design activity, within the product, market, service or resource capability delivery processes. The actual range of requirements are dependent on the needs of the sourcing initiator, but are likely to include, at a minimum, technical, operational, training and specific supplier support requirements. The Party Strategy and Planning processes will also provide a set of enterprise level requirements that the sourcing process will need to satisfy. The processes include any interaction with cross-enterprise coordination and management functions to ensure that the requirements meets the needs of all stakeholders"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

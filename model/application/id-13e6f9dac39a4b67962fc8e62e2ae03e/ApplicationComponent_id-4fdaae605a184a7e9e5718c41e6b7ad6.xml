@@ -1,0 +1,39 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rancid"
+    id="id-4fdaae605a184a7e9e5718c41e6b7ad6"
+    documentation="Rancid">
+  <properties
+      key="StatusForLookUp"
+      value="Active"/>
+  <properties
+      key="Owner"
+      value="TonyB"/>
+  <properties
+      key="Level of Service"
+      value="Business Premium"/>
+  <properties
+      key="Product / Service"
+      value="Common"/>
+  <properties
+      key="Segment"
+      value="Common"/>
+  <properties
+      key="DX Association"
+      value="Unrelated"/>
+  <properties
+      key="Existing Retained or Replaced"
+      value="Retained"/>
+  <properties
+      key="Legacy BSS Stack Served"
+      value="Common"/>
+  <properties
+      key="TAM App ID"
+      value="7.9.1"/>
+  <properties
+      key="TAM Domain"
+      value="Resource Domain"/>
+  <properties
+      key="TAM Application"
+      value="Resource Performance Monitoring"/>
+</archimate:ApplicationComponent>

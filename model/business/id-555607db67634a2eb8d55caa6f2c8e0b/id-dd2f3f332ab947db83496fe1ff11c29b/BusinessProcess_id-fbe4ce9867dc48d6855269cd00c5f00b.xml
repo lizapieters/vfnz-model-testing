@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define Engaged Elements"
+    id="id-fbe4ce9867dc48d6855269cd00c5f00b"
+    documentation="Define Engaged Elements process defines or identifies the elements for which alignment is required.">
+  <properties
+      key="Process Identifier"
+      value="1.8.5.1.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Define Engaged Elements process defines or identifies the elements for which alignment is required. The definition of &quot;Element&quot; includes, but is not limited to: a domain, a process, a person (including staff), a group of people, an organizational department and an asset, whether tangible (such as network or ecosystem) or intangible (such as information and intangible ecosystems). An &quot;element&quot; may be a domain, e.g. Resource, or a component of a domain, e.g. data in the Service domain, prepaid mobile offering in Product domain and network in Resource domain, or a combination of an entire domain with one or more elements in other domains."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

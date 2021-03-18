@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Asset Lifecycle Management"
+    id="id-ae1a2a49de434a3ba75447e7999dcecb"
+    documentation="The ability to define, track, and articulate the series of stages of an asset, between the time it was acquired or created until it is destroyed or disposed.">
+  <properties
+      key="TMF_ID"
+      value="1.3.5.7"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

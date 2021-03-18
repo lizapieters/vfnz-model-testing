@@ -1,0 +1,33 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Campaign Design"
+    id="id-7b4c31d2c5204b80867eab755ea79a4f"
+    documentation="Campaign Design applications provide the necessary tools to formulate a campaign, taking into account the targeted customers and products.">
+  <properties
+      key="TMF_ID"
+      value="1.2.12.2"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+  <properties
+      key="TMF Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="3.9.1.2"/>
+  <properties
+      key="TMF Function"
+      value="Campaign creation Campaign execution pre-preparation Campaign template creation"/>
+  <properties
+      key="TMF Maturity"
+      value="Market_Sales Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

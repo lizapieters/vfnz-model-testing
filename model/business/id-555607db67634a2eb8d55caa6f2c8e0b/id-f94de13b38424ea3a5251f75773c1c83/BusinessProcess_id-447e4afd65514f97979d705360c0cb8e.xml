@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Add Configuration Specification"
+    id="id-447e4afd65514f97979d705360c0cb8e"
+    documentation="Add a configuration specification and any policy that governs the selection of a configuration specification.">
+  <properties
+      key="Process Identifier"
+      value="1.8.3.1.1.1"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Add Configuration Specification creates a configuration specification and any policy that governs the selection of a configuration specification. Configuration specifications define how an entity, such as a product, service, or resource can be configured in order for it to function properly. Basic information about the specification, such as name and version, are defined by this process. Note that this process is meant to use generic policy processes to define the base policy that is used to determine the use a configuration specification. To date the generic processes have not yet been developed."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

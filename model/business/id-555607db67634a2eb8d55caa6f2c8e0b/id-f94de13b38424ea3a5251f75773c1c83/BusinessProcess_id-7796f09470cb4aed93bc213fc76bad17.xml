@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Internal Ethics Policies"
+    id="id-7796f09470cb4aed93bc213fc76bad17"
+    documentation="This process contains specific policies relating to internal staff conduct, and outlines what may be determined as a breach of that conduct and associated penalties.">
+  <properties
+      key="Process Identifier"
+      value="1.7.2.3.1.7"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The success of an operator is determined by many factors. One of the key factors relates to the experience and conduct of the internal staff. Certain actions by internal staff could result in harm to the operator in terms of financial loss, loss of customers, or loss of sensitive internal information. Policies need to be constructed and maintained within the operator that outline the conduct that is expected of employees, and also what is considered a breach, or violation, of that conduct. Additionally, penalties associated with breach or violation should also be explained within these policies (e.g., prosecution, termination, etc.). Specific policy areas to address include, but are not limited to: 1. Internal communications 2. Partner communications 3. Customer communications 4. System access and use This overall set of policies should be in the form of a document signed by all employees, and maintained within their employee records. Additional policies should also be maintained for Fraud Team members within the operator. These policies should be included within an addendum document, signed by each Fraud Team member. While all employees will have signed conduct agreements, staff working within a Fraud department will have access to particularly sensitive systems and information relating to internal and external fraud issues, which will require an increased level of confidentiality, privacy, and most importantly, security, beyond what general staff will be held accountable."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

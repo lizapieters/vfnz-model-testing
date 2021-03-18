@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define Incident Management policies and procedures"
+    id="id-9f327c6157b444e2b00433ab797f23bc"
+    documentation="ITSM-based incident management practices.  Within the Incident Management process the organization leverages ITSM-based incident management practices in response to a Warning.Â  Incident Management will identify necessary Response &amp; Recovery actions that may be conducted by Business Continuity Mgmt. processes or within Operations/Assurance.">
+  <properties
+      key="Process Identifier"
+      value="1.7.2.2.12"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

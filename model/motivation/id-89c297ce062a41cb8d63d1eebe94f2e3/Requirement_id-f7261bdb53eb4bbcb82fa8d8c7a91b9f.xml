@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0807"
+    id="id-f7261bdb53eb4bbcb82fa8d8c7a91b9f"
+    documentation="As a Fraud Manager I want all customer facing system users to have visibility over account access logs to eliminate unethical behaviour with customer accounts">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0807"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Caroline Carver"/>
+  <properties
+      key="Tribe"
+      value="Privacy, Fraud and Compliance"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="y"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Manage"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Fraud"/>
+  <properties
+      key="Remarks"
+      value="Anyone going to a customer account should see who previously visited the account. This relates to VF employees. There should be an exception for people of a set role (who are possibly doing investigations of frauds) OOTB extension is needed to register Activiti everytime a user access customer data (enters 360 view of the customer)"/>
+  <properties
+      key="Module"
+      value="CRM, TUM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="Not Applicale"/>
+</archimate:Requirement>

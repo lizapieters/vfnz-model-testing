@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CommunicationInteractionResult"
+    id="id-9993ebb7879740bb8e4a2db7abe3d713"
+    documentation="A CommunicationInteractionResult specifies describes the main result which entity (RootEntity) is impacted and for which action (CommunicationInteractionAction) by the CommunicationInteractionItem. For example: - Action: creates for Entity: CustomerProductOrder CO1 - Action: create for Entity: CustomerProblem CP1 - Action: Help for use for Entity: Billys Broadband - Action: explain Entity: Billys Customer Bill"/>

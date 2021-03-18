@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Application Security"
+    id="id-cb5e7c6fb97b486f9039c7e52b180f01"
+    documentation="Providing functions so only the right people and systems have the right access, according to authentication and authority.&#xA;This may call for e.g.&#xA;> User Management through a central user repository&#xA;> User - Role Management&#xA;> Authentication with Single Sign-On&#xA;> Authentication with &quot;Strong Authentication&quot; if needed &#xA;> Authorization that is Role and Rule based, and Central Authentication based">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="9.5.2"/>
+  <properties
+      key="Frameworx Domain"
+      value="Enterprise Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

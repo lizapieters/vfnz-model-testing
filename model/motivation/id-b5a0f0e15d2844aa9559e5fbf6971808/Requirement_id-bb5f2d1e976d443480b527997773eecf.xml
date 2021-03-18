@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0548"
+    id="id-bb5f2d1e976d443480b527997773eecf"
+    documentation="As a customer, I want to be able to change my payment cycle from 28 days to either weekly or fortnightly, 28 days, so that I can align my payments with my other bills.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0548"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Diane Watson"/>
+  <properties
+      key="Tribe"
+      value="Consumer Home"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="prio2"/>
+  <properties
+      key="Base"
+      value="1?"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Change payment frequency"/>
+  <properties
+      key="Remarks"
+      value="Is this one still considered?"/>
+  <properties
+      key="Module"
+      value="SC, PC, OM, BS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1238"
+    id="id-bbea9fb0bf5c4c1087661f60e0aa20b1"
+    documentation="As a prospective customer, chatting to online chat for support, I want to be able to get an offer straight away and get assistance to complete my purchase online, so that I can feel confident with my decision to purchase Vodafone services.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1238"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Diane Watson"/>
+  <properties
+      key="Tribe"
+      value="Consumer Home"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="2"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Get"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Use"/>
+  <properties
+      key="Topic"
+      value="Promotional offers and discounts"/>
+  <properties
+      key="Remarks"
+      value="0"/>
+  <properties
+      key="Module"
+      value="DS, CRM, AIF, PC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Investment/Payment Matching"
+    id="id-5cdd86450edd4284bb18e55f160cde05"
+    documentation="The ability to associate money received or disbursed with an investment.">
+  <properties
+      key="TMF_ID"
+      value="1.2.6.6.4"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

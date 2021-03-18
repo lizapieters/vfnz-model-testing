@@ -1,0 +1,45 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TDMS"
+    id="id-2c1da117273d4f23a1c9faf0d7ac9dc0"
+    documentation="Realtime NPS">
+  <properties
+      key="StatusForLookUp"
+      value="Active"/>
+  <properties
+      key="Owner"
+      value="AndrewH"/>
+  <properties
+      key="Level of Service"
+      value="Mission Critical"/>
+  <properties
+      key="Product / Service"
+      value="Common"/>
+  <properties
+      key="Segment"
+      value="Common"/>
+  <properties
+      key="DX Association"
+      value="Replaced Fully"/>
+  <properties
+      key="Existing Retained or Replaced"
+      value="Replace"/>
+  <properties
+      key="ComArch / Other"
+      value="Comarch"/>
+  <properties
+      key="Dig Future Module"
+      value="Billing Mediation (MD)"/>
+  <properties
+      key="Legacy BSS Stack Served"
+      value="Common"/>
+  <properties
+      key="TAM App ID"
+      value="5.5.12"/>
+  <properties
+      key="TAM Domain"
+      value="Customer Domain"/>
+  <properties
+      key="TAM Application"
+      value="Customer Experience Monitoring"/>
+</archimate:ApplicationComponent>

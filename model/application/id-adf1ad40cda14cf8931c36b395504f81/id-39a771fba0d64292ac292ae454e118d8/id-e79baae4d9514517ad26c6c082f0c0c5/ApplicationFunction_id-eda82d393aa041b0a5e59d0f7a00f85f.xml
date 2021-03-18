@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Recalculation"
+    id="id-eda82d393aa041b0a5e59d0f7a00f85f"
+    documentation="recalculation of charges/credits based on information received later (e.g. from the Service Level Agreement function, delayed call detail record file arrival, delayed order arrival). Recalculation may be necessary: pre-billing (prior to Bill Calculation), during the Bill Calculation process, and/or post-billing.">
+  <properties
+      key="Function Identifier"
+      value="128"/>
+  <properties
+      key="TAM Application Name"
+      value="Charge Calculation"/>
+  <properties
+      key="TAM Application Id"
+      value="5.19.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.19.1.128"/>
+</archimate:ApplicationFunction>

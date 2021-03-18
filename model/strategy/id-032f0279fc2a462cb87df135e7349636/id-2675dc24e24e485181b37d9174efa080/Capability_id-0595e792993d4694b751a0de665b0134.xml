@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Submission/Payment Matching"
+    id="id-0595e792993d4694b751a0de665b0134"
+    documentation="The ability to associate a submission with an inbound payment.">
+  <properties
+      key="TMF_ID"
+      value="1.3.10.5.7.2"/>
+  <properties
+      key="Level"
+      value="4"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

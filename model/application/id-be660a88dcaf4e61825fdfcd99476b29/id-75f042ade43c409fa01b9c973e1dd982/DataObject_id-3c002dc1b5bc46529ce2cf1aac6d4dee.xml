@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProtocolServiceDetails"
+    id="id-3c002dc1b5bc46529ce2cf1aac6d4dee"
+    documentation="This class captures the semantics of the rfServiceUsesProtocol aggregation. The attributes of this class are currently TBD. This aggregation defines the set of Protocols that are required by a particular ResourceFacingService. The semantics associated with how a given Protocol is used by a particular ResourceFacingService is defined by the ProtocolServiceDetails aggregation class."/>

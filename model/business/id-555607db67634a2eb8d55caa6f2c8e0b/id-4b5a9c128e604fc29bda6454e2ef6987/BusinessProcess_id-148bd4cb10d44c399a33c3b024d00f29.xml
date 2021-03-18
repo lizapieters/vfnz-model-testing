@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Recover Resource"
+    id="id-148bd4cb10d44c399a33c3b024d00f29"
+    documentation="Recover specific resources that are no longer required.">
+  <properties
+      key="Process Identifier"
+      value="1.5.6.8"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The responsibility of the Recover Resource processes is to recover specific resources that are no longer required. These processes follow recovery plans specified by the supplier/partner, or follow recovery plans developed by the service provider. Where appropriate recovery plans are not available these processes are responsible for developing appropriate recovery plans. Where recovery of resources is likely to impact other in-use specific resources or specific services, this process is responsible for providing appropriate notification of the recovery proposal and ensuring authorization is received to proceed with the recovery plan. When the recovery activity is about to commence, these processes are responsible for notifying when recovery work is commencing and when it is completed. When recovered, the specific resources will be marked as unallocated."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

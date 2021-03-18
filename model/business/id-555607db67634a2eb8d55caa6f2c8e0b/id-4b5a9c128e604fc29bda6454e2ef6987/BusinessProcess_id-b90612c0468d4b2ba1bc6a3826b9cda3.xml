@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analyze Sales Performance"
+    id="id-b90612c0468d4b2ba1bc6a3826b9cda3"
+    documentation="Analyze sales performance against forecasts and strategy">
+  <properties
+      key="Process Identifier"
+      value="1.1.13.3"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Analyze sales performance against forecasts, strategy, measured by e.g. sales revenue, sales growth, sales quotas, new accounts won, upselling and cross selling, referrals, win/loss ratios, client retention, customer complaints/customer satisfaction. consider describing action that happens if threshold is not met, refer here to the generic metrics that were added in 15.0"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

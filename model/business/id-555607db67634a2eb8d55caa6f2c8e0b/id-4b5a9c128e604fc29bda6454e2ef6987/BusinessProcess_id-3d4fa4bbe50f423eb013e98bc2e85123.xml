@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Terminate Party Agreement"
+    id="id-3d4fa4bbe50f423eb013e98bc2e85123"
+    documentation="Terminate an agreement between the enterprise and a party or parties.">
+  <properties
+      key="Process Identifier"
+      value="1.6.5.5"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Terminate Party Agreement terminates an agreement between the enterprise and the party or parties. This process does not terminate the entire relationship (which is handled by the Manage Party Termination process), but just the agreement. The process supports activities that cease the enterprise from offering any products/services to its customers that depend on the party's or parties' products/services. This process also triggers any commercial settlements for this particular agreement, the off-boarding of the offerings and specifications from the enterprise catalog and the recovery of the resources into the party or parties inventory. When the â€œManage Party Terminationâ€� process is invoked, this automatically terminates all agreements and therefore this process will be invoked for each of the agreements."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

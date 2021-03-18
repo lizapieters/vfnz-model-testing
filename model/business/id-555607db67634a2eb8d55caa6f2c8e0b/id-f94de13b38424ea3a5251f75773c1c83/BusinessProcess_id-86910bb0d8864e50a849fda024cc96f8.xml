@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Conduct Loyalty Program Analysis"
+    id="id-86910bb0d8864e50a849fda024cc96f8"
+    documentation="Conduct an enterprise Strength/Weakness/Opportunity/Threat  (SWOT) analysis, conduct competitive SWOT, and analyze a competitor's loyalty program by researching its loyalty program.">
+  <properties
+      key="Process Identifier"
+      value="1.1.19.1.1.1"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Conduct Loyalty Program Analysis conducts an enterprise Strength/Weakness/Opportunity/Threat (SWOT) analysis. For example a weakness may be the number one complaint from our customer/partner feedback processes and how can a loyalty program turn this into a strength by introducing a loyalty program. Conduct competitive SWOT, and analyzes a competitor's loyalty program by researching its loyalty program. The analysis includes researching the loyalty program best practices in an enterprise's industry and in other industries. The results of the analysis are used to define the program's objectives and strategy."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

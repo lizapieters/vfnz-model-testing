@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WorkforceOrganizationRole"
+    id="id-8b52ec4dfd584ae6b988f84cfbb7261f"
+    documentation="This is a PartyRole that represents organizations involved in field operations. It can be the CSP Field Technician department itself; or a 3rd-party contractor company. Note that OrganizationRole has Calendar; inherited from Calendar of PartyRole."/>

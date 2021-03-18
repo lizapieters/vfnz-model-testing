@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1516"
+    id="id-80c929d9e40a4d318f2e4be7c51fa6de"
+    documentation="As a prospective customer, who is able to view Instant connect as an option to connect while they wait for their fixed broadband connection to be connected, I want to be able to learn more about Instant connect with Vodafone, so that I can decide if it is the right choice for me.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1516"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Diane Watson"/>
+  <properties
+      key="Tribe"
+      value="Consumer Home"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="prio2"/>
+  <properties
+      key="Base"
+      value="1?"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Learn"/>
+  <properties
+      key="Topic"
+      value="Broadband Subscription"/>
+  <properties
+      key="Remarks"
+      value="0"/>
+  <properties
+      key="Module"
+      value="DS, PC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

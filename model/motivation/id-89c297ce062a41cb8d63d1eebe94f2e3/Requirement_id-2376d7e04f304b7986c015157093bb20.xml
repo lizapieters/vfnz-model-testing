@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0014"
+    id="id-2376d7e04f304b7986c015157093bb20"
+    documentation="As a new customer, I want to be able to purchase a subscription &amp; hardware on interest free in store, so that I can join Vodafone">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0014"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="2"/>
+  <properties
+      key="Base_Old"
+      value="2"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Topic"
+      value="New customer, in store, subs &amp; hardware on IF"/>
+  <properties
+      key="Remarks"
+      value="OOTB"/>
+  <properties
+      key="Module"
+      value="OM, PC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="REQ_OSS_21 REQ_OSS_31 REQ_OSS_43 REQ_OSS_70 REQ_OSS_385 REQ_OSS_254"/>
+</archimate:Requirement>

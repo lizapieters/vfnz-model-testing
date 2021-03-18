@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Determine Party Revenue Share"
+    id="id-4b0843b69e31488ebc4d9514cc926b3c"
+    documentation="Calculate the revenue shared among an enterprise and one or more parties. Based on the type of revenue sharing model different determinants are used to calculate the final share.">
+  <properties
+      key="Process Identifier"
+      value="1.6.18.3.4"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Determine Party Revenue Share uses a revenue sharing model to calculate the revenue shared among an enterprise and one or more parties. Based on the type of revenue sharing model different determinants are used to calculate the final share. Flat rate and usage based revenue sharing models are just two of a number of models, which also include but are not limited to tiered, commitment, progressive, along with multi-party variations of each. The model specifies whether the share is calculated based on each revenue share item or based on an aggregate revenue share item. The revenue share may result in a payment to/from a party and/or an bill/invoice to/from a party. It may also be shown as a reduction of or increase to an bill/invoice sent to or received from a party, or a credit/debit to a party's account balance."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

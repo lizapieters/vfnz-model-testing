@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Coordinate Resource Trouble"
+    id="id-879a0f5fd642497ba5ec48e02974b70a"
+    documentation="This process coordinates all the actions necessary in order to guarantee that all tasks are finished at the appropriate time and in the appropriate sequence.  It schedules, assigns and coordinates repair and restoration activities, undertakes necessary tracking of the execution progress, modifies information in an existing resource trouble report based on assignments, and modifies the resource trouble report status;">
+  <properties
+      key="Process Identifier"
+      value="1.5.8.4.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

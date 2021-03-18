@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitor and Report Party Performance Issues and Provide Recommendations"
+    id="id-aaabf15ce3fe4a038d80c19aadb78d48"
+    documentation="Supervising party performance issues resolution progress and planning for the necessary improvements.">
+  <properties
+      key="Process Identifier"
+      value="1.6.6.3.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="â€¢ Monitoring and reporting on party progress towards resolving reported infrastructure performance issues; â€¢ Initiating reviews and recommendations for party infrastructure performance improvements;"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

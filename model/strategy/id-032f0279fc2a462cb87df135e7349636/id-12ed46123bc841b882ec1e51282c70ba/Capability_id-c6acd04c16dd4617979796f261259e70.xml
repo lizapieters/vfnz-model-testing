@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Incident Change Management"
+    id="id-c6acd04c16dd4617979796f261259e70"
+    documentation="The ability to state what modifications to the incidents are or might be enacted, and to state what the impact of that modification might be on outcomes.">
+  <properties
+      key="TMF_ID"
+      value="1.3.11.4.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

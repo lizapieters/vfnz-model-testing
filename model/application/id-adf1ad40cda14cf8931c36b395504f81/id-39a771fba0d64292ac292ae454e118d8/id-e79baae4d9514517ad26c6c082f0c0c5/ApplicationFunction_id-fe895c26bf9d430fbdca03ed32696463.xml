@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Channel Captured Order reception"
+    id="id-fe895c26bf9d430fbdca03ed32696463"
+    documentation="Capture channel information � receive the captured Customer Order data from the channel. Take care of persistence using Customer Order Lifecycle Management. Including ordered product versioning">
+  <properties
+      key="Function Identifier"
+      value="120"/>
+  <properties
+      key="TAM Application Name"
+      value="Channel Guidance and Data Capture"/>
+  <properties
+      key="TAM Application Id"
+      value="5.3.1.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.3.1.1.120"/>
+</archimate:ApplicationFunction>

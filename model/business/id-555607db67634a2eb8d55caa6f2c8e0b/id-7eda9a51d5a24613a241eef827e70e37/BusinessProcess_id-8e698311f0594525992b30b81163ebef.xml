@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Test Quality Analysis Management"
+    id="id-8e698311f0594525992b30b81163ebef"
+    documentation="Service Test  Quality Analysis Management manages a quality Analysis on Tests to continually tweak and improve it.">
+  <properties
+      key="Process Identifier"
+      value="1.4.11"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Service Test Quality Analysis Management manages a quality Analysis on Tests to continually tweak and improve it. Service Test Quality Analysis Management provides an offline analysis of the usage of the tests to determine its relevance and provides modifications proposal concerning all the Test specification (including: test method, quota, authorized users, consequences according to resultsâ€¦). This analysis is done using statistical test usage data to evaluate the tests relevance and the needed updates. Following the analysis, it can be decided to - Do nothing, - Propose the creation of additional service tests, - Propose the update of existing service tests, - Remove service tests that are considered irrelevant."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

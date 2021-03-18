@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LoyaltyAccount"
+    id="id-09c65ae34f234f99aa3bf9422fd10d66"
+    documentation="A LoyaltyAccount corresponds to a set of balances to carry loyalty movement according to different valid period and unit. A LoyaltyAccount may be required to realize a LoyaltyProgramProduct according to the rules carried by the corresponding LoyaltyProgramProdSpec. This is defined by the needsLoyaltyAccount attribute on the LoyaltyProgramProdSpec entity. A LoyaltyAccount may collect results from one or more LoyaltyProgramProduct."/>

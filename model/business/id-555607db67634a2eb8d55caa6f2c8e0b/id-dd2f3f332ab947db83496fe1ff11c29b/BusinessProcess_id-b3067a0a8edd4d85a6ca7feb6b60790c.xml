@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Record Service Performance Quality Data"
+    id="id-b3067a0a8edd4d85a6ca7feb6b60790c"
+    documentation="This process assesses and records received specific service performance quality data which is within tolerance limits for performance quality standards, and for which continuous monitoring and measuring of performance is required.  It  records the results of the continuous monitoring for reporting through the Report Service Quality Performance processes, and logs specific service performance quality degradation and violation details within the repository in the Manage Service Inventory processes to ensure historical records are available to support the needs of other processes.">
+  <properties
+      key="Process Identifier"
+      value="1.4.7.1.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

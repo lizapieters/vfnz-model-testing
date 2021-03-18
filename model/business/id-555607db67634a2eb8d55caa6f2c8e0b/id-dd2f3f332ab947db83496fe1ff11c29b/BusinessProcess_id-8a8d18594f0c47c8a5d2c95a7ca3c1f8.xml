@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Perform Reconciliation Pre-settlement"
+    id="id-8a8d18594f0c47c8a5d2c95a7ca3c1f8"
+    documentation="The process that calculates the expected settlement note that is due from the partner. Transactions records indicating an off-network (inter-) connection can be used to pre-calculate an upcoming invoice.">
+  <properties
+      key="Process Identifier"
+      value="1.6.18.4.5"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The process that calculates the expected settlement note that is due from the partner. This process is useful to enhance settlement efficiency, and allows the incumbent to focus only on those partners which shows high relative discrepancies. Transactions records indicating an off-network (inter-) connection can be used to pre-calculate and match the charges received from external networks. Simple example is roaming traffic using local GGSN for breakout in UMTS. Where the network operator can capture the details of outbound transactions that terminate or transit other networks, there is scope for 'draft' totals to be pre-calculated and compared to the network invoices when they arrive"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analyze &amp; Report on Customer"
+    id="id-366dd50cd6a94dafadccc3d3cced0c70"
+    documentation="Perform all necessary analysis on closed requests and on customer contacts and generate related reports">
+  <properties
+      key="Process Identifier"
+      value="1.3.5.9.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The purpose of this process is to perform all necessary analysis on closed (completed or unfulfilled) requests and on customer contacts and it generates related reports, to be utilized for process improvement activities, proactive problems prevention, up-sell opportunities definition, etc."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

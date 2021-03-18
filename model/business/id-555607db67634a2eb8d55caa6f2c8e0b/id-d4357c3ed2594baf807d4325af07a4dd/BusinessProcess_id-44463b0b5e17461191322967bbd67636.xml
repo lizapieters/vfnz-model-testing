@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop Product Offering Price Condition"
+    id="id-44463b0b5e17461191322967bbd67636"
+    documentation="Develop a product offering price condition that represents a single constraint that defines how a policy rule is assessed.">
+  <properties
+      key="Process Identifier"
+      value="1.2.7.2.2.2.1"/>
+  <properties
+      key="Category"
+      value="(6) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Develop Product Offering Price Condition develops (creates, updates, and removes) a product offering price condition that represents a single constraint that defines how a policy rule is assessment. A condition is part of a policy rule that is made up of a conditions and actions. Conditions and actions are defined by policy statements. For example a statement for a condition may be &quot;If a premium software package is purchased&quot;"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

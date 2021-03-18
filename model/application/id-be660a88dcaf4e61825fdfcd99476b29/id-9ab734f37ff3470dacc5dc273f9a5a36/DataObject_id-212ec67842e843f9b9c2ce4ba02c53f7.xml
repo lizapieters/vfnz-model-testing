@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IPAddressValue"
+    id="id-212ec67842e843f9b9c2ce4ba02c53f7"
+    documentation="This class is used to provide an unordered list of IPv4 addresses; IPv6 addresses; ranges of IPv4 addresses; ranges of IPv6 addresses; and hostnames to be matched against in a policy condition. The format of each string is specified according to the ABNF definition of an IPv4 address. If a hostname is matched against another valid IP address; the match is done by resolving the hostname into a valid IPv4 or IPv6 address. Matching hostnames against each other; like matching IP addresses (of the same type) against each other; is done using a string comparison. Matching an IPv4 address against an IPv6 address fails."/>

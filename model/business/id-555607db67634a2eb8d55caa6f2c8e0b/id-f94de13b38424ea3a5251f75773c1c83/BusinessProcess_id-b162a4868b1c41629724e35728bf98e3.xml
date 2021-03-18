@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Make Product Offering Purchase Choice"
+    id="id-b162a4868b1c41629724e35728bf98e3"
+    documentation="Choose a product offering to purchase or create a customized product offering.">
+  <properties
+      key="Process Identifier"
+      value="1.2.9.2.1.1"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Make Product Offering Purchase Choice chooses a product offering to purchase or creates a customized product offering. A customized offering may be a bundle and is based on rules defined for creating the customized offering. A price for the customized offering may also be determined (not chosen). The choice may also include one of the recommended product offerings provided."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

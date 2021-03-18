@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Order Validation"
+    id="id-01c4b9792def41a1b088cda6f55f6a85"
+    documentation="The Resource Order Validation function validates the resource order request based on contract, catalog, and provisioning rules.">
+  <properties
+      key="Function Identifier"
+      value="503"/>
+  <properties
+      key="TAM Application Name"
+      value="Resource Service Order Validation"/>
+  <properties
+      key="TAM Application Id"
+      value="7.3.2"/>
+  <properties
+      key="Constructed Id"
+      value="7.3.2.503"/>
+</archimate:ApplicationFunction>

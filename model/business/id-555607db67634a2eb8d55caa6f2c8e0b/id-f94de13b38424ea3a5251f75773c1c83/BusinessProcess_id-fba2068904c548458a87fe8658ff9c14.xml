@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Validate Network Function Instantiation"
+    id="id-fba2068904c548458a87fe8658ff9c14"
+    documentation="Validate to deploy network function.">
+  <properties
+      key="Process Identifier"
+      value="1.5.8.3.8.4"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of &quot;Validate Network Function Instantiationâ€� process is to check a feasibility for deploying network function. This process grants an authorization of a lifecycle operation. When applicable, this process give a permission for reserving network function resources (e.g., virtualized infrastructure with location information) based on network function catalog."/>
+  <properties
+      key="Maturity Level"
+      value="2"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

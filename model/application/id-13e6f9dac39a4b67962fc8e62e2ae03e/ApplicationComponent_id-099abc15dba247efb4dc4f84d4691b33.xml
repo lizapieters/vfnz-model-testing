@@ -1,0 +1,33 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reward Gateway"
+    id="id-099abc15dba247efb4dc4f84d4691b33"
+    documentation="Reward Gateway">
+  <properties
+      key="StatusForLookUp"
+      value="Inactive"/>
+  <properties
+      key="Owner"
+      value="AndrewH"/>
+  <properties
+      key="Level of Service"
+      value="Mission Critical"/>
+  <properties
+      key="Product / Service"
+      value="Common"/>
+  <properties
+      key="Segment"
+      value="Common"/>
+  <properties
+      key="DX Association"
+      value="Replaced Fully"/>
+  <properties
+      key="Existing Retained or Replaced"
+      value="Replace"/>
+  <properties
+      key="ComArch / Other"
+      value="Comarch"/>
+  <properties
+      key="Legacy BSS Stack Served"
+      value="C3"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1055"
+    id="id-e961df6ba2fc4871b374b2bd7d8c1388"
+    documentation="As a Payments specialist, I want the ability to send a copy of the invoice quickly and efficiently via email and have a reference of this interaction automatically added to the account">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1055"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Karen Lydon"/>
+  <properties
+      key="Tribe"
+      value="Finance &amp; Business / AR Payments"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Pay"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="AR/Payments"/>
+  <properties
+      key="Remarks"
+      value="Where copy of the invoice should be send to? Payments specialist or maybe it is just a copy for customer? A copy for the customer. Does not have to be marked as &quot;copy&quot;. Maybe for Frotnend employess too. Efficienty = push it without having to opening and saving."/>
+  <properties
+      key="Module"
+      value="DS,CRM,BS?, CNS?"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

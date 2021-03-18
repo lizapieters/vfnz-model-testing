@@ -1,0 +1,39 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ACT Microsoft Application Compatibility"
+    id="id-546428092e214f0f8f8ed1117607a325"
+    documentation="ACT Microsoft Application Compatibility">
+  <properties
+      key="StatusForLookUp"
+      value="Active"/>
+  <properties
+      key="Owner"
+      value="TonyB"/>
+  <properties
+      key="Level of Service"
+      value="Business Standard"/>
+  <properties
+      key="Product / Service"
+      value="Fixed"/>
+  <properties
+      key="Segment"
+      value="Common"/>
+  <properties
+      key="DX Association"
+      value="Unrelated"/>
+  <properties
+      key="Existing Retained or Replaced"
+      value="Retained"/>
+  <properties
+      key="Legacy BSS Stack Served"
+      value="Red"/>
+  <properties
+      key="TAM App ID"
+      value="9.5"/>
+  <properties
+      key="TAM Domain"
+      value="Enterprise Domain"/>
+  <properties
+      key="TAM Application"
+      value="Security Management"/>
+</archimate:ApplicationComponent>

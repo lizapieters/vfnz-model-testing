@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Order Rules configuration"
+    id="id-9c9671b58daa4b7694946f15b07f48af"
+    documentation="Customer Order Rules Configuration function. In addition to Product Catalog rules (like cross/up sell rules, compatibility rules, eligibility rules, address/service availability rules, etc.) some specific types of rules must be available for all decision-based actions on customer order. These rules could be: customer fraud check, decomposition rules, priority rules, order duplication prevention rules, complex rules involving multi-system checks, etc.">
+  <properties
+      key="Function Identifier"
+      value="721"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Order Rules Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.3.10"/>
+  <properties
+      key="Constructed Id"
+      value="5.3.10.721"/>
+</archimate:ApplicationFunction>

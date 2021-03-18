@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Supplier/Partner Settlements"
+    id="id-0c525c383c024611a9de6dd1ed8764d6"
+    documentation="Partner Settlements provides the necessary functionality to calculate a settlement with the partner, initiate the payment or bill to the partner, and create reports that substantiate the settlement.">
+  <properties
+      key="TMF Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="8.2.5.3"/>
+  <properties
+      key="TMF Function"
+      value="0"/>
+  <properties
+      key="TMF Maturity"
+      value="Supplier_Partner Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

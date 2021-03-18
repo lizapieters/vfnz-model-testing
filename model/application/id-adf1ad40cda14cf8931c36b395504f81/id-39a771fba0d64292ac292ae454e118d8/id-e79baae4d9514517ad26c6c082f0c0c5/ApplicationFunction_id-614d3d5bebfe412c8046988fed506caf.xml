@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Balance Management- Spending-limits enforcement"
+    id="id-614d3d5bebfe412c8046988fed506caf"
+    documentation="Enforce spending-limits and credit-control for postpaid balances.">
+  <properties
+      key="Function Identifier"
+      value="49"/>
+  <properties
+      key="TAM Application Name"
+      value="Balance Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.19.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.19.2.49"/>
+</archimate:ApplicationFunction>

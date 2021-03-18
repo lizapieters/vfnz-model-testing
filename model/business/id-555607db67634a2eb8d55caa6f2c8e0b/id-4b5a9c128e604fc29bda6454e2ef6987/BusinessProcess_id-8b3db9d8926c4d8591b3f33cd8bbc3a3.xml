@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Track/Monitor Sales Performance"
+    id="id-8b3db9d8926c4d8591b3f33cd8bbc3a3"
+    documentation="Track/Monitor sales performance for efficiency and effectiveness.">
+  <properties
+      key="Process Identifier"
+      value="1.1.13.2"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Track/Monitor sales performance for efficiency and effectiveness.Â Â How are sales going against Sale Performance Goals?Â Â Automated sales analytics useful here! Regular reviews are essential"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

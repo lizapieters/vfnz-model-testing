@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Sales Lead"
+    id="id-acfa3b099bfe420994d0cc910442197a"
+    documentation="Collect and administer a sales lead and the associated probabilities of the lead becoming a prospect.">
+  <properties
+      key="Process Identifier"
+      value="1.1.11.2"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Manage Sales Lead collects and administers a sales lead and the associated probabilities of the lead becoming a prospect. A leads is collected from many processes, both customer/party facing processes and back-end processes. This process is responsible to ensure that processes are operating to collect a lead wherever they arise. A sales lead is identified and evaluated. Other processes are notified, such as Manage Sales Prospect, or Customer or Party Interaction Management, for further action."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

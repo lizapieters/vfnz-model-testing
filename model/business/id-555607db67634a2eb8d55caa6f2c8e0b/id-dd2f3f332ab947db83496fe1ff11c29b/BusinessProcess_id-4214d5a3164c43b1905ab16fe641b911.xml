@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Adjust Capacity Demand"
+    id="id-4214d5a3164c43b1905ab16fe641b911"
+    documentation="Analyze suggested planned and actual capacity demand adjustments. Make agreed upon adjustments based on the analysis. Advanced analytics tools and AI may help to analyze planned or actual capacity demands.&#xA;Agreement process may be an automated process across domains to increase speed and accuracy of the decisions.">
+  <properties
+      key="Process Identifier"
+      value="1.8.2.6.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

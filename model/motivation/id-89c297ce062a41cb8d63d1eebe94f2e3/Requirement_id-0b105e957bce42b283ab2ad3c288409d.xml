@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1058"
+    id="id-0b105e957bce42b283ab2ad3c288409d"
+    documentation="As a Payments specialist, I want the ability for customer care reps to be able to easily search for suspense payments and notify AR/Payments to allocate once identified">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1058"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Karen Lydon"/>
+  <properties
+      key="Tribe"
+      value="Finance &amp; Business / AR Payments"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Pay"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="AR/Payments"/>
+  <properties
+      key="Remarks"
+      value="Can you briefly describe whole process for payments? When front end receives a call from customer. They can search but not apply the reallocation. then registeres task to reallocate to the payment sepcialst."/>
+  <properties
+      key="Module"
+      value="BS,CRM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

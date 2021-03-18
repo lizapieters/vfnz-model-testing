@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Catalog Componentization"
+    id="id-cc2001b2d43b4847a20bdd4f63ace145"
+    documentation="Ability to group catalog entities. A catalog user needs flexibility and openness in configuring data catalog entities. One of the configuration options that enable high re-usability is the possibility to group entities and re-use the group level">
+  <properties
+      key="Function Identifier"
+      value="4"/>
+  <properties
+      key="TAM Application Name"
+      value="Catalog Management"/>
+  <properties
+      key="TAM Application Id"
+      value="11.1"/>
+  <properties
+      key="Constructed Id"
+      value="11.1.4"/>
+</archimate:ApplicationFunction>

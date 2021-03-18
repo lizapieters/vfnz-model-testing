@@ -1,0 +1,48 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="InstantLink - Nokia"
+    id="id-905f15ac1a104431ab5cfce528712812"
+    documentation="InstantLink">
+  <properties
+      key="StatusForLookUp"
+      value="Active"/>
+  <properties
+      key="Owner"
+      value="AndrewH"/>
+  <properties
+      key="Level of Service"
+      value="Mission Critical"/>
+  <properties
+      key="Annual Support Cost"
+      value="$62,624.46"/>
+  <properties
+      key="Product / Service"
+      value="Mobile"/>
+  <properties
+      key="Segment"
+      value="Common"/>
+  <properties
+      key="DX Association"
+      value="Replaced Fully"/>
+  <properties
+      key="Existing Retained or Replaced"
+      value="Replace"/>
+  <properties
+      key="ComArch / Other"
+      value="Comarch"/>
+  <properties
+      key="Dig Future Module"
+      value="Service Activation (SA)"/>
+  <properties
+      key="Legacy BSS Stack Served"
+      value="C3"/>
+  <properties
+      key="TAM App ID"
+      value="7.3.1"/>
+  <properties
+      key="TAM Domain"
+      value="Resource Domain"/>
+  <properties
+      key="TAM Application"
+      value="Resource Order Orchestration"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="All Mobile srevices (except Data)"
+    id="id-e95ca0f445044be2b9b84ac8518a7ce7">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-c6597ae525bd4b2f89cbd1e5dcdf8e71.xml#id-c6597ae525bd4b2f89cbd1e5dcdf8e71"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-18c5a0b9539e4513ba2daf61e23ecacd.xml#id-18c5a0b9539e4513ba2daf61e23ecacd"/>
+</archimate:FlowRelationship>

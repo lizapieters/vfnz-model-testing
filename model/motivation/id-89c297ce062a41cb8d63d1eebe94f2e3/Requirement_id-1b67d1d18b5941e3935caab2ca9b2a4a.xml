@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0032"
+    id="id-1b67d1d18b5941e3935caab2ca9b2a4a"
+    documentation="As a new or existing customer, when I purchase a subscription, I want to set up my credit or debit card details for ongoing subscription billing, so that my phone service is paid for in a frictionless way">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0032"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Setup"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Topic"
+      value="Set up subscription billing"/>
+  <properties
+      key="Remarks"
+      value="requirement clear"/>
+  <properties
+      key="Module"
+      value="AIF, DS, SC, PIM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="Not Applicable"/>
+</archimate:Requirement>

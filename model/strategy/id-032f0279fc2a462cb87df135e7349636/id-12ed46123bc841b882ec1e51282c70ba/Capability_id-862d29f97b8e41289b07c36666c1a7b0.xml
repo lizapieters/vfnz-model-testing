@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plan/Training Matching"
+    id="id-862d29f97b8e41289b07c36666c1a7b0"
+    documentation="The ability to match a plan with training.">
+  <properties
+      key="TMF_ID"
+      value="1.2.7.6.8"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

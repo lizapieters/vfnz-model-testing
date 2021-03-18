@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0953"
+    id="id-1dda5688d1e24c42834c00faab862d78"
+    documentation="As a Payments specialist, I want payments made via internet banking to be checked against all 3 entries (ie Particulars, Code, Reference) for the Vodafone account number I've provided before putting into suspense.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0953"/>
+  <properties
+      key="Status"
+      value="HLD Completed"/>
+  <properties
+      key="Created by"
+      value="Rochelle Hedley"/>
+  <properties
+      key="Tribe"
+      value="Finance &amp; Business / AR Payments"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Pay"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="AR/Payments"/>
+  <properties
+      key="Remarks"
+      value="Do you mean rules for matching paments against invoices? Rules for clearing should be defiend. Comarch will need to match incomming payment based on specific premises. Unmatched payments have to be put into suspense - VFNZ Payment team will have to review unmatched payments. Dictionary: Particulars - Customer Account Name, Code - Customer Account Number, Reference - Invoice reference number"/>
+  <properties
+      key="Module"
+      value="BS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

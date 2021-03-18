@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Case Tracking &amp; Management Threshold Notification"
+    id="id-9919670decc1420d917cd2b67b5ae14b"
+    documentation="Raises jeopardies on the case as appropriate if specified dates and milestones are not met.">
+  <properties
+      key="Function Identifier"
+      value="106"/>
+  <properties
+      key="TAM Application Name"
+      value="Case Tracking &amp; Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.17.4"/>
+  <properties
+      key="Constructed Id"
+      value="5.17.4.106"/>
+</archimate:ApplicationFunction>

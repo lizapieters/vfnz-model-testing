@@ -1,0 +1,42 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="InfoBrain"
+    id="id-c8fbf9a47a2b4ad99bc0ccb754e16b25"
+    documentation="InfoBrain">
+  <properties
+      key="StatusForLookUp"
+      value="Decommissioned"/>
+  <properties
+      key="Owner"
+      value="AndrewH"/>
+  <properties
+      key="Level of Service"
+      value="Basic Systems"/>
+  <properties
+      key="Product / Service"
+      value="Common"/>
+  <properties
+      key="Segment"
+      value="Common"/>
+  <properties
+      key="DX Association"
+      value="Replaced Fully"/>
+  <properties
+      key="Existing Retained or Replaced"
+      value="Replace"/>
+  <properties
+      key="ComArch / Other"
+      value="Network as a Service (VF)"/>
+  <properties
+      key="Legacy BSS Stack Served"
+      value="C3"/>
+  <properties
+      key="TAM App ID"
+      value="7.14.1"/>
+  <properties
+      key="TAM Domain"
+      value="Resource Domain"/>
+  <properties
+      key="TAM Application"
+      value="Usage Event Processing"/>
+</archimate:ApplicationComponent>

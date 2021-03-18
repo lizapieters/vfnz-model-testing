@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Supply Chain Planning"
+    id="id-dd8174599ba0416d817146ca5cd157a6"
+    documentation="Supply Chain Planning provides the necessary functionality to plan materials and services which will be required by the business for both customer orders and internal needs.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.10.1"/>
+  <properties
+      key="TMF Function"
+      value="Supply Demand Planning Supply Sourcing Planning"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

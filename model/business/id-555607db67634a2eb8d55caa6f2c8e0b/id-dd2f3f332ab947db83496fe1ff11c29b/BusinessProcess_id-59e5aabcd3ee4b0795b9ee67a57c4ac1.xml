@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Track, Monitor and Manage RTM Processes Including other Parties"
+    id="id-59e5aabcd3ee4b0795b9ee67a57c4ac1"
+    documentation="Track, monitor and assess the resource performance management processes and associated costs and report.">
+  <properties
+      key="Process Identifier"
+      value="1.5.4.3.5"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="â€¢ Tracking and monitoring of the Resource Trouble Management processes and associated costs (including where resource infrastructure is deployed and managed by third parties), and reporting on the capability of the Resource Trouble Management processes;"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

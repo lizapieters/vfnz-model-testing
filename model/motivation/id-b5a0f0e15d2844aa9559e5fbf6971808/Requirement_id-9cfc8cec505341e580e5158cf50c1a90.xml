@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0673"
+    id="id-9cfc8cec505341e580e5158cf50c1a90"
+    documentation="As a business I want to be able to at any time block/restrict features the plan on my mobile connections (bar data) so that only features I allow are used">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0673"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Stephanie Cunneen"/>
+  <properties
+      key="Tribe"
+      value="Business"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="y"/>
+  <properties
+      key="Base"
+      value="1?"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Change"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="0"/>
+  <properties
+      key="Remarks"
+      value="what is the point to bar the data for subscription model for Base 1? maybe its for a postpaid for future Base?"/>
+  <properties
+      key="Module"
+      value="BR, SC, EP, AP, PC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Business only"/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="REQ_OSS_18, REQ_OSS_19, REQ_OSS_20"/>
+</archimate:Requirement>

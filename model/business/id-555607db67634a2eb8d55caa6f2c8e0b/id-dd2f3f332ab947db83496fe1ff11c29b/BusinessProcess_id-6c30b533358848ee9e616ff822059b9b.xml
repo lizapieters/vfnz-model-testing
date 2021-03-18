@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Maintain Product Capability Delivery Repository"
+    id="id-6c30b533358848ee9e616ff822059b9b"
+    documentation="These processes manage the methodology to be adopted for product capability delivery across the enterprise. These processes may maintain a repository of all activities as a part of the coordination aspects, including approval process or gates to be passed by individual product capability delivery projects.">
+  <properties
+      key="Process Identifier"
+      value="1.2.2.6.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

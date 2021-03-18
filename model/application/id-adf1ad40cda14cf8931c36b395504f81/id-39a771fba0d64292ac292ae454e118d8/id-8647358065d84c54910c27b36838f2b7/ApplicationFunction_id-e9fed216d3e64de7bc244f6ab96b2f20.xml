@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fraud &amp; Anomaly Detecting"
+    id="id-e9fed216d3e64de7bc244f6ab96b2f20"
+    documentation="Fraud &amp; Anomaly Detecting function indicates fraudulent use of networks or systems. This is achieved by effective Fraud Management systems coupled with the instrumentation and monitoring that enables potential fraudulent activities to be identified. There are close linkages between fraud identification and anomaly detection.">
+  <properties
+      key="Function Identifier"
+      value="940"/>
+  <properties
+      key="TAM Application Name"
+      value="Fraud Management"/>
+  <properties
+      key="TAM Application Id"
+      value="9.7"/>
+  <properties
+      key="Constructed Id"
+      value="9.7.940"/>
+</archimate:ApplicationFunction>

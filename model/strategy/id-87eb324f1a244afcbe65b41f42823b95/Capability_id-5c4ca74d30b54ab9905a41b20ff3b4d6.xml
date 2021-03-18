@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transactional Document Formatter"
+    id="id-5c4ca74d30b54ab9905a41b20ff3b4d6"
+    documentation="Transactional Document Formatter is used to develop a transactional document such as a bill or letter by specifying the format template, the data input source specification, and the associated runtime rules that ties the data input to the format template.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.2.1"/>
+  <properties
+      key="TMF Function"
+      value="Bills and Letter Template Formatting transactional Document Input Binding Rules to Template Transactional Document Input Data Source Definition Transactional Document Template Resource Definition Transactional Document Template Usage Business Rules"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

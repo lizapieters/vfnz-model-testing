@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UsageVolumeProductSpec"
+    id="id-2ee28ebc6509432bbbcf8164f93622eb"
+    documentation="A UsageVolumeProductSpec defines buckets of usage; such as 2 hours national calls. A UsageVolumeProductSpec requires one or many NetworkProductSpecs from which Usages will debit the bucket."/>

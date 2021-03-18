@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Margin Assurance Policy Framework"
+    id="id-08b32d9869054d829785427564a2acf0"
+    documentation="Establish and manage a framework of policies and measurable controls that are used to manage the risk associated with margin assurance.">
+  <properties
+      key="Process Identifier"
+      value="1.7.9.3.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of the Manage Margin Assurance Framework process is to establish and manage a framework of policies and measurable controls that are used to manage the risk associated with margin assurance, and to optimize the enterpriseâ€™s appetite for margin related risks. These processes are responsible for, but not limited to: â€¢Establishing and managing a margin assurance policy framework which is aligned with the overall enterprise goals and objectives â€¢Developing a framework of controls and KPIs which achieves the defined margin assurance goals and objectives â€¢Gaining enterprise-wide commitment to and knowledge of the framework â€¢Regularly reviewing the margin assurance framework to ensure that its outcomes remain aligned with the enterpriseâ€™s objectives The Manage Margin Assurance Framework process has a specific responsibility in developing and defining controls and Key Performance Indicators (KPIs) used for MA, in conjunction with operational and other processes elsewhere in the enterprise."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

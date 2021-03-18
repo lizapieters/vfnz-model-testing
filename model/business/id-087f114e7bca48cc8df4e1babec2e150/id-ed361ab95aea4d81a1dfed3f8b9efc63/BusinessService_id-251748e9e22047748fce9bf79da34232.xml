@@ -1,0 +1,30 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voicemail"
+    id="id-251748e9e22047748fce9bf79da34232"
+    documentation="Should be part of Fixed Voice solution&#xA;Linked to Feature_7">
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Segment"
+      value="Consumer/Business"/>
+  <properties
+      key="Access/Service Type"
+      value="N/A"/>
+  <properties
+      key="Comarch can support"
+      value="TBC"/>
+  <properties
+      key="Non-Comarch IT support needed"
+      value="TBC"/>
+  <properties
+      key="NaaS will support"
+      value="TBC"/>
+  <properties
+      key="Automated non-NaaS support"
+      value="TBC"/>
+  <properties
+      key="Unexpected"
+      value="true"/>
+</archimate:BusinessService>

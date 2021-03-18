@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gain Approval for Party Agreement"
+    id="id-00520ddfbe62462c8ede14968af42c2d"
+    documentation="Gain enterprise and involved party(ies) commitment to the negotiated commercial agreement or the enterprise's for a template commercial agreement, and provide authorization to sign an agreement.">
+  <properties
+      key="Process Identifier"
+      value="1.6.5.3"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Gain Approval for Party Agreement gains enterprise and involved party(ies) commitment to the negotiated commercial agreement or the enterprise's for a template commercial agreement, and provide authorization to sign a agreement. Included are all aspects of identification of stakeholders and providing regular reporting to gain stakeholder approval."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Document Delivery"
+    id="id-73f21deffdac40878e1bbe0812ef14ac"
+    documentation="Document Delivery is the final runtime executable that creates the desired print, web, PDF, XML or ASCII print files from the document production engine.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.2.3"/>
+  <properties
+      key="TMF Function"
+      value="Transactional Document Delivery"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

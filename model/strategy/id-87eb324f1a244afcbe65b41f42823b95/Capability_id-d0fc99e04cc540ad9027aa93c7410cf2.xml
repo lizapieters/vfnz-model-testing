@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer SLA Analysis"
+    id="id-d0fc99e04cc540ad9027aa93c7410cf2"
+    documentation="Customer SLA Analysis applications provide the necessary functionality to analyze performance with respect to the established Service Level Agreement.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.18.3"/>
+  <properties
+      key="TMF Function"
+      value="Customer SLA analysis preparation Customer SLA monitoring Customer SLA service to contract analysis"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

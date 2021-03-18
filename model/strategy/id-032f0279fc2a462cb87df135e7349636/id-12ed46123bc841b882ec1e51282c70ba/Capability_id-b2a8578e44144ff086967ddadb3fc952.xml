@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agreement/Policy Matching"
+    id="id-b2a8578e44144ff086967ddadb3fc952"
+    documentation="The ability to associate an agreement with policies.">
+  <properties
+      key="TMF_ID"
+      value="1.1.5.9.8"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

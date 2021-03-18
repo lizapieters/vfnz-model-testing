@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collect Party Data"
+    id="id-b356b7010d134e4faae2f3e684f47fdd"
+    documentation="Collect data about a party and/or a party playing a role.  Data includes basic party data, identification data, contact data, and additional attributes.">
+  <properties
+      key="Process Identifier"
+      value="1.6.3.1.5"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Collect Party Data collects data about a party and/or a party playing a role. Data includes basic party data, identification data, contact data, and additional attributes. This process also enables modification and removal of party data and party role data and establishes the types of roles a party can play."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

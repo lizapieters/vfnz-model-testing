@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Support Loyalty and Retention Management"
+    id="id-9dd6496fa373418ba45fd46d93ecf454"
+    documentation="The Support Loyalty and Retention function undertakes trend analysis on loyalty and retention, including customer acquisitions and churn.&#xA;It comprises:&#xA;� Follow-up of the churn rate: Development of a report in order to measure by period (periodicity: weekly, monthly, yearly�),&#xA;� The number and rate of terminations by product &amp; service,&#xA;� The trend of the churn rate according to the previous periods.&#xA;� Prediction of the churn (anticipate in order to minimise the attrition): identification of the potential churner profiles from a predictive model analysing the churner profiles according to the previous periods.">
+  <properties
+      key="Function Identifier"
+      value="194"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Experience Monitoring"/>
+  <properties
+      key="TAM Application Id"
+      value="5.5.12"/>
+  <properties
+      key="Constructed Id"
+      value="5.5.12.194"/>
+</archimate:ApplicationFunction>

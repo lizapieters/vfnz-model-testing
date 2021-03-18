@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Assess Performance of Existing Product Offering"
+    id="id-13283dc7922f40a68e58fb9a5a1abe6c"
+    documentation="Analyze the performance of a existing product offering to identify inadequacies and required improvements.">
+  <properties
+      key="Process Identifier"
+      value="1.2.7.2.1.5"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Assess Performance of Existing Product Offering analyzes the performance of an existing product offering to identify inadequacies and required improvements. The process uses information from customers and from operational activities to identify required improvements. Required improvements may involve those to a product specification upon which the offering is based. In this case the improvements are communicated to the Develop Detailed Product Specification process."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

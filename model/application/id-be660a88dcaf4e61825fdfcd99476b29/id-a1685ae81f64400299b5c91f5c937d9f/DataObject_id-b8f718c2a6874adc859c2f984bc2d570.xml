@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WorkforceResourcePool"
+    id="id-b8f718c2a6874adc859c2f984bc2d570"
+    documentation="Represents a resource pool as a set of resources (both physical and logical) available for assignment to work tasks. For example; the Dallas pool for fiber rollout for a weekday contains X number of trucks; Y number of test kits; etc."/>

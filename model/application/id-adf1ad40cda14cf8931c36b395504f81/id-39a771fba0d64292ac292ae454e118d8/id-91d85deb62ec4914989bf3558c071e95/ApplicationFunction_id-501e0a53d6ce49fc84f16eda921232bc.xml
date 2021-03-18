@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Retail Integration"
+    id="id-501e0a53d6ce49fc84f16eda921232bc"
+    documentation="Specific to retail stores, order management should be capable of supporting contract printing, integration with a locally installed cash management/cash register and a retail inventory system for order completion.">
+  <properties
+      key="Function Identifier"
+      value="384"/>
+  <properties
+      key="TAM Application Name"
+      value="Retail Outlets"/>
+  <properties
+      key="TAM Application Id"
+      value="3.4.3"/>
+  <properties
+      key="Constructed Id"
+      value="3.4.3.384"/>
+</archimate:ApplicationFunction>

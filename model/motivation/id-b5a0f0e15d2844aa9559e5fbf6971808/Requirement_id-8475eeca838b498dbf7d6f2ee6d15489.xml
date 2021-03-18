@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0165"
+    id="id-8475eeca838b498dbf7d6f2ee6d15489"
+    documentation="As a customer I want to see instructions on my physical SIM card packaging for how to activate it, so that I can get up and running quickly">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0165"/>
+  <properties
+      key="Status"
+      value="Not Comarch BSS Solution"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Topic"
+      value="SIM"/>
+  <properties
+      key="Remarks"
+      value="Not related to Comarch"/>
+  <properties
+      key="Module"
+      value="0"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

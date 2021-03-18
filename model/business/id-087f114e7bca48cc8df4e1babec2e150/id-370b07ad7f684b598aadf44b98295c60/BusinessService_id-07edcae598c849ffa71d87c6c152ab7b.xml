@@ -1,0 +1,30 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mobile - Enterprise Shared Plans"
+    id="id-07edcae598c849ffa71d87c6c152ab7b"
+    documentation="3G/4G, 5G non-standalone mode. See comment for Feature 18. Don't believe this is required.">
+  <properties
+      key="Target Horizon"
+      value="2"/>
+  <properties
+      key="Segment"
+      value="Business"/>
+  <properties
+      key="Access/Service Type"
+      value="Mobile"/>
+  <properties
+      key="Comarch can support"
+      value="Yes"/>
+  <properties
+      key="Non-Comarch IT support needed"
+      value="Yes"/>
+  <properties
+      key="NaaS will support"
+      value="Yes"/>
+  <properties
+      key="Automated non-NaaS support"
+      value="Yes"/>
+  <properties
+      key="Unexpected"
+      value="true"/>
+</archimate:BusinessService>

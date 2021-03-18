@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financial Core Operations Reporting"
+    id="id-4e26c05953734349ac3585664fa3f52c"
+    documentation="Financial Core Operations Reporting applications are financial repositories and reporting tools for data associated with the Financial Core Operations applications.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.3.4"/>
+  <properties
+      key="TMF Function"
+      value="Accounts Payable Reporting Affiliate Billing Reporting Cost Allocations Reporting Financial Data Reporting Fixed Assets Reporting General Ledger Reporting Project Accounting Reporting Revenue Eliminations Reporting"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

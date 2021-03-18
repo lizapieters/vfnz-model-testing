@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1152"
+    id="id-02c7e31f2d4247cfae32a0122b352427"
+    documentation="As Vodafone, we want to see in CRM where a customer's email address has been undeliverable, so that we can try and get the correct email address.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1152"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Gabrielle Paul"/>
+  <properties
+      key="Tribe"
+      value="Loyalty"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="y"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Help"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Use"/>
+  <properties
+      key="Topic"
+      value="CSR Desktop"/>
+  <properties
+      key="Remarks"
+      value="[CCM] Supported, Bounce back counter to be implemented as one of CCM requirements [CRM] OOTB, Status of the activity in CRM"/>
+  <properties
+      key="Module"
+      value="CRM, CCM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

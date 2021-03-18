@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Conduct Maturity Surveys"
+    id="id-5faa1ce2a430452397dc0fcd533c1692"
+    documentation="Perform Surveys within organization and organization stakeholders">
+  <properties
+      key="Process Identifier"
+      value="1.7.8.2.2.1"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Conduct Maturity Survey process involves distributing self assessment questionnaires and instructions to in scope areas Facilitate self assessments as needed"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

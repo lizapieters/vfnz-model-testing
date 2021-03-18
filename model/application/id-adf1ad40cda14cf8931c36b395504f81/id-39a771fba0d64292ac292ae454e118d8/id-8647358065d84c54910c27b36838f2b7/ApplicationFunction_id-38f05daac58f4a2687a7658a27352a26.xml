@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Income Tax calculation and filings"
+    id="id-38f05daac58f4a2687a7658a27352a26"
+    documentation="Corporate Tax function to calculate and submit tax filings for Income Tax for all service provider companies and affiliates.">
+  <properties
+      key="Function Identifier"
+      value="848"/>
+  <properties
+      key="TAM Application Name"
+      value="Corporate Tax"/>
+  <properties
+      key="TAM Application Id"
+      value="9.3.6"/>
+  <properties
+      key="Constructed Id"
+      value="9.3.6.848"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inquiry Risk Level Determination"
+    id="id-7f53e1a52fc64c4faa2142cf523c62e1"
+    documentation="The ability to identify and define the level of risk associated with an inquiry.">
+  <properties
+      key="TMF_ID"
+      value="1.3.12.4.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

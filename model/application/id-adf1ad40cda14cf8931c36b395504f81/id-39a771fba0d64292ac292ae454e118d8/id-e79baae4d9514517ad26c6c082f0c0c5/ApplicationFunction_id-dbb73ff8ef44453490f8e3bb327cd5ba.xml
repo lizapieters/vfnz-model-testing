@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transactional Document Regional Requirements appliance"
+    id="id-dbb73ff8ef44453490f8e3bb327cd5ba"
+    documentation="Displays tax id numbers and other legally mandated information in accordance with region specific requirements">
+  <properties
+      key="Function Identifier"
+      value="336"/>
+  <properties
+      key="TAM Application Name"
+      value="Transactional Document Generator"/>
+  <properties
+      key="TAM Application Id"
+      value="5.2.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.2.2.336"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer SLA Violation Management"
+    id="id-7d3e592461314a94b0b889aadd98dff3"
+    documentation="Customer SLA Violation Management applications provides the necessary functionality to manage SLA violations and the activities necessary to resolve the apparent degradation or violation.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.18.4"/>
+  <properties
+      key="TMF Function"
+      value="Customer SLA Violation quantification Customer SLA violation remedy initiation Open Customer SLA violation tracking SLA violation notification"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

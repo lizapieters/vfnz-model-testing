@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0861"
+    id="id-8b5793f1ea7c4ec5ac23c4d7fef51a0e"
+    documentation="As a Disclosure Manager/Analyst, I want the Fraud management system to be able to generate a report with sufficient information to report to Police (or other law enforcement agency) if applicable to ensure that we are able to provide evidential records which assist NZ Law Enforcement Agencies in either proving the criminal offending or innocence of customers who are using our services or staff who may be administering the services.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0861"/>
+  <properties
+      key="Status"
+      value="Duplicate"/>
+  <properties
+      key="Created by"
+      value="Caroline Carver"/>
+  <properties
+      key="Tribe"
+      value="Privacy, Fraud and Compliance"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="All"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="LEA (Law Enforcement Agencies) Disclosures"/>
+  <properties
+      key="Remarks"
+      value="Duplicate of REQ_BSS_0833"/>
+  <properties
+      key="Module"
+      value="0"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="Not Applicale"/>
+</archimate:Requirement>

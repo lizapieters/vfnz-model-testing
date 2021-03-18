@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Perform Interconnect Party Netting"
+    id="id-6a800f1bba1a4a04b130181832523e1c"
+    documentation="Perform Interconnect Party Netting process calculates the balance of money owed and earned from two parties. Netting is perform after the settlement is completed for a party. The netting is done for multiple settlement period for the multiple services. &#xA;&#xA;  Two netting methods exists 1) After and 2) Before. &#xA;  1).Netting of Operatorâ€˜s Interconnecting cost after subtracting amounts between operator and other party (Netto å�«ç¨Ž)&#xA;   2).Netting of Operatorâ€˜s Interconnecting cost without any subtracting of the amount between operator and other party (Brutto ä¸�å�«ç¨Ž).&#xA;&#xA;   Netting is an established process and has financial origins where larger  parties/banks/institutions/countries rather revert  to  equalize I owe U, you owe me in bulk rather than counting / considering microscopic individual transactions.">
+  <properties
+      key="Process Identifier"
+      value="1.6.15.4.2.3"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Perform Interconnect Party Netting process calculates the balance of money owed and earned from two parties."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

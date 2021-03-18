@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collection agent reassignment"
+    id="id-6d624c3ff1874a79b52bb33ccc36246a"
+    documentation="Change the agent responsible for a specific collection activity.">
+  <properties
+      key="Function Identifier"
+      value="130"/>
+  <properties
+      key="TAM Application Name"
+      value="Collection"/>
+  <properties
+      key="TAM Application Id"
+      value="5.6.3.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.6.3.1.130"/>
+</archimate:ApplicationFunction>

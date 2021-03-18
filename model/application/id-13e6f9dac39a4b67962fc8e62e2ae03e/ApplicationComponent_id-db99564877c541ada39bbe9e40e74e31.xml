@@ -1,0 +1,36 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MACDONALDS"
+    id="id-db99564877c541ada39bbe9e40e74e31"
+    documentation="MACDONALDS">
+  <properties
+      key="StatusForLookUp"
+      value="Decommissioned"/>
+  <properties
+      key="Owner"
+      value="AndrewH"/>
+  <properties
+      key="Level of Service"
+      value="Business Premium"/>
+  <properties
+      key="Product / Service"
+      value="Common"/>
+  <properties
+      key="Segment"
+      value="Common"/>
+  <properties
+      key="DX Association"
+      value="Unrelated"/>
+  <properties
+      key="Legacy BSS Stack Served"
+      value="C3"/>
+  <properties
+      key="TAM App ID"
+      value="10.3.1"/>
+  <properties
+      key="TAM Domain"
+      value="Integration Domain"/>
+  <properties
+      key="TAM Application"
+      value="API Gateway"/>
+</archimate:ApplicationComponent>

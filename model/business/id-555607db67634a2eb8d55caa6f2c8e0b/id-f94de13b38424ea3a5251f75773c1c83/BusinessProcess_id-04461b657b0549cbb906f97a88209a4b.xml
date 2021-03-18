@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage LEA (Law Enforcement Agency) Interaction Policies"
+    id="id-04461b657b0549cbb906f97a88209a4b"
+    documentation="This process serves as a repository of  M&amp;P (Methods and Procedures) information for interactions with Law Enforcement Agencies (LEAs).">
+  <properties
+      key="Process Identifier"
+      value="1.7.2.3.1.5"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Fraud teams will, from time to time, find it necessary to interact with LEAs for the purposes of investigating suspected fraud, understanding the scope of a fraud, understanding the legality of a fraud, assisting LEAs in placing a financial value on a fraud (to determine level of prosecution available), and to understand the syndicated network that may be involved. Several pieces of information must be maintained within this process, including: 1. Criteria for when LEAs should be involved in fraud response activities, including materials that may be supplied to support investigations without breaching confidentiality, etc. 2. Criteria under which the operator can and should assist LEAs in their investigations (not initiated by the operator), including materials that may be supplied, confidentiality restrictions, SLAs, cost sharing, etc. 3. Specific contacts within LEAs that may be utilized as liaisons 4. Cases under which certain LEA jurisdictions should be contacted (e.g., city, regional, national, or international LEAs) 5. Cases under which multiple levels of LEAs may be required to be engaged In situations where simple service interruption or collection actions are not enough to resolve the magnitude of a fraud case, LEAs serve as a valuable asset to not only compel fraudsters to cease activities and provide restitution, but to also prosecute more serious offenses and seize equipment, technology, and information that may have been used to perpetrate the fraud."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerFacingServiceSpecComposite"
+    id="id-6fb3122312234e7cb78869346ac0004f"
+    documentation="This is an abstract base class that defines an integrated set of CustomerFacingServices that collectively meets the needs of a Service requested by a Customer via a Product. For example; the Customer may have requested GoldService; which is a ServicePackage that defines a set of ServiceBundles; each of which has its own QoS. Each individual CustomerFacingService that is part of the ServicePackage can be derived from a CustomerFacingServiceSpecification. In this case; a CustomerFacingServiceSpecComposite will aggregate all of the individual CustomerFacingServiceSpecifications into a single named object. This object is a stand-alone object. However; it consists of other CustomerFacingServiceSpecComposite and/or CustomerFacingServiceSpecAtomic entities. That is the primary difference between this entity and the CustomerFacingServiceSpecAtomic entity."/>

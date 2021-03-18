@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CompositeProductSpecification"
+    id="id-67b83d71a6f74560a6849b4d9287203d"
+    documentation="A type of ProductSpecification that is formed by aggregating other ProductSpecifications; which may be Composite or Atomic ProductSpecifications."/>

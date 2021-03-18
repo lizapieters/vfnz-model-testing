@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Product Offering Development"
+    id="id-14e2ce8314fe44968aaab4fbfbf7286d"
+    documentation="Ensure the co-coordinated delivery in line with the approved business case of all required product offering capabilities for that business case across the enterprise.">
+  <properties
+      key="Process Identifier"
+      value="1.2.7.2.1.8"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Manage Product Offering Development ensures the co-coordinated delivery in line with the approved business case of all required product offering capabilities for that business case across the enterprise. These processes may use project management disciplines when a project is created to develop a new product offering to deliver the necessary capabilities, including process development, specific systems &amp; network infrastructure developments, specific channel developments, specific operational procedures, and so forth. required to support the new product offering. Note that delivery of a product offering within the context of existing commercial agreements is managed through the Party Offering Development &amp; Retirement process. If new partners are required, the Party Agreement Management process is used to deliver the necessary commercial agreements. Note that the management of major new or enhanced infrastructure development to support Product &amp; Offer Development is managed within the Product &amp; Offer Capability Delivery process"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

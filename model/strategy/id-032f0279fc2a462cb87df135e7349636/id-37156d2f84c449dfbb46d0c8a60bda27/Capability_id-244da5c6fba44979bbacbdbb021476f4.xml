@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Order Placement"
+    id="id-244da5c6fba44979bbacbdbb021476f4"
+    documentation="The ability to place or enter an order for the exchange or trade of goods or services in the appropriate market(s).">
+  <properties
+      key="TMF_ID"
+      value="1.1.8.3"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

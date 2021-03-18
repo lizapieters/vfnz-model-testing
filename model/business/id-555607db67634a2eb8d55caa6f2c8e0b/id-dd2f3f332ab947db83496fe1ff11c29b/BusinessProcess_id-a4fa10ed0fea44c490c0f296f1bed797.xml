@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Co-ordinate Resource Operational Handover"
+    id="id-a4fa10ed0fea44c490c0f296f1bed797"
+    documentation="These processes co-ordinate the processes involved in handover of deployed resource infrastructure to operational control, including the management and coordination of all stakeholders required to gain approval and acceptance of the handover.">
+  <properties
+      key="Process Identifier"
+      value="1.5.2.7.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

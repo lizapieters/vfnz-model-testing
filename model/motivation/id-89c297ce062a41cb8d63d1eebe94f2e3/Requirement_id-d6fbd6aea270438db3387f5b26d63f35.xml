@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0458"
+    id="id-d6fbd6aea270438db3387f5b26d63f35"
+    documentation="As a transition customer i expect vodafone to capture all my requirements in one order">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0458"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Steve Bird"/>
+  <properties
+      key="Tribe"
+      value="Transition"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Transition"/>
+  <properties
+      key="Remarks"
+      value="This is about upselling the customer with additional addons, VAS, etc in one go. Also a nice to have would be to add new services (mobile, broadband), but that depends if this can be designed to be easy to use and understandable by the customer."/>
+  <properties
+      key="Module"
+      value="DS, TA"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

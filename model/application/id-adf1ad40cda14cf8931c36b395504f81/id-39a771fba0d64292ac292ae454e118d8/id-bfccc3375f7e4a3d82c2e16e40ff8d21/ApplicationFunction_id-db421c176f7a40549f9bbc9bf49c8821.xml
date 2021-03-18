@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Order decomposition"
+    id="id-db421c176f7a40549f9bbc9bf49c8821"
+    documentation="The Service Order Decomposition function decomposes the service orders, into sub-sequent service orders and resource order requests, and then distributes each request to perform the work.  &#xA;This function also translates planned design changes into implementation jobs (which could include service ordering and/or delivery) that may span multiple resource facing services and technology domains.  This might require additional data gathered via Service Data Collection. &#xA; &#xA;Note:  If an order repository or common order data services (common model) layer is being used and shared across layers (Customer, Service, and Resource layers), this decomposition can simplified">
+  <properties
+      key="Function Identifier"
+      value="733"/>
+  <properties
+      key="TAM Application Name"
+      value="Product/Service Order Decomposition"/>
+  <properties
+      key="TAM Application Id"
+      value="6.3.2.1"/>
+  <properties
+      key="Constructed Id"
+      value="6.3.2.1.733"/>
+</archimate:ApplicationFunction>

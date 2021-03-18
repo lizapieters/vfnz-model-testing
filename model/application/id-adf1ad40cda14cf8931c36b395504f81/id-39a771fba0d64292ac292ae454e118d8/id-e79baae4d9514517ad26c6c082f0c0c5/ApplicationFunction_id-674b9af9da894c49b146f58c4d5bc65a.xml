@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Qualify and prioritize customer problem"
+    id="id-674b9af9da894c49b146f58c4d5bc65a"
+    documentation="Problem validation and prioritization doing: &#xA;o Qualify Symptoms/Reason for call (when reception is via a customer contact).  Non-qualified issues will be referred appropriately.  &#xA;o Associate received problem with appropriate customer(s)  and customer products/services (when reception is via a southbound or northbound system)">
+  <properties
+      key="Function Identifier"
+      value="220"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Problem Qualification &amp; Reception"/>
+  <properties
+      key="TAM Application Id"
+      value="5.8.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.8.1.220"/>
+</archimate:ApplicationFunction>

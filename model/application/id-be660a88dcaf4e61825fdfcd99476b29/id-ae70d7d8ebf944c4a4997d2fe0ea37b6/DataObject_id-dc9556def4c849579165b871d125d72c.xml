@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NetworkAddress"
+    id="id-dc9556def4c849579165b871d125d72c"
+    documentation="This class represents the generic concept of a network address. Its subclasses define different types of addresses of different technologies; such as an IPAddress vs. an IPXAddress. Its utility lies in its ability to serve as a convenient point for sourcing and terminating relationships. This eliminates undue duplication of relationships that interact with the subclasses of NetworkAddress."/>

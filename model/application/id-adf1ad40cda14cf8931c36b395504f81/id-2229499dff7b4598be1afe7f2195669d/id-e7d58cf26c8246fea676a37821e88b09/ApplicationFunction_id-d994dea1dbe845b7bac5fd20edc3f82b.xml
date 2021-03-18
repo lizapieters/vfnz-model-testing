@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contact Channel Management"
+    id="id-d994dea1dbe845b7bac5fd20edc3f82b"
+    documentation="Contact Channel Management encompasses the means by which customers of a given service provider contactService Providersas well as how service provider agents communicate internally. It also includes the means to transfer the communication from one channel to another. Contact Channel Management addresses the routing, queuing and assignment of new active customer requiests based on center utilization and available agents with the appropriate Skill assignment.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="5.22.3"/>
+  <properties
+      key="Frameworx Domain"
+      value="Customer Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

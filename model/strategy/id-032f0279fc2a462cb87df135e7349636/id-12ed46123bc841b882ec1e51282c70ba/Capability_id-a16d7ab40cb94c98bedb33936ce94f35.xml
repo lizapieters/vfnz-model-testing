@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trip/Campaign Matching"
+    id="id-a16d7ab40cb94c98bedb33936ce94f35"
+    documentation="The Ability to associate a trip with a marketing campaign.">
+  <properties
+      key="TMF_ID"
+      value="1.1.6.4.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

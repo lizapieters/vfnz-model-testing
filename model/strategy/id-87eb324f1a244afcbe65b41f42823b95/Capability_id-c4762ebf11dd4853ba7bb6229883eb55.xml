@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Determine Access Provider"
+    id="id-c4762ebf11dd4853ba7bb6229883eb55"
+    documentation="Determine Access Provider applications identify and select available access providers or access technology at the given location.">
+  <properties
+      key="TMF Category"
+      value="(4) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="6.3.9.3.4"/>
+  <properties
+      key="TMF Function"
+      value="Determine Access Provider"/>
+  <properties
+      key="TMF Maturity"
+      value="Service Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

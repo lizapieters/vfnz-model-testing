@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Configuration Management"
+    id="id-e830cb5d90714cf093d1b0a691614158"
+    documentation="Product Configuration involves specifying how a Product operates or functions in terms of a productâ€™s configurable properties and features, collectively called characteristics, and related products, services, and resources that are used in its configuration.&#xA;Specify how a product operates or functions in terms of a productâ€™s configurable parameters, collectively called characteristics, and related configurations of products, services, and resources that are part of its overall configuration. The configuration for a product, which is also managed by this process, is governed by a selected product configuration specification.">
+  <properties
+      key="Process Identifier"
+      value="1.2.5"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Product Configuration involves specifying how a Product operates or functions in terms of a productâ€™s configurable properties and features, collectively called characteristics, and related products, services, and resources that are used in its configuration. Product Configuration involves specifying how a product operates or functions in terms of a productâ€™s configurable parameters, collectively called characteristics, and related configurations of products, services, and resources that are part of its overall configuration. The configuration for a product, which is also managed by this process, is governed by a selected product configuration specification. A feature/property specified by Product Offering Purchasing and/or Product Lifecycle Management is also considered to be a configuration parameter. Note that this process reuses a set of generalized configuration management processes to create a configuration specification and a configuration that can also be used to manage a service configuration specification and service configuration as well as a resource configuration specification and resource configuration. The focus of this process is to define a product configuration specification and a product configuration."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

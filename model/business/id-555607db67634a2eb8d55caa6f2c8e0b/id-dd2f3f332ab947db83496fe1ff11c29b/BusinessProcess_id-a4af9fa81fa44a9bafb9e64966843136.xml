@@ -1,0 +1,20 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Process Financial Transactions"
+    id="id-a4af9fa81fa44a9bafb9e64966843136">
+  <properties
+      key="Process Identifier"
+      value="1.7.5.1.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Process Financial Transactions ensures that the financial impacts of business events are reflected correctly. This requires collection and management of financial information related to revenue collection, procurement, asset management, and payroll processing. This process must be jointly designed and tightly integrated with the processes producing the financial impacts, including building product and service infrastructure, customer billing, supply shain management, human capital management. Key activities include: Account for customer billing/revenue, Account for purchases and payments, Account for asset lifecycle, Account for project lifecycle, Account for workforce time and labor, Accumulate and validate transactions."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

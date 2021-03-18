@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Payment Type Management"
+    id="id-13072d24252e495f8eee5a0aa8fd18b0"
+    documentation="The ability to set and determine payment category, including outbound, inbound, or other classes or sub-classes.">
+  <properties
+      key="TMF_ID"
+      value="1.3.6.6.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

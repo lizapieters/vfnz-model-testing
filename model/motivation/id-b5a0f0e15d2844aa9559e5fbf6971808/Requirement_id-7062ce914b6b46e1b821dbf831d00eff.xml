@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0787"
+    id="id-7062ce914b6b46e1b821dbf831d00eff"
+    documentation="As a finance user, I am able to see statistics about my customers like average contract term (if any), time with Vodafone, average monthly spend, data/voice/txt usage">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0787"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Dustin Benesch"/>
+  <properties
+      key="Tribe"
+      value="Finance / Financial planning &amp; reporting"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="TBC"/>
+  <properties
+      key="Base_Old"
+      value="TBC"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Reporting"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Reporting"/>
+  <properties
+      key="Remarks"
+      value="REP: How the required data should be provided on BSS side ? available for user on system screens? database level ? particular report/export ? (if Yes - what format is required/expected ?)"/>
+  <properties
+      key="Module"
+      value="REP"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

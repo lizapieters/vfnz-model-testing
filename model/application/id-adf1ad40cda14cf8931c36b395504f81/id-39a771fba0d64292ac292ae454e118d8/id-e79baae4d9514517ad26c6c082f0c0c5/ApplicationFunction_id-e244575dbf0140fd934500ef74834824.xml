@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Order search and presentation"
+    id="id-e244575dbf0140fd934500ef74834824"
+    documentation="The Customer Order Search and Presentation function makes the customer orders available to other applications.">
+  <properties
+      key="Function Identifier"
+      value="720"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Order Acceptance"/>
+  <properties
+      key="TAM Application Id"
+      value="5.3.9"/>
+  <properties
+      key="Constructed Id"
+      value="5.3.9.720"/>
+</archimate:ApplicationFunction>

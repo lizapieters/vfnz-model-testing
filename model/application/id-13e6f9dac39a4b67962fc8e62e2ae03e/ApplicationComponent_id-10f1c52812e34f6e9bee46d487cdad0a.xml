@@ -1,0 +1,45 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Landing Page (Intranet)"
+    id="id-10f1c52812e34f6e9bee46d487cdad0a"
+    documentation="Vista">
+  <properties
+      key="StatusForLookUp"
+      value="Active"/>
+  <properties
+      key="Owner"
+      value="VF Group"/>
+  <properties
+      key="Level of Service"
+      value="Basic Systems"/>
+  <properties
+      key="Product / Service"
+      value="Common"/>
+  <properties
+      key="Segment"
+      value="Enterprise"/>
+  <properties
+      key="DX Association"
+      value="Replaced Fully"/>
+  <properties
+      key="Existing Retained or Replaced"
+      value="Replace"/>
+  <properties
+      key="ComArch / Other"
+      value="Comarch"/>
+  <properties
+      key="Dig Future Module"
+      value="Customer Order Management (OM)"/>
+  <properties
+      key="Legacy BSS Stack Served"
+      value="Common"/>
+  <properties
+      key="TAM App ID"
+      value="5.4"/>
+  <properties
+      key="TAM Domain"
+      value="Customer Domain"/>
+  <properties
+      key="TAM Application"
+      value="Customer Self Management"/>
+</archimate:ApplicationComponent>

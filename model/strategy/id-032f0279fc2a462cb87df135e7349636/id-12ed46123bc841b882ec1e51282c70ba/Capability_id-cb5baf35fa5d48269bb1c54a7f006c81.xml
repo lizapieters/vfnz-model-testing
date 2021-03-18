@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Investment/Investment Portfolio Matching"
+    id="id-cb5baf35fa5d48269bb1c54a7f006c81"
+    documentation="The ability to associate an investment with an investment portfolio.">
+  <properties
+      key="TMF_ID"
+      value="1.2.6.6.8"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

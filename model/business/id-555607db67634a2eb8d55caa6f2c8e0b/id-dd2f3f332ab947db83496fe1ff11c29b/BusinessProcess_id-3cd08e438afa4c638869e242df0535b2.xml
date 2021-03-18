@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitor and Analyze Service Performance Reports, and Identify Issues"
+    id="id-3cd08e438afa4c638869e242df0535b2"
+    documentation="Review the service performance management operational report prepared by resource performance management processes.">
+  <properties
+      key="Process Identifier"
+      value="1.4.4.4.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="â€¢ Monitoring and analyzing the service instance analyses produced by the Service Quality Management processes to identify problems that may be applicable to the service infrastructure as a whole;"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

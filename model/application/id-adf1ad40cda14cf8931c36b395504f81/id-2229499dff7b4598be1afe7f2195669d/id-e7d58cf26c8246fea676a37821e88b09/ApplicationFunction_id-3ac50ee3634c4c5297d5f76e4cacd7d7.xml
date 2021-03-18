@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Privacy Consent"
+    id="id-3ac50ee3634c4c5297d5f76e4cacd7d7"
+    documentation="Privacy Consent (End-user): feature used to obtain consent from the Data Subject at the time of an evolution of the Privacy Profile. This can be initiated by the Data Subject when s/he wants to create a new usage of its PII, or by the Service when requiring an evolution of the Privacy Profile to deliver a new scenario.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="5.23.3"/>
+  <properties
+      key="Frameworx Domain"
+      value="Customer Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

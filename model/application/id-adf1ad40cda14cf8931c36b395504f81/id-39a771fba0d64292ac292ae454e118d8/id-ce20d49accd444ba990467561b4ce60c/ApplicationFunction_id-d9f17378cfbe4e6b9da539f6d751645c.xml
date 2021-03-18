@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Catalog Compatibility rules definition"
+    id="id-d9f17378cfbe4e6b9da539f6d751645c"
+    documentation="Define rules on catalog operational entities  which are applied by downstream systems when instantiating the catalog entities in the operational systems. For example when instantiating products out of ProductSpec">
+  <properties
+      key="Function Identifier"
+      value="2"/>
+  <properties
+      key="TAM Application Name"
+      value="Catalog Management"/>
+  <properties
+      key="TAM Application Id"
+      value="11.1"/>
+  <properties
+      key="Constructed Id"
+      value="11.1.2"/>
+</archimate:ApplicationFunction>

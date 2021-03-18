@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1481"
+    id="id-182a5777566f4e489fff9004e7241c8d"
+    documentation="As a product owner, I want to be able to gather data from customers such as how many users and devices are connected to the internet at any given time, what do they use the internet for etc so that I can combine this information with serviceability results to present customers with contextual plan recommendations.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1481"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Diane Watson"/>
+  <properties
+      key="Tribe"
+      value="Consumer Home"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="prio2"/>
+  <properties
+      key="Base"
+      value="1?"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Notice"/>
+  <properties
+      key="Topic"
+      value="Broadband Subscription"/>
+  <properties
+      key="Remarks"
+      value="It's about a questionaire (a few simple questions) for the customer to fill in during the buy journey. As a result we should present a suggestion of plan and addons for the customer."/>
+  <properties
+      key="Module"
+      value="DS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

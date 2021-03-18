@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicyConditionComposite"
+    id="id-b261add3d8d34929ad8694704905b26a"
+    documentation="The PolicyConditionComposite class is designed to be an intelligent container. The PolicyConditionComposite class is the base class for all complex policy conditions. A complex policy condition consists of an aggregation of PolicyConditionAtomic and/or PolicyConditionComposite objects; which in turn form a complex Boolean statement. It is important to note that such an object still evaluates to a single Boolean TRUE or FALSE value. Conceptually; this is a stand-alone object that consists of one PolicyCondition that provides an overall context for either a nested or a group of subordinate PolicyConditions to be evaluated."/>

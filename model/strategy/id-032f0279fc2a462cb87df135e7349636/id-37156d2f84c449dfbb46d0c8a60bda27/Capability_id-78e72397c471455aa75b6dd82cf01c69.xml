@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Message Access Management"
+    id="id-78e72397c471455aa75b6dd82cf01c69"
+    documentation="The ability to restrict or allow the viewing or modification of a message.">
+  <properties
+      key="TMF_ID"
+      value="1.2.1.5"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

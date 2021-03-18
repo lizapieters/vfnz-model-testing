@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Problem Model Establishment"
+    id="id-b9b6b8cfa75f477983d799028ca2eb5a"
+    documentation="Service Problem Monitoring Model Establishment applications provide the necessary functionality to establish what will be monitored and how it will be monitored in terms of service problem.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="6.5.7"/>
+  <properties
+      key="TMF Function"
+      value="Service Problem Monitoring Model Data Definition Service Problem Monitoring Model Data Integration Service Problem Monitoring Model Definition Service Problem Monitoring Model Establishment"/>
+  <properties
+      key="TMF Maturity"
+      value="Service Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

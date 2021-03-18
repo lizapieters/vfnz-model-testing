@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collect Party Contact"
+    id="id-69dddc1210d14304a18828e871b2d986"
+    documentation="Collect the medium in which a party playing a role can be contacted, such as mobile phone and email.">
+  <properties
+      key="Process Identifier"
+      value="1.6.3.1.5.3"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

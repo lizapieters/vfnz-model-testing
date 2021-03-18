@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Track &amp; Manage Service Quality Performance Resolution"
+    id="id-46c9e0b71f3948529cc2cb888204add6"
+    documentation="Efficiently assign, coordinate and track specific service performance analysis, restoration and improvement activities, and escalate any open service performance degradation reports in jeopardy.">
+  <properties
+      key="Process Identifier"
+      value="1.4.7.6"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of the Track &amp; Manage Service Quality Performance Resolution processes is to efficiently assign, coordinate and track specific service performance analysis, restoration and improvement activities, and escalate any open service performance degradation reports in jeopardy. Responsibilities of these processes include, but are not limited to: â€¢ Adding additional information to an open service performance degradation report based on the first-in and on-going analysis; â€¢ Scheduling, assigning and coordinating analysis and specific service performance restoration activities and/or repair activities delegated to other processes; â€¢ Generating the respective resource trouble report creation request(s) to Create Resource Trouble Report based on specific service performance degradation reports where analysis the root cause is related to resources; â€¢ Modifying information in an existing service performance degradation report based on assignments; â€¢ Modifying the service performance degradation report status; â€¢ Canceling a service performance degradation report when the specific request was related to a false service failure event â€¢ Monitoring the jeopardy status of open service performance degradation reports, and escalating service performance degradation reports as necessary. Note that some specific resource components may be owned and managed by other parties In these cases the Track &amp; Manage Service Quality Performance process is responsible for initiating requests, through Party Performance Management for resolution by the party responsible for the specific resource components. These processes will co-ordinate all the actions necessary in order to guarantee that all tasks are finished at the appropriate time and in the appropriate sequence. The Track &amp; Manage Service Quality Performance Resolution processes will also inform the Close Service Performance Degradation Report processes by modifying the service performance degradation report status to cleared when the specific service performance quality issues have been resolved."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

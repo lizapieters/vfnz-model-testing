@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Management"
+    id="id-0a432bf995694c708e355c1ea80fbe94"
+    documentation="The Data Management (DM) application(s) provides functionalities to collect, store and make data available for consumption by applications inside and outside organization. They provide functionalities to ensure that the requirements for data security, integrity, quality, privacy are met and they comply to enterprise guidelines and standards.">
+  <properties
+      key="TMF Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.11"/>
+  <properties
+      key="TMF Function"
+      value="0"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicyConditionAtomic"
+    id="id-1a6e340be3eb4f9caffcbdb1fd1093b2"
+    documentation="This is the base class for all simple policy conditions. A simple policy condition consists of a single Boolean clause; which is used to test a single condition. This consists of a single occurrence of a PolicyStatement; which is of the form: {variable; operator; value} This design relies on the PolicyStatement to supply the actual terms to make up the condition clause. Thus; since everything is normalized to a condition clause; no subclasses of PolicyConditionAtomic are needed. Instead; subclasses of the appropriate PolicyStatement classes are provided. A compound PolicyCondition consists of one or more PolicyConditions contained inside a higher-level PolicyCondition. These can optionally be grouped by a PolicyConditionComposite object if desired."/>

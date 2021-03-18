@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0257"
+    id="id-39b393c16c1342e98572edfcd03dd893"
+    documentation="As a customer, I want to be able to make my home phone number public, so that my number gets listed in the telephone directory">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0257"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Diane Watson"/>
+  <properties
+      key="Tribe"
+      value="Consumer Home"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="prio2"/>
+  <properties
+      key="Base"
+      value="1?"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Manage"/>
+  <properties
+      key="Topic"
+      value="Home phone listing preference"/>
+  <properties
+      key="Remarks"
+      value="just a flag on subscription/account that later can be exported to white pages system by default a number is put to white pages."/>
+  <properties
+      key="Module"
+      value="AIF, DS, SC, OM, PC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

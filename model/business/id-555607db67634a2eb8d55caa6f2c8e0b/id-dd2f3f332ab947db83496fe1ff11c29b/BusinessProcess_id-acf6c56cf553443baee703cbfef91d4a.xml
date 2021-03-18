@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Coordinate Resource Performance"
+    id="id-acf6c56cf553443baee703cbfef91d4a"
+    documentation="This process schedules, assigns and coordinates analysis and specific service performance restoration activities and/or repair activities delegated to other processes, undertakes necessary tracking of the execution progress, modifies information in an existing Resource Performance Degradation Report based on assignments, and modifies the Resource Performance Degradation Report status">
+  <properties
+      key="Process Identifier"
+      value="1.5.9.6.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1354"
+    id="id-a45b5f2239e649b1b1a27a6906aef707"
+    documentation="As a prospective customer, I want to be able to transfer my existing business phone number, so that I can keep the same number">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1354"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Jared Mortlock"/>
+  <properties
+      key="Tribe"
+      value="Business"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="prio2"/>
+  <properties
+      key="Base"
+      value="1?"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Choose"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Use"/>
+  <properties
+      key="Topic"
+      value="Business Phone Subscription"/>
+  <properties
+      key="Remarks"
+      value="0"/>
+  <properties
+      key="Module"
+      value="DS, PC, OM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Business only"/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

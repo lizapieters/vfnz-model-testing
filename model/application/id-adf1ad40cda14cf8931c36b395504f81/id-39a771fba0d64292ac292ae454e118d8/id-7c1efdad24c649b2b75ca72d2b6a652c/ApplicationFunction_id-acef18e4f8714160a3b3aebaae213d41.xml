@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API Gateway Web protocol header transforming"
+    id="id-acef18e4f8714160a3b3aebaae213d41"
+    documentation="Application Programming Interface Gateway Mediation function for awareness and support of Web protocols semantics (MIME�types,�HTTP�Authorization and Caching headers, etc.) &#xA;> Header transform with modifications of header names and/or header information (e.g., service enabler-specific header to IANA-based header)&#xA;> Protocol transform: transformations of protocol to send API requests/responses (e.g., SOAP to REST)&#xA;> Mash-up (Composition): assembling a new API with existing APIs provided by service enabler.">
+  <properties
+      key="Function Identifier"
+      value="985"/>
+  <properties
+      key="TAM Application Name"
+      value="API Gateway"/>
+  <properties
+      key="TAM Application Id"
+      value="10.3.1"/>
+  <properties
+      key="Constructed Id"
+      value="10.3.1.985"/>
+</archimate:ApplicationFunction>

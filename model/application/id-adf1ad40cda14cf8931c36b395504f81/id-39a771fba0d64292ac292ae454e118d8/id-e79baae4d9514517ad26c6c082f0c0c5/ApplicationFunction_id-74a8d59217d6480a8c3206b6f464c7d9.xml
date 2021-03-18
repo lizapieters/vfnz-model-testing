@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Center Activity Management"
+    id="id-74a8d59217d6480a8c3206b6f464c7d9"
+    documentation="Center Activity Management function includes the necessary functionality to track activities performed within a work center. These activities range from orders placed, sales closed, problems resolved, ticket closed, etc. Most work centers incorporate a detailed activity tracking mechanism with associated reporting for individual agent performance and is typically rolled up to support center-level performance as well.">
+  <properties
+      key="Function Identifier"
+      value="116"/>
+  <properties
+      key="TAM Application Name"
+      value="Center Activity Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.22.2.1.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.22.2.1.1.116"/>
+</archimate:ApplicationFunction>

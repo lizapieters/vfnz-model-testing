@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyRevenueShare"
+    id="id-6f7823a37b9e47c9ac2fabdc6d7a73c0"
+    documentation="The amount of revenue shared among parties involved in a revenue sharing agreement. Revenue share is determined using existing artifacts such as usage; invoices; product prices; and applied billing rates. The revenue share may result in a payment to/from a party and/or an bill/invoice to/from a party. It may also be shown as a reduction of or increase to an bill/invoice sent to or received from a party; or a credit/debit to a partys account balance."/>

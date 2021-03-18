@@ -1,0 +1,20 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Treasury"
+    id="id-9f8e9bcca6004a3294ea79c70c2b6ae1">
+  <properties
+      key="Process Identifier"
+      value="1.7.5.1.5"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Manage Treasury process encompasses all activities between the enterprise and financial institutions such as banks, bond and stock issuers/brokers, commercial paper brokers, and SEC representatives. It also includes communication with internal company entities such as payment remittance offices, accounts payable offices, and payroll offices for the monitoring and planning of the daily requirements for cash. The main activities within the process include: Manage daily cash needs, Determine short term cash investments, Plan yearly treasury requirements, Manage currency requirements and transactions Determine and manage external financing vehicles and approaches, Develop, and monitor internal financing strategy, Manage debt/equity mix, Prepare required quarterly and annual reports, Manage company stock transactions (issue, buy back, ownership) Manage insurance programs."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

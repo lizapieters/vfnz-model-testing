@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Determine Required Sales Prospect Data"
+    id="id-57b7edc82b4542e5a76dd44155a6854d"
+    documentation="Determine the precise customer information required to support the development of a sales proposal if not provided by the sales prospect.">
+  <properties
+      key="Process Identifier"
+      value="1.1.9.3.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Determine Required Sales Prospect Data determines the precise customer information required to support the agreed sales proposal if not provided by the sales prospect. Data is captured through forms, or sales prospect interviews, and so forth, the required sales prospect information, and storing the details in a form required by other processes."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

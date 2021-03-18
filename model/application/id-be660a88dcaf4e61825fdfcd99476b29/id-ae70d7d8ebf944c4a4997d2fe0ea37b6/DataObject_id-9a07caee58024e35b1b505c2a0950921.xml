@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Protocol"
+    id="id-9a07caee58024e35b1b505c2a0950921"
+    documentation="A Protocol is a formal set of rules and conventions that governs how two entities exchange information (usually over one or more types of network media). This is an abstract base class for representing Protocols that can be managed. This class represents a convenient aggregation point for defining how Protocols are managed and used."/>

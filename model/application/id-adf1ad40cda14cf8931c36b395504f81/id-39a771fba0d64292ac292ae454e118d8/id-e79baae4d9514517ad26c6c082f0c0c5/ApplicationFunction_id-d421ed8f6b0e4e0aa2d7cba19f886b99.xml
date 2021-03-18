@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Balance thresholds actions and notifications."
+    id="id-d421ed8f6b0e4e0aa2d7cba19f886b99"
+    documentation="Record definition of policies per balance or balance type of threshold actions and notification">
+  <properties
+      key="Function Identifier"
+      value="46"/>
+  <properties
+      key="TAM Application Name"
+      value="Balance Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.19.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.19.2.46"/>
+</archimate:ApplicationFunction>

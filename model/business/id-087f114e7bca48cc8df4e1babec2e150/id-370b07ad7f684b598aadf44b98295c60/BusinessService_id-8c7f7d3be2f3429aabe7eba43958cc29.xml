@@ -1,0 +1,30 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integrate self-service portal for Amazon Connect"
+    id="id-8c7f7d3be2f3429aabe7eba43958cc29"
+    documentation="Potential to sell to consumer/simple business">
+  <properties
+      key="Target Horizon"
+      value="N/A"/>
+  <properties
+      key="Segment"
+      value="Business"/>
+  <properties
+      key="Access/Service Type"
+      value="0"/>
+  <properties
+      key="Comarch can support"
+      value="N/A"/>
+  <properties
+      key="Non-Comarch IT support needed"
+      value="N/A"/>
+  <properties
+      key="NaaS will support"
+      value="N/A"/>
+  <properties
+      key="Automated non-NaaS support"
+      value="N/A"/>
+  <properties
+      key="Unexpected"
+      value="true"/>
+</archimate:BusinessService>

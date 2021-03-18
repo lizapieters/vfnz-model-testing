@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PortabilityRequestPolicyRule"
+    id="id-6d9ae8f334c54e4b821456ae8db79a45"
+    documentation="PortabilityRequestPolicyRule is the associated Class for the relationship of many-to-many between NumberPortabilityRequest and NumberPortabilityPolicyRule. Through this class; the relation combined of the both of them is stored."/>

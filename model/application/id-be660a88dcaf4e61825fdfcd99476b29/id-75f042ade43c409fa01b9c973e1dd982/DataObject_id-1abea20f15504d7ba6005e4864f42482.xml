@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ServiceCandidate"
+    id="id-1abea20f15504d7ba6005e4864f42482"
+    documentation="A ServiceCandidate is an entity that makes a ServiceSpecification available to a catalog. A ServiceCandidate and its associated ServiceSpecification may be â€œpublishedâ€� (made visible) in any number of ServiceCatalogs; or in none. One ServiceSpecification can be composed of other ServiceSpecifications. These ServiceSpecifications may also be published."/>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provide Loyalty Program Reward Notification"
+    id="id-76b7e4b258ae40e6b80008d22cf391e3"
+    documentation="Communicate the attainment of an reward.">
+  <properties
+      key="Process Identifier"
+      value="1.1.19.2.3.2"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Provide Loyalty Program Reward Notification notifies the Provide Loyalty Account Communication process, which manages operational communications with a loyalty program participant. In this case to inform a loyalty program participant that they have earned a reward."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

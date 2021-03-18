@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1435"
+    id="id-4409119af9194ca28794c870380c2a86"
+    documentation="As a customer I want to be able to users outside my organisation be a part of my hierarchy including access">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1435"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Ben Pennell"/>
+  <properties
+      key="Tribe"
+      value="Business"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Setup"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Account Hierarchies"/>
+  <properties
+      key="Remarks"
+      value="to be discussed with REQ_BSS_1429"/>
+  <properties
+      key="Module"
+      value="PIM, TUM, EP, SC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Business Only"/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

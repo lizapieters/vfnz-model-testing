@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Operations Portal"
+    id="id-04cfb88d878542408052d0be8f2c22ba"
+    documentation="The Operations Portal encompasses Portal Infrastructure for internal / center use into which functional components are plugged. The Framework provides the �foundation� for the development of agent-facing functionality.">
+  <properties
+      key="TAM Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="5.22.1.1"/>
+  <properties
+      key="Frameworx Domain"
+      value="Customer Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,42 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inteflow"
+    id="id-7ac30193ea244b0381f466a540f5bada"
+    documentation="Inteflow">
+  <properties
+      key="StatusForLookUp"
+      value="Active"/>
+  <properties
+      key="Owner"
+      value="AndrewH"/>
+  <properties
+      key="Level of Service"
+      value="Mission Critical"/>
+  <properties
+      key="Annual Support Cost"
+      value="$131,977.50"/>
+  <properties
+      key="Product / Service"
+      value="Common"/>
+  <properties
+      key="Segment"
+      value="Common"/>
+  <properties
+      key="DX Association"
+      value="Unrelated"/>
+  <properties
+      key="Existing Retained or Replaced"
+      value="Retained"/>
+  <properties
+      key="Legacy BSS Stack Served"
+      value="C3"/>
+  <properties
+      key="TAM App ID"
+      value="5.1.3"/>
+  <properties
+      key="TAM Domain"
+      value="Customer Domain"/>
+  <properties
+      key="TAM Application"
+      value="Customer Credit Management"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Risk Aggregation"
+    id="id-e691349207e649f9978de2e8a0450a32"
+    documentation="The ability to consider a collective set of risk factors about a customer and represent them from a rationalized perspective.">
+  <properties
+      key="TMF_ID"
+      value="1.1.2.3.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

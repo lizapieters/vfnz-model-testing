@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Market/Location Matching"
+    id="id-bedd173b4c05456fba19b6f8a6ec7406"
+    documentation="The ability to associate a market with a specific location.">
+  <properties
+      key="TMF_ID"
+      value="1.2.11.7.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

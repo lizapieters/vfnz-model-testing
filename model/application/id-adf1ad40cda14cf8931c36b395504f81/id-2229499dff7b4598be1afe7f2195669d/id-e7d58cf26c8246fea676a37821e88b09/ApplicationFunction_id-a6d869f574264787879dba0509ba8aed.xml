@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dealers"
+    id="id-a6d869f574264787879dba0509ba8aed"
+    documentation="Dealers are 3rd party retailers that sell the services of the Communication Service Provider and get commission for those sales. &#xA;Dealers vary in size and can range from a country wide retail chain to a local retail shop in a rural area. Some dealers sell the services of multiple Communication Service Providers and some are exclusive to one Communication Service Provider.&#xA;Dealers focus on acquiring new customers and upgrading existing customers. Most dealers are only a Point of Sale and not a Point of Service (as opposed to the Communication Service Provider�s owned retail stores). The dealer�s main focus is to acquire new customers or upgrade existing customers. The main need for a dealers online application is to make them self-sufficient and avoid the need for them to call the call center on behalf of a customer to activate their handset.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="3.4.4"/>
+  <properties
+      key="Frameworx Domain"
+      value="Market Sales Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

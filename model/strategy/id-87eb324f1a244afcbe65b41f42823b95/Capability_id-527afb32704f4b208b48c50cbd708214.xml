@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contract Management"
+    id="id-527afb32704f4b208b48c50cbd708214"
+    documentation="Contract Management applications provide necessary functionality to facilitate a contract pertaining to a given customer solution.">
+  <properties
+      key="TMF Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="3.8"/>
+  <properties
+      key="TMF Function"
+      value="0"/>
+  <properties
+      key="TMF Maturity"
+      value="Market_Sales Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

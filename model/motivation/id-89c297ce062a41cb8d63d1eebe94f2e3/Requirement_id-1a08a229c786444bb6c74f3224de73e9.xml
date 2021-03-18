@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0960"
+    id="id-1a08a229c786444bb6c74f3224de73e9"
+    documentation="As a Payments specialist, I want the ability to easily pull reports related to payments without having to rely on technical resource to assist so that my reports are turned around in a quicker timeframe">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0960"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Rochelle Hedley"/>
+  <properties
+      key="Tribe"
+      value="Finance &amp; Business / AR Payments"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Pay"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="AR/Payments"/>
+  <properties
+      key="Remarks"
+      value="Comarch does not deliver reports, just data feed via Kafka/postgreSQL"/>
+  <properties
+      key="Module"
+      value="BS, REP"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

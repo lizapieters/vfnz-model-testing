@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deliver Marketing Communication Collateral"
+    id="id-0cbc9277e8ba4774a22ac7cae06656b3"
+    documentation="Manage and co-ordinate the delivery of a marketing communication to the selected channels.">
+  <properties
+      key="Process Identifier"
+      value="1.1.14.4"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Deliver Marketing Communication manages and co-ordinates the delivery of the communications to the selected channels. It ensures that the channels (owned and/or contracted) are adequately trained and/or informed to manage the message and/or campaign delivery, and that sufficient resources are available in the selected channel(s) to support the delivery. Note that the actual contractual relationship with the supplier may be established by interacting with Engaged Party domain processes, such as Party Sourcing Management and Party Agreement Management."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

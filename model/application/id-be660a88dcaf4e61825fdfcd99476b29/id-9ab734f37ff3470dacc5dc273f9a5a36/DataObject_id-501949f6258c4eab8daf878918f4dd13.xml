@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyRoleGroupSpecification"
+    id="id-501949f6258c4eab8daf878918f4dd13"
+    documentation="A PartyRoleGroupSpecification specifies for a type of PartyRoleGroup; the applicable rules for the creation of a PartyRoleGroup: - the type of PartyRole (PartyRoleSpecification) that might be part of a corresponding PartyRoleGroup; - rules (PRGSpecRule) applying for the Party being part of the PartyRoleGroup through their PartyRole such as all Parties must live at the same location to be considered as member of the same Family The type of PartyRoleGroupSpecification might be a Family; a Club; a group of Friends... - A family can include a number of Individuals. The individuals are part of this family (PartyRoleGroup) via PartyRoles such as father; mother; son; and daughterâ€¦ - Individuals can also be part of PartyRoleGroups such as a Bridge Club; with PartyRoles such as Member; Chairman/Chairwoman; Treasurer; etc. A PartyRoleGroupSpecification may describe one or many PartyRoleGroups."/>

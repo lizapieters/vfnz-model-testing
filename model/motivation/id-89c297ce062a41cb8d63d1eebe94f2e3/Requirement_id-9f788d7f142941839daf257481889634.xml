@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1399"
+    id="id-9f788d7f142941839daf257481889634"
+    documentation="As a CSR I want clear visibility of all active services on a customers account so I can address customer queries">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1399"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Kris Thornley"/>
+  <properties
+      key="Tribe"
+      value="CRM"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="y"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="CSR Desktop"/>
+  <properties
+      key="Remarks"
+      value="OOTB, Product Inventory view"/>
+  <properties
+      key="Module"
+      value="CRM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

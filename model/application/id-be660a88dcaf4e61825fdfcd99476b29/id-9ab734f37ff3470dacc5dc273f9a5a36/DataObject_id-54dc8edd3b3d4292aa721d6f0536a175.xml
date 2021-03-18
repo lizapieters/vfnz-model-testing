@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PerformanceNetworkAddress"
+    id="id-54dc8edd3b3d4292aa721d6f0536a175"
+    documentation="A Performance-related extension to a NetworkAddress. A NetworkAddress define different ways to identify where a Resource is; such as an IPAddress vs. an IPXAddress vs. a PointCode."/>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Entity Structuring"
+    id="id-e390be38fde740c881667d3579943cde"
+    documentation="The ability to define discrete business entity substructures, such as business units, divisions, departments, and the like, and the relationships among those substructures and other business entities.">
+  <properties
+      key="TMF_ID"
+      value="1.2.4.2"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResourceSpecVersionDetails"
+    id="id-50aea9e530f648dab4a90e8df2ad33d0"
+    documentation="This class defines the semantics of the modifiesResourceSpec aggregation. Specifically; it enables an application to define which set of versions of this ResourceSpecification are appropriate for a given task.This aggregation represents the set of versions of this ResourceSpecification. The semantics of this aggregation are implemented with the ResourceSpecVersionDetails class."/>

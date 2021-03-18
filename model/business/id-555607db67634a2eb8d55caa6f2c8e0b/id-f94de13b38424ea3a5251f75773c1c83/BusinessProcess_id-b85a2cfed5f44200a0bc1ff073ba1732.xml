@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Render &amp; Format Party Bill/Invoice"
+    id="id-b85a2cfed5f44200a0bc1ff073ba1732"
+    documentation="Render and format a party bill/invoice.">
+  <properties
+      key="Process Identifier"
+      value="1.6.15.3.2.1"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Render &amp; Format Bill/Invoice renders and formats a party bill/invoice. A bill is a notice for payment which is supposed to be preceded by an invoice in most cases. An invoice typically does not summarize to total outstanding payment or payments due. A bill typically contains the payment due date and balance. This process uses a specification, defined by Establish &amp; Maintain Party Bill Invoice Format, for formatting a bill/invoices in different ways and to achieve different publishing possibilities. The specification supports the creation of different bill/invoice formats for different publication media. The process is further responsible for splitting and re-arranging a bill/invoice for a party (particularly a party with a complex account structures) according to agreements made with a party."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

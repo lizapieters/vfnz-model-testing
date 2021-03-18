@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Insight Management"
+    id="id-7413956556544e618c52bd628d119d23"
+    documentation="Customer Insight Management enables Service Providers to leverage customer insight gained from customer transactions, interactions and activities with the Service Provider to treat the customer in a personalized manner and provide a unique customer experience. Customer Insight gained can be applied to many domains pertaining to customer experience such as customer service, cross/up-sell, retention, etc. Although Customer Insight Management builds upon traditional business intelligence and analytics for customer transactions and interactions, it is unique as it provides real-time customer treatment for various aspects to provide relevant, timely, and personalized actions.">
+  <properties
+      key="TAM Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="5.5"/>
+  <properties
+      key="Frameworx Domain"
+      value="Customer Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

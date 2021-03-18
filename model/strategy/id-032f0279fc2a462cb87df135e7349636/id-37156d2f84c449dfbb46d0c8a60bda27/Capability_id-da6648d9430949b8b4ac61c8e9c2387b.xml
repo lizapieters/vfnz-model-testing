@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Order Splitting"
+    id="id-da6648d9430949b8b4ac61c8e9c2387b"
+    documentation="The ability to decompose an order of multiple goods or services into a set of sub-orders for individual (or smaller set of) goods or services.">
+  <properties
+      key="TMF_ID"
+      value="1.1.8.9"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Information Access Control"
+    id="id-a63bb424a51b4372bf903533f992ec1d"
+    documentation="The ability to allow or prevent individuals, organizations, and assets from viewing, using, modifying, or sharing information based on certain rules and defined authorizations of the accessing parties.">
+  <properties
+      key="TMF_ID"
+      value="1.3.1.6.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

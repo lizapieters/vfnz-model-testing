@@ -1,0 +1,42 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TCL Intranet"
+    id="id-244335142b03449e8bea5f3d8911b4fd"
+    documentation="TCL Intranet">
+  <properties
+      key="StatusForLookUp"
+      value="Decommissioned"/>
+  <properties
+      key="Owner"
+      value="AndrewH"/>
+  <properties
+      key="Level of Service"
+      value="Business Standard"/>
+  <properties
+      key="Product / Service"
+      value="fixed"/>
+  <properties
+      key="Segment"
+      value="Common"/>
+  <properties
+      key="DX Association"
+      value="Replaced Fully"/>
+  <properties
+      key="Existing Retained or Replaced"
+      value="Replace"/>
+  <properties
+      key="ComArch / Other"
+      value="MS AD and Azure AD, M365 with ATP"/>
+  <properties
+      key="Legacy BSS Stack Served"
+      value="Blue-Common"/>
+  <properties
+      key="TAM App ID"
+      value="9.6.2"/>
+  <properties
+      key="TAM Domain"
+      value="Enterprise Domain"/>
+  <properties
+      key="TAM Application"
+      value="Enterprise Information and Collaboration Management"/>
+</archimate:ApplicationComponent>

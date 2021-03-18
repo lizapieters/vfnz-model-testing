@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RA Control and Configuration"
+    id="id-6180c35c110e433697476be929fa5de1"
+    documentation="RA Control &amp; Configuration establishes the policies and rules to be applied to the Revenue Assurance process. It includes baselining acceptable limits and values from which actions will be taken.RA Control &amp; Configuration also assures that the RA process is executingaccording to specified rules and controls.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.1.1"/>
+  <properties
+      key="TMF Function"
+      value="RA Control Configuration RA Control Management"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

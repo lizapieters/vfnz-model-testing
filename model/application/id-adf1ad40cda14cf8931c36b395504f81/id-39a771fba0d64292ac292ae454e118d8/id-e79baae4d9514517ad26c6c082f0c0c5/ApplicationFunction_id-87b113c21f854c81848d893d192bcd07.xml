@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Charge association to billing account"
+    id="id-87b113c21f854c81848d893d192bcd07"
+    documentation="Associate incurred charge to the billing account liable for its payment">
+  <properties
+      key="Function Identifier"
+      value="69"/>
+  <properties
+      key="TAM Application Name"
+      value="Billing Account Associations Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.13.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.13.2.69"/>
+</archimate:ApplicationFunction>

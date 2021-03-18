@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Human Resource/Facility Matching"
+    id="id-08e6cd39b4ff4a208c91db452d781009"
+    documentation="The ability to associate human resources with a facility.">
+  <properties
+      key="TMF_ID"
+      value="1.3.8.7.9"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

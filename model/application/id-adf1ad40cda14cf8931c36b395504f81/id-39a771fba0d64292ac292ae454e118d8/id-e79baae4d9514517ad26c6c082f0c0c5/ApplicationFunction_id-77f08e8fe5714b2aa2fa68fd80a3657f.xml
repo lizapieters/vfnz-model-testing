@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Channel guidance and data capture"
+    id="id-77f08e8fe5714b2aa2fa68fd80a3657f"
+    documentation="Channel Guidance and Data Capture leads the specific channel front ending application with the captured information required. For each information element it can provide a list of valid options to select from (e.g. list of products available for the customer, list of options to select from a product). Finally it receives the captured information and publishes it.">
+  <properties
+      key="Function Identifier"
+      value="203"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Order Establishment"/>
+  <properties
+      key="TAM Application Id"
+      value="5.3.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.3.1.203"/>
+</archimate:ApplicationFunction>

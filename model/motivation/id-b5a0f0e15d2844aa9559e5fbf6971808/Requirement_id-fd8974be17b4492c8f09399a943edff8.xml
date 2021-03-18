@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1008"
+    id="id-fd8974be17b4492c8f09399a943edff8"
+    documentation="As a customer, I want to be able to filter offers based on category or location">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1008"/>
+  <properties
+      key="Status"
+      value="Potential gap"/>
+  <properties
+      key="Created by"
+      value="Gabrielle Paul"/>
+  <properties
+      key="Tribe"
+      value="Loyalty"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Personalisation"/>
+  <properties
+      key="Remarks"
+      value="[CLM] It is possible to filter loyalty offers in OOTB solution, on COmarch delivered frontends as well as use filtering via API what filtering of offers in &quot;Use&quot; lifecycle?"/>
+  <properties
+      key="Module"
+      value="CLM, PC, SC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

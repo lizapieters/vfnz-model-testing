@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agreement Analytics Management"
+    id="id-435366e06e2244c5a307ce84e58bbb28"
+    documentation="The ability to define, update, delete/archive and otherwise manage agreement analytics">
+  <properties
+      key="TMF_ID"
+      value="1.1.5.10.5"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

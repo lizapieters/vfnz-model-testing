@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0029"
+    id="id-3c746aa35144471b8f7b1530da25550f"
+    documentation="As a new or existing customer, I want to be able to pre-order a device, so that I can be the first to get it when it arrives.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0029"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="2"/>
+  <properties
+      key="Base_Old"
+      value="2"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Topic"
+      value="Pre Order"/>
+  <properties
+      key="Remarks"
+      value="OOTB realized as a regular order (including payment) but with a longer delivery time. Is this supported by the delivery platform? This information will not come from the delivery system. All needed information need to be stored in Comarch PC. Registered orders need to wait in a queue until are released (currently: manually). Estimation: 3-5k orders in queue in peak."/>
+  <properties
+      key="Module"
+      value="DS, SC, OM, PC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="REQ_OSS_252 REQ_OSS_253 REQ_OSS_254"/>
+</archimate:Requirement>

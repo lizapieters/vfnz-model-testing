@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0816"
+    id="id-d5a344ff1ff0430492356bc650b5201d"
+    documentation="As a Fraud Manager I want reports to go to a case management system with tight controls around access to protect the privacy of those involved">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0816"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Caroline Carver"/>
+  <properties
+      key="Tribe"
+      value="Privacy, Fraud and Compliance"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="TBC"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Manage"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Fraud"/>
+  <properties
+      key="Remarks"
+      value="Comarch is to configure a case that could be registered in cases when a fraud is detected. Such a case should not be visible to everybody but only to a defined group."/>
+  <properties
+      key="Module"
+      value="CRM, TUM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="SA"/>
+</archimate:Requirement>

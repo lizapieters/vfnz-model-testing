@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Channel Matching"
+    id="id-9d77df78309e45779d30d0bda3951dd6"
+    documentation="The ability to associate a channel with other business objects.">
+  <properties
+      key="TMF_ID"
+      value="1.1.1.7"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

@@ -1,0 +1,30 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Broadband - xDSL"
+    id="id-0b023cb73b024487a06e153f2056f7f3"
+    documentation="CDC, hypothesis yes in-scope by Yaseen.&#xA;12-10-2020 - Optional Static IP as an add-on is required for Consumer &amp; Business Internet as requested by Summer">
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Segment"
+      value="Consumer/Business"/>
+  <properties
+      key="Access/Service Type"
+      value="xDSL"/>
+  <properties
+      key="Comarch can support"
+      value="Yes"/>
+  <properties
+      key="Non-Comarch IT support needed"
+      value="Yes"/>
+  <properties
+      key="NaaS will support"
+      value="No"/>
+  <properties
+      key="Automated non-NaaS support"
+      value="No"/>
+  <properties
+      key="Unexpected"
+      value="true"/>
+</archimate:BusinessService>

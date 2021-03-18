@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0630"
+    id="id-d739105897784687afd6dda29a62c01b"
+    documentation="As a prospective customer, I want to be able to view recommended broadband services based on my business needs, so that I can make a purchase that meets my needs.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0630"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Jared Mortlock"/>
+  <properties
+      key="Tribe"
+      value="Business"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="prio2"/>
+  <properties
+      key="Base"
+      value="1?"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Learn"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Business subscription"/>
+  <properties
+      key="Remarks"
+      value="3-5 questions to understand customer usage needs and match with technology available. To be checked at Comarch internally if functionality available."/>
+  <properties
+      key="Module"
+      value="DS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

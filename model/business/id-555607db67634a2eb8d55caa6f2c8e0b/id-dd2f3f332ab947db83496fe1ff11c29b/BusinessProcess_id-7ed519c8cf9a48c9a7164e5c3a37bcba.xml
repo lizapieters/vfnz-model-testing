@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Support Asset Assurance Operations"
+    id="id-7ed519c8cf9a48c9a7164e5c3a37bcba"
+    documentation="Support the Asset Assurance Operations processes by reviewing requirements for infrastructure to support the operational processes, and monitoring, and reporting on the capability of the Asset Assurance Operations processes.">
+  <properties
+      key="Process Identifier"
+      value="1.7.9.4.4"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objectives of the Support Asset Assurance Operations processes are twofold: â€¢support the Manage Margin Assurance Operations processes by managing requirements for infrastructure to support the operational processes, and â€¢monitoring, managing and reporting on the capability of the Manage Margin Assurance Operations processes"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

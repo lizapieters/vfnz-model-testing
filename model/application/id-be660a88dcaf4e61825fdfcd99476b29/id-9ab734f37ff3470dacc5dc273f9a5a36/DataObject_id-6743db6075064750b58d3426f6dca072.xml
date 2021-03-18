@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProductOrder"
+    id="id-6743db6075064750b58d3426f6dca072"
+    documentation="A ProductOrder represents a communication used to procure; update or remove one or many Products in the context of a ProductOffering through all its ProductOrderItems. One or many PartyRoles might be involved in a ProductOrder / ProductOrderItem such as Distributor; Holder; Buyer or DeliveryDriver."/>

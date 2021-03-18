@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analyze Market Information"
+    id="id-19331d8675cf408889e65aa663c6e495"
+    documentation="Develop enterprise and business views of the market">
+  <properties
+      key="Process Identifier"
+      value="1.1.1.1.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Analyze Market information processes focus on developing enterprise and business views of the market, based on the analysis of the external and internal information sources. Methodologies used for developing market forecasts, as well as the development of forecasts is managed by this process."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

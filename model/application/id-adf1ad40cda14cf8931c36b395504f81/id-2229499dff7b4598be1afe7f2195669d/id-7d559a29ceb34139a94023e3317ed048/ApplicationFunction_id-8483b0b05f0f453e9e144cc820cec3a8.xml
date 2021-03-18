@@ -1,0 +1,33 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Order Management"
+    id="id-8483b0b05f0f453e9e144cc820cec3a8"
+    documentation="This function provides workflow and orchestration capability for the Resource order fulfillment.">
+  <properties
+      key="TAM Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="7.3"/>
+  <properties
+      key="Frameworx Domain"
+      value="Resource Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+  <properties
+      key="Function Identifier"
+      value="492"/>
+  <properties
+      key="TAM Application Name"
+      value="Resource Order Tracking &amp; Management"/>
+  <properties
+      key="TAM Application Id"
+      value="7.3.1.1"/>
+  <properties
+      key="Constructed Id"
+      value="7.3.1.1.492"/>
+</archimate:ApplicationFunction>

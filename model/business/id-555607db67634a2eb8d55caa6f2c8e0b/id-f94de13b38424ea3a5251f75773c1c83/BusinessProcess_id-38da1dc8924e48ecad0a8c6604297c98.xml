@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verify Party Bill/Invoice Quality"
+    id="id-38da1dc8924e48ecad0a8c6604297c98"
+    documentation="Verify party bill/invoice quality before distribution to the process responsible for bill/invoice production and distribution.">
+  <properties
+      key="Process Identifier"
+      value="1.6.15.3.2.3"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

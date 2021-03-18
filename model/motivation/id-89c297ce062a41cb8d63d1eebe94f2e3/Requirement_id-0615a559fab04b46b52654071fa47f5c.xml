@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0663"
+    id="id-0615a559fab04b46b52654071fa47f5c"
+    documentation="As a consumer, I want to choose specific delivery options for my hardware delivery, so that I can get it at a time that suits me. E.g. Saturdays, after hours.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0663"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="2"/>
+  <properties
+      key="Base_Old"
+      value="2"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="buy"/>
+  <properties
+      key="Topic"
+      value="Delivery options"/>
+  <properties
+      key="Remarks"
+      value="Could be OOTB as additional parameters for delivery items, then depents on fulfilment, e.g. courier company (integration?). To be discussed with the Terminals team. &quot;Saturday&quot; would be a separate delivery option available for certain geo areas."/>
+  <properties
+      key="Module"
+      value="DS, SC, OM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

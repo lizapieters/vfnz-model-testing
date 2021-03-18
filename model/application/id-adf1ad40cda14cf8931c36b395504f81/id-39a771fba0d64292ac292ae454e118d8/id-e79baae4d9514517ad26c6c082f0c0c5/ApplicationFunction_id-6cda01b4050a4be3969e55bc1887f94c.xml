@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer SLA violation remedy initiation"
+    id="id-6cda01b4050a4be3969e55bc1887f94c"
+    documentation="Customer SLA Violation Management function to provide the necessary functionality to pass  adjustment or action on to billing or appropriate systems for remedy">
+  <properties
+      key="Function Identifier"
+      value="297"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer SLA Violation Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.18.4"/>
+  <properties
+      key="Constructed Id"
+      value="5.18.4.297"/>
+</archimate:ApplicationFunction>

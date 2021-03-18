@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Shipment Access Constraints Definition"
+    id="id-0fe09f299ebb46d68fc64230d29323cd"
+    documentation="The Ability to define and impose limitations of access rights to a shipment.">
+  <properties
+      key="TMF_ID"
+      value="1.1.11.4.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

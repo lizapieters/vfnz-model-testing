@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Test Service End-to-End"
+    id="id-4182b4de9e59498ea703b1b9525b49e7"
+    documentation="Test specific services to ensure all components are operating within normal parameters, and that the service is working to agreed performance levels">
+  <properties
+      key="Process Identifier"
+      value="1.4.5.5"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The responsibility of the Test Service End-to-End processes is to test specific services to ensure all components are operating within normal parameters, and that the service is working to agreed performance levels before its activation for the customer. This purpose is performed through testing the service end-to-end as far as possible. These processes test specific services against external party defined test plans, or against test plans developed by the service provider. Where appropriate test plans are not available these processes are responsible for developing appropriate test plans. These processes are also responsible for capturing and storing the test results for historical and downstream testing comparison purposes. If these tests succeed, the specific services will be marked as in-service which means the specific services are available for use by customers."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

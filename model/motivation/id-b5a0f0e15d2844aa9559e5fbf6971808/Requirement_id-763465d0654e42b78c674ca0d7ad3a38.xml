@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0511"
+    id="id-763465d0654e42b78c674ca0d7ad3a38"
+    documentation="As a customer, I want to be sent below the line offers which I can accept, so that I can be a happier Vodafone customer">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0511"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="2"/>
+  <properties
+      key="Base_Old"
+      value="2"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="use"/>
+  <properties
+      key="Topic"
+      value="Below the line offers"/>
+  <properties
+      key="Remarks"
+      value="Certain offerings exposed to specific customers, group of customers. Supported by the model, more details needed about the process. Communication to the customer is to be triggered from CCM to various channels. Reqiured also to be manually assigned by account manager. A dedicated workshop for below the line offers needed. Are below the line offers just discounts and add-ons or maybe something more: specific plans/subscriptions? In such a case what should happen with the subscription (what could still be managed) when below the line offer is timed-out (customer is no longer targetted)? What in case a customer removes a promotional add-on, can he still add it later? How many of such below the line offers can be active on a customer? How many per year? Is this account level or customer level?"/>
+  <properties
+      key="Module"
+      value="CCM, DS, SC, OM, PC, PIM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ClosePartyProblemSummary"
+    id="id-de2960c5b47946d89aa2b6f4b12b2573"
+    documentation="Records the closure activity of a PartyProblem. There may be more than one ClosePartyProblemSummary per PartyProblem because PartyProblems can be reopened; or a temporary solution may be replaced by a permanent one."/>

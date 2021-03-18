@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provide Management Oversight on Tenders"
+    id="id-ae989d14ef884fd5bfd310a1e85c2dd6"
+    documentation="These processes capture all activities required to provide management oversight on the tender process. These processes cover the establishment of any tender selection boards, the reporting processes and timetables">
+  <properties
+      key="Process Identifier"
+      value="1.6.2.4.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

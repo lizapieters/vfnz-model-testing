@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Perform Specific Resource Trouble Diagnostics"
+    id="id-12e227e6a7074bfca8009df9ba2e3dc3"
+    documentation="This process performs diagnostics against the specific resources.  This includes application of signatures and other methods to capture anomalous events or malware.">
+  <properties
+      key="Process Identifier"
+      value="1.5.8.2.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

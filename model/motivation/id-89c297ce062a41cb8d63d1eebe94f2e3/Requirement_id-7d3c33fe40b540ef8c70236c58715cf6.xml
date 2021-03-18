@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0024"
+    id="id-7d3c33fe40b540ef8c70236c58715cf6"
+    documentation="As an existing customer, I want to be able to purchase hardware on interest free in store, so that I can get new hardware">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0024"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="2"/>
+  <properties
+      key="Base_Old"
+      value="2"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Topic"
+      value="Existing customer, in store, has subs, getting new hardware on IF"/>
+  <properties
+      key="Remarks"
+      value="OOTB, hardware can have one-time and monthly fees and a commitment period. To be discussed on details of the model of hardware + subscription bundles, have you got any agreement with the customer for installments? Are there any printouts/documents to be generated from Comarch?"/>
+  <properties
+      key="Module"
+      value="OM, PC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="REQ_OSS_254"/>
+</archimate:Requirement>

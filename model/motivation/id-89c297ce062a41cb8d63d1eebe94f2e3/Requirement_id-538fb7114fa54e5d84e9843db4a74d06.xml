@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0232"
+    id="id-538fb7114fa54e5d84e9843db4a74d06"
+    documentation="As a customer, when I make a purchase that requires consent from my neighbours, I want to be informed of the process, so that I can plan ahead.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0232"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Diane Watson"/>
+  <properties
+      key="Tribe"
+      value="Consumer Home"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="prio2"/>
+  <properties
+      key="Base"
+      value="1?"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Order creation"/>
+  <properties
+      key="Remarks"
+      value="How does this impact the order flow in Comarch? Yes, additional step in the order flow that could delay the delivery. Of course we cannot charge customers until the installation is completed. Charging could start if a customer starts using the service using mobile backup connection. Not all services can be available, so this needs to be discussed internally at Vodafone. If needed additional BUC will be added. Information whether a consent is required will come from the address checker. In such case the customer is informed during the buy journey. This need can also appear later. In such case the information to the customer will come via the order tracker."/>
+  <properties
+      key="Module"
+      value="AIF, DS, SC, OM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

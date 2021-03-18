@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Test Services"
+    id="id-ed0be9b91dcc4a349345cded8524a6dd"
+    documentation="Service Test Services applications provides the means to access the testing capabilities.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="6.8.4"/>
+  <properties
+      key="Frameworx Domain"
+      value="Service Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Job Compensation Management"
+    id="id-fe0e71e9857243c88b6348e200748351"
+    documentation="The ability to establish a compensation range and compensation criteria for a given job.">
+  <properties
+      key="TMF_ID"
+      value="1.3.7.3"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

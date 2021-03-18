@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Test Management"
+    id="id-1e73df31bfcb4526aaca6056ab4c9803"
+    documentation="Service Test Management applications are focused on ensuring that the various services are working properly. The service test applications are part of both the fulfillment and the assurance process. In the fulfillment process, the service test is responsible for ensuring that the assigned service works as designed, while on the assurance side the service testing applications are responsible for service trouble/problem isolation. As part of the testing process, these applications also interface with the trouble process, which can trigger an automatic test.">
+  <properties
+      key="TMF Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="6.8"/>
+  <properties
+      key="TMF Function"
+      value="0"/>
+  <properties
+      key="TMF Maturity"
+      value="Service Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

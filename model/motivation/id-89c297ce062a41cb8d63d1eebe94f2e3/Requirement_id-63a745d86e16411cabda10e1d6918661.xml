@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0322"
+    id="id-63a745d86e16411cabda10e1d6918661"
+    documentation="Transitioning customers need to be able to carry forward IFP agreements including IFP  payment start date and term">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0322"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Steve Bird"/>
+  <properties
+      key="Tribe"
+      value="Transition"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Transition"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Transition"/>
+  <properties
+      key="Remarks"
+      value="Intention is to match to the agreement as defined in DX, only moving forward the start date Also relation between interest free device and a plan? Yes, relation to be considered. Cannot move a device without a plan. This will be managed by the transition app."/>
+  <properties
+      key="Module"
+      value="DS, OM, TA"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

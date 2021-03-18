@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1069"
+    id="id-1fcdc09e41344198bf22d47c270ba66a"
+    documentation="As a product owner I want to be able to send customers who had historically had device/plan in their cart an update to the price (e.g you added an iPhone 11 into your cart it is now $XXX cheaper), so that customers are informed when deals improve on products they have indicated they want">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1069"/>
+  <properties
+      key="Status"
+      value="Potential gap"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="y"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="use"/>
+  <properties
+      key="Topic"
+      value="Marketing and Campaign Management"/>
+  <properties
+      key="Remarks"
+      value="PC: change of IPhone 11 price in the product catalogue should trigger notification to customers CCM to confirm if such campaing can be created (send info to all customers did not compelte sale for Iphone 11) [CCM] Partially supported. CCM would not have all the information available. External event needs to be send to CCM from the module that detects abandoned basket"/>
+  <properties
+      key="Module"
+      value="CCM, PC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

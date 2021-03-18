@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Real Estate Capital Construction Management"
+    id="id-575fd82572724791babfbc6fef1bc683"
+    documentation="The construction process, and the documents involved for each construction phase, in addition to the number diverse stakeholders and complicated workflows calls for a specialized project management.">
+  <properties
+      key="TMF Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.4.1.6"/>
+  <properties
+      key="TMF Function"
+      value="Real Estate Construction Management"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

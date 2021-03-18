@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0460"
+    id="id-309eb1301f6348b4ba5868c2f1b53764"
+    documentation="As a transitioning cusotmer I want a single order to move legacy services to DX and request new add on's">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0460"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Steve Bird"/>
+  <properties
+      key="Tribe"
+      value="Transition"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Transition"/>
+  <properties
+      key="Remarks"
+      value="How do you envision this in GUI in case a customer has multiple mobiles and fix subscriptions (mapping of old plans to new plans many to many). Basket will be prepropagated with the services based on legacy. It should be possible to select new addons etc. To be discussed at VF if we allow partial transitions (customer removing some services from the basket) Current assumption is that partial transitions would be allowed. Communication back to legacy would need to be able to mention which exactly of the services got transitioned and which not."/>
+  <properties
+      key="Module"
+      value="DS, SC, OM, TA"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0704"
+    id="id-fb0d07a1fcea434ea0a1b39980f368ca"
+    documentation="As a customer I want to be able to see a copy of what personal information Vodafone holds on me">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0704"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Stephanie Cunneen"/>
+  <properties
+      key="Tribe"
+      value="Business"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="y"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Setup"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Self-service"/>
+  <properties
+      key="Remarks"
+      value="Is it just &quot;see&quot; in selfservice via various screen or download in a form of a report? Personal here means also e.g. call data records?"/>
+  <properties
+      key="Module"
+      value="SC, EP, BR"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

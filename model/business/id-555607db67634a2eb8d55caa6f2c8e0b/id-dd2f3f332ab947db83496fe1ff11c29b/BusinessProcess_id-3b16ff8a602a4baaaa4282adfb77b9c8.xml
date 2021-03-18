@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Receive Tender Document Response"
+    id="id-3b16ff8a602a4baaaa4282adfb77b9c8"
+    documentation="Receive tender document response from a identified party to whom the tender document was sent.">
+  <properties
+      key="Process Identifier"
+      value="1.6.2.2.5"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Receive Tender Document Response accepts a tender document response from a party to whom the tender document was sent. The response is used by the Selected Short-listed Party process which selects on or more parties with whom agreements are negotiated."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

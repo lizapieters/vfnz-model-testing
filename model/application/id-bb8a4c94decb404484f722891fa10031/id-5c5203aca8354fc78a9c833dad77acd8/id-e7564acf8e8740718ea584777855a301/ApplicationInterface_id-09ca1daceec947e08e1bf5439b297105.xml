@@ -1,0 +1,39 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Knowledge Management"
+    id="id-09ca1daceec947e08e1bf5439b297105"
+    documentation="URLs or widgets with content from Knowledge Management can be placed in various CRM screens (e.g. 360 view, case registration, home page of user). &#xA;Support also possibility to provide feedback to knowledge base (e.g. rating of article: good/bad)">
+  <properties
+      key="Stereotype"
+      value="abstract_interface"/>
+  <properties
+      key="Southbound Required"
+      value="Y"/>
+  <properties
+      key="Importance"
+      value="1"/>
+  <properties
+      key="Area"
+      value="Business tool"/>
+  <properties
+      key="Interface Type"
+      value="Core"/>
+  <properties
+      key="Pattern"
+      value="REST/Event/Batch"/>
+  <properties
+      key="FWA"
+      value="Y"/>
+  <properties
+      key="Mobile"
+      value="Y"/>
+  <properties
+      key="Broadband"
+      value="Y"/>
+  <properties
+      key="Common"
+      value="Y"/>
+  <properties
+      key="Unexpected"
+      value="true"/>
+</archimate:ApplicationInterface>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deliver Party Bill/Invoice Archive"
+    id="id-022130c25ef14ab9bf50f95940cd0b1f"
+    documentation="Fulfill the information request (either predetermined or unique) for a specific party. Deliver the archive to one or more external parties in the stipulated format and form, such as detailed or aggregated.">
+  <properties
+      key="Process Identifier"
+      value="1.6.15.3.4.2"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

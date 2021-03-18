@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Document Archiving"
+    id="id-8e6e2c0c1920407d976a6a1bc9013522"
+    documentation="Document Archiving is used to store compressed transactional document for future retrieval e.g. by customer care, self care or reprint.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.2.4"/>
+  <properties
+      key="TMF Function"
+      value="Archive maintenance and administrative functions Archived Data Retrieval mechanisms Archiving, compression and storage of transactional document data"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

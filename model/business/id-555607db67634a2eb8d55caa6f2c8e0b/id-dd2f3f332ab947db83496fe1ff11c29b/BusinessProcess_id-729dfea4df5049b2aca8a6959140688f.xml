@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Instantiate Resource Trouble Controls"
+    id="id-729dfea4df5049b2aca8a6959140688f"
+    documentation="Instantiate controls to attempt to restore failed resource instances to normal operation, at the request of Resource Trouble Management or Service Quality Management processes. These controls may be based on established control plans, or the controls may be developed within the Control Resource Performance process depending on circumstances.">
+  <properties
+      key="Process Identifier"
+      value="1.5.9.3.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

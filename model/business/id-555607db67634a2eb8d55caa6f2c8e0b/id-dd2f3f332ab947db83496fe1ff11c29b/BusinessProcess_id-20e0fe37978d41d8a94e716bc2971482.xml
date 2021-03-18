@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Capture Service Demand &amp; Performance Requirements"
+    id="id-20e0fe37978d41d8a94e716bc2971482"
+    documentation="These processes provide detailed analysis of new service demand forecasts linked to service relevant geographic distributions. The processes also establish the detailed performance requirements. These processes take the forecast information available from the Produce Service Business Plans and requirements information from the Define Product Capability Requirements processes, as well as service infrastructure requirements developed by the Develop Detailed Service Specifications processes, to establish detailed views of anticipated service demand and performance requirements. These processes define the detailed infrastructure requirements to support the marketing strategies and forecasts. These processes provide requirements, including process performance targets, for the development of new and/or enhancement of existing marketing infrastructure which are captured by this process.">
+  <properties
+      key="Process Identifier"
+      value="1.4.2.1.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

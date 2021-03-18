@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plan Access Management"
+    id="id-041fa403d1914fb8bb593ae46c3d319d"
+    documentation="The ability to control who, internally or externally, is able to view plans.">
+  <properties
+      key="TMF_ID"
+      value="1.2.7.5"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

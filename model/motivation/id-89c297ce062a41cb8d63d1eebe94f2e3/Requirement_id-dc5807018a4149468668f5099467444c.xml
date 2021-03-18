@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0284"
+    id="id-dc5807018a4149468668f5099467444c"
+    documentation="As a prospective customer, I want to be able to choose a broadband and mobile subscription that meets my household needs, so that I can make a purchase">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0284"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Diane Watson"/>
+  <properties
+      key="Tribe"
+      value="Consumer Home"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="2"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Choose"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Converged Subscription"/>
+  <properties
+      key="Remarks"
+      value="OOTB"/>
+  <properties
+      key="Module"
+      value="DS, SC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Consumer only"/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

@@ -1,0 +1,30 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Device - CPE Modem"
+    id="id-a6e3520f76aa4ee587966c6e55fa7b8b"
+    documentation="CPE device management&#xA;link to feature 7 - Fixed Voice due to its inter-relationship&#xA;RAN requirement">
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Segment"
+      value="Consumer/Business"/>
+  <properties
+      key="Access/Service Type"
+      value="xDSL"/>
+  <properties
+      key="Comarch can support"
+      value="TBC"/>
+  <properties
+      key="Non-Comarch IT support needed"
+      value="TBC"/>
+  <properties
+      key="NaaS will support"
+      value="TBC"/>
+  <properties
+      key="Automated non-NaaS support"
+      value="TBC"/>
+  <properties
+      key="Unexpected"
+      value="true"/>
+</archimate:BusinessService>

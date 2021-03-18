@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ethics &amp; Compliance"
+    id="id-7d441809b04544e4807bae7b20504aa0"
+    documentation="Ethic &amp; Compliance ensures the company complies with legal and regulatory requirements as it relates to hiring and labor practices. It ensures that employees and other associated with the company are trained on ethical practices. The application also ensures that the company has instituted reasonable protections against those that would practice unethical behavior.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.2.6"/>
+  <properties
+      key="TMF Function"
+      value="Ethics &amp; Compliance"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

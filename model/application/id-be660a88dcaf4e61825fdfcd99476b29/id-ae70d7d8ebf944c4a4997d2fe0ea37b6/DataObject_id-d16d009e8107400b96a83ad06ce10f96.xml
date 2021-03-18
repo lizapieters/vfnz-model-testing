@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RoutedProtocol"
+    id="id-d16d009e8107400b96a83ad06ce10f96"
+    documentation="This is an abstract base class for representing different types of routed protocols that can be managed. Routed protocols are those protocols that can be routed by a router. Specifically; the router must be able to interpret the logical internetwork as specified by that routed protocol. This class represents a convenient aggregation point for defining how routed protocols are managed and used. The SID model defines AppleTalk; DecNET; IP; and IPX as examples of subclasses of this class."/>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Configure Resource"
+    id="id-a3778f56f38a47f7bd838c4f5c8b255b"
+    documentation="This process assesses and plans the approach to be undertaken for configuration.  It  re-uses standard configuration and processes applicable to specific resources.  It configures and reconfigures specific resources, including customer premises equipment if part of the resource provider offering.   It provides notifications as required if the configuration activity requires a planned outage or is likely to initiate false specific resource alarm event notifications.  It update the information contained in the resource inventory as to the configuration of specific resources and their status.">
+  <properties
+      key="Process Identifier"
+      value="1.5.6.2.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

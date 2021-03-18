@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identify External Party for Party Problem Assessment"
+    id="id-6f4c1ac30cba41e39479bdf06574aa38"
+    documentation="Identify a potential external party that may provide support in assessing a party problem.">
+  <properties
+      key="Process Identifier"
+      value="1.6.10.2.1.1"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Identify External Party for Party Problem Assessment identifies a potential external party that may provide support in assessing a party problem. An external party may be a partner or supplier associated with the product offering that was acquired by a party the reports a problem."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Distribute Service Problem Notifications"
+    id="id-cfbc89ab934c435785f9fc4cbbc0f108"
+    documentation="This process makes the necessary reports about the Service Problem that occurred, the root cause and the activities carried out for restoration.">
+  <properties
+      key="Process Identifier"
+      value="1.4.6.5.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

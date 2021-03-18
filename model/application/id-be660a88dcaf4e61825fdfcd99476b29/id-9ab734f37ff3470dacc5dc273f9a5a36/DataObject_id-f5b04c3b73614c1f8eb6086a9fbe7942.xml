@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicyGroup"
+    id="id-f5b04c3b73614c1f8eb6086a9fbe7942"
+    documentation="This class is a generalized aggregation container. It enables PolicyRules and/or PolicyGroups to be aggregated in a single container. Note that loops; including the degenerate case of a PolicyGroup that contains itself; are not allowed when PolicyGroups contain other PolicyGroups."/>

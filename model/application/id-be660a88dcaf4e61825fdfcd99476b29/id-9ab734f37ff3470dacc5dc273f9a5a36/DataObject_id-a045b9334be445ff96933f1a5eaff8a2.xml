@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MetricDefinitionDeterminationMethod"
+    id="id-a045b9334be445ff96933f1a5eaff8a2"
+    documentation="How the value of the metric is determined; examples are ratio; formula; algorithm; external call (web service). This entity is may be further developed to support all determination methods. It may also be further defined and subclassed in the future."/>

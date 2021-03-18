@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WorkRole"
+    id="id-ff15df75ad874be48ff35d76156af370"
+    documentation="This is an abstract base class that defines a Work task in terms of a set of roles which are then used to characterize the functionality of the Work. For example; a particular work of fiber rollout at a location at a certain date can play the role of a build task of an infrastructure project or the role of an installation task in a service fulfillment project."/>

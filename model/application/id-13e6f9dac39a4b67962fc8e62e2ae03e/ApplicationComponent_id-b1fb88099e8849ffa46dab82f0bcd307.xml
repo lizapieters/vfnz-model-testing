@@ -1,0 +1,42 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enterprise vault"
+    id="id-b1fb88099e8849ffa46dab82f0bcd307"
+    documentation="Veem">
+  <properties
+      key="StatusForLookUp"
+      value="Decommissioned"/>
+  <properties
+      key="Owner"
+      value="TonyB"/>
+  <properties
+      key="Level of Service"
+      value="Business Standard"/>
+  <properties
+      key="Product / Service"
+      value="common"/>
+  <properties
+      key="Segment"
+      value="Common"/>
+  <properties
+      key="DX Association"
+      value="Replaced Fully"/>
+  <properties
+      key="Existing Retained or Replaced"
+      value="Replace"/>
+  <properties
+      key="ComArch / Other"
+      value="MS AD and Azure AD, M365 with ATP"/>
+  <properties
+      key="Legacy BSS Stack Served"
+      value="Common"/>
+  <properties
+      key="TAM App ID"
+      value="9.6.2"/>
+  <properties
+      key="TAM Domain"
+      value="Enterprise Domain"/>
+  <properties
+      key="TAM Application"
+      value="Enterprise Information and Collaboration Management"/>
+</archimate:ApplicationComponent>

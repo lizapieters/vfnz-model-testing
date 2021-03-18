@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Repair / Replace Failed Resource"
+    id="id-30de1e303ff94bd697b60e0cec64308f"
+    documentation="This process may possibly repair, reconfigure, or replace the failed unit or specific resource (including hardware failure and software failure).">
+  <properties
+      key="Process Identifier"
+      value="1.5.8.3.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Depending on the nature of the specific resource failure, this process may possibly repair, reconfigure, or replace the failed unit or specific resource. It also reports successful restoration of normal operation or an unsuccessful attempt at restoration to Track &amp; Manage Resource Trouble through updates to the associated resource trouble report. The responsibilities of this process include: - Check reserve hardware parts for replacement (in case of hardware failure). - Replace hardware parts (in case of hardware failure). - Procure hardware if there is no spare parts (in case of hardware failure). - Perform testing after replacement (in case of hardware failure) - Upgrade software (in case of software failure). - Reporting the result of the attempt to restore normal operations"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

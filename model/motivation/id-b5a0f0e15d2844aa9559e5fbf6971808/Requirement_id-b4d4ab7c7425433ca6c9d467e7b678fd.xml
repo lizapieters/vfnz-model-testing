@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1404"
+    id="id-b4d4ab7c7425433ca6c9d467e7b678fd"
+    documentation="As a CSR I want the CRM to integrate with a Knowledge Base (internal/external) and allow me to search that knowledge base, give a thumbs up or down on knowledge base contact and/or provide feedback without navigating out of the CRM system so that I can address customer queries in a timely manner">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1404"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Kris Thornley"/>
+  <properties
+      key="Tribe"
+      value="CRM"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="CSR Desktop"/>
+  <properties
+      key="Remarks"
+      value="0"/>
+  <properties
+      key="Module"
+      value="0"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

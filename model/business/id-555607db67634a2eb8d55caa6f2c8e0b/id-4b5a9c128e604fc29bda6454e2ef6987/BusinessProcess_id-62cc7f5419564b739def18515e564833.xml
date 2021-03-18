@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Review Product Offering Purchase"
+    id="id-62cc7f5419564b739def18515e564833"
+    documentation="Review a product offering purchase that is in any lifecycle state.">
+  <properties
+      key="Process Identifier"
+      value="1.2.9.4"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Review Product Offering Purchase reviews a product offering purchase that is in any lifecycle state. Lifecycle states include an in-process, completed, or closed product offering purchase. Information included in the review may include product offerings on the purchase, payment information, and delivery information."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

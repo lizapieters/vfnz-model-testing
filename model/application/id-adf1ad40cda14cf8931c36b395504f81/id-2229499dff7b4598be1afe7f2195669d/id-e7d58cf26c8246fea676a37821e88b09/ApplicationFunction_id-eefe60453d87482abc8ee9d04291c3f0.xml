@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Supply Chain Order Tracking Management"
+    id="id-eefe60453d87482abc8ee9d04291c3f0"
+    documentation="Supply Chain Order Tracking Management provides the necessary functionality to track the movement of shipments from point of origin through cross-docks, and to the final destination.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="9.10.5"/>
+  <properties
+      key="Frameworx Domain"
+      value="Enterprise Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

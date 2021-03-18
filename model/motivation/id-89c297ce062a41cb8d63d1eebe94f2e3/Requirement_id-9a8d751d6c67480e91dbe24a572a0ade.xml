@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0313"
+    id="id-9a8d751d6c67480e91dbe24a572a0ade"
+    documentation="All transitioning customers need to have a reference to their legacy account against my new account">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0313"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Steve Bird"/>
+  <properties
+      key="Tribe"
+      value="Transition"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Transition"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Transition"/>
+  <properties
+      key="Remarks"
+      value="1 to 1 reference on customer level? Just id of customer? Would be good to know the customer structure model of legacy For C3 it should be 1 to 1. The intention is not to replicate the customer structure from legacy. The main reason for the ID is for CSR to be able to search for the customer in the legacy."/>
+  <properties
+      key="Module"
+      value="PIM, TA"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

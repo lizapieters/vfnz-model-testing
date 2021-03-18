@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Product Offering Inventory"
+    id="id-bb6665d96c1e4256b6ad4cac22d7db85"
+    documentation="Establish, manage and administer the enterprise's product offering inventory, as embodied in the Product Offering Inventory Database, and monitor and report on the usage and access to the product offering inventory, and the quality of the data maintained in it.">
+  <properties
+      key="Process Identifier"
+      value="1.2.4.2"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The purpose of the Manage Product Offering Inventory processes are twofold - establish, manage and administer the enterprise's product offering inventory, as embodied in the Product Offering Inventory Database, and monitor and report on the usage and access to the product offering inventory, and the quality of the data maintained in it. The product offering inventory maintains records of all product offerings, their interactions with the enterprise, and any other product offering related- information, required to support CRM and other processes. The product offering inventory is also responsible for maintaining the association between customers and purchased product offering instances, created as a result of the Order Handling processes. Managing product offering inventory includes product creation, modification, update, deletion to the product offering inventory. Responsibilities of these processes include, but are not limited to: &lt;P>â€¢ Identifying the inventory-relevant information requirements to be captured for product offerings ; &lt;P>â€¢ Identifying, establishing and maintaining product offering inventory repository facilities; &lt;P>â€¢ Establishing and managing the product offering inventory management and information capture processes; &lt;P>â€¢ Managing the registration and access control processes that enable processes to create, modify, update, delete and/or download product offering data to and from the product offering inventory; &lt;P>â€¢ Ensuring the product offering inventory repository accurately captures and records all identified product offering details, through use of automated or manual audits; &lt;P>â€¢ Tracking and monitoring of the usage of, and access to, the product offering inventory repository and associated costs, and reporting on the findings &lt;P>â€¢ Identifying any technical driven shortcomings of the product offering inventory repository, and providing input to Resource Development &amp;amp; Management processes to rectify these issues. &lt;/BODY>&lt;/HTML>"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

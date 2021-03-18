@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Exchange Product Offering Catalog"
+    id="id-65ac19de9ee24c7e9b829cd6a1dd0cf4"
+    documentation="Exchange a product offering catalog with another party.">
+  <properties
+      key="Process Identifier"
+      value="1.2.7.2.3.3"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Exchange Product Offering Catalog exchanges a catalog with another party engaged in the value fabric. The exchange may be sending a product offering catalog to another party or receiving one from another party. It uses the generalized Exchange Catalog process to exchange a catalog, in this case a product offering catalog."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

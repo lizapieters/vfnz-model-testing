@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MetricDefMeasureExpression"
+    id="id-af72a48e2dd1456b88a77f31b09c8b84"
+    documentation="MetricDefMeasureExpression describes strict relations between MetricDefMeasure subordinates (MetricDefMeasureThresholdRule; MetricDefMeasureApplicability; MetricDefMeasureConsequence). The baseline idea of MetricDefMeasureExpression is to resolve the multiple associations between MetricDefMeasure subordinates. For example; an expression may consist of a consequence and its applicability for a MetricDefMeasure."/>

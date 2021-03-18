@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Create Product Offering Purchase"
+    id="id-e1203e92296542c4bf74460af5badd1a"
+    documentation="Create basic information about the product offering purchase, identify additional processing, such as conducting a feasibility assessment, and relate the purchase to other purchases.">
+  <properties
+      key="Process Identifier"
+      value="1.2.9.1.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Create Product Offering Purchase creates basic information about the purchase, such as purchase number or shopping cart ID, date, initiating party, and, if necessary, install address, overrides of bill to and ship to that are maintained in a party's profile, special requirements and so forth. If the party making the purchase is not registered party information, such as name, ship to, bill to, and other information required for the purchase is entered; a temporary party record may be created at this time by interacting with the Party Relationship Development &amp; Retirement process. In the case of a shopping form of product offering purchase and existing shopping cart may be used instead of creating a new one. This is done if the previous cart contains some existing product offerings to be purchased. For an inbound purchase in the form of an a product offering order, such as one from a customer, the purchase may require a feasibility assessment, may require new provisioning activities, may require a change to a previous purchase, or may require cancellation of a previously initiated purchase. Where the initiating request for a purchased product offering has special or unusual requirements, and a specific feasibility assessment has not been previously undertaken, this process marks the product offering purchase as requiring special handling, and passes management for further processing to the Track Product Offering Purchase process. The orchestration, if required, and tracking of the purchase's progress is the responsibility of Track Product Offering Purchase. In some cases the product offering purchase may be related to other entities. For example, the purchase may also relate to the cancellation of previous purchase, to an initiating sales request, or to an initiating purchase/order if the product offering purchase will be fulfilled in part or whole by another party."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

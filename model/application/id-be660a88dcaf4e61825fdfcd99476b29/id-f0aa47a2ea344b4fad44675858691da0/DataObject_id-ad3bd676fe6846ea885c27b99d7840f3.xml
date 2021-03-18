@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AppliedCustomerBillingRate"
+    id="id-ad3bd676fe6846ea885c27b99d7840f3"
+    documentation="A charge or a credit assigned to the customers account in the course or for the purpose of the billing process. Subclasses further define these elements. Information about the type of ACBR (such as description and revenue code) can be via the association to AppliedCustomerBillingRateSpec"/>

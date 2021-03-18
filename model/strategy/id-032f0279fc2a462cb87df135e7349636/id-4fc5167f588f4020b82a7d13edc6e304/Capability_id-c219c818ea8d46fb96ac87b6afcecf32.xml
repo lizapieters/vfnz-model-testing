@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Shipment Management"
+    id="id-c219c818ea8d46fb96ac87b6afcecf32"
+    documentation="The Ability to identify, describe, package, bundle or unbundle, evaluate, and track freight, cargo, baggage, or packages containing a wide range of inanimate or non-human living contents.">
+  <properties
+      key="TMF_ID"
+      value="1.1.11"/>
+  <properties
+      key="Level"
+      value="1"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

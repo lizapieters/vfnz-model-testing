@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Relinquishments"
+    id="id-7b95c55e7d494276aacc50932c7bc700">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ed2f28913c924e708eb312bed438dfe9.xml#id-ed2f28913c924e708eb312bed438dfe9"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-41d5704966c8447abf8a36bfb957bd1c.xml#id-41d5704966c8447abf8a36bfb957bd1c"/>
+</archimate:TriggeringRelationship>

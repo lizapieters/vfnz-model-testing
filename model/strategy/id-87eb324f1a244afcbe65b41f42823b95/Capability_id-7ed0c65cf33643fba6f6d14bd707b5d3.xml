@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Inventory Management"
+    id="id-7ed0c65cf33643fba6f6d14bd707b5d3"
+    documentation="Resource Inventory applications manage information of all resources used to implement services and products. This application area is typically linked to various element management systems (i.e. building inventory for actual server, applications, network and resource assets) and resource inventory database systems which may or may not be combined with Service Inventory Application(s) or database(s). &#xA;&#xA;In addition, Resource management applications have a major role to play managing spare parts&amp; passive resources including cable pairs and external plant and passive customer premises equipment. In addition, Resource Inventory applications are used to discover and manage underutilized or �stranded� resources.">
+  <properties
+      key="TMF Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="7.2"/>
+  <properties
+      key="TMF Function"
+      value="Resource Information Model Creation Resource Inventory Reconciliation Resource Inventory Retrieval Resource Inventory Update Resource Inventory Update Notifications"/>
+  <properties
+      key="TMF Maturity"
+      value="Resource Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

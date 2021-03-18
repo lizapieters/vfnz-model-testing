@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trip Information Management"
+    id="id-a676511f0b5a4aac8c785fc44af3abe3"
+    documentation="The Ability to capture, organize, track, report on, or otherwise disseminate basic attributes, data, and other perspectives about a journey.">
+  <properties
+      key="TMF_ID"
+      value="1.1.6.5"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

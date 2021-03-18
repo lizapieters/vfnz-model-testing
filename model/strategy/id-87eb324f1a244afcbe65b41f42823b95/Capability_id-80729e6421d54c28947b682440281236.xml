@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Jeopardy Management"
+    id="id-80729e6421d54c28947b682440281236"
+    documentation="This is a function that should be found in any process or workflow management system and warns when a delay in the due date of a task or process step will prevent subsequent tasks from starting, or affect the overall end date of the process.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="7.5.3"/>
+  <properties
+      key="TMF Function"
+      value="Workflow/Process Jeopardy Management"/>
+  <properties
+      key="TMF Maturity"
+      value="Resource Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

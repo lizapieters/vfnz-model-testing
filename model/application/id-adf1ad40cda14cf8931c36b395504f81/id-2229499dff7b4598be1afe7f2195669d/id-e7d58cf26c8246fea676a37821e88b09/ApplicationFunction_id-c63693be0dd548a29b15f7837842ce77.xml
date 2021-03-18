@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Test Services"
+    id="id-c63693be0dd548a29b15f7837842ce77"
+    documentation="Resource Test Services applications provides the means to access the testing capabilities.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="7.11.4"/>
+  <properties
+      key="Frameworx Domain"
+      value="Resource Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

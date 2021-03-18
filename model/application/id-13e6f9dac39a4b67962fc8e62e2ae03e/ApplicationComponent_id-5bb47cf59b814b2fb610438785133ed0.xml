@@ -1,0 +1,45 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CISCO Prime"
+    id="id-5bb47cf59b814b2fb610438785133ed0"
+    documentation="CISCO Prime">
+  <properties
+      key="StatusForLookUp"
+      value="Decommissioned"/>
+  <properties
+      key="Owner"
+      value="TonyB"/>
+  <properties
+      key="Level of Service"
+      value="Business Premium"/>
+  <properties
+      key="Product / Service"
+      value="Common"/>
+  <properties
+      key="Segment"
+      value="Enterprise"/>
+  <properties
+      key="DX Association"
+      value="Replaced Fully"/>
+  <properties
+      key="Existing Retained or Replaced"
+      value="Replace"/>
+  <properties
+      key="ComArch / Other"
+      value="Comarch"/>
+  <properties
+      key="Dig Future Module"
+      value="Convergent Charging &amp;amp; Billing &amp;amp; Revenue Management (OCS &amp;amp; BS)"/>
+  <properties
+      key="Legacy BSS Stack Served"
+      value="Common"/>
+  <properties
+      key="TAM App ID"
+      value="6.9.2"/>
+  <properties
+      key="TAM Domain"
+      value="Service Domain"/>
+  <properties
+      key="TAM Application"
+      value="Service Quality Collection &amp;amp; Monitoring"/>
+</archimate:ApplicationComponent>

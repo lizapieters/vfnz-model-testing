@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Maintain pending customer orders"
+    id="id-c9ed43c39dac4dffb5b4de1141dd22f9"
+    documentation="Maintain pending orders - Save the order/quote for future processing (in case the customer is not sure they want to go through with the order at this point)">
+  <properties
+      key="Function Identifier"
+      value="213"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Order Lifecycle Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.3.6"/>
+  <properties
+      key="Constructed Id"
+      value="5.3.6.213"/>
+</archimate:ApplicationFunction>

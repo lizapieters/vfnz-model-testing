@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Erroneous Usage Event re-distribution to the proper destination(s)"
+    id="id-60e56e93eff34644986976e94c4f519a"
+    documentation="Provide re-distribution features to send the usage to the proper destination(s) for usage records which have been identified as being non-processable due to edit, rate, guide, routing, etc. failures. This includes also reporting back to the event generating system .">
+  <properties
+      key="Function Identifier"
+      value="533"/>
+  <properties
+      key="TAM Application Name"
+      value="Usage Event Error Management"/>
+  <properties
+      key="TAM Application Id"
+      value="7.14.2"/>
+  <properties
+      key="Constructed Id"
+      value="7.14.2.533"/>
+</archimate:ApplicationFunction>

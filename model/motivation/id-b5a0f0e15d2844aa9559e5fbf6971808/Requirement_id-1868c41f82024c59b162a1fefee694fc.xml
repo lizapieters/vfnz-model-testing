@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0806"
+    id="id-1868c41f82024c59b162a1fefee694fc"
+    documentation="As a Direct Cost Specialist - Retail billing - We need to be able to debit/credit IOT customer account to reflect correct manual billing Source Through bulk adjustment form sent to billing operations team">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0806"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Catherine McMurtrie"/>
+  <properties
+      key="Tribe"
+      value="Finance / Direct Costs"/>
+  <properties
+      key="Target Horizon"
+      value="2"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Manage"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Billing"/>
+  <properties
+      key="Remarks"
+      value="To be discussed. What is siebel role in DX? KH: Moved to Horizon 2"/>
+  <properties
+      key="Module"
+      value="0"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

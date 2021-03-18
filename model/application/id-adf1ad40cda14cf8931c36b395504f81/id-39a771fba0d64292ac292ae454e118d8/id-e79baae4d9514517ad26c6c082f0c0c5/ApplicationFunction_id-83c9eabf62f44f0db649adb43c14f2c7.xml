@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Accumulate events for charge calculation"
+    id="id-83c9eabf62f44f0db649adb43c14f2c7"
+    documentation="Accumulate events that provide measurements that will be used in the charge calculation (e.g. used allowance).">
+  <properties
+      key="Function Identifier"
+      value="125"/>
+  <properties
+      key="TAM Application Name"
+      value="Charge Calculation"/>
+  <properties
+      key="TAM Application Id"
+      value="5.19.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.19.1.125"/>
+</archimate:ApplicationFunction>

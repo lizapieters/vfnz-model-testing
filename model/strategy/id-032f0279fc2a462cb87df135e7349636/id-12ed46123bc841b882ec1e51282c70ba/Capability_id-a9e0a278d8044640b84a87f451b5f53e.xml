@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Message/Campaign Matching"
+    id="id-a9e0a278d8044640b84a87f451b5f53e"
+    documentation="The ability to associate a message with a campaign.">
+  <properties
+      key="TMF_ID"
+      value="1.2.1.6.24"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

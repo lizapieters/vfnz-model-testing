@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Shipment Item Definition"
+    id="id-e7fbc993768d43629d18ef4e87bea8ef"
+    documentation="The Ability to establish, declare, and identify a shipment item.">
+  <properties
+      key="TMF_ID"
+      value="1.1.11.5.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

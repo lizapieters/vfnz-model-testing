@@ -1,0 +1,30 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mobile - Device Enrolment"
+    id="id-c5ad215bf96f4f7a993a3544bdc62d08"
+    documentation="Not to be confused with VSDM, device enrolment is a capability offered by Apple (DEP) and Samsung (KME) for enabling auto-configuration of company-owned devices.">
+  <properties
+      key="Target Horizon"
+      value="1.x"/>
+  <properties
+      key="Segment"
+      value="Business"/>
+  <properties
+      key="Access/Service Type"
+      value="Mobile"/>
+  <properties
+      key="Comarch can support"
+      value="TBC"/>
+  <properties
+      key="Non-Comarch IT support needed"
+      value="TBC"/>
+  <properties
+      key="NaaS will support"
+      value="N/A"/>
+  <properties
+      key="Automated non-NaaS support"
+      value="N/A"/>
+  <properties
+      key="Unexpected"
+      value="true"/>
+</archimate:BusinessService>

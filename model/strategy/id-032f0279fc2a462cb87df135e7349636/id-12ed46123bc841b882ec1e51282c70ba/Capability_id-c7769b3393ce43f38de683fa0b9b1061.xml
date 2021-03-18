@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Channel State Management"
+    id="id-c7769b3393ce43f38de683fa0b9b1061"
+    documentation="The ability to determine, modify, and interpret the status or condition of a channel.">
+  <properties
+      key="TMF_ID"
+      value="1.1.1.8.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

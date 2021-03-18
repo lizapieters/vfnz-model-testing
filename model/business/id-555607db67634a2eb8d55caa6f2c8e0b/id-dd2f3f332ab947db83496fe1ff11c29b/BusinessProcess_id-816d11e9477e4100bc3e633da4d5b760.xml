@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Asses impact of Resource Business plans"
+    id="id-816d11e9477e4100bc3e633da4d5b760"
+    documentation="Assess the impacts of new and modified resource infrastructure on systems and establish functions and benefits">
+  <properties
+      key="Process Identifier"
+      value="1.5.1.5.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Asses impact of Resource business plan processes assess the impacts that new or modified resource infrastructure will cause on the installed infrastructure and workforce, and establish the functions and benefits that new or modified resource will provide to users. Assessment of resources impact on the new or modified resource structure may benefit from being performed parallel across all required resources proactively. It may perform as a automated process. Today in digital ecosystem, Digital resource architecture map could help to facilitate this process."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

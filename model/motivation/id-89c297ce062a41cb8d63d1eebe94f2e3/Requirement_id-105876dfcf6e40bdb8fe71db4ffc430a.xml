@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0242"
+    id="id-105876dfcf6e40bdb8fe71db4ffc430a"
+    documentation="As a customer, I want to be able to link another product to my account, so that I can manage it all in one place.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0242"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Diane Watson"/>
+  <properties
+      key="Tribe"
+      value="Consumer Home"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="prio2"/>
+  <properties
+      key="Base"
+      value="1?"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Manage my services"/>
+  <properties
+      key="Remarks"
+      value="Is it realized through invitation process? its about buying new services under the same account or linking the services to the same account through invitation parked for Customer hierarchy session."/>
+  <properties
+      key="Module"
+      value="SC, PIM, BR, TUM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Advertising"
+    id="id-b7c1a925894e49d6b81908bf5c713287"
+    documentation="Advertising Administrative Services are primarily dealing with the enterprise's common advertising needs like Corporate advertising (that is more public relations than sales promotion) and Recruitment advertising.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.9.3"/>
+  <properties
+      key="TMF Function"
+      value="Administrative Advertising"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

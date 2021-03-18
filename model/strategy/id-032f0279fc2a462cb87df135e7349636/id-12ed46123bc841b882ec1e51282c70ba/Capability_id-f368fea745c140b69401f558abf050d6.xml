@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Message/Human Resource Matching"
+    id="id-f368fea745c140b69401f558abf050d6"
+    documentation="The ability to associate messages with one or more human resources.">
+  <properties
+      key="TMF_ID"
+      value="1.2.1.6.4"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

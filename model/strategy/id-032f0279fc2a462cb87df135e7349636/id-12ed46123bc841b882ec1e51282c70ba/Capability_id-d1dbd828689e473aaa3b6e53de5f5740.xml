@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agreement Profile Management"
+    id="id-d1dbd828689e473aaa3b6e53de5f5740"
+    documentation="The ability to define, update, delete/archive and otherwise manage agreement profile">
+  <properties
+      key="TMF_ID"
+      value="1.1.5.10.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

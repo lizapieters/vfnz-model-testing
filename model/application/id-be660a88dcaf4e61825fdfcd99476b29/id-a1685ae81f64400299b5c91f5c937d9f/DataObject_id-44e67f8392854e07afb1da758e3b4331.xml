@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NATSecurityEvent"
+    id="id-44e67f8392854e07afb1da758e3b4331"
+    documentation="NAT events are recorded so that network defenders can discover the true originating IP address and port number of a device; which has sent information through a firewall proxy or another type of proxying device; which changes the internal source IP address. The NAT event will record the internal source IP address and port number; the IP address and port number it was translated to; as well as the external destination IP address and port number."/>

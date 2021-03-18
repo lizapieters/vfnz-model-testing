@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResourceRolePartyRoleDetails"
+    id="id-157f07fc767d41448a494080da3ec285"
+    documentation="This class defines the semantics of the ResourceRolesManagedByPartyRole association. The ResourceRolesManagedByPartyRole association defines the set of ResourceRoles that are managed by a particular PartyRole. Oftentimes; there are important functional differences between different types of Resources that require very different skill sets; methods; and so forth to be used by the PartyRole that is managing that Resource. For example; different management personnel may be assigned to manage core routers compared to edge routers. This applies not just to the router as a whole; but to its physical (e.g.; line cards) and logical (e.g.; DeviceInterfaces) components as well. This class captures these semantics."/>

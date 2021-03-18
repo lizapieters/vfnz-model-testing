@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1425"
+    id="id-1d06df4032e54fc9a3da3d7848220604"
+    documentation="As a business customer with 30 or more connections, or complex needs (products, structures, accounts, or hierarchies) I expect to use a separate business portal [nominally called Complex customer portal] to manage my business to the one I use to manage my home">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1425"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Ben Pennell"/>
+  <properties
+      key="Tribe"
+      value="Business"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Self Service"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Interaction/Usability"/>
+  <properties
+      key="Remarks"
+      value="0"/>
+  <properties
+      key="Module"
+      value="EP"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Business only"/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

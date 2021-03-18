@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Assess Party Bill/Invoice"
+    id="id-f63b213708344936aa08860cf2650e36"
+    documentation="Compare a party bill/invoice against purchases from the party, usage records and offsets, and any other transactions with the party that would result in a bill/invoice being sent to the enterprise.">
+  <properties
+      key="Process Identifier"
+      value="1.6.15.3.5.2"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Assess Party Bill/Invoice compares a party bill/invoice against purchases from the party, usage records and offsets, and any other transactions with the party that would result in a bill/invoice being sent to the enterprise. For a bill/invoice for products that were provided by a party on behalf of an enterprise this process verifies whether it was done on their behalf. For example that a party belongs the enterprise. This process also manages the interactions between the party and the enterprise to confirm bill/invoice items. If the bill/invoice is related to revenue sharing then the Party Revenue Sharing Reconciliation process is used to assess and negotiate the bill/invoice."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

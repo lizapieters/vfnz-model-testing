@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Paycheck Generation"
+    id="id-f6330ed236744954a9f4b0867a5e043d"
+    documentation="Generates Paycheck/Paystub deliverable in Paper and/or Electronic form.">
+  <properties
+      key="Function Identifier"
+      value="771"/>
+  <properties
+      key="TAM Application Name"
+      value="Payroll Management"/>
+  <properties
+      key="TAM Application Id"
+      value="9.2.1"/>
+  <properties
+      key="Constructed Id"
+      value="9.2.1.771"/>
+</archimate:ApplicationFunction>

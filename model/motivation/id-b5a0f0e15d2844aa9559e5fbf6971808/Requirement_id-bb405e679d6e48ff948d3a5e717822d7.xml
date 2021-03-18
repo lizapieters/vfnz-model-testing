@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0236"
+    id="id-bb405e679d6e48ff948d3a5e717822d7"
+    documentation="As a customer, I want to be able to cancel an inflight order at any time">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0236"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Diane Watson"/>
+  <properties
+      key="Tribe"
+      value="Consumer Home"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="prio2"/>
+  <properties
+      key="Base"
+      value="1?"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Change"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Topic"
+      value="Order cancellation"/>
+  <properties
+      key="Remarks"
+      value="Cancel only possible till point of no return, right?"/>
+  <properties
+      key="Module"
+      value="SC, OM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="REQ_OSS_119, REQ_OSS_129, REQ_OSS_142, REQ_OSS_159, REQ_OSS_190"/>
+</archimate:Requirement>

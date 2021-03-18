@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BusinessOperationEntity"
+    id="id-1a68b19213384106b2c69460c154b5d9"
+    documentation="An entity operating its business independently based on its business objective and which a Customer; Partner or other business related PartyRole has an agreement with. For example; from Enterpriseâ€™s perspective; BusinessOperationEntity can be used to model MVNO and MVNE. For BusinessOperationEntity; the type of Organization might be company."/>

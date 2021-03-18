@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stored material management"
+    id="id-14373c754b8e4b8eaaa55de3793791fb"
+    documentation="Logistics Management functionality for Put-away of materials to targeted storage locations and Picking of materials to fulfill orders &#xA;including Staging and assembly of materials as required">
+  <properties
+      key="Function Identifier"
+      value="754"/>
+  <properties
+      key="TAM Application Name"
+      value="Logistics Management"/>
+  <properties
+      key="TAM Application Id"
+      value="9.10.4"/>
+  <properties
+      key="Constructed Id"
+      value="9.10.4.754"/>
+</archimate:ApplicationFunction>

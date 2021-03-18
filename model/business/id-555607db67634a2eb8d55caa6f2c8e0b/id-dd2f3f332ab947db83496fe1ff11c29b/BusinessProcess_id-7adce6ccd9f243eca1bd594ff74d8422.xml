@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Workforce Management Schedule"
+    id="id-7adce6ccd9f243eca1bd594ff74d8422"
+    documentation="This process is responsible for keeping the schedule of available workforce actualized, recalculating the availability schedule, and synchronizing actual workforce schedules with third parties based on information about reserved and available units.">
+  <properties
+      key="Process Identifier"
+      value="1.5.5.1.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="This process is responsible for keeping the schedule of the available workforce actualized, recalculating the availability schedule and synchronizing actual workforce schedules with third parties based on information about reserved and available units. The Workforce Management Schedule scope includes the following: â€¢{T}Tracking and managing workforce schedules, reflecting the actual information on workforce availability. Exchanging this information with involved third parties â€¢{T}Gathering and providing actual information on working hours to the Financial Management process for generating the payroll and/or to the Party Settlement &amp; Payments Management process for paying third parties â€¢{T}Enabling and managing recall capabilities to allow for out-of-hours staff recall in the event of unforeseen circumstances â€¢{T}Managing the registration and access control processes that enable processes to create, modify, update, delete, and/or download scheduling and work assignment data to and from the workforce management system(s) â€¢{T}Ensuring that the workforce management system(s) accurately captures and records all assignment and work scheduling details, through use of automated or manual audits"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

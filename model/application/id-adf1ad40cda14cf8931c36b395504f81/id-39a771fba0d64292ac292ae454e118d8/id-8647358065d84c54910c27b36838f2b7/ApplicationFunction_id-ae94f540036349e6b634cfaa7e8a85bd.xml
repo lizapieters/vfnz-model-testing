@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Payroll Wage Calculation"
+    id="id-ae94f540036349e6b634cfaa7e8a85bd"
+    documentation="Calculates Wages based on hourly rate plus any applicable adjustments such as overtime earned.">
+  <properties
+      key="Function Identifier"
+      value="768"/>
+  <properties
+      key="TAM Application Name"
+      value="Payroll Management"/>
+  <properties
+      key="TAM Application Id"
+      value="9.2.1"/>
+  <properties
+      key="Constructed Id"
+      value="9.2.1.768"/>
+</archimate:ApplicationFunction>

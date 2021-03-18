@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0655"
+    id="id-ccf2abed8e4745378a1595392f63340b"
+    documentation="The Collections solution shall enable system initiated as well as agent initiated ad-hoc customer communications configured with customer account data&#xD;&#xA;Including:&#xD;&#xA;1.&#x9;Voice call&#xD;&#xA;2.&#x9;Text&#xD;&#xA;3.&#x9;Email">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0655"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Jasmin Khambata"/>
+  <properties
+      key="Tribe"
+      value="Collections"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Collections"/>
+  <properties
+      key="Remarks"
+      value="Can you please explain what do you mean by Voice call? IVR or agent? Daily calls to the customer based on file integration. Voice call is first step. When voice call will failed Comarch will receive appropriate information (file integration) and customer"/>
+  <properties
+      key="Module"
+      value="BS,AIF"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

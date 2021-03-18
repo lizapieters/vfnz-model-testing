@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Quality Model Establishment"
+    id="id-a6c4e0a52790425e82034762823772e8"
+    documentation="Service Quality Model Establishment applications provide the necessary functionality to establish what will be monitored and how it will be monitored in terms of service quality.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="6.9.1"/>
+  <properties
+      key="Frameworx Domain"
+      value="Service Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

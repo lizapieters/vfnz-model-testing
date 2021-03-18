@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Supplier/Partner Management"
+    id="id-89cb0b3310084e18a6e301b3307408de"
+    documentation="Supplier/Partner Management provides the necessary functionality to support supplier/partner definition and hierarchy management, revenue sharing arrangements,agreements between the service provider and the supplier/partner, settlement processes, and reconciliation processes.Supplier/Partner Management provides the necessary functionality to manage the lifecycle of the relationship between a supplier/partner and the service provider.">
+  <properties
+      key="TMF Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="8.2"/>
+  <properties
+      key="TMF Function"
+      value="0"/>
+  <properties
+      key="TMF Maturity"
+      value="Business Partner Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

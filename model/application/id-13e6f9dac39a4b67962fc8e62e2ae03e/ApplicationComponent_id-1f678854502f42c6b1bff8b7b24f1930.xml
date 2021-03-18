@@ -1,0 +1,39 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ansible"
+    id="id-1f678854502f42c6b1bff8b7b24f1930"
+    documentation="Puppet">
+  <properties
+      key="StatusForLookUp"
+      value="Active"/>
+  <properties
+      key="Owner"
+      value="AndrewH"/>
+  <properties
+      key="Level of Service"
+      value="Business Standard"/>
+  <properties
+      key="Product / Service"
+      value="Common"/>
+  <properties
+      key="Segment"
+      value="Common"/>
+  <properties
+      key="DX Association"
+      value="Unrelated"/>
+  <properties
+      key="Existing Retained or Replaced"
+      value="Retained"/>
+  <properties
+      key="Legacy BSS Stack Served"
+      value="Common"/>
+  <properties
+      key="TAM App ID"
+      value="9.6.2"/>
+  <properties
+      key="TAM Domain"
+      value="Enterprise Domain"/>
+  <properties
+      key="TAM Application"
+      value="Enterprise Information and Collaboration Management"/>
+</archimate:ApplicationComponent>

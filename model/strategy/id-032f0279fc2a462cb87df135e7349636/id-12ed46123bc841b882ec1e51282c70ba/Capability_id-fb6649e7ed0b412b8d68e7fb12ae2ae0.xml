@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agreement Formalization"
+    id="id-fb6649e7ed0b412b8d68e7fb12ae2ae0"
+    documentation="The ability to aggregate terms, risks, pricing, and related agreement elements into a finalized, executable form suitable to all parties.">
+  <properties
+      key="TMF_ID"
+      value="1.1.5.2.5"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

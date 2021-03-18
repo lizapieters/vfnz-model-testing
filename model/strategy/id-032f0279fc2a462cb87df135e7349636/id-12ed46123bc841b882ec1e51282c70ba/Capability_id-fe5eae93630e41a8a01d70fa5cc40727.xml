@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Investment/Asset Matching"
+    id="id-fe5eae93630e41a8a01d70fa5cc40727"
+    documentation="The ability to associate an investment with one or more available monetary assets such as stocks, bonds, real estate, funds, or similar properties.">
+  <properties
+      key="TMF_ID"
+      value="1.2.6.6.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

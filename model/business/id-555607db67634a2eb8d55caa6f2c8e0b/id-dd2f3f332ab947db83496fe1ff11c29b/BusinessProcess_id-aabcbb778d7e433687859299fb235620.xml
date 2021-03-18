@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plan &amp; Forecast Resource Infrastructure Requirements and Manage Capacity Planning"
+    id="id-aabcbb778d7e433687859299fb235620"
+    documentation="Planning, managing, deploying, monitoring and reporting of new and/or modified resource infrastructure">
+  <properties
+      key="Process Identifier"
+      value="1.5.4.1.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Planning, managing, deploying, monitoring and reporting of new and/or modified resource infrastructure to ensure availability of sufficient resource infrastructure to support the Resource Provisioning processes. This includes: â€¢ Forecasting at an operational level resource infrastructure volume requirements and run-out timeframes; Volume forecasts may be based on near real-time information and use AI forecasting techniques. â€¢ Managing capacity planning associated with the deployment of new and/or modified resource infrastructure. Managing Capacity Planning shall perform proactively to make sure relevant resources are aligned and planned in-Parallel. It may use of AI based techniques to increase accuracy, agility and shorten TTM."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

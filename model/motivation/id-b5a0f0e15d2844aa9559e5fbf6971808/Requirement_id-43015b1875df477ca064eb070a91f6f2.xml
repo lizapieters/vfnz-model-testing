@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0964"
+    id="id-43015b1875df477ca064eb070a91f6f2"
+    documentation="As Head of Tax I want to know that the new Comarch system will correctly calculate GST on zero-rated supplies made by Vodafone NZ.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0964"/>
+  <properties
+      key="Status"
+      value="HLD Completed"/>
+  <properties
+      key="Created by"
+      value="Julia Rose"/>
+  <properties
+      key="Tribe"
+      value="Finance / Tax"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Tax"/>
+  <properties
+      key="Remarks"
+      value="OOTB"/>
+  <properties
+      key="Module"
+      value="BS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

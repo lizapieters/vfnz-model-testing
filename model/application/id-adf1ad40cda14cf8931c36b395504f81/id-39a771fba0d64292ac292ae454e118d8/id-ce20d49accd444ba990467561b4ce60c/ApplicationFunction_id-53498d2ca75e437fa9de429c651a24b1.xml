@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Catalog Component relation management"
+    id="id-53498d2ca75e437fa9de429c651a24b1"
+    documentation="Ability to manage hierarchical, inheritance and reuse relations between catalog components. Re-usability is a major requirement for management of a catalog. Re-usability is achieved through inheritance and through the re-use of standalone entities as well as entity hierarchies">
+  <properties
+      key="Function Identifier"
+      value="3"/>
+  <properties
+      key="TAM Application Name"
+      value="Catalog Management"/>
+  <properties
+      key="TAM Application Id"
+      value="11.1"/>
+  <properties
+      key="Constructed Id"
+      value="11.1.3"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aggregate Party Items For Charging"
+    id="id-a477cc02e0084e18ba82c3414cc441fb"
+    documentation="Manage the accumulation of items that may be used in the selection of a value or in calculation of a rate/discount.">
+  <properties
+      key="Process Identifier"
+      value="1.6.17.3"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Aggregate Party Items For Charging accumulates contributing items, which can be quantities, values (monetary or other) or both. Aggregation can occur over time or can be initiated to gather a â€œsnapshotâ€� of the items at a point in time. The aggregated items may be used in Perform Party Rating or Apply Party Rate Level Discounts to determine the applicable price or discount and may further be used as a quantity in the calculation of a rate or discount."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define Security Management Policies &amp; Procedures"
+    id="id-d789d7081e5c4f5baa245008f493c587"
+    documentation="Define the policies, guidelines, practices and procedures to be followed. responsible for setting Security Management corporate policies, guidelines, best practices and auditing for compliance by the enterprise. Security Management addresses internal and external sources of security violations. . Note that Audit Management processes provide assurance that the necessary control structures are in place, and provide an estimate to the extent to which the procedures are followed and are effective.">
+  <properties
+      key="Process Identifier"
+      value="1.7.2.2.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

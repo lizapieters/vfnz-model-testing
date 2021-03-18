@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1469"
+    id="id-44652d575d564c2a8154b5b10ab2c08b"
+    documentation="As a customer, if I am declined for the device I applied for but I could be accepted for a lower priced device, I want to be offered the option of purchasing this device on interest free instead, so that I don't walk away empty handed.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1469"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1?"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Fraud and Credit Check management"/>
+  <properties
+      key="Remarks"
+      value="DS: Credit check that would propose to change the basket content based on some rules"/>
+  <properties
+      key="Module"
+      value="OM, DS, SC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

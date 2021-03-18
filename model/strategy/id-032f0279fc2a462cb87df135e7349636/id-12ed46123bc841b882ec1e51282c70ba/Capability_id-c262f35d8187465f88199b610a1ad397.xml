@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Policy Risk Threshold Determination"
+    id="id-c262f35d8187465f88199b610a1ad397"
+    documentation="The ability to identify and define the level of acceptable risk associated with a policy or set of policies.">
+  <properties
+      key="TMF_ID"
+      value="1.2.3.4.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

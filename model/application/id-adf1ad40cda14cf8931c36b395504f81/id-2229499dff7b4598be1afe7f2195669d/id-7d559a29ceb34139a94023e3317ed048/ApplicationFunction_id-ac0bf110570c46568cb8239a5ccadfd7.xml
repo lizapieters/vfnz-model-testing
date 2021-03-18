@@ -1,0 +1,33 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contract Management"
+    id="id-ac0bf110570c46568cb8239a5ccadfd7"
+    documentation="Contract Management, including establishment, modification, and termination">
+  <properties
+      key="TAM Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="3.8"/>
+  <properties
+      key="Frameworx Domain"
+      value="Market Sales Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+  <properties
+      key="Function Identifier"
+      value="653"/>
+  <properties
+      key="TAM Application Name"
+      value="Supplier/Partner Relationship Management (Deleted)"/>
+  <properties
+      key="TAM Application Id"
+      value="#N/A"/>
+  <properties
+      key="Constructed Id"
+      value="#N/A"/>
+</archimate:ApplicationFunction>

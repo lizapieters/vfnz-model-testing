@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0885"
+    id="id-1d0ae4c9381649a0b315b7ff757fcbfd"
+    documentation="As a Revenue Assurance Analyst I want be able access all provisioning, billing and sales data so that we can ensure all customers have been provisioned with the correct products and services and in a timely manner">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0885"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Samuel Pachoud"/>
+  <properties
+      key="Tribe"
+      value="Finance / Revenue &amp; Network Assurance"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Reporting"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="System access"/>
+  <properties
+      key="Remarks"
+      value="Is it about access to CRM system of Comarch? Kiri: Yes, so access to system aswell as ability to run queries"/>
+  <properties
+      key="Module"
+      value="0"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

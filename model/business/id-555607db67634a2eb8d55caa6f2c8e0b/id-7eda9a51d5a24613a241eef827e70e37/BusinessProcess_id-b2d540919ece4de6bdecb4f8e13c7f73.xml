@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Offering Purchasing"
+    id="id-b2d540919ece4de6bdecb4f8e13c7f73"
+    documentation="Make an inbound/outbound purchase of one or more product offerings, change an offering being purchased, review an entire purchase, and other processes that manage the lifecycle of a purchase of one or more product offerings.">
+  <properties
+      key="Process Identifier"
+      value="1.2.9"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Product Offering Purchasing makes an inbound/outbound purchase of one or more product offerings, changes an offering being purchased, reviews an entire purchase, A purchase can also be reviewed, confirmed, tracked, canceled, completed, an offering removed from it, and closed after payment is made and any backordered offerings have been delivered. If necessary one or more of the offerings purchased can be returned. Purchasing can include shopping purchases in the form of in-store, shopping cart purchases, window shopping (a form of browsing) and purchases in the form of product (offering) orders that result in a product being delivered to a party or from a party. Shopping may result in an order being placed; for example if a purchase is made online and it has to be fulfilled an order is created (such as done by Amazon, Etsy, and so forth). Notes: 1. A party making a purchase may choose to remain &quot;anonymous&quot; by not registering with an enterprise. 2. An inbound order may be the result of a sales proposal and agreement made with a party, such as a customer."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

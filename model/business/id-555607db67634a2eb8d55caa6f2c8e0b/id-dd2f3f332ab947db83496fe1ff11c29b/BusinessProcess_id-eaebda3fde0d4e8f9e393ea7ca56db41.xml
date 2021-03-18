@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Render &amp; Format Invoice"
+    id="id-eaebda3fde0d4e8f9e393ea7ca56db41"
+    documentation="Render and format the customer bill invoice.">
+  <properties
+      key="Process Identifier"
+      value="1.3.9.2.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

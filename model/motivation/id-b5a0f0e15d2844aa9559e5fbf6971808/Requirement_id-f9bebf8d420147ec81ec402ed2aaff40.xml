@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1108"
+    id="id-f9bebf8d420147ec81ec402ed2aaff40"
+    documentation="As an agent I am able to view the customer troubleshooting outcomes/results that a customer has completed via a logged in view of self service, so that I can have an informed conversation with the customer">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1108"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="2"/>
+  <properties
+      key="Base_Old"
+      value="2"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Help"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Help"/>
+  <properties
+      key="Topic"
+      value="Problem Management"/>
+  <properties
+      key="Remarks"
+      value="Previously assumed that self-diagnostic would be a static instruction page. Is self-troubleshooting realized by an integration, or you want to build some capabilities in that regard in BSS? Maybe a questionnaire ending with a ticket registration?"/>
+  <properties
+      key="Module"
+      value="Previously assumed that self-diagnostic would be a static instruction page. Is self-troubleshooting realized by an integration, or you want to build some capabilities in that regard in BSS?"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

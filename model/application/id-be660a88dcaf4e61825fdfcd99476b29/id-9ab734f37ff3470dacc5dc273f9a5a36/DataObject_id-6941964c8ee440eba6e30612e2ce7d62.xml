@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collection"
+    id="id-6941964c8ee440eba6e30612e2ce7d62"
+    documentation="This is an abstract base class for objects that represent collections of ManagedEntity objects. This enables common attributes and relationships and other semantics to be applied to different types of Collections of ManagedEntity objects. These can then be refined in the subclasses of Collection."/>

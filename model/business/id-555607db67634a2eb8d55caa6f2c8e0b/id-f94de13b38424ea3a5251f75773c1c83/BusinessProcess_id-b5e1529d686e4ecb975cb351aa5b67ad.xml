@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitor Revenue Assurance Controls"
+    id="id-b5e1529d686e4ecb975cb351aa5b67ad"
+    documentation="Monitor defined revenue assurance control points and undertake first-in detection of any violations or degradations of KPIs associated with the control points.">
+  <properties
+      key="Process Identifier"
+      value="1.7.2.6.2.1"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of the Monitor Revenue Assurance Controls processes is to monitor defined revenue assurance control points and undertake first-in detection of any violations or degradations of KPIs associated with the control points. The responsibilities of the processes include, but are not limited to: â€¢Undertake the role of first in detection by monitoring the defined revenue assurance control points; â€¢Comparing the received specific revenue assurance related data received from the control points to the KPIs associated with the control points; â€¢Assessing and recording received specific revenue assurance related data received from the control points which is within tolerance limits for the KPIs associated with the control points, and for which continuous monitoring and measuring of specific revenue assurance tolerances is required; â€¢Prioritize revenue assurance KPI violations on whatâ€™s considered the most critical function of the system from a data integrity and revenue assurance perspective in circumstances where multiple revenue assurance violations are detected; â€¢Recording the results of the continuous monitoring for reporting through the Report Revenue Assurance processes; â€¢Detecting revenue assurance threshold violations which represent specific revenue assurance failures due to abnormal performance; â€¢Detecting KPI degradation for specific revenue assurance control points which provide early warning of potential issues; â€¢Creating and forwarding event notifications for detected degradations and violations to the Create Revenue Assurance Trouble Report processes â€¢Logging specific revenue assurance performance degradation and violation details to ensure historical records are available to support the needs of other processes. Note that the focus of the Monitor Revenue Assurance Controls is usually cross-process, as it supplements the process monitoring capabilities already established elsewhere within the eTOM business process framework."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

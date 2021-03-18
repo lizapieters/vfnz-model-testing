@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lead Generation &amp; Management"
+    id="id-c268711c920846e2a0e6a08ca30f7fbd"
+    documentation="Lead Generation applications provide the tools necessary to generate leads from a variety of sources.">
+  <properties
+      key="TMF Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="3.9.1.3"/>
+  <properties
+      key="TMF Function"
+      value="Sales Lead Capture"/>
+  <properties
+      key="TMF Maturity"
+      value="Market_Sales Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

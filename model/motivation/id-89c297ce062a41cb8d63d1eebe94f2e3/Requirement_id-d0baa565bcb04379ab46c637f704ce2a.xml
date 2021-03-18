@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0470"
+    id="id-d0baa565bcb04379ab46c637f704ce2a"
+    documentation="As a transitioning customer i need to be able to reinstate my service if it accidentally cut off as part of the migration">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0470"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Steve Bird"/>
+  <properties
+      key="Tribe"
+      value="Transition"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Transition"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Transition"/>
+  <properties
+      key="Remarks"
+      value="The message back to legacy should be sent after the order is completed. In case of any issues during activation, we should be able to stop the flow (no not deactivate in legacy). Different scenarios (reinstating in legacy, fixing in DX) could be possible. To be discussed. Scenario of failure for mobile is very limited. Roll back scenario probably is not needed. Conclusion: both for mobile and for fixed (at least for horizon 1) no automated rollback process is expected. Exception process to be described in HLD (in general: how are issues reported etc)"/>
+  <properties
+      key="Module"
+      value="CNS?, OM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

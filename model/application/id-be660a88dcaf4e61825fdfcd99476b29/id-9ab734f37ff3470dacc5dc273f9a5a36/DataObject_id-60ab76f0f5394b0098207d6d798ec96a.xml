@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ManagementDomain"
+    id="id-60ab76f0f5394b0098207d6d798ec96a"
+    documentation="A ManagementDomain class represents a special grouping of ManagedEntities that has two important properties. First; it is used to partition managed objects into a meaningful logical grouping. One important use of such a grouping is to provide a means to define which EMS (as well as which NMS) manages; monitors; etc. which set of devices. It also provides a means to show how management functions are distributed and scaled. Second; it defines a common administrative domain that is used to administer the managed objects that it contains. This implies that all of the managed objects contained in this ManagementDomain are administered similarly - either by the same user; group of users or policy."/>

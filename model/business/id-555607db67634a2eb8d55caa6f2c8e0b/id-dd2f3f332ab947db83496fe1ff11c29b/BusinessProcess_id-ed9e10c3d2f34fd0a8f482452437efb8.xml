@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gather &amp; Analyze New Product Specification Ideas"
+    id="id-ed9e10c3d2f34fd0a8f482452437efb8"
+    documentation="Research and analyze demographic, customer, technology and marketing information to identify new product specification opportunities.">
+  <properties
+      key="Process Identifier"
+      value="1.2.7.1.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Gather &amp; Analyze New Product Specification Ideas researches and analyzes demographic, customer, technology and marketing information to identify new product specification opportunities that represent a new entrant or enhanced feature(s) to an existing specification that will be introduced to the market as one or more product offerings. The process undertakes the necessary analysis to identify potential opportunities, compares current capabilities with the identified opportunities, and as a result of the analysis develops new opportunity concepts. Requirements from the sales organization relating to enhancements to support their desired offers are also captured. The concepts include an analysis of the customer value proposition."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

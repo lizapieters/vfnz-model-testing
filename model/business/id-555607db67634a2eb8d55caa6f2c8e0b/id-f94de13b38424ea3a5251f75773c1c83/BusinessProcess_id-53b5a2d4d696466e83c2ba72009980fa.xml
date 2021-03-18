@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Perform International Party Roaming Billing"
+    id="id-53b5a2d4d696466e83c2ba72009980fa"
+    documentation="Perform International Party Roaming Billing generate roaming billing which are with International roaming.&#xA; International roaming services are provided when mobile subscribers outside their national borders.">
+  <properties
+      key="Process Identifier"
+      value="1.6.15.4.1.2"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Perform International Party Roaming Billing generate roaming billing which are with International roaming. International roaming is provided when mobile subscribers travel abroad and make use of the network of an operator in the foreign country. Billing varies based on the agreement stipulated: inbound, outbound, bilateral."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

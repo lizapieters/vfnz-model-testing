@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identify Party Revenue Share Discrepancy"
+    id="id-fd1fb7e36599451fbe1326c7c574681d"
+    documentation="Compare information received from another party with the revenue share determined by an enterprise to identify a discrepancy.">
+  <properties
+      key="Process Identifier"
+      value="1.6.18.4.2.1"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Identify Party Revenue Share Discrepancy compares information received from another party with the revenue share determined by an enterprise. Differences are classified as a discrepancy that is to be resolved. For example, an enterprise's calculated revenue share for a product offering may be missing a product that has been acquired that appears on an bill/invoice from another party."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

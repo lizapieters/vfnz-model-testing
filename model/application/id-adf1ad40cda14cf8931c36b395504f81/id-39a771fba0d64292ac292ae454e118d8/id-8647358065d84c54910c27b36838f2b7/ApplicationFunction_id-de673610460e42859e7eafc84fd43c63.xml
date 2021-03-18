@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Content Management Archival tools"
+    id="id-de673610460e42859e7eafc84fd43c63"
+    documentation="Business Intelligence Content Artefact Lifecycle Management keeps track of the aging of the Business Intelligence information and artefacts. All information have a best-before date that differs from context to context, but to use the data in a relevant way there might be cleanup functions or warning functions for outdated data.">
+  <properties
+      key="Function Identifier"
+      value="710"/>
+  <properties
+      key="TAM Application Name"
+      value="Content Management"/>
+  <properties
+      key="TAM Application Id"
+      value="9.6.5"/>
+  <properties
+      key="Constructed Id"
+      value="9.6.5.710"/>
+</archimate:ApplicationFunction>

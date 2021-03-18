@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Capability Specification Management"
+    id="id-c5ad3cd24f83416ebd32419b2df16cac"
+    documentation="This application involves the creation, editing, storage and retrieval of capability specifications. The capability specifications represent the general, common and invariant characteristics of resource that may be realized in more than one type of specific resource. Examples of capability are Layer2, Data, radio and Transport. These specifications are used in the creation of new capability instances mainly in Strategic Planning and are further specified into Resource Instances by Tactical and Implementation Planning.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="7.1.4"/>
+  <properties
+      key="TMF Function"
+      value="Resource Capability Specification Management"/>
+  <properties
+      key="TMF Maturity"
+      value="Resource Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

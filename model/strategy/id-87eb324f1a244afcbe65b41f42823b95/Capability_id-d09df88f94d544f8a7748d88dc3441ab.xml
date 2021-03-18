@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Order Configuration Management"
+    id="id-d09df88f94d544f8a7748d88dc3441ab"
+    documentation="The Resource Configuration Management application is similar to the service design/ assign functions outlined elsewhere in this publication, but supports aggregate customer facing services. To explain this area in general, it is necessary to see a clear difference between services and networks /resources. Services can be viewed as being comprised of a number of building blocks - e.g. bandwidth, security, maintenance packages, SLAs, QoS, specific features e.g. voicemail.. Service Configuration management might be either the set up of network / resource components for a customer, or a class of customers of a generic service build. Service configuration can be derived from order details in addition to inherent business rules from service specifications and the service view in the Service Inventory Management application.">
+  <properties
+      key="TMF Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="7.3.3.2"/>
+  <properties
+      key="TMF Function"
+      value="Cross resource Considering Resource configuration plan composition Resource inventory updating Resource Order Configuration Management Resource parameters Reservation Resource parameters allocation"/>
+  <properties
+      key="TMF Maturity"
+      value="Resource Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

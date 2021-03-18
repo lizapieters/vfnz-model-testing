@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Issue New Product Specification Business Proposal Notification"
+    id="id-93cc38c2b9874cc8ad0b3d61cd611e2a"
+    documentation="Send the new product specification business proposal notification to involved parties.">
+  <properties
+      key="Process Identifier"
+      value="1.2.7.1.2.6"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Case Detention"
+    id="id-bb9d544adf694a1dae6a59c82a28f1c5"
+    documentation="Case Definition and Configuration functions are responsible for defining and configuring the various types of cases.� Case types could include general queries, complaints, commendations, and problem/trouble reporting.">
+  <properties
+      key="Function Identifier"
+      value="99"/>
+  <properties
+      key="TAM Application Name"
+      value="Case Definition and Configuration"/>
+  <properties
+      key="TAM Application Id"
+      value="5.17.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.17.1.99"/>
+</archimate:ApplicationFunction>

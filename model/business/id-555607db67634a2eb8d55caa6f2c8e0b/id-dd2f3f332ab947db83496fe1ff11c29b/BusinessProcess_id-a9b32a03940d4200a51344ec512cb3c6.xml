@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitor Interaction Status"
+    id="id-a9b32a03940d4200a51344ec512cb3c6"
+    documentation="Manages the status of the ongoing interactions and is able to provide status information at any moment in which the request is active">
+  <properties
+      key="Process Identifier"
+      value="1.6.9.4.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The purpose of this process is to monitor the status of a Party interaction. These processes analyze and assess the Party interaction status changes to initiate notifications or reports."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

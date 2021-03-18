@@ -1,0 +1,42 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PayGlobal"
+    id="id-da56fc8044ef4be98ae6a459e2c231d2"
+    documentation="MYOB PayGlobal">
+  <properties
+      key="StatusForLookUp"
+      value="Active"/>
+  <properties
+      key="Owner"
+      value="AndrewH"/>
+  <properties
+      key="Level of Service"
+      value="Business Premium"/>
+  <properties
+      key="Product / Service"
+      value="Common"/>
+  <properties
+      key="Segment"
+      value="Common"/>
+  <properties
+      key="DX Association"
+      value="Integrate"/>
+  <properties
+      key="Existing Retained or Replaced"
+      value="Retained"/>
+  <properties
+      key="Dig Future Module"
+      value="Application Integration Framework (AIF), Customer Order Management (OM), Product Catalog Management (PC), Self Care ? Enterprise Portal / Corporate Self Care (CSC), eShop (eShop), Self-Care ? mobile App iOS/Android (Apps), Self-Care ? Web (SC)"/>
+  <properties
+      key="Legacy BSS Stack Served"
+      value="Common"/>
+  <properties
+      key="TAM App ID"
+      value="8.2.8"/>
+  <properties
+      key="TAM Domain"
+      value="Supply Partner Domain"/>
+  <properties
+      key="TAM Application"
+      value="Supplier/Partner Portal"/>
+</archimate:ApplicationComponent>

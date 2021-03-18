@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Initiate Leaving Loyalty Program"
+    id="id-f250e70e218b4431a9d82080bba8508b"
+    documentation="Begin the process of leaving an enterprise's loyalty program. A loyalty program participant or an enterprise may initiate this process.">
+  <properties
+      key="Process Identifier"
+      value="1.1.19.2.6.1"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Initiate Leaving Loyalty Program begins the process of leaving an enterprise's loyalty program. A loyalty program participant or an enterprise may initiate this process. An enterprise may initiate the process if the Provide Loyalty Program Operation Report has identified abuse of the program by a participant. This process provides information to the Prepare Loyalty Account Communication process to notify the participant of an enterprise's decision to terminate a party's participation in a loyalty program. If leaving is initiated by a participant the Prepare Loyalty Account Communication process may be provided information in an attempt to have a participant reconsider leaving."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

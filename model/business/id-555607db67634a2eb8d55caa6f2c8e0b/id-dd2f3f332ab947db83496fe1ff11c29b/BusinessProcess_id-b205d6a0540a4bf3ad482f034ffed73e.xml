@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Service Provisioning Activity"
+    id="id-b205d6a0540a4bf3ad482f034ffed73e"
+    documentation="Responsibilities of this processes include, but are not limited to: &#xA;- Generating the respective resource order creation request(s) to Issue Resource Orders based on specific service orders; &#xA;â€¢ Escalating status of service orders in accordance with local policy; â€¢ Undertaking necessary tracking of the execution process; &#xA;â€¢ Adding additional information to an existing service order; &#xA;â€¢ Modifying information in an existing service order;â€¢ &#xA;â€¢ Modifying the service order status; &#xA;â€¢ Canceling a service order when the initiating customer order is cancelled; &#xA;â€¢ Indicating completion of a service order by modifying the service order status. &#xA;&#xA;Note that some specific service components may be delivered by other parties. In these cases the Track &amp; Manage Service Provisioning process is responsible for initiating requests, through Party Order handling for the delivery by the party of the specific service components.">
+  <properties
+      key="Process Identifier"
+      value="1.4.5.3.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fraud Policy Management"
+    id="id-f15be840cef04354846fa124df1af41c"
+    documentation="Establish and manage all intra-team, enterprise-wide, and external facing policies to facilitate detection, management, and prevention of fraudulent activities">
+  <properties
+      key="Process Identifier"
+      value="1.7.9.2.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of Fraud Policy is to manage and maintain all policies necessary for successful fraud program operations within a carrier. Depending on the product offerings, geographic region served, demographics of the subscriber base, partner (e.g., wholesale) environment, internal network structure, budget, and other factors, fraud policies will vary across operators, with unique requirements for fraud policies prevalent in each case. Practices and processes for detection, investigation, ongoing education, tool uses, feedback of identified frauds, external interactions (partners, LEAs), etc. comprise areas within scope of Fraud Policy ."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

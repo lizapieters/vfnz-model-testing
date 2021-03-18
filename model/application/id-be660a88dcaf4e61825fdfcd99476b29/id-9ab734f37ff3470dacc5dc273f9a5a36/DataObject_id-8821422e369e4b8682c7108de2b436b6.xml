@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicyOperator"
+    id="id-8821422e369e4b8682c7108de2b436b6"
+    documentation="This is a concrete class for modeling different types of operators in a PolicyStatement. By restricting the type of operator used in a PolicyStatement; one can effectively restrict the semantics of that PolicyStatement."/>

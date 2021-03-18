@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service-Resource Relationship Reconciliation / Synchronization"
+    id="id-e413fa56ec924d1392732d7e0559bbe2"
+    documentation="The Service-Resource Relationship Reconciliation / Synchronization function entails reconciliation of the data in a Service Inventory Management system with inventory discovered from another source and/or synchronization of mismatched service inventory records.">
+  <properties
+      key="Function Identifier"
+      value="629"/>
+  <properties
+      key="TAM Application Name"
+      value="Service-Resource Inventory Service Inventory Reconciliation / Synchronization"/>
+  <properties
+      key="TAM Application Id"
+      value="#N/A"/>
+  <properties
+      key="Constructed Id"
+      value="#N/A"/>
+</archimate:ApplicationFunction>

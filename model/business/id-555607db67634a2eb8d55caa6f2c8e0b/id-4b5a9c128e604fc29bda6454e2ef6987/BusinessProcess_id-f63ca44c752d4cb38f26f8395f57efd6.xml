@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Link Market Segments &amp; Products"
+    id="id-f63ca44c752d4cb38f26f8395f57efd6"
+    documentation="Analyze the basic consumption profiles of market segments and associate these with the product families available">
+  <properties
+      key="Process Identifier"
+      value="1.1.1.4"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Link Market Segment and Product processes analyze the basic consumption profiles of market segments and associate these with the product families available, as well as identify potential new product families for the market segments. The processes analyze segment purchase and decision issues, and their geographic locations."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

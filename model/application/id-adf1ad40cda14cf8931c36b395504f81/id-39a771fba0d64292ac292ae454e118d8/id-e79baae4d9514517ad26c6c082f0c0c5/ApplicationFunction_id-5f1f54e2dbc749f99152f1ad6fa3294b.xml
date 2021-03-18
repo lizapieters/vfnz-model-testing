@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Split Bill Distribution"
+    id="id-5f1f54e2dbc749f99152f1ad6fa3294b"
+    documentation="Performing charge and event distribution to support a split bill">
+  <properties
+      key="Function Identifier"
+      value="60"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Bill Charge Calculation"/>
+  <properties
+      key="TAM Application Id"
+      value="5.15.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.15.1.60"/>
+</archimate:ApplicationFunction>

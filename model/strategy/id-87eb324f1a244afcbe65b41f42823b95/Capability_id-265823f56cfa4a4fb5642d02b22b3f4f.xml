@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Knowledge Acquisition &amp; Documentation"
+    id="id-265823f56cfa4a4fb5642d02b22b3f4f"
+    documentation="Knowledge Acquisition and Documentation application enable identifying the enterprise vital knowledge, labelling the identified knowledge item and documenting it in the knowledge base.">
+  <properties
+      key="TMF Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.6.5.2"/>
+  <properties
+      key="TMF Function"
+      value="Content Management Authoring Tool Content Management Compilation Tool Knowledge Base Documenting Knowledge Identifying Knowledge Labeling"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

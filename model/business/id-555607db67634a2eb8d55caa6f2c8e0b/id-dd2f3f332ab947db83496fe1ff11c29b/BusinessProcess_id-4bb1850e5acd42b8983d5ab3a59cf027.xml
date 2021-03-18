@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cancel Resource Performance Degradation Report"
+    id="id-4bb1850e5acd42b8983d5ab3a59cf027"
+    documentation="This process cancels a resource Performance Degradation Report when the specific trouble was related to a false resource failure event.">
+  <properties
+      key="Process Identifier"
+      value="1.5.9.6.4"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

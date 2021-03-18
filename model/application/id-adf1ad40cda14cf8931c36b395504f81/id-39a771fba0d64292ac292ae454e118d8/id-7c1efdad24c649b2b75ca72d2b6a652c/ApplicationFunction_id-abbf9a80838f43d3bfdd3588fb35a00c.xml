@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API Gateway Web protocol data transforming"
+    id="id-abbf9a80838f43d3bfdd3588fb35a00c"
+    documentation="Application Programming Interface Gateway Mediation function with support for Data Format, Data Model transformations and Protocol Bridging between most or all common Web standards including:&#xA;> Parameter transform: modifications of parameter names and/or parameter values&#xA;> Method transform: modifications of the method specified in API request (e.g., POST to DELETE)&#xA;> Error information transform: modifications of error information in the body part of API response&#xA;> Status code transform: modifications of status code in the API response &#xA;> Information masking: filtering some information in the API response based on query parameters in API request or based on API provider�s policy&#xA;> Abstraction: conceptually transformations of the meanings of parameters or decrease of the number of request parameters&#xA;Application Programming Interface Gateway Mediation function with support for Data Format, Data Model transformations and Protocol Bridging between most or all common Web standards including:&#xA;> Parameter transform: modifications of parameter names and/or parameter values&#xA;> Method transform: modifications of the method specified in API request (e.g., POST to DELETE)&#xA;> Error information transform: modifications of error information in the body part of API response&#xA;> Status code transform: modifications of status code in the API response &#xA;> Information masking: filtering some information in the API response based on query parameters in API request or based on API provider�s policy&#xA;> Abstraction: conceptually transformations of the meanings of parameters or decrease of the number of request parameters">
+  <properties
+      key="Function Identifier"
+      value="678"/>
+  <properties
+      key="TAM Application Name"
+      value="API Gateway"/>
+  <properties
+      key="TAM Application Id"
+      value="10.3.1"/>
+  <properties
+      key="Constructed Id"
+      value="10.3.1.678"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0831"
+    id="id-835fcb71e09a4eb08f6c2a15439f8806"
+    documentation="As a Fraud Manager I need our case database to be easily searchable and have the ability to pull reports for purposes of analysing data and identifying trends">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0831"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Caroline Carver"/>
+  <properties
+      key="Tribe"
+      value="Privacy, Fraud and Compliance"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="2"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Manage"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Fraud"/>
+  <properties
+      key="Remarks"
+      value="about availability to search in the case management system."/>
+  <properties
+      key="Module"
+      value="CRM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="SA"/>
+</archimate:Requirement>

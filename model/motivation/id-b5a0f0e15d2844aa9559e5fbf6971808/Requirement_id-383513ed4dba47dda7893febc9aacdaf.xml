@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0128"
+    id="id-383513ed4dba47dda7893febc9aacdaf"
+    documentation="As a product manager, I want to be able to offer a device discount to certain Interest Free customers, that is split over the period of their IF term, so that I can create a compelling offer">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0128"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="y"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Topic"
+      value="Core proposition"/>
+  <properties
+      key="Remarks"
+      value="Discount OOTB, how to determinate target group for the discount? Parked until the interest free sprint is done and more details are defined."/>
+  <properties
+      key="Module"
+      value="PC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="Not Applicable"/>
+</archimate:Requirement>

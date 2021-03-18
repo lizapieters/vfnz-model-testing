@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Accounts Receivable Charge Posting"
+    id="id-b0e0f1210b214c898cb26370e66aa507"
+    documentation="Accounts Receivable Charge Posting posts invoice charges in Accounts Receivable based on billed charges. It can be invoked by any billing system. Invoice charges accepts information on new charges and credits billed to customers, and updates their account balance accordingly.">
+  <properties
+      key="Function Identifier"
+      value="35"/>
+  <properties
+      key="TAM Application Name"
+      value="A/R Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.9.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.9.1.35"/>
+</archimate:ApplicationFunction>

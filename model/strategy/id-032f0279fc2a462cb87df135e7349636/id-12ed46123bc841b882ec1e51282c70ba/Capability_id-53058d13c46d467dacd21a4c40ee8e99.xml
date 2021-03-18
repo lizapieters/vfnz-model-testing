@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legal Matter/Partner Matching"
+    id="id-53058d13c46d467dacd21a4c40ee8e99"
+    documentation="The ability to associate a legal proceeding with a partner.">
+  <properties
+      key="TMF_ID"
+      value="1.3.2.5.9"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

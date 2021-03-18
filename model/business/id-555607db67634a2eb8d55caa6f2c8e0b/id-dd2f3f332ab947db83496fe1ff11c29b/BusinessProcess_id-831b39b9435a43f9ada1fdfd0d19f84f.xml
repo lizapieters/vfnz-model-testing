@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contact Customer or Other Party (on regular basis)"
+    id="id-831b39b9435a43f9ada1fdfd0d19f84f"
+    documentation="Contact a customer or another party who offers an enterprise's product offerings associated with each sales account on a regular basis appropriate for the type of account. The purpose is to manage the sales accounts assigned to the sales channel and/or sales manager on a day-day basis.">
+  <properties
+      key="Process Identifier"
+      value="1.1.9.6.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

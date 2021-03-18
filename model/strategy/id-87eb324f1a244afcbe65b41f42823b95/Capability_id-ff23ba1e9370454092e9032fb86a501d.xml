@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Interaction Collection &amp; Storage"
+    id="id-ff23ba1e9370454092e9032fb86a501d"
+    documentation="Customer Interaction Collection &amp; Storage provides the necessary functionality to record all interactions with the customer from all channels.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.1.4"/>
+  <properties
+      key="TMF Function"
+      value="Communication collection &amp; storage"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0782"
+    id="id-ce6e014b8a924f2496145ff1d0dbb6f5"
+    documentation="Provide a single digital journey for the customer and a VF front/back office representative, i.e. the same journey to facilitate a  simplified experience, additionally provide a CRM “under the hood” capability to front/back office representatives where complex transaction are required, examples: escalated discounts, manipulating billing start date and other field values that require changes.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0782"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="2"/>
+  <properties
+      key="Base_Old"
+      value="2"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="use"/>
+  <properties
+      key="Topic"
+      value="Single Digital Journey"/>
+  <properties
+      key="Remarks"
+      value="spectate or Agent Portal modelled after SC / DS views"/>
+  <properties
+      key="Module"
+      value="SC, DS, EP, AP"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

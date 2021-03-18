@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Short List Potential Parties"
+    id="id-b3f06bf95c324b16a814e79a445a9fed"
+    documentation="These processes specify the appropriate short list of parties, based on the available analysis of potential parties, to meet the specific enterprise requirements (for example, expected technical capability, anticipated delivery timeframes, anticipated costs, etc..).">
+  <properties
+      key="Process Identifier"
+      value="1.6.2.2.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

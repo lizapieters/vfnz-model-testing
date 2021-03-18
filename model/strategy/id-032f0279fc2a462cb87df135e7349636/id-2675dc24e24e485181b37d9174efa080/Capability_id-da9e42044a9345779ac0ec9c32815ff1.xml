@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Channel Analytics Creation"
+    id="id-da9e42044a9345779ac0ec9c32815ff1"
+    documentation="The ability to leverage various calculations to derive analytics for channels within the organization.">
+  <properties
+      key="TMF_ID"
+      value="1.1.1.8.5.1"/>
+  <properties
+      key="Level"
+      value="4"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

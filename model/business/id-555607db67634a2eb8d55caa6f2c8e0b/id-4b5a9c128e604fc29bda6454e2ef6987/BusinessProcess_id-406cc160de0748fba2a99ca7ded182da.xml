@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Modify Marketing Campaign"
+    id="id-406cc160de0748fba2a99ca7ded182da"
+    documentation="Modify a marketing campaign to improve its effectiveness based on metric analysis or based on feedback from recipients or stakeholders.">
+  <properties
+      key="Process Identifier"
+      value="1.1.15.6"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Modify Marketing Campaign updates a marketing campaign to improve its effectiveness based on metric analysis or based on feedback from recipients or stakeholders. It may also extend the end date of a marketing campaign if warranted and modify the campaign message based on feedback from the market and external stakeholders."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

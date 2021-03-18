@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fixed Assets"
+    id="id-a8917585cbda4ca29e27ea69409d3fcd"
+    documentation="Fixed Asset applications provide the required functionality to manage the long-term assets of a business at a summarized level. Detailed, subsidiary asset records are not covered by this group of applications.">
+  <properties
+      key="TAM Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="9.3.1.4"/>
+  <properties
+      key="Frameworx Domain"
+      value="Enterprise Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

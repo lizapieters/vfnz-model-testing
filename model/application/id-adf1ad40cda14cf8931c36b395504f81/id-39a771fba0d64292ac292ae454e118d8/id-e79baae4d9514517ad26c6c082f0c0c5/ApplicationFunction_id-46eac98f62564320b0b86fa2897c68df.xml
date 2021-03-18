@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collection Treatment Management"
+    id="id-46eac98f62564320b0b86fa2897c68df"
+    documentation="Defines and initiates the collection treatment activities according to the appropriate collection policy (using a business process automation engine). A collection treatment can belong to one of the following categories: Financial, Service restriction, Customer communication, CSR interaction and Outside Collection Agency treatment including Issue notice (e.g. Collection Letter, e-mail or SMS)">
+  <properties
+      key="Function Identifier"
+      value="142"/>
+  <properties
+      key="TAM Application Name"
+      value="Collection Policy Execution and Monitoring"/>
+  <properties
+      key="TAM Application Id"
+      value="5.14.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.14.2.142"/>
+</archimate:ApplicationFunction>

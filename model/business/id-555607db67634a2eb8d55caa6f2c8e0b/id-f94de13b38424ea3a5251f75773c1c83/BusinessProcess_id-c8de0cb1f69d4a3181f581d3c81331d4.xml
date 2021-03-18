@@ -1,0 +1,20 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Record Party Access in Tamper Proof Store"
+    id="id-c8de0cb1f69d4a3181f581d3c81331d4">
+  <properties
+      key="Process Identifier"
+      value="1.6.3.1.7.4"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Party authentication is such a key interaction that a specific activity to ensure that the event is recorded in a tamper proof register. Much of a party's trust will hinge on both the ability to recall this event when disputed, and on the degree to which the log is believed to be tamperproof. Some legal domains require this explicitly."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

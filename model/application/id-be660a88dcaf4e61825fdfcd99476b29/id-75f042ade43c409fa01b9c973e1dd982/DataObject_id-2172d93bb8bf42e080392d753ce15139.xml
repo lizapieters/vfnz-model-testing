@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerFacingServiceRole"
+    id="id-2172d93bb8bf42e080392d753ce15139"
+    documentation="This class defines a Service in terms of a set of ServiceRoles for a CustomerFacingService. This is the base class for defining ServiceRoles that are used to represent the variable characteristics of a CustomerFacingService in terms of roles that this Service plays. This enables the CustomerFacingService to be managed abstractly using ServiceRoles. It also helps define the Service in terms of the functions that it has or provides."/>

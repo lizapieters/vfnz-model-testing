@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Number Portability"
+    id="id-12004f6b70764ffba921aef0ae8fec32"
+    documentation="Number Portability application manages the end to end lifecycle of a portability request. This includes reception, validation of business rules and execution of set of policies, decomposition and orchestration of the request to ensure the correct functionality.In addition, Number Portability application also provides publication, risk &amp; effectiveness management.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="7.13.2"/>
+  <properties
+      key="TMF Function"
+      value="0"/>
+  <properties
+      key="TMF Maturity"
+      value="Resource Domain"/>
+  <properties
+      key="TMF Status"
+      value="3"/>
+</archimate:Capability>

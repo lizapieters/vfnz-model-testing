@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RoutingProtocol"
+    id="id-976a663547914bcd9b7f20935370b742"
+    documentation="This is an abstract base class for representing different types of routing protocols that can be managed. Routing protocols are used to determine how information is routed (e.g.; how it traverses an intermediate system). This class represents a convenient aggregation point for defining how routing protocols are managed and used. The SID model defines LinkStateRoutingProtocols (e.g.; OSPF and IS-IS); DistanceVectorRoutingProtocols (e.g.; RIP and IGRP); PathVectorRoutingProtocols (e.g.; BGP) and HybridRoutingProtocols (e.g.; EIGRP) as examples of subclasses of this class."/>

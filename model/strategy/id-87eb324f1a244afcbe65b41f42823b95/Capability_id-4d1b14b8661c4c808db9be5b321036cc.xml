@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Storage and Archival"
+    id="id-4d1b14b8661c4c808db9be5b321036cc"
+    documentation="Data Storage and Archival application provides functionalities to manage the lifecycle of data. Including read, creation, updating, deletion and data archival as per compliance policies. This includes log information for audit and reporting purposes to ensure that the stored data follows the data compliance guidelines.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.11.2"/>
+  <properties
+      key="TMF Function"
+      value="Data Entity Accessing Data Entity Archival Entity Creation and lifecycle managemen"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

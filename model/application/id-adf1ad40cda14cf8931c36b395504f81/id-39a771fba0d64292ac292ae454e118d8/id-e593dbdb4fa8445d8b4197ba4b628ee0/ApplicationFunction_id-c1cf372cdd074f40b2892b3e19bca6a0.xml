@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Work Order Status Monitoring"
+    id="id-c1cf372cdd074f40b2892b3e19bca6a0"
+    documentation="Monitoring the status and progress of the various manual activities, including the various states of the work order">
+  <properties
+      key="Function Identifier"
+      value="551"/>
+  <properties
+      key="TAM Application Name"
+      value="Work Order Tracking &amp; Management"/>
+  <properties
+      key="TAM Application Id"
+      value="7.12.4"/>
+  <properties
+      key="Constructed Id"
+      value="7.12.4.551"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Feature/Property Product Offering Pricing"
+    id="id-5c996c7ad3a74ef8bbb8caf1a4b7d8c1"
+    documentation="Define simple to complex feature/property-based product offering pricing.">
+  <properties
+      key="Process Identifier"
+      value="1.2.7.2.2.4"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Feature/Property Product Offering Pricing defines (creates, modifies, removes) simple to complex feature/property-based product offering pricing. Simple pricing is based on an association between one or more features/properties and a product offering price. For example, the price may vary based on the speed of internet connectivity. Complex pricing is defined by a group of features/properties upon which series of operations is performed to determine the price. For example, the price for a movie may be based on the title and format. A feature/property is also known as a characteristic. As with other pricing processes this process interacts with the Provide Product Offering Price Notification and Obtain Product Offering Price Approval processes to provide notifications and gain approval of any actions taken by this process. Note that this process is meant to use/interact with generic property/feature processes to define them. To date the generic processes have not yet been developed."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

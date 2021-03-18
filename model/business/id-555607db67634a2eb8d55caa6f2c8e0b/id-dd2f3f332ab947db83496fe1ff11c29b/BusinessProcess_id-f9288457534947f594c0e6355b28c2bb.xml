@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Specify Party Demographic Definition Group"
+    id="id-f9288457534947f594c0e6355b28c2bb"
+    documentation="Group party demographic definitions or define a group of groups.">
+  <properties
+      key="Process Identifier"
+      value="1.6.3.2.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Specify Party Demographic Definition Group defines a group party demographic definitions or defines a group of groups. For example for an organization a group may represent a collection of demographics about the organization itself, such as headquarters location, number and location of offices (domestic vs. international, regions/triads); each have different access requirements. This process also enables changes and deletions to be made to any grouping."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gather &amp; Analyze Resource Information"
+    id="id-3ea87fceecf74ccfad2e92b7d941a26e"
+    documentation="Research and analyze customer, technology, competitor and marketing information to identify new resource requirements and industry resource capabilities and availability">
+  <properties
+      key="Process Identifier"
+      value="1.5.1.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Gather &amp; Analyze Resource Information processes research and analyze customer, technology, competitor, internal resource utilization trends and marketing information to identify new resource requirements and industry resource capabilities and availability. These processes undertake the necessary analysis to identify potential opportunities, compare current capabilities with the identified opportunities, and as a result of the analysis develop new resource requirements or enhancements to existing requirements. The new or enhanced resource requirements include an analysis of the customer value proposition. These processes include the establishment and management of relationships with external providers of resource information, and the management of internal groups used for providing resource information. A key source of input to this analysis is derived from the business, marketing, service and product strategy and planning processes. In some cases these processes may leverage information through the use of advanced analytics tools or AI for fast, accurate and proactive forecasting."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

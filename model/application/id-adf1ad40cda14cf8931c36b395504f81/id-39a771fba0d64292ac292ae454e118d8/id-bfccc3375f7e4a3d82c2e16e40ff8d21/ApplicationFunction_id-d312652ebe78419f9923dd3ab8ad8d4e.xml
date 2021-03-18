@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Network facility selection/assignment"
+    id="id-d312652ebe78419f9923dd3ab8ad8d4e"
+    documentation="In service design/assign the function selects/assigns appropriate network facility route(s) and configures facility equipment per engineering rules as well as obtains new assets from network plan and build (capacity management) if required.">
+  <properties
+      key="Function Identifier"
+      value="569"/>
+  <properties
+      key="TAM Application Name"
+      value="Assign/Procure Network Resources"/>
+  <properties
+      key="TAM Application Id"
+      value="6.3.4.2"/>
+  <properties
+      key="Constructed Id"
+      value="6.3.4.2.569"/>
+</archimate:ApplicationFunction>

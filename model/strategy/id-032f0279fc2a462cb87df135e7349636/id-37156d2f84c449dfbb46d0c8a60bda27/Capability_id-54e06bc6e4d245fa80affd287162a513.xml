@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Channel Access Management"
+    id="id-54e06bc6e4d245fa80affd287162a513"
+    documentation="The ability to establish, control, and administer the level and extent of physical or virtual constraints associated with a channel.">
+  <properties
+      key="TMF_ID"
+      value="1.1.1.5"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

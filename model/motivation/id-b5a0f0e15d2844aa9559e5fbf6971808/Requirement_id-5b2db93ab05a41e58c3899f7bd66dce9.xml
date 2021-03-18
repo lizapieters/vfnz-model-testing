@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0730"
+    id="id-5b2db93ab05a41e58c3899f7bd66dce9"
+    documentation="As a customer when l need to clarify some charges on my account, I want to be able to have a full paper-less record of the billing information that I can search and filter, so that I can quickly get the answers I need wherever I am">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0730"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Jared Mortlock"/>
+  <properties
+      key="Tribe"
+      value="Business"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="y"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Bill analysis"/>
+  <properties
+      key="Remarks"
+      value="For Horizion 1 we assume here simple digital invoice presentation with filters (e.g. MSISDN, account, user). Is it what is expected here?"/>
+  <properties
+      key="Module"
+      value="SC, EP, BS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Process Management and Security Information &amp; Data"
+    id="id-e731bef95b144c1d866901690e213629"
+    documentation="Process the management and security information and/or data into a form suitable for the intended recipient processes, resource instances or service instances">
+  <properties
+      key="Process Identifier"
+      value="1.5.7.2"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Process Management and Security Information &amp; Data processes are responsible for processing the management information and/or data into a form suitable for the intended recipient processes, resource instances or service instances. The responsibilities of this process include, but are not limited to: â€¢Identifying the intended recipient processes, resource instances or service instances to determine the appropriate processing required; â€¢Filtering and/or low level correlation of the management information and/or data based on well-defined criteria; â€¢Aggregating or disaggregating the management information and/or data to provide summarized versions â€¢Formatting the management information and/or data into a form suitable for the intended recipient before distribution. â€¢"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

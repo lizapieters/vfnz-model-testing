@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1142"
+    id="id-d99b1211ae3a4510ab1c204bc54a4dd3"
+    documentation="As a PO, I want all customers to know about and use My Vodafone app as their primary channel for communicating with Vodafone">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1142"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="y"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Learn"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Learn"/>
+  <properties
+      key="Topic"
+      value="Marketing and Campaign Management"/>
+  <properties
+      key="Remarks"
+      value="[CCM] Campaign based on provided information around having app, app features How Comarch supports this process? CCM only? CNS? CCM campaign, but also information at the end of buy journey. [CCM] Supported. CCM can send campaign informing about the app and encouraging to install"/>
+  <properties
+      key="Module"
+      value="CCM, DS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

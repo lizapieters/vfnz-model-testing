@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1070"
+    id="id-fde11a47e0aa4394a6ea40134cbcc503"
+    documentation="As a customer if I want to be recommended to change my plan if there is a better one based on my usage, so that I can get the most for my money. E.g. If I am consistently (3 months) using under my data allocation I want to recieve a recommendation to downgrade my plan, so that my plan suits my usage requirements">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1070"/>
+  <properties
+      key="Status"
+      value="Potential gap"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="y"/>
+  <properties
+      key="Base"
+      value="1?"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="use"/>
+  <properties
+      key="Topic"
+      value="Marketing and Campaign Management"/>
+  <properties
+      key="Remarks"
+      value="[CCM] CCM can send the communication including offer in case the information will be provided from BSS/BI/AI tool Rather a classic case for recommendation engine not 4 CCM. Is it Base 1?"/>
+  <properties
+      key="Module"
+      value="CCM, CRM, RE"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

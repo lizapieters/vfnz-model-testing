@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Establish DG management"
+    id="id-42a2363fda2f414fb00251c3a81f73d7"
+    documentation="Establish and improve DG Management to achieve business objectives">
+  <properties
+      key="Process Identifier"
+      value="1.7.8.4.4"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Establish DG management, Establishes and improves DG Management to achieve business objectives. It includes design DG architecture, design data quality solution, design data security solution, design data storage solution, design data presentation and distribution solution, and necessary support solutions, e.g. metadata management and data lifecycle management."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

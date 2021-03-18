@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financial Account Management"
+    id="id-1fb1aa49a4a844c6a031ca0b8f709411"
+    documentation="Financial Account Management supports the financial activities that relate to customer accounts. These activities includes Refunds, Disputes, Adjustments / Credits and Write-offs.">
+  <properties
+      key="Function Identifier"
+      value="34"/>
+  <properties
+      key="TAM Application Name"
+      value="A/R Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.9.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.9.1.34"/>
+</archimate:ApplicationFunction>

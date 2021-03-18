@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reformat Party Billing Event"
+    id="id-9f84bd7b90d2495fafd39bb144789306"
+    documentation="Reformat a party billing event for recipient processes.">
+  <properties
+      key="Process Identifier"
+      value="1.6.19.3.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

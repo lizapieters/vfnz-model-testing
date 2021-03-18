@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Trouble Management"
+    id="id-20f2189e50f44b87a5ab396dd03612ad"
+    documentation="Responsible for the management of troubles with specific resources.">
+  <properties
+      key="Process Identifier"
+      value="1.5.8"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Resource Trouble Management processes are responsible for the management of troubles, including security events, associated with specific resources. The objectives of these processes are to efficiently and effectively manage reported resource trouble, isolate the root cause and act to resolve the resource trouble. Responsibilities of the Resource Trouble Management processes include, but are not limited to: â€¢ Detecting, analyzing, managing and reporting on resource alarm event notifications; â€¢ Initiating and managing resource trouble reports; â€¢ Performing resource trouble localization analysis; â€¢ Correcting and resolving resource trouble; â€¢ Reporting progress on resource trouble reports to other processes; â€¢ Assigning &amp; tracking resource trouble testing and repair activities â€¢ Managing resource trouble jeopardy conditions. On one hand, resource troubles may relate to Problems in the Service domain and therefore also potentially in the customer domain. On the other hand, they may relate to specific resource failures or performance degradations, which are caused by resource faults. As such, the Resource Trouble Management processes work with specific resource alarm event notifications received from Resource Data Collection &amp; Distribution, specific resource performance notifications from Resource Performance Management, and potential specific resource trouble notifications from Service Problem Management processes. Resource Trouble Management processes perform analysis, decide on the appropriate actions/responses and carry them out with the intent of restoring normal operation on specific resources. However these activities need to interact with the Service Problem Management processes, as the latter have a view on service impact. Resource Trouble Management processes are responsible for informing Service Problem Management of any potential service problems. Where the original report arose as a result of service problems, the Resource Trouble Management processes may be coordinated by Service Problem Management processes."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

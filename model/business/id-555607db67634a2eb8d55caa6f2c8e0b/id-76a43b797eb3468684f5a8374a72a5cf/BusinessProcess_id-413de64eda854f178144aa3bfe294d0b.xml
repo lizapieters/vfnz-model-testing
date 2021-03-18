@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Modify Product Offering Price Plan"
+    id="id-413de64eda854f178144aa3bfe294d0b"
+    documentation="Modify a group of product offering prices that represent a price plan for a product offering.">
+  <properties
+      key="Process Identifier"
+      value="1.2.7.2.2.1.2.2"/>
+  <properties
+      key="Category"
+      value="(7) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Modify Product Offering Price Plan modifies a grouping of product offering prices that represent a price plan for a product offering. Included are the removal and addition of product offering prices to the plan."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

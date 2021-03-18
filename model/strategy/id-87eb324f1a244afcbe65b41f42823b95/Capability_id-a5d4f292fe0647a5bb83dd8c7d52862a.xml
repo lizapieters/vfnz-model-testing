@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Bill Charge Calculation"
+    id="id-a5d4f292fe0647a5bb83dd8c7d52862a"
+    documentation="The Customer Bill Charge Calculation provides appropriate functionality to assemble items to be incorporated into a bill, applying prices or recalculating charges in the context of appropriate billing events. Customer Bill Charge Calculation also considers the results of aggregation and balance management functions in the process of calculating charges.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.15.1"/>
+  <properties
+      key="TMF Function"
+      value="Aggregates charges from different sources Calculate Bill-time Fee Currency conversion partial period (prorating) handling. recalculates charges Split Bill Distribution"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

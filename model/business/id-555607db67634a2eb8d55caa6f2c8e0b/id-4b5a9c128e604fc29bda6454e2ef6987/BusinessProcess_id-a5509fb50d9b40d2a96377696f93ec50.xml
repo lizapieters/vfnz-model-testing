@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gather &amp; Analyze Product Information"
+    id="id-a5509fb50d9b40d2a96377696f93ec50"
+    documentation="Research information relating to product ideas and opportunities and identify product opportunities">
+  <properties
+      key="Process Identifier"
+      value="1.2.1.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Gather &amp; Analyze Product Information processes research information relating to product ideas and opportunities and identify product opportunities based on the analysis of external and internal information sources. These processes encompass analysis to identify new products as well as reviewing existing products. They also include the establishment and management of relationships with external providers of product information, and the management of internal resources used for providing product information."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

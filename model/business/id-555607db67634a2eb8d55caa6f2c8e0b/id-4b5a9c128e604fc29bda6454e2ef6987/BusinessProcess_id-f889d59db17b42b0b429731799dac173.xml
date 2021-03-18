@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fraud Management"
+    id="id-f889d59db17b42b0b429731799dac173"
+    documentation="Establish an enterprise-wide fraud  policy framework, and an associated operational capability aimed at identifying and preventing internal and external fraud in an organization.">
+  <properties
+      key="Process Identifier"
+      value="1.7.9.2"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="This process ensure real-time screening of transaction activity across users, accounts, processes and channels, to identify and prevent internal and external fraud in an organization. The objective of the Fraud in general is to detect fraud risks, activities, and other violations, as well as to detect and prevent the re-surfacing of known fraudulent activities, individuals, and syndicates. Fraud is chartered within an operator to conduct 2 primary functions within the operatorâ€™s business model: Create and maintain a fraud policy (enabling methods, activities, and other procedures to detect, prevent, and manage discovered fraud instances within the operator), and support of fraud operations (creation and of rules, lists, tools/solutions used for detections, staff education, etc.). The objective of the Fraud in general is to detect fraud risks, activities, and other violations, as well as to detect and prevent the re-surfacing of known fraudulent activities, individuals, and syndicates. Proactive detection processes are preferable to reactive mitigation and of existing fraud, hence the importance of policy and support functions to provide tools to operational components in the enterprise to prevent fraud before it becomes harmful to the business. Inevitably, reactive processes must also be supported, as fraud tactics are in a continual state of change, posing a constant threat to operators."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

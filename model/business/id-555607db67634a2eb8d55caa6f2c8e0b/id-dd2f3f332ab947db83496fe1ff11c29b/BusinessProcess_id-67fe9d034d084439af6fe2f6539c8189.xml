@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Enterprise Architecture Methodology"
+    id="id-67fe9d034d084439af6fe2f6539c8189"
+    documentation="Define/select, develop and deploy the enterprise architecture methodology, which is a framework that identifies the reference models, their relationships to each other, and the architecture management processes used to establish and maintain the enterprise architecture. The framework contains the policies, guidelines, documentation templates and approaches to be used throughout the enterprise. Enterprise Architecture Management processes define, develop, manage and maintain the enterprise architecture, which is the model describing the enterprise in all its facets.">
+  <properties
+      key="Process Identifier"
+      value="1.7.1.3.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

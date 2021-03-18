@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Order Orchestration"
+    id="id-2c7e08e7e32f46c6bc5ec350afec1347"
+    documentation="Sequences resource order provisioning if required.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="6.3.2"/>
+  <properties
+      key="Frameworx Domain"
+      value="Service Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

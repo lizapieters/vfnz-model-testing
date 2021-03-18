@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0336"
+    id="id-2d42a94324e245c7b0914b0bcab445dc"
+    documentation="As the Privacy Officer I want to know all new customers have agreed to the Privacy Policy as part of their sign up journey.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0336"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Caroline Carver"/>
+  <properties
+      key="Tribe"
+      value="Privacy"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="y"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Privacy"/>
+  <properties
+      key="Remarks"
+      value="Priv 005"/>
+  <properties
+      key="Module"
+      value="NFR"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="REQ_OSS_182"/>
+</archimate:Requirement>

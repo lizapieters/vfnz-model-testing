@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0783"
+    id="id-dba8dfc185844e8f93e9f99509af8982"
+    documentation="As a customer, I want to be automatically redirected to a landing page based on certain situations/events, so that I'm directed in what I should do and therefore have a great customer experience. E.g. SIM not activated = redirect to an activation page. Customer is roaming = redirect to roaming landing page. Customer runs out of data = redirect to an 'out of data, buy more page.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0783"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="y"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="use"/>
+  <properties
+      key="Topic"
+      value="Landing page redirect"/>
+  <properties
+      key="Remarks"
+      value="Pages should be displayed without a need to log in. Then such a page could redirect to Selfcare for example to buy some add-ons. List of scnarios which shuld be supported to be provided by Vodafone, in which situations redirection should be done."/>
+  <properties
+      key="Module"
+      value="OCS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

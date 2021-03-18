@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Experience event capturing framework"
+    id="id-b86417a62ea64fb5a269af630c6a5355"
+    documentation="Complex event framework to capture events from relevant BSS sources such as Billing, CRM etc.">
+  <properties
+      key="Function Identifier"
+      value="190"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Experience Monitoring"/>
+  <properties
+      key="TAM Application Id"
+      value="5.5.12"/>
+  <properties
+      key="Constructed Id"
+      value="5.5.12.190"/>
+</archimate:ApplicationFunction>

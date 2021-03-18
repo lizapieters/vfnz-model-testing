@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define Catalog"
+    id="id-18eb7a204e1145c5a57f87510a959351"
+    documentation="Define, update, and remove a catalog. The catalog is associated with the party who provides it, such as the enterprise, one of its operating units, or an external party.">
+  <properties
+      key="Process Identifier"
+      value="1.8.1.2.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

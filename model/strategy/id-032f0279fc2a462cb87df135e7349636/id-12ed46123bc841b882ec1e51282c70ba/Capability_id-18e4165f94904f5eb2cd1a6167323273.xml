@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Human Resource Type Management"
+    id="id-18e4165f94904f5eb2cd1a6167323273"
+    documentation="The ability to determine, modify, and interpret the category or classification of a human resource.">
+  <properties
+      key="TMF_ID"
+      value="1.3.8.8.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

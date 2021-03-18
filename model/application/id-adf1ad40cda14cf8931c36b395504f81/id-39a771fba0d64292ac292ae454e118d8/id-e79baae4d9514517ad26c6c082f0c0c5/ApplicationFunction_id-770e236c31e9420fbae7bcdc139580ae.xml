@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Case Archiving"
+    id="id-770e236c31e9420fbae7bcdc139580ae"
+    documentation="Case Archiving functions provide appropriate functionality to archive and cases at an appropriate time after case closure.">
+  <properties
+      key="Function Identifier"
+      value="96"/>
+  <properties
+      key="TAM Application Name"
+      value="Case Archival"/>
+  <properties
+      key="TAM Application Id"
+      value="5.17.6"/>
+  <properties
+      key="Constructed Id"
+      value="5.17.6.96"/>
+</archimate:ApplicationFunction>

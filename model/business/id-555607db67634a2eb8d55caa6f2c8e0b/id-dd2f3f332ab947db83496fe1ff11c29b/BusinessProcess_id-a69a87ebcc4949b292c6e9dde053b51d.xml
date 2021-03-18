@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verify Party Problem"
+    id="id-a69a87ebcc4949b292c6e9dde053b51d"
+    documentation="Verify whether the party problem information supplied by the party is correct.">
+  <properties
+      key="Process Identifier"
+      value="1.6.10.2.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

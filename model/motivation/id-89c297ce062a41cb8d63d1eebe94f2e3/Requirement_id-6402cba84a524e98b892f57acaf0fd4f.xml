@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1105"
+    id="id-6402cba84a524e98b892f57acaf0fd4f"
+    documentation="As a customer I want to be notified for certain activities irrespective of whether I have turned off notifications or not (eg - sim swap initiated, password/pin has been changed, IFP has been requested &quot;if this was not you, please log in&quot;, so that I can be aware of fundamental changes to my account">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1105"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="y"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Self Service"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Self Service"/>
+  <properties
+      key="Topic"
+      value="Notifications"/>
+  <properties
+      key="Remarks"
+      value="OOTB, notification rules can be configured that way"/>
+  <properties
+      key="Module"
+      value="CNS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

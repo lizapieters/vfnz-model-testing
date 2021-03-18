@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Debt Management Financial Scoring"
+    id="id-6a5f4365286047aebd19469d19fe200d"
+    documentation="The Debt Management function:&#xA;�Update financial scoring: update of the customer scoring information, based on events that are significant of payer behaviour of the customer (e.g. late payment, delays, etc.)">
+  <properties
+      key="Function Identifier"
+      value="145"/>
+  <properties
+      key="TAM Application Name"
+      value="Collection Policy Execution and Monitoring"/>
+  <properties
+      key="TAM Application Id"
+      value="5.14.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.14.2.145"/>
+</archimate:ApplicationFunction>

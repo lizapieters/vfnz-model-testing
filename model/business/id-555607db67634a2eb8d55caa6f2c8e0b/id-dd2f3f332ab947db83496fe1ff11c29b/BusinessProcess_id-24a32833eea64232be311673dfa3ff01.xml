@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Track &amp; Manage Number Portability Requests"
+    id="id-24a32833eea64232be311673dfa3ff01"
+    documentation="This process ensures that the portability activities are assigned, managed and tracked efficiently in order to meet the business rules and regulatory policies.">
+  <properties
+      key="Process Identifier"
+      value="1.5.4.7.5"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The purpose of the Track &amp; Manage Number Portability Requests is to ensureÂ that the portability activities are assigned, managed and tracked efficiently in order to meet the business rules and regulatory policies.Â  Responsibilities of these processes include, but are not limited to: â€¢Â Â Â Â  Modifying the number portability request status â€¢Â Â Â Â  Validating number portability request â€¢Â Â Â Â  Modifying or canceling open number portability request â€¢Â Â Â Â  Undertaking necessary tracking of the execution progress â€¢Â Â Â Â  Adding additional information to number portability request â€¢Â Â Â Â  Reporting the completion status of number portability request â€¢Â Â Â Â  Generating number portability reports â€¢Â Â Â Â  Implementing business rules â€¢Â Â Â Â  Implementing regulatory policies"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

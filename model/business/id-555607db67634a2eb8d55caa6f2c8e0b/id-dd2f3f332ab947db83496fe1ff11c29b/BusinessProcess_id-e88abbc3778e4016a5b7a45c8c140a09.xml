@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define Security Management policies &amp; procedures to facilitate detection incidents"
+    id="id-e88abbc3778e4016a5b7a45c8c140a09"
+    documentation="Policy-based recognition of a possible incident.  Within the Detection process the organization gains an awareness that Analysis has detected an anomaly â€“ relative to expected results -- and that a possible incident may be occurring or may have occurred.Â  At this stage, automated policy-based remediation may still be possible â€“ i.e., without invoking Incident Management.">
+  <properties
+      key="Process Identifier"
+      value="1.7.2.2.11"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

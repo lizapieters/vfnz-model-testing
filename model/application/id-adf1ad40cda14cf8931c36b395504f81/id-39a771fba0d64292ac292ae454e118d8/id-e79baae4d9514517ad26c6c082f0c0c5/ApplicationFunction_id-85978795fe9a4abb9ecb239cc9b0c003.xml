@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transactional document Send function"
+    id="id-85978795fe9a4abb9ecb239cc9b0c003"
+    documentation="Sends data to downstream interfaces, such as finance, warehouse, etc.">
+  <properties
+      key="Function Identifier"
+      value="340"/>
+  <properties
+      key="TAM Application Name"
+      value="Transactional Document Generator"/>
+  <properties
+      key="TAM Application Id"
+      value="5.2.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.2.2.340"/>
+</archimate:ApplicationFunction>

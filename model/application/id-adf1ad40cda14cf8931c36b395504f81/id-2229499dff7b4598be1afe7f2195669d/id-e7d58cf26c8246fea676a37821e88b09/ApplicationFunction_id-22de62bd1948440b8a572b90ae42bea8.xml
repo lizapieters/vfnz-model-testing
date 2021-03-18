@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Loyalty Prize Management"
+    id="id-22de62bd1948440b8a572b90ae42bea8"
+    documentation="Loyalty Prize Management maintains the prize lists and prize redemption costs in terms of loyalty program points. It also assures that the program customer has the points necessary to select the given prize.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="5.21.2"/>
+  <properties
+      key="Frameworx Domain"
+      value="Customer Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

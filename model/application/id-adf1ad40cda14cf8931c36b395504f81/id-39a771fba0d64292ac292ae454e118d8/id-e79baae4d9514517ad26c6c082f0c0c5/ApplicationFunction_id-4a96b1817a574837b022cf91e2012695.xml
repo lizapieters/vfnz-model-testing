@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Invoice Detail Collection"
+    id="id-4a96b1817a574837b022cf91e2012695"
+    documentation="Provides appropriate levels of detail regarding  items on the invoice.  This detail is provided to revnue reporting and/or Bill Format &amp; Render.">
+  <properties
+      key="Function Identifier"
+      value="312"/>
+  <properties
+      key="TAM Application Name"
+      value="Invoice Generation"/>
+  <properties
+      key="TAM Application Id"
+      value="5.15.7"/>
+  <properties
+      key="Constructed Id"
+      value="5.15.7.312"/>
+</archimate:ApplicationFunction>

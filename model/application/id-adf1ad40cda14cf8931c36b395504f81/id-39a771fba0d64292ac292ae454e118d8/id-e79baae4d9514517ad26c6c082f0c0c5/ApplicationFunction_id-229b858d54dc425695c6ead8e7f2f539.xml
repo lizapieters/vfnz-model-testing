@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Billing Event Error Unbilled events categorization"
+    id="id-229b858d54dc425695c6ead8e7f2f539"
+    documentation="The ability to categorize unbilled events">
+  <properties
+      key="Function Identifier"
+      value="81"/>
+  <properties
+      key="TAM Application Name"
+      value="Billing Event Error Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.20.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.20.2.81"/>
+</archimate:ApplicationFunction>

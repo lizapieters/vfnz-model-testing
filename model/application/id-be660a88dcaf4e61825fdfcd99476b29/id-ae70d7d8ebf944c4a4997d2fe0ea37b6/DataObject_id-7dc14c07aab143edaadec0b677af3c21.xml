@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LogicalDeviceRoleSpec"
+    id="id-7dc14c07aab143edaadec0b677af3c21"
+    documentation="This is a concrete base class for all LogicalDeviceRoleSpecification subclasses. It exists to enable relationships to be defined between it and other classes in the model. This helps prevent relationship explosion. It is used to define the invariant attributes; methods; relationships; and constraints of various types of roles associated with LogicalDevices."/>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Partner Access Rights Determination"
+    id="id-e46992496e7e4008aab0925829588194"
+    documentation="The ability to determine if a partner may enter, view, modify, or otherwise proceed with a given task or point of entry, based on their authorization to proceed.">
+  <properties
+      key="TMF_ID"
+      value="1.1.9.5.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

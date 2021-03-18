@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Minimum Allowable Balance Setting"
+    id="id-ef2bb693f9b84fc9aa8d583f223fe0bd"
+    documentation="Record definition of policies per balance or balance type of Minimum Allowable Balance limit (e.g. balance must remain above zero).">
+  <properties
+      key="Function Identifier"
+      value="45"/>
+  <properties
+      key="TAM Application Name"
+      value="Balance Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.19.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.19.2.45"/>
+</archimate:ApplicationFunction>

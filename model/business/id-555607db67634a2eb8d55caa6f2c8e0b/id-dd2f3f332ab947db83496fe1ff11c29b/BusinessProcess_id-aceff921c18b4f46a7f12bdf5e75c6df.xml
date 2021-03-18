@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Warehousing"
+    id="id-aceff921c18b4f46a7f12bdf5e75c6df"
+    documentation="Manage all operational processes associated with the storage and distribution of purchased resources and consumable goods from the specific party.">
+  <properties
+      key="Process Identifier"
+      value="1.5.4.6.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="â€¢ Manage all operational processes associated with the storage and distribution of purchased resources and consumable goods from the other parties. â€¢ Determining the distribution path for individual resources and consumable goods. â€¢ Responsible for the internal operational processes associated with managing a warehouse including aspects such as yard management, dock management, pick management,"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

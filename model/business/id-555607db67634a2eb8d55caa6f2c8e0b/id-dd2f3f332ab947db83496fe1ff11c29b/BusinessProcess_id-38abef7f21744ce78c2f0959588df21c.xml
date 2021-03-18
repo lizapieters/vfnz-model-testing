@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Resource Performance Data"
+    id="id-38abef7f21744ce78c2f0959588df21c"
+    documentation="This process monitors and logs the received specific resource performance quality data, compares the received specific resource performance data to performance standards set for each specific resource (available from the Resource Inventory), detects performance threshold violations which represent specific resource failures due to abnormal performance, and detects performance degradation for specific resources which provide early warning of potential issues.  This process undertakes the role of first in detection by monitoring the received specific resource performance data;">
+  <properties
+      key="Process Identifier"
+      value="1.5.9.1.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProductBundleUsage"
+    id="id-7b5c77fec87d439b8b6646e98594fcd6"
+    documentation="A detailed product bundle usage event; It is comprised of other ProductUsage(s); that may be either ProductBundleUsage(s) or ProductComponentUsage(s)."/>

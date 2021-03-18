@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agreement Price Determination"
+    id="id-3473d6c3a66e44668a1dcefbb3545fdf"
+    documentation="The ability to formulate monetary or non-monetary amounts owed, resulting from the execution of an agreement.">
+  <properties
+      key="TMF_ID"
+      value="1.1.5.2.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

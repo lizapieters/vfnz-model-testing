@@ -1,0 +1,20 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Perform Regulatory &amp; Tax Accounting"
+    id="id-3fe01d1d10f149cdb3cc13eec4e3f829">
+  <properties
+      key="Process Identifier"
+      value="1.7.5.1.6"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Regulatory and Tax Accounting process encompasses all the activities associated with gathering, determining, and displaying data required by government entities. It includes the gathering of financial information, usage data, statistics, and ratios required to meet regulatory requirements. Additionally, it includes the computation and remittance of all required taxes. The key regulatory activities within the process include: Perform required regulatory journal entries and adjustments, Produce regulatory required reports, Participate in hearings and other government activities. Regulatory requirements and activities will vary by country. For example, in the United States, the following is required: Regulatory inter/intrastate separations, Regulatory/non regulatory separations, Cost of services studies, Local commission reporting, FCC reporting, Rate case preparation, Support for rate filings, Responses to regulator information requests. The key tax and accounting activities within the process include: Gather financial data, Gather property investment location records, Gather tax rates and tax basis rules, Compute national, local/city, and state/provincial tax liabilities, Remit taxes due."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

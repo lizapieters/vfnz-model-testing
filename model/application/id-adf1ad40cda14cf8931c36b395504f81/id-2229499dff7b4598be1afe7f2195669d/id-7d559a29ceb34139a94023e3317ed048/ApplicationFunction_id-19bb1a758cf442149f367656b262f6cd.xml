@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Catalog Management"
+    id="id-19bb1a758cf442149f367656b262f6cd"
+    documentation="Resource Catalog Management is a realization of the Cross domain Catalog Management application in the Resource Domain. The applications are repositories of resource listing within a service provider and include the ability to design, create, augment and map new entities and supporting data. The type of catalog management application is an implementation choice of the enterprise. Since resource catalogs usually contain a verity of resource types such as directory numbers, addresses, cables and network devices they would typicality be a standalone implementations covering the basic functionalities in Cross Domain, The layering relation between the service and resource catalog will be realized in the other Resource Lifecycle Applications.See: Cross Domain- Catalog Management for more information.">
+  <properties
+      key="TAM Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="7.17"/>
+  <properties
+      key="Frameworx Domain"
+      value="Resource Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

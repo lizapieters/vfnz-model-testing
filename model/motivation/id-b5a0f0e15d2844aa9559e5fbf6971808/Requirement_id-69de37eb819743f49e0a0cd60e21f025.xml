@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1455"
+    id="id-69de37eb819743f49e0a0cd60e21f025"
+    documentation="As a PO, I want to provide an onboarding journey the first time a customer engages with Vodafone Rewards through the mobile app, to ensure they know how to get around and make the most of rewards">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1455"/>
+  <properties
+      key="Status"
+      value="Potential gap"/>
+  <properties
+      key="Created by"
+      value="Gabrielle Paul"/>
+  <properties
+      key="Tribe"
+      value="Loyalty"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Marketing and Campaign Management"/>
+  <properties
+      key="Remarks"
+      value="[CLM] Onboarding to loyalty can be made a separate process, to be agreed during analysis Standard customer onboarding process?"/>
+  <properties
+      key="Module"
+      value="CLM, DS, SC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

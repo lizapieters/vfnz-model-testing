@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitor Actual Capacity Demand"
+    id="id-0d81286f65c640a7aec676849466d3b9"
+    documentation="Monitor available actual capacity demand and provide results to the Suggest Capacity Demand Adjustment process.">
+  <properties
+      key="Process Identifier"
+      value="1.8.2.5.2.2"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Monitor Actual Capacity Demand monitors actual capacity demand and provides results to the Suggest Capacity Demand Adjustment process. Monitoring includes analyzing actual capacity, what has been allocated to actual capacity demand, and actual capacity demand. It may result in identifying the need for an increase or decrease in actual capacity. It also looks at other sources, such as current resource infrastructure availability . For example if resource infrastructure availability decreases both capacity and capacity demand may have to be decreased, not only for resources, but also for product and service capacity and capacity demand that may be effected by the decrease in resource infrastructure availability. A prediction model based on different factors and input from other domains may be applied to master capacity monitoring."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

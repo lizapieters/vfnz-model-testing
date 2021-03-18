@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define Party Revenue Sharing Model"
+    id="id-80f487592f534ce5935d218f3534d285"
+    documentation="Define basic information about the party revenue sharing model, such as its validity period and version, parties and their involved offerings as well as how revenue is shared among an enterprise and the parties involved.">
+  <properties
+      key="Process Identifier"
+      value="1.6.18.1.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Define Party Revenue Sharing Model defines basic information about the model, such as its validity period and version, parties and their involved offerings as well as how revenue is shared among an enterprise and the parties involved. This process reuses the Product Offering Pricing processes to manage the lifecycle of the amounts of revenue shared . For example, an enterprise may charge 10 euros for an offering and share a flat 4 euros with another party, such as an application developer. The type of party revenue sharing model is defined by its related party revenue sharing model specification, such as flat rate and usage based revenue sharing. This process may add one or more other parties to an existing model. For example, an offering, such as a health monitoring service that includes a device, provided by a single party may be split into offerings provided by two parties, one providing the monitoring service and another providing the device."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

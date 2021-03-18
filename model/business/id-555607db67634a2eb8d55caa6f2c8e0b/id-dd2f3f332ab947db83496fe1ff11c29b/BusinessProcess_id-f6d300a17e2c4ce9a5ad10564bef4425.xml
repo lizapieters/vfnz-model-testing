@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Commissioning of New Resource Infrastructure"
+    id="id-f6d300a17e2c4ce9a5ad10564bef4425"
+    documentation="These processes manage the commissioning of the new resource infrastructure by ensuring the availability of test programs and specifications against which to test the new resource infrastructure meets the design requirements.">
+  <properties
+      key="Process Identifier"
+      value="1.5.2.6.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

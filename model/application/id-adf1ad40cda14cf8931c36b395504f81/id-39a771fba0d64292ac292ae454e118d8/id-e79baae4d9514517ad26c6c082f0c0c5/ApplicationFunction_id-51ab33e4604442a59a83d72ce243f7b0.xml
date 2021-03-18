@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transactional Document Template Resource Definition"
+    id="id-51ab33e4604442a59a83d72ce243f7b0"
+    documentation="Define and maintain resources (font, colors, images and language) for the template">
+  <properties
+      key="Function Identifier"
+      value="333"/>
+  <properties
+      key="TAM Application Name"
+      value="Transactional Document Formatter"/>
+  <properties
+      key="TAM Application Id"
+      value="5.2.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.2.1.333"/>
+</archimate:ApplicationFunction>

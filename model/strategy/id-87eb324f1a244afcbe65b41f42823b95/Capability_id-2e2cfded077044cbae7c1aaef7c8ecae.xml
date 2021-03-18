@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Corporate Tax"
+    id="id-2e2cfded077044cbae7c1aaef7c8ecae"
+    documentation="Corporate Tax applications provide the required functionality to calculate and submit tax filings for all service provider companies and affiliates.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.3.6"/>
+  <properties
+      key="TMF Function"
+      value="1099 Processing Corporate Tax function to Accounts Payable Integration Gross Receipt Tax calculation and filings Income Tax calculation and filings Network Asset Leasing calculation and filings Property Tax calculation and filings Sales &amp; Use Tax calculation and filings"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

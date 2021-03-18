@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Labor Relations"
+    id="id-f9f55915eb134b839b1bafd38d87fb31"
+    documentation="Labor Relations has the responsibility to bring together unionized labor, corporate goals and legal requirements to establish and execute labor agreements.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.2.12"/>
+  <properties
+      key="TMF Function"
+      value="Labor Relations Support"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Create billing accounts"
+    id="id-72a9f87c7c7b4a09bfa35e4219c4d497"
+    documentation="Billing Account Configuration Management provides the ability to create billing accounts based on various account constructs. Account creation can also be automated with orders received">
+  <properties
+      key="Function Identifier"
+      value="75"/>
+  <properties
+      key="TAM Application Name"
+      value="Billing Account Configuration Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.13.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.13.1.75"/>
+</archimate:ApplicationFunction>

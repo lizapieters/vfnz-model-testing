@@ -1,0 +1,30 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Home - Speed Boost - up to 1000MBS"
+    id="id-fafcead6d262426ca205475aa23a9b54"
+    documentation="12-10-2020 - Diane: Speed Boost up to 1000MBS on Wireless and Fibre">
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Segment"
+      value="Consumer"/>
+  <properties
+      key="Access/Service Type"
+      value="UFB/FWA/HFC"/>
+  <properties
+      key="Comarch can support"
+      value="Yes"/>
+  <properties
+      key="Non-Comarch IT support needed"
+      value="Yes"/>
+  <properties
+      key="NaaS will support"
+      value="Yes"/>
+  <properties
+      key="Automated non-NaaS support"
+      value="Yes"/>
+  <properties
+      key="Unexpected"
+      value="true"/>
+</archimate:BusinessService>

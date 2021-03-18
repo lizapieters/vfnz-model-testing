@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Specify Metric Definition Measure"
+    id="id-16098af4ea8e4f889b32b7d26bd79091"
+    documentation="Define the detailed methodology for measuring a Metric (especially calculation formulas).">
+  <properties
+      key="Process Identifier"
+      value="1.7.3.4.5.2.1"/>
+  <properties
+      key="Category"
+      value="(6) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Metric Definition Measure Specification specifies details for measuring a Metric: prose-style and spreadsheet-style calculation formulas and equations (possibly including other Metrics), raw data sources, raw data capture methods (including APIs), measurement units."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

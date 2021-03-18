@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Modify Party Order"
+    id="id-a1c84db9c1ff482aa76935008b0ed813"
+    documentation="Modify information in an existing party order based on feedback of progress from the party.">
+  <properties
+      key="Process Identifier"
+      value="1.6.8.3.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

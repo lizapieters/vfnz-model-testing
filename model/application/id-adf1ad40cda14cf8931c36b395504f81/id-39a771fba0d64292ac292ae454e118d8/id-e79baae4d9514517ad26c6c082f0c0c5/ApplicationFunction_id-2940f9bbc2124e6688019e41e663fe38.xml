@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Offer and Product Configuration"
+    id="id-2940f9bbc2124e6688019e41e663fe38"
+    documentation="The Offer and Product Configuration function enables the configuration of the commercial offer chosen by the customer. &#xA;&#xA;The configuration recovers the choice of an option, the choice of the functions values ...&#xA;&#xA;It can be based on product configurator using a rule engine.&#xA;&#xA;It can be used at the same time by Selling, Order Establishment or Develop Sales Proposal Business activities.">
+  <properties
+      key="Function Identifier"
+      value="207"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Order Establishment"/>
+  <properties
+      key="TAM Application Id"
+      value="5.3.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.3.1.207"/>
+</archimate:ApplicationFunction>

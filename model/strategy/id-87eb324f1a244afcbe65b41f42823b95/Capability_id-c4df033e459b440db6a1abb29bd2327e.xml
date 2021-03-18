@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Corporate Security"
+    id="id-c4df033e459b440db6a1abb29bd2327e"
+    documentation="Corporate security identifies and effectively mitigates or manages, at an early stage, any developments that may threaten the resilience and continued survival of a corporation. It is a corporate function that oversees and manages the close coordination of all functions within the company that are concerned with security, continuity and safety. (Source Wikipedia)">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.5.1"/>
+  <properties
+      key="TMF Function"
+      value="0"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

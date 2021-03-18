@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0796"
+    id="id-2ec632d189244638b218797e7a22b102"
+    documentation="As a Direct Cost Specialist - We want the CDR to have both NZT and GMT timestamp, so we can easily match with international partner’s CDR, and track and trace at our network. Source EDW">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0796"/>
+  <properties
+      key="Status"
+      value="Duplicate"/>
+  <properties
+      key="Created by"
+      value="Catherine McMurtrie"/>
+  <properties
+      key="Tribe"
+      value="Finance / Direct Costs"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Finance"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Reporting"/>
+  <properties
+      key="Remarks"
+      value="Looks like a requirement for IPB KH: agree, been handed to IPB Moved to seperate excel for IPB"/>
+  <properties
+      key="Module"
+      value="IPB"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

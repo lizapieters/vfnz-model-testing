@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Create Party Bill Inquiry"
+    id="id-8e44e475c74c45b6a226685259a12d61"
+    documentation="Create a bill inquiry as a result of a specific party initiated bill inquiry or complaint.">
+  <properties
+      key="Process Identifier"
+      value="1.6.20.1.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Review Major Service Problem"
+    id="id-989e7b333fb34a56a187d5b18ce3b2d3"
+    documentation="To review the resolution of service problems that have been categorized as major impact, in order to prevent recurrence and learn lessons for the future.">
+  <properties
+      key="Process Identifier"
+      value="1.4.6.3.5"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="To review the resolution of service problems that have been categorized as major impact, in order to prevent recurrence and learn lessons for the future."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

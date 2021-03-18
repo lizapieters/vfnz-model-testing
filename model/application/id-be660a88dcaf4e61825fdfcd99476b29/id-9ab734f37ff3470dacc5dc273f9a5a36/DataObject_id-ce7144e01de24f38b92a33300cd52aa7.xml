@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GeographicAddress"
+    id="id-ce7144e01de24f38b92a33300cd52aa7"
+    documentation="A structured textual way of describing how to find a Geographic Location. It is usually composed of an ordered list of Geographic Location names based on context specific rulesIt is an abstract modeling concept that provides a linking point to other parts of the SID model.It holds attributes common to all Geographic Address subclasses."/>

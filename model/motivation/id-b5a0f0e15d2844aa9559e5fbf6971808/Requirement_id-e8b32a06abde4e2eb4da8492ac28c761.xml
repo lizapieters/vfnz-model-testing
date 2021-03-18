@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0423"
+    id="id-e8b32a06abde4e2eb4da8492ac28c761"
+    documentation="As a BSS Solution, I need to be able to show applicable prices in NZD for product SKU's, so that customers can be given transparent pricing">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0423"/>
+  <properties
+      key="Status"
+      value="Parked for workshop"/>
+  <properties
+      key="Created by"
+      value="Jared Mortlock"/>
+  <properties
+      key="Tribe"
+      value="Business"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="y"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="0"/>
+  <properties
+      key="Remarks"
+      value="OOTB, just to clarify we assume that SKU should be stored for integration purpose in PC and in PC we should store original prices Naked price vs discounts should be discussed during product catalogue session."/>
+  <properties
+      key="Module"
+      value="PC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

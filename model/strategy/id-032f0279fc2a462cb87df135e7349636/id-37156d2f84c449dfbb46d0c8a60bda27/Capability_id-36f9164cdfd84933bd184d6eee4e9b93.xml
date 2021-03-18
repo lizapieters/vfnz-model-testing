@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Network Lifecycle Management"
+    id="id-36f9164cdfd84933bd184d6eee4e9b93"
+    documentation="The ability to make decisions concerning a network over time, between the time it is created until it is destroyed or removed.">
+  <properties
+      key="TMF_ID"
+      value="1.1.7.3"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

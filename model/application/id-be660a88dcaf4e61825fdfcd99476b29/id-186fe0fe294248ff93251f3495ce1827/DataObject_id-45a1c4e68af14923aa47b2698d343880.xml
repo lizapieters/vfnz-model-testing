@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DunningWriteOff"
+    id="id-45a1c4e68af14923aa47b2698d343880"
+    documentation="A PartyAccount may be written off for two main reasons: Â Â Â Â Â  â€¢ When the dunning procedures failed to recover the debt; the bad debt must be written off and reported as such to the General Ledger Â Â Â Â Â  â€¢ When a contract terminates with a â€œminimalâ€� credit or debit balance (smaller than a threshold reflecting the cost of the collection process). The DunningWriteOff corresponds; in a dunning context; to a credit to definitively balance the PartyAccount before being able to close it."/>

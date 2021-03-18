@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financial Account/Business Entity Matching"
+    id="id-0f626a1f0dc1466d9686049045d935ea"
+    documentation="The ability to associate a financial account with a business entity.">
+  <properties
+      key="TMF_ID"
+      value="1.3.6.2.6.5"/>
+  <properties
+      key="Level"
+      value="4"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

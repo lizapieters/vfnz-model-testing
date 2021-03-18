@@ -1,0 +1,48 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Billing and Revenue Management - (BS)"
+    id="f85c7154-f9ff-40aa-9590-69553bcaa213"
+    documentation="Comarch Billing System (Administrative application) is one of the module that will be delivered as part of BSS Solution for Vodafone New Zealand.&#xA;Billing System Application allows to:&#xA;&#x9;manage billing configuration like taxation, accounting or charging rules, &#xA;&#x9;view customer detailed information (e.g. related customer accounts, products, charges, invoices) – including historical data like terminated products and database transaction information that allows to see who and when has created/modified particular entity&#xA;&#x9;run and manage various processes related to charging, invoicing or anonymization.">
+  <properties
+      key="stereotype"
+      value="application_provider"/>
+  <properties
+      key="osv:system_content_visibility"
+      value="everyone:essential_baseline_6.5.4_Class68"/>
+  <properties
+      key="osv:system_content_lifecycle_status"
+      value="approved:essential_baseline_6.5.4_Class67"/>
+  <properties
+      key="supertype"
+      value="Application_Provider_Type,Application_Logical,Application_Layer,EA_Class"/>
+  <properties
+      key="isEssential"
+      value="true"/>
+  <properties
+      key="osv:deployments_of_application_provider"
+      value="+realization-relationship,in,artifact,application_deployment"/>
+  <properties
+      key="osv:static_app_provider_arch_display_label"
+      value="$name"/>
+  <properties
+      key="osv:static_usage_of_app_provider"
+      value="$id"/>
+  <properties
+      key="osv:description"
+      value="$documentation"/>
+  <properties
+      key="osv:ap_delivery_model"
+      value="private_cloud:essential_baseline_v505_Class23"/>
+  <properties
+      key="osv:ap_codebase_status"
+      value="customised_package:essential_prj_AA_v1.3_Instance_50"/>
+  <properties
+      key="osv:application_provider_purpose"
+      value="business_application:essential_prj_CC_v1.4.2_Instance_670003"/>
+  <properties
+      key="osv:lifecycle_status_application_provider"
+      value="under_planning:essential_prj_AA_v1.4_Instance_10068"/>
+  <properties
+      key="osv:contained_application_providers"
+      value="+composition-relationship,out,application-component,application_provider"/>
+</archimate:ApplicationComponent>

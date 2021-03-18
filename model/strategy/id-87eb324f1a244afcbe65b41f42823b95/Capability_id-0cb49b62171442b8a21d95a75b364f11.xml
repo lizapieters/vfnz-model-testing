@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Quality Model Establishment"
+    id="id-0cb49b62171442b8a21d95a75b364f11"
+    documentation="Service Quality Model Establishment applications provide the necessary functionality to establish what will be monitored and how it will be monitored in terms of service quality.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="6.9.1"/>
+  <properties
+      key="TMF Function"
+      value="Quality Data Sources Establishment Quality Indicator Establishment Service Quality Model Definition"/>
+  <properties
+      key="TMF Maturity"
+      value="Service Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

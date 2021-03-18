@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Employee Identification Management"
+    id="id-007c4739629447939eb0566e79374f2b"
+    documentation="Securing the employees to have a correct identification with the right authorities to be used in the overall Corporate security.">
+  <properties
+      key="TAM Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="9.5.1.1"/>
+  <properties
+      key="Frameworx Domain"
+      value="Enterprise Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

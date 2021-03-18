@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Lifecycle Management"
+    id="id-6455391c16304895a6f0ffd2e944fbd5"
+    documentation="Lifecycle management is fundamentally responsible for adding, churning and removing network and IT capacity. Where capacity is added, it is made available to subsequent Utilization, Quality and Accounting management.&#xA;&#xA;Lifecycle management provides support for both Operational and Strategy, Infrastructure and Product wings of Business Process Framework.&#xA;&#xA;Eight specialist resource development and management applications are proposed here, in order to their normal sequencing.&#xA;&#xA;1.     Strategic Planning&#xA;2.     Capability Specification&#xA;3.     Tactical Planning&#xA;4.     Resource Specification&#xA;5.     Implementation Planning&#xA;6.     Planning Design Automation&#xA;7.     Spares &amp; Warehouse Inventory&#xA;8.     Resource Commissioning &amp; Configuration&#xA;&#xA;These represent distinct, real world planning functions and may consist of sub-functions. They apply to all network engineering for fixed, mobile and cable and IT applications. The term �networked resource� is used for the totality of applications and network used to deliver the applications to consumers over any form of network media.">
+  <properties
+      key="TAM Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="7.1"/>
+  <properties
+      key="Frameworx Domain"
+      value="Resource Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agreement History Management"
+    id="id-88f71965f4fa4f29a4e9a0b24b018099"
+    documentation="The ability to define, update, delete/archive and otherwise manage agreement history">
+  <properties
+      key="TMF_ID"
+      value="1.1.5.10.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

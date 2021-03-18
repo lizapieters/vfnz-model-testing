@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Case workflow orchestration capability"
+    id="id-9d3677419a594acbab31a87312f1ad4f"
+    documentation="Case Workflow orchestration capability for the Case Management area.">
+  <properties
+      key="Function Identifier"
+      value="111"/>
+  <properties
+      key="TAM Application Name"
+      value="Case Workflow"/>
+  <properties
+      key="TAM Application Id"
+      value="5.17.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.17.2.111"/>
+</archimate:ApplicationFunction>

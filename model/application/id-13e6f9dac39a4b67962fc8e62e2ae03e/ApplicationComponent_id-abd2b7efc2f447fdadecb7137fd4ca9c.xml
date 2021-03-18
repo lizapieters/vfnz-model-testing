@@ -1,0 +1,39 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IRIS"
+    id="id-abd2b7efc2f447fdadecb7137fd4ca9c"
+    documentation="IrisView; Netscout">
+  <properties
+      key="StatusForLookUp"
+      value="Active"/>
+  <properties
+      key="Owner"
+      value="AndrewH"/>
+  <properties
+      key="Level of Service"
+      value="Business Standard"/>
+  <properties
+      key="Product / Service"
+      value="Common"/>
+  <properties
+      key="Segment"
+      value="Common"/>
+  <properties
+      key="DX Association"
+      value="Integrate"/>
+  <properties
+      key="Existing Retained or Replaced"
+      value="Retained"/>
+  <properties
+      key="Legacy BSS Stack Served"
+      value="Common"/>
+  <properties
+      key="TAM App ID"
+      value="7.10.2"/>
+  <properties
+      key="TAM Domain"
+      value="Resource Domain"/>
+  <properties
+      key="TAM Application"
+      value="Fault Correlation &amp;amp; Root Cause Analysis"/>
+</archimate:ApplicationComponent>

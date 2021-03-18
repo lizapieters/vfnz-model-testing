@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Message/Legal Proceeding Matching"
+    id="id-76592d704e4c4a398a41103677d54121"
+    documentation="The ability to associate a message with a legal proceeding.">
+  <properties
+      key="TMF_ID"
+      value="1.2.1.6.22"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

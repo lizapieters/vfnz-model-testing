@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PKI and Digital Certificates Support"
+    id="id-6cc51147cde44ec29e7106564e16cc4b"
+    documentation="Integration to Public Key Infrastructure Systems that provides digital certificates, and the support to use public keys and digital certificates.">
+  <properties
+      key="Function Identifier"
+      value="906"/>
+  <properties
+      key="TAM Application Name"
+      value="PKI and Digital Certificates"/>
+  <properties
+      key="TAM Application Id"
+      value="9.5.6"/>
+  <properties
+      key="Constructed Id"
+      value="9.5.6.906"/>
+</archimate:ApplicationFunction>

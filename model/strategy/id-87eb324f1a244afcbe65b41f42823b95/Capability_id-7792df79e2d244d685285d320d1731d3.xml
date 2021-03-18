@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Termination Points Determination"
+    id="id-7792df79e2d244d685285d320d1731d3"
+    documentation="Service Termination Points Determination applications determine the appropriate service provider entry point.">
+  <properties
+      key="TMF Category"
+      value="(4) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="6.3.9.3.3"/>
+  <properties
+      key="TMF Function"
+      value="Service Termination Points Determination"/>
+  <properties
+      key="TMF Maturity"
+      value="Service Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

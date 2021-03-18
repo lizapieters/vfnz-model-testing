@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Close Revenue Assurance Trouble Report"
+    id="id-65823eafd48a4730920cefb932c32f52"
+    documentation="Close a revenue assurance trouble report when the issues leading to the revenue leakage have been resolved.">
+  <properties
+      key="Process Identifier"
+      value="1.7.2.6.2.7"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of the Close Revenue Assurance Trouble Report processes is to close a revenue assurance trouble report when the issues leading to the revenue leakage have been resolved. These processes monitor the status of all open revenue assurance trouble reports, and recognize that a revenue assurance trouble report is ready to be closed when the status is changed to cleared."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

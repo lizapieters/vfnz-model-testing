@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Perform Data Import"
+    id="id-3b4052e1dff344ec8a9b730f6da173bc"
+    documentation="Perform Data Import process aims to provide the capability to import data from various sources.">
+  <properties
+      key="Process Identifier"
+      value="1.7.8.1.1.2"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="â€œPerform Data Importâ€� process provides capability to continuously import data from variety of sources by using the informationâ€™s of data sources and integrating with them. It provides seamless import of data from offline and online sources including the various formats like text files, XML files etc. Apart from this, the â€œPerform Data Importâ€� process should be able to meet inherent nature of big data by handling volume, velocity and variety of the data coming into the platform."/>
+  <properties
+      key="Maturity Level"
+      value="2"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

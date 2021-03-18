@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Operations Portal"
+    id="id-fc7ad42f0be6404d931c716b0156c2ea"
+    documentation="The Operations Portal encompasses Portal Infrastructure for internal / center use into which functional components are plugged. The Framework provides the �foundation� for the development of agent-facing functionality.">
+  <properties
+      key="TMF Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.22.1.1"/>
+  <properties
+      key="TMF Function"
+      value="Support Portal Server"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

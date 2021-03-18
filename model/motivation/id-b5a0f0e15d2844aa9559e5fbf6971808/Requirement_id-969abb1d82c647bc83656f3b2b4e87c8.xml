@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0955"
+    id="id-969abb1d82c647bc83656f3b2b4e87c8"
+    documentation="As a Payments specialist, I want the ability to apply payments in bulk to either one or many accounts so that payments are allocated correctly and suspense account reduces">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0955"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Rochelle Hedley"/>
+  <properties
+      key="Tribe"
+      value="Finance &amp; Business / AR Payments"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Pay"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="AR/Payments"/>
+  <properties
+      key="Remarks"
+      value="Requirement clear. Spliting rules to be provided. There is possibility that employee will have to pay for spefic services. Sample: Company pays for main subscription (call, data, roaming) and employee pays for add-ons like Netflix. Comarch has to match payment to proper service."/>
+  <properties
+      key="Module"
+      value="BS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

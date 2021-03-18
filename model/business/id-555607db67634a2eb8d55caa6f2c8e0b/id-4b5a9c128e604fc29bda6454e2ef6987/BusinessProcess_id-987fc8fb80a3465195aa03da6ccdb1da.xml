@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Notify Party"
+    id="id-987fc8fb80a3465195aa03da6ccdb1da"
+    documentation="Notify the Party when interesting events related to an ongoing interaction is happening.">
+  <properties
+      key="Process Identifier"
+      value="1.6.9.2"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The purpose of this process is to notify the Party when events related to existing interactions or to significant Party experience happen. Some notifications can be sent immediately using interactive media( such as SMS, Push to applications, etc.) and other notifications can be sent later using asynchronous media such as mail."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

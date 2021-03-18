@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mediate Party Billing Event"
+    id="id-337d47910e6e453ea3a5afdc8fbbaa11"
+    documentation="Edit and reformat a party billing event for recipient processes.">
+  <properties
+      key="Process Identifier"
+      value="1.6.19.3"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Mediate Party Billing Event edits and reformats a party billing event to meet the needs of other processes."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

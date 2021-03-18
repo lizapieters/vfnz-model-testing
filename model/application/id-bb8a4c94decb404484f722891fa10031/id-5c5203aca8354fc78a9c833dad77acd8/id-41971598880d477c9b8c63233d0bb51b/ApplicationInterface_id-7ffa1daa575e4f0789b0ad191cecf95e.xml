@@ -1,0 +1,39 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DXINT008: Address Checker"
+    id="id-7ffa1daa575e4f0789b0ad191cecf95e"
+    documentation="CRM will send address for validation / matching and display list of results during address entry. Pre-qualification checks (availability checks), new customer creation. Postal address.&#xA;preferably TMF OpenAPI 673 / 674 / 675">
+  <properties
+      key="Stereotype"
+      value="abstract_interface"/>
+  <properties
+      key="Southbound Required"
+      value="Y"/>
+  <properties
+      key="Importance"
+      value="1"/>
+  <properties
+      key="Area"
+      value="BSS"/>
+  <properties
+      key="Interface Type"
+      value="Core"/>
+  <properties
+      key="Pattern"
+      value="REST/Event/Batch/Analytics"/>
+  <properties
+      key="FWA"
+      value="Y"/>
+  <properties
+      key="Mobile"
+      value="Y"/>
+  <properties
+      key="Broadband"
+      value="Y"/>
+  <properties
+      key="Common"
+      value="Y"/>
+  <properties
+      key="Unexpected"
+      value="true"/>
+</archimate:ApplicationInterface>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Governance"
+    id="id-3e2e06ebc28846c1a39b5194f9823d30"
+    documentation="Data Governance provides polices, strageties and processes to oversee/handle data across the enterprise. It includes define DG strategy &amp; DG  maturity assessment, define DG organization, define DG policy &amp; process, design DG solution, define DG measurement &amp; monitoring method, measure results and improve.">
+  <properties
+      key="Process Identifier"
+      value="1.7.8.4"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Data Governance is a control that ensures that the data within the enterprise meets precise standards and regulations, such as a business rule, a data definition and data integrity constraints in the data model etc. Data governance is used by organizations to exercise control over processes and methods used by their data stewards and data custodians in order to meet the desired standard of data within the enterprise."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

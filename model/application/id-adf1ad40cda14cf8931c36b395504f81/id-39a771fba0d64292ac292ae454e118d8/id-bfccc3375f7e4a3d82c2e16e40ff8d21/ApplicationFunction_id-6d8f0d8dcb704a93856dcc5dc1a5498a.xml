@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Instantiation and Lifecycle management support"
+    id="id-6d8f0d8dcb704a93856dcc5dc1a5498a"
+    documentation="Service Instantiation and Lifecycle management support: Software based Services� performance and availability may be controlled by managing multiple instances of the service. The �Service Instantiation and Lifecycle management support� function will control the starting of new instances and closing of instances of a service.">
+  <properties
+      key="Function Identifier"
+      value="965"/>
+  <properties
+      key="TAM Application Name"
+      value="Service Capability Orchestration"/>
+  <properties
+      key="TAM Application Id"
+      value="6.11"/>
+  <properties
+      key="Constructed Id"
+      value="6.11.965"/>
+</archimate:ApplicationFunction>

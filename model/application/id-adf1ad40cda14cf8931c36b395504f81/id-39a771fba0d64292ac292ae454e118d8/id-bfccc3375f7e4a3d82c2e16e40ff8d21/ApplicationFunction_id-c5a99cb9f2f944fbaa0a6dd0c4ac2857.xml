@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Assurance Deviation Monitoring"
+    id="id-c5a99cb9f2f944fbaa0a6dd0c4ac2857"
+    documentation="Service Assurance Deviation Monitoring analyzes the monitoring information to identify deviations from set values for performance and quality indicators. Service availability deviations are also detected.">
+  <properties
+      key="Function Identifier"
+      value="978"/>
+  <properties
+      key="TAM Application Name"
+      value="Service Assurance Control"/>
+  <properties
+      key="TAM Application Id"
+      value="6.10"/>
+  <properties
+      key="Constructed Id"
+      value="6.10.978"/>
+</archimate:ApplicationFunction>

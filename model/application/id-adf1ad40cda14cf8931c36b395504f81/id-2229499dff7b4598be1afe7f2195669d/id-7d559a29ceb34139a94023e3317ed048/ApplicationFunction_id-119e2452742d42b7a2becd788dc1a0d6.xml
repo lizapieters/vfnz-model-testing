@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Billing Events Management"
+    id="id-119e2452742d42b7a2becd788dc1a0d6"
+    documentation="Billing Event Management encompasses Billing Event Processing and Billing Event Error Management. &#xA;Billing Event Processing provides the functions necessary to collect events that are relevant for billing processes, relate them to the proper product offering or customer account, and direct the events to the appropriate billing sub-functions. Billing events include:&#xA;� Events that indicate the need for periodic billing of a recurring product charge(from customer orders).&#xA;� Records that indicate the need for billing of a non-recurring charge (from customer orders).&#xA;� Records produced by network elements (from usage management). Usage Management will collect and distribute the network records that will be used in the Billing processes to Billing Event Management.&#xA;&#xA;Billing Event Error Management functions are a complex set of activities related to &#xA;automating the processes of correcting errors in billing events. This often includes the capability to apply mass corrections.">
+  <properties
+      key="TAM Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="5.20"/>
+  <properties
+      key="Frameworx Domain"
+      value="Customer Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

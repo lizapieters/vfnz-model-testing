@@ -1,0 +1,39 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DXINT004: CPE (Customer Devices) Inventory"
+    id="id-4a82d46b29314a6d875610b3779fb553"
+    documentation="The name of the system is not known yet. This is for eShop to check stock level(s) for smartphones, accessories.">
+  <properties
+      key="Stereotype"
+      value="abstract_interface"/>
+  <properties
+      key="Southbound Required"
+      value="Y"/>
+  <properties
+      key="Importance"
+      value="1"/>
+  <properties
+      key="Area"
+      value="BSS"/>
+  <properties
+      key="Interface Type"
+      value="Core"/>
+  <properties
+      key="Pattern"
+      value="REST/Event"/>
+  <properties
+      key="FWA"
+      value="Y"/>
+  <properties
+      key="Mobile"
+      value="Y"/>
+  <properties
+      key="Broadband"
+      value="Y"/>
+  <properties
+      key="Common"
+      value="Y"/>
+  <properties
+      key="Unexpected"
+      value="true"/>
+</archimate:ApplicationInterface>

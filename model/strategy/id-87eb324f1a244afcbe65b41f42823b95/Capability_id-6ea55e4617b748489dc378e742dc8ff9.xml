@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Retail Outlets"
+    id="id-6ea55e4617b748489dc378e742dc8ff9"
+    documentation="One of the primary sales channels for Wireless Communication Service Providers is the provider�s own retail stores. Currently, other communications sectors rely less on this channel due to the fact that non-Wireless services typically need to be physically installed on the customer�s premises, whereas in wireless communications the customer typically gets services instantly at the retail store/point of sale. Non-wireless services providers may use retail outlets as a means to complete an order (e.g., for customers that want to pick up a DSL modem from a retail outlet to complete their order in order to avoid payment of shipping costs).Retail stores are considered an extension of the call center in the sense that existing customers may walk in and ask for assistance in customer service issues (e.g., billing, how to operate their handset, etc.). In other words, Retail Stores are not only used as Point of Sale but also used as Point of Service.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="3.4.3"/>
+  <properties
+      key="TMF Function"
+      value="Points of Sales Management Retail Integration Retail Outlet Billing Retail Outlet Contact and retention management Retail Outlet Customer information management Retail Outlet Order capture and negotiation Retail Outlet Problem resolution"/>
+  <properties
+      key="TMF Maturity"
+      value="Market_Sales Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Handle Usage Records Relay , Non usage Records &amp; Dispute Handling"
+    id="id-cee6772a46f64a259bf4ca93e5429658"
+    documentation="Process which makes raw and consolidated raw records available to partners and internal use.">
+  <properties
+      key="Process Identifier"
+      value="1.6.15.4.4"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Process which makes raw and consolidated raw records available to MVNO for reporting, analysis, billing, invoicing &amp; assurance purposes."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

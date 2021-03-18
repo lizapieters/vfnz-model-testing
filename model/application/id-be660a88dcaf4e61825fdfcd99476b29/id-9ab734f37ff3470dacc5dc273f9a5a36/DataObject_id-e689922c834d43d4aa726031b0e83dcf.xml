@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SCRUM Team"
+    id="id-e689922c834d43d4aa726031b0e83dcf"
+    documentation="SCRUM Team is a party role consisting of a number of ProjectConstructors and lead by a SCRUM ScrumMaster. The SCRUM Team sizes and commits to SCRUM BacklogItems to be processed in a SCRUM Sprint at the sprint planning meeting and presents the outcome a SCRUM WorkingIncrement to the ProjectCustomer at the sprint review meeting. A SCRUM Team is internally self organizing in breaking down SCRUM BacklogItems into SCRUM Tasks and allocating them to ProjectConstructors while being led by a SCRUM ScrumMaster for external issues such as inter-SCRUM Team communication or resolving of SCRUM Impediments. The SCRUM ScrumMaster is controlled by the SCRUM Team. Dosumentation of the progress of work is the duty of the SCRUM Team. Therefore the SCRUM Team tracks its SCRUM Tasks and backlog item burndown visible to the SCRUM ProductOwner."/>

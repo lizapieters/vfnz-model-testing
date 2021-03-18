@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Problem Management"
+    id="id-b2a9327094bd44748ede896fbe310bb6"
+    documentation="Service Problem Management applications are responsible for receiving service affecting customer problems as well as network troubles/faults, relating the various problems, and resolving them in an efficient manner. The present operational status is made available as notifications for immediate action in case of significant operational deviation.">
+  <properties
+      key="TMF Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="6.5"/>
+  <properties
+      key="TMF Function"
+      value="0"/>
+  <properties
+      key="TMF Maturity"
+      value="Service Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

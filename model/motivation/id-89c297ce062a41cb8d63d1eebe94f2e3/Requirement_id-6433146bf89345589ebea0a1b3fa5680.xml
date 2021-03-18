@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0305"
+    id="id-6433146bf89345589ebea0a1b3fa5680"
+    documentation="As a marketer, I want customers who own multiple products to specify a primary mobile contact number as part of the signup journey, so that I can ensure we can communicate to them via call or sms.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0305"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Diane Watson"/>
+  <properties
+      key="Tribe"
+      value="Consumer Home"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="prio2"/>
+  <properties
+      key="Base"
+      value="1?"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Account creation"/>
+  <properties
+      key="Remarks"
+      value="Mobile contact number is not stored on product level in Comarch. So should not be an issue at all. If needed, we could also register multiple and mark one as primary."/>
+  <properties
+      key="Module"
+      value="DS, SC, PIM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

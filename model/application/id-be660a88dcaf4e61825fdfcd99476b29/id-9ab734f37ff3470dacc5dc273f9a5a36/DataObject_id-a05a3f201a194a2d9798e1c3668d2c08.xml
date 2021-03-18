@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicyServer"
+    id="id-a05a3f201a194a2d9798e1c3668d2c08"
+    documentation="A PolicyServer is a fundamental building block of a policy-based management system. It represents both a set of core functionality for implementing policy as well as a unit of distribution in a distributed implementation. With respect to functionality; a PolicyServer is an entity that is either manufactured or is constructed by integrating the functionality of different PDPs; PXPs; PEPs; and other applications. These other applications provide the logic to manage and control the set of PDPs; PXPs; and PEPs that constitute a PolicyServer. For example; conflict detection and resolution need to be applied. Therefore; a PolicyServer is in reality an intelligent container that contains its own management logic that is supplemented by the functionality of the PEP; PXP; and PDP applications. It usually corresponds to a single PolicyDomain. While this is not strictly necessary; doing otherwise greatly complicates the resulting management logic."/>

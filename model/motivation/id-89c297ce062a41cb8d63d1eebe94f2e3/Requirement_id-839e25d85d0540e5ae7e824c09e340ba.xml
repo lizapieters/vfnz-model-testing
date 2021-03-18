@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0479"
+    id="id-839e25d85d0540e5ae7e824c09e340ba"
+    documentation="As a product manager, I want to be able to have a tag/flag against customer accounts who are or have medically dependent or vulnerable users in their household, so that I can easily report on these customers.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0479"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Diane Watson"/>
+  <properties
+      key="Tribe"
+      value="Consumer Home"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="prio2"/>
+  <properties
+      key="Base"
+      value="1?"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Setup"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Customer tagging"/>
+  <properties
+      key="Remarks"
+      value="3 flags to be added for customer account def. The flags may impact other places in the system. Handled by the Vodafone staff. The request to register such an order should be made by the Customer himself (by filling special a form)."/>
+  <properties
+      key="Module"
+      value="CRM, DS, SC, PIM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

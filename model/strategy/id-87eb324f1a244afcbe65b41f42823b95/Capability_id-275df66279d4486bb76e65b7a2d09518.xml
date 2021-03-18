@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RA Reporting"
+    id="id-275df66279d4486bb76e65b7a2d09518"
+    documentation="RA Reporting provides the necessary functionality to report on the status of revenue assurance activities and provide management reports.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.1.6"/>
+  <properties
+      key="TMF Function"
+      value="RA Reporting"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

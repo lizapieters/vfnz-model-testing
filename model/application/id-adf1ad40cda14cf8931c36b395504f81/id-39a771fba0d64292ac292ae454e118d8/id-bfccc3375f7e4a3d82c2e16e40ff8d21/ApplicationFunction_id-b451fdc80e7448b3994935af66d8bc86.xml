@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Determine Delivery Interval"
+    id="id-b451fdc80e7448b3994935af66d8bc86"
+    documentation="The Determine Delivery Interval functions calculates the service delivery due date using network capacity, access provider selection and work center intelligence (including workload and capacity).">
+  <properties
+      key="Function Identifier"
+      value="571"/>
+  <properties
+      key="TAM Application Name"
+      value="Determine Delivery Interval"/>
+  <properties
+      key="TAM Application Id"
+      value="6.3.9.3.5"/>
+  <properties
+      key="Constructed Id"
+      value="6.3.9.3.5.571"/>
+</archimate:ApplicationFunction>

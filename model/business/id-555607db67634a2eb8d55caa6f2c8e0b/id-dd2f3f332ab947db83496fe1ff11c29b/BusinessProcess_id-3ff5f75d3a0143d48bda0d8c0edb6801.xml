@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Create Party Interaction Log"
+    id="id-3ff5f75d3a0143d48bda0d8c0edb6801"
+    documentation="Create a record that logs the Party interaction.">
+  <properties
+      key="Process Identifier"
+      value="1.6.9.1.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The purpose of this process is to create a record that logs the Party interaction. The Party interaction can be initiated by the Party or by the enterprise."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

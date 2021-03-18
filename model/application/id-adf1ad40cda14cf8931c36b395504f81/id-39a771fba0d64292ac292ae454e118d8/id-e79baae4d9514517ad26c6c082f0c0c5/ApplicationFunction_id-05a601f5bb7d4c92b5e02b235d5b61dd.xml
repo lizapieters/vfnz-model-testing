@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Modify billing accounts"
+    id="id-05a601f5bb7d4c92b5e02b235d5b61dd"
+    documentation="Modify billing accounts based on various account constructs.">
+  <properties
+      key="Function Identifier"
+      value="76"/>
+  <properties
+      key="TAM Application Name"
+      value="Billing Account Configuration Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.13.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.13.1.76"/>
+</archimate:ApplicationFunction>

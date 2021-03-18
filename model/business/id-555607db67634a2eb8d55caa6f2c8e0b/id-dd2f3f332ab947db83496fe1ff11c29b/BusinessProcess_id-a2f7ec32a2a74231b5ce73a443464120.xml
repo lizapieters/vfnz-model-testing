@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evaluate Loyalty Program"
+    id="id-a2f7ec32a2a74231b5ce73a443464120"
+    documentation="Analyze the performance of an existing loyalty program to identify inadequacies and required improvements.">
+  <properties
+      key="Process Identifier"
+      value="1.1.19.1.7"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Evaluate Loyalty Program Assess analyzes the performance of an existing loyalty program to identify inadequacies and required improvements. The process uses information from loyalty program participants, defined program Key Quality/Performance Indicators, and feedback from operational activities to identify required improvements."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Record Additional Sales Lead Information"
+    id="id-d1b5028a5b2a40c2b9a20e99a6383e2f"
+    documentation="Record more party information about  a sales lead, such as offerings that are of interest.">
+  <properties
+      key="Process Identifier"
+      value="1.1.11.1.2.3"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Record Additional Sales Lead Information records more party information about the sales lead, such as offerings that are of interest based on the interaction with the lead. If a marketing communication included product offering information this process may also confirm interest in it and/or record additional offerings for which the sales lead is interested."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

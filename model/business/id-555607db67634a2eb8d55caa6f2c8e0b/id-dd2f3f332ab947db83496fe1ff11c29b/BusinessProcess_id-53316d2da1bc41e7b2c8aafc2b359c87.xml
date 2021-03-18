@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop New Product Specification Business Proposal"
+    id="id-53316d2da1bc41e7b2c8aafc2b359c87"
+    documentation="Develop and document business proposals for the identified new product specification concept.">
+  <properties
+      key="Process Identifier"
+      value="1.2.7.1.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Develop New Product Specification Business Proposal develops and documents business proposals for the identified new product specification concept (including if necessary a business case). The business proposal (or business case) identifies the new product specification requirements, including the specific service specifications and resource specifications used to realize the product specification. The business proposal also identifies the development costs and anticipated benefits, including forecast demand, revenue gains, productivity gains, performance improvements and/or operational cost improvements. In addition, this process defines the attributes of the product specification which form the basis for associated product offering(s)' used for advertising and sales. The business proposal also includes an assessment of the risks and the competitive positioning of the product specification proposal. As a part of the business proposal development a feasibility assessment can be produced. Potential other parties who can assist in the development of the product specification are also identified via interaction with the Determine Potential Parties sub-process within Party Tender Management. As a part of the process, the business proposal is appropriately approved, and as a result of the approval, necessary resources are made available."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

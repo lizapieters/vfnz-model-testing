@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResourceCandidate"
+    id="id-30abb47fdf5045bca41c2e96c9e08d9f"
+    documentation="A ResourceCandidate is an entity that enables the ResourceSpecifications to a catalog. A ResourceCandidate and its ResourceSpecification may be â€œpublishedâ€� - made visible - in any number of ResourceCatalogs; or in none. One ResourceSpecification can be composed of other ResourceSpecifications."/>

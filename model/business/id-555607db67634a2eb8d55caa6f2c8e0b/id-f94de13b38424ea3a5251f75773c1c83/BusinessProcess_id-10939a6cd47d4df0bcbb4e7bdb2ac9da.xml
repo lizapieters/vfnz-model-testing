@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Request Product Offering Purchase Return"
+    id="id-10939a6cd47d4df0bcbb4e7bdb2ac9da"
+    documentation="Make a request to return one or more purchased product offerings.">
+  <properties
+      key="Process Identifier"
+      value="1.2.9.2.4.1"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Request Product Offering Purchase Return make a request to return one or more purchased product offerings. The request can be made in a number of ways, such as via the web, phone or email. The request may be to send one or more offerings back for refund, exchange with another offering or offerings, or to replace one or more product offerings."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

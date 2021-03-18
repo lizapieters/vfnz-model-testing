@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CommunicationInteractionUseCase"
+    id="id-082ba8ece20c484f8eaf8cd054ab4c55"
+    documentation="A CommunicationInteractionUseCase specifies which entity (RootEntity) is concerned and which action (CommunicationInteractionAction) are concerned by the CommunicationInteractionItem. For example: - Action: buy for Entity: ProductOffering PO1 - Action: ask for recovery for Entity: Billys Broadband - Action: notify Entity: Billys Customer Bill"/>

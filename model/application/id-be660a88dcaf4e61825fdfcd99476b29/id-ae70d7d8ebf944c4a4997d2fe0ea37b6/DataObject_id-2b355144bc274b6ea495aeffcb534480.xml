@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PhysicalResourceRole"
+    id="id-2b355144bc274b6ea495aeffcb534480"
+    documentation="This is representing the different types of roles that various physical resources can take on. Two specialized roles have been defined: holder and adapter. This enables a single object; such as a Card; to have additional functions. For example; a Card may also serve as a motherboard or hosting board for another Card. In this situation; there isnâ€™t a separate EquipmentHolder â€“ rather; the Card acts as a holder in addition to providing its normal functions."/>

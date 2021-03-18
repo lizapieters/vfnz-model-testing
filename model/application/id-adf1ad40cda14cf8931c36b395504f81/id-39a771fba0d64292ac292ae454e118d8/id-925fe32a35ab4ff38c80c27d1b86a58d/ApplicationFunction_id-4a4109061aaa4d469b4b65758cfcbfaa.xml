@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Supplier/Partner payments handling"
+    id="id-4a4109061aaa4d469b4b65758cfcbfaa"
+    documentation="Handling of payments in the area of of Supplier/Partner billing and settlement. Logging and tracking of full or partial payments.">
+  <properties
+      key="Function Identifier"
+      value="658"/>
+  <properties
+      key="TAM Application Name"
+      value="Wholesale / Interconnect Billing"/>
+  <properties
+      key="TAM Application Id"
+      value="8.3"/>
+  <properties
+      key="Constructed Id"
+      value="8.3.658"/>
+</archimate:ApplicationFunction>

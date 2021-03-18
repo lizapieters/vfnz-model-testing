@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Support Resource Trouble Management"
+    id="id-f2b4d379dd2e4427a6a33d59e98280fa"
+    documentation="Proactively undertaking statistically driven preventative and scheduled resource infrastructure maintenance activities, and repair activities, and monitoring, managing and reporting on the capability of the Resource Trouble Management processes.">
+  <properties
+      key="Process Identifier"
+      value="1.5.4.3"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The responsibilities of the Support Resource Trouble Management processes are twofold - support Resource Trouble Management processes by proactively undertaking statistically driven preventative and scheduled resource infrastructure maintenance activities, and repair activities, and monitoring, managing and reporting on the capability of the Resource Trouble Management processes. These processes are responsible for ensuring that the resource infrastructure is working effectively and efficiently. Responsibilities of these processes include, but are not limited to: â€¢ Extracting and analyzing, including undertaking trend analysis, historical and current resource instance trouble reports and performance reports to identify potential resource infrastructure or resource instances requiring proactive maintenance and/or replacement; â€¢ Requesting scheduling of additional resource instance data collection to assist in the analysis activity; â€¢ Requesting scheduling of resource instance performance testing to assist in analysis activity; â€¢ Developing and managing resource infrastructure and resource instance proactive maintenance programs; â€¢ Requesting resource provisioning activity to prevent anticipated resource troubles associated with capacity limitations identified in the analysis activities; â€¢ Reporting outcomes of trend analysis to Resource Development &amp; Management processes to influence new and/or modified resource infrastructure development; â€¢ Establishing and managing resource instance spares holding facilities, including arrangements with other parties for vendor managed spares (the actual commercial agreement is negotiated using Party Offering Development &amp; Retirement processes); â€¢ Management of issuing and re-stocking of spares; â€¢ Establishing and managing resource instance return and repair programs and associated processes, including both service provider and other parties repair activities; â€¢ Tracking and monitoring of the Resource Trouble Management processes and associated costs (including where resource infrastructure is deployed and managed by third parties), and reporting on the capability of the Resource Trouble Management processes; â€¢ Establishing and managing resource trouble notification facilities and lists to support the Resource Trouble Management notification and reporting processes â€¢ Supporting the Support Service Problem Management process"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

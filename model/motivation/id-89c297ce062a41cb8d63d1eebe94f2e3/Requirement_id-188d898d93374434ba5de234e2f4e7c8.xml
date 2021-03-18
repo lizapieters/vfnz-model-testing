@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0497"
+    id="id-188d898d93374434ba5de234e2f4e7c8"
+    documentation="As a product manager, I want to define the services a customer use if they have an active SIM card but no active plan, so I can configure the product how I like. (E.g. no plan can receive non chargeable calls and texts, and call free Vodafone services &amp; emergency services)">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0497"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="use"/>
+  <properties
+      key="Topic"
+      value="No plan services"/>
+  <properties
+      key="Remarks"
+      value="Details to be discussed. What is allowed to be configured and on which level. Rules need to be configured once and not expected to change often."/>
+  <properties
+      key="Module"
+      value="CRM, OCS, SC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

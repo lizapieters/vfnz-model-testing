@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API Diagnostics &amp; Notification"
+    id="id-4c470951d51e4696b877c029033c13d7"
+    documentation="Application Programming Interface Gateway Diagnostics function diagnose task dynamically updates underlying management systems such as the Windows Management Instrumentation performance counters so that they can be monitored and reported upon by the monitoring service.">
+  <properties
+      key="Function Identifier"
+      value="682"/>
+  <properties
+      key="TAM Application Name"
+      value="API Gateway"/>
+  <properties
+      key="TAM Application Id"
+      value="10.3.1"/>
+  <properties
+      key="Constructed Id"
+      value="10.3.1.682"/>
+</archimate:ApplicationFunction>

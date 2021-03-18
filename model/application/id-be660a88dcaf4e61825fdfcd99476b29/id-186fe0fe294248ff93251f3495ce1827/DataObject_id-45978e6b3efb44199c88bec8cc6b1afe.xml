@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SalesProductSpecification"
+    id="id-45978e6b3efb44199c88bec8cc6b1afe"
+    documentation="A SalesProductSpecification specifies the role of CSP for a ProductSpecification sold or rented by the Service Provider. For a SalesProductSpecification the Service Provider might: â€¢ Either only take the order on behalf of another Party (OrderedOnlySalesProdSpec); â€¢ Or take the order and fulfill the product (FulfilledSalesProdSpec)."/>

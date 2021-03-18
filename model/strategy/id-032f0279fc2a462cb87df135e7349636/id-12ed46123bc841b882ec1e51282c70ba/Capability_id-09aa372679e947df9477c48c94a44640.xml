@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Strategy Access Constraints Interpretation"
+    id="id-09aa372679e947df9477c48c94a44640"
+    documentation="The ability to understand imposed access rights limitations for a given strategy or set of strategies.">
+  <properties
+      key="TMF_ID"
+      value="1.2.9.7.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

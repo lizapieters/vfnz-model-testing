@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Network Management"
+    id="id-49657efe296a4899a81c0e89f20db0b0"
+    documentation="The ability to design the architecture and plan, develop, deploy, monitor and report on the communications network infrastructure.">
+  <properties
+      key="TMF_ID"
+      value="1.1.7"/>
+  <properties
+      key="Level"
+      value="1"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

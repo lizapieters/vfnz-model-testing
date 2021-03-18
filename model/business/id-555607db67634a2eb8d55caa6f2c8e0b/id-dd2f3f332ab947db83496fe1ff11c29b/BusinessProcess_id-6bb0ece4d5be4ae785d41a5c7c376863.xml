@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Implement Resource"
+    id="id-6bb0ece4d5be4ae785d41a5c7c376863"
+    documentation="This process re-uses standard implementation processes applicable to specific resources.  It implements specific resources, including customer premises equipment if part of the resource provider offering.   It provides notifications as required if the implementation activity requires a planned outage or is likely to initiate false specific resource alarm event notifications.">
+  <properties
+      key="Process Identifier"
+      value="1.5.6.2.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

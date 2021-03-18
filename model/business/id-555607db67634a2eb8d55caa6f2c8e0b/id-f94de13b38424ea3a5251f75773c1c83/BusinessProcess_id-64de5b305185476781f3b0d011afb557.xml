@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Track &amp; Manage Revenue Assurance Trouble Resolution"
+    id="id-64de5b305185476781f3b0d011afb557"
+    documentation="Efficiently assign, coordinate and track specific revenue assurance trouble analysis, and resolution, and to manage escalation (functional or hierarchical) as required to resolve an open revenue assurance trouble report.">
+  <properties
+      key="Process Identifier"
+      value="1.7.2.6.2.5"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of the Track &amp; Manage Revenue Assurance Trouble Resolution processes is to efficiently assign, coordinate and track specific revenue assurance trouble analysis, and resolution, and to manage escalation (functional or hierarchical) as required to resolve an open revenue assurance trouble report. To the extent that jeopardy management is associated with open revenue assurance trouble report, the Track &amp; Manage Revenue Assurance Trouble Resolution process is responsible for detecting and escalating jeopardy conditions. Responsibilities of these processes include, but are not limited to: â€¢Scheduling, assigning and coordinating analysis and specific revenue assurance trouble resolution activities, including further analysis/reviews to ensure the success of the resolution activity; â€¢Modifying the revenue assurance trouble report status; â€¢Associating a money value to a RA trouble, when possible, in order to better understand its revenue impact â€¢Canceling a revenue assurance trouble report when analysis indicates that the revenue assurance trouble report has been unnecessarily created â€¢Monitoring the status of open revenue assurance trouble reports, and escalating revenue assurance trouble reports (either functionally or hierarchically) as necessary. Note that some specific product and/or service components may be owned and managed by suppliers/partners. In these cases the Track &amp; Manage Revenue Assurance Trouble Resolution process is responsible for initiating requests, through - S/P Performance Management for resolution by the supplier/partner of the specific revenue assurance leakage aspects attributed to the supplier/partner. These processes will co-ordinate all the actions necessary in order to guarantee that all tasks are finished at the appropriate time and in the appropriate sequence. The Track &amp; Manage Revenue Assurance Trouble Resolution processes will also inform the Close Revenue Assurance Trouble Report processes by modifying the revenue assurance trouble report status to cleared when the issues leading to the detected revenue leakage have been resolved."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

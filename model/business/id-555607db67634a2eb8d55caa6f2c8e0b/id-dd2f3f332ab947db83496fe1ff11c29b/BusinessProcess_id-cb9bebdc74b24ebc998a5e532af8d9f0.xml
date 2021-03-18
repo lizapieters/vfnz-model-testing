@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Determine Recipients for Information/Data"
+    id="id-cb9bebdc74b24ebc998a5e532af8d9f0"
+    documentation="Identify the intended recipient processes, resource instances or service instances to determine the appropriate processing required">
+  <properties
+      key="Process Identifier"
+      value="1.5.7.2.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1067"
+    id="id-41ead3059ff94163a043e85a3ef2e803"
+    documentation="As a customer I want to be able to move my KIDS Plan to another subscription plan, so that I can upgrade the plan to suit my childs growing needs.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1067"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="2"/>
+  <properties
+      key="Base_Old"
+      value="2"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Change"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="change"/>
+  <properties
+      key="Topic"
+      value="Change Service"/>
+  <properties
+      key="Remarks"
+      value="conversion of the plan"/>
+  <properties
+      key="Module"
+      value="SC, PC, OM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

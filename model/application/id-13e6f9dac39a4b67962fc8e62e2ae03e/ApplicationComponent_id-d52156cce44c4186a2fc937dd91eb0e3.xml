@@ -1,0 +1,45 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="QAS"
+    id="id-d52156cce44c4186a2fc937dd91eb0e3"
+    documentation="QAS">
+  <properties
+      key="StatusForLookUp"
+      value="Active"/>
+  <properties
+      key="Owner"
+      value="AndrewH"/>
+  <properties
+      key="Level of Service"
+      value="Mission Critical"/>
+  <properties
+      key="Annual Support Cost"
+      value="$92,692.27"/>
+  <properties
+      key="Product / Service"
+      value="Common"/>
+  <properties
+      key="Segment"
+      value="Common"/>
+  <properties
+      key="DX Association"
+      value="Integrate"/>
+  <properties
+      key="Existing Retained or Replaced"
+      value="Replace"/>
+  <properties
+      key="ComArch / Other"
+      value="Network as a Service (VF)"/>
+  <properties
+      key="Legacy BSS Stack Served"
+      value="C3"/>
+  <properties
+      key="TAM App ID"
+      value="6.3.9.3.1"/>
+  <properties
+      key="TAM Domain"
+      value="Service Domain"/>
+  <properties
+      key="TAM Application"
+      value="Service Address Validation"/>
+</archimate:ApplicationComponent>

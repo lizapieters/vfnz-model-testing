@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Remove Duplicate Resource Usage Records"
+    id="id-12d6dbee08e0491882f4425b09dfba90"
+    documentation="Remove duplicate resource usage records.">
+  <properties
+      key="Process Identifier"
+      value="1.5.10.1.5"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

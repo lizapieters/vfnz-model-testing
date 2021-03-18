@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitor Planned Available Capacity"
+    id="id-2f18aeb58bb643a981ce28000b6edf34"
+    documentation="Monitor available planned capacity and provide results to the Suggest Available Capacity Adjustment process.">
+  <properties
+      key="Process Identifier"
+      value="1.8.2.5.1.1"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Monitor Planned Available Capacity monitors available planned capacity and provides results to the Suggest Available Capacity Adjustment process. Monitoring includes comparing planned capacity with what has been allocated to planned capacity demand. It may result in identifying the need for an increase or decrease in planned capacity. It also looks at other sources, such as sales forecasts that may impact both capacity and demand."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

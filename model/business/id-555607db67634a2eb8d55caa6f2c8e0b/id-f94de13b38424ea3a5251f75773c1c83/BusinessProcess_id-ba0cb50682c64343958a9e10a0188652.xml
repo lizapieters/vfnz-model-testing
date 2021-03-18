@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aggregate Revenue Share Item"
+    id="id-ba0cb50682c64343958a9e10a0188652"
+    documentation="Use product revenue related information, such as applied billing rates and product prices, to aggregate revenue, units acquired/used, or some other measure that is used to determine the revenue shared with another party or parties.">
+  <properties
+      key="Process Identifier"
+      value="1.6.18.3.3.1"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Aggregate Items for Revenue Share Determination uses product revenue related information, such as applied billing rates and product prices, to aggregate revenue, units acquired/used, or some other measure that is used to determine the revenue shared with another party or parties. For example, for a tiered based revenue sharing model the total number of acquisitions for a product offering may need to be calculated in order to determine the revenue share."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

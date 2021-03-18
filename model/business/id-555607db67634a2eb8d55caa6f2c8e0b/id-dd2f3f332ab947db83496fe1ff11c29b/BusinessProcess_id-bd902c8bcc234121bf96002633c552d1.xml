@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Order Provisioning Orchestration"
+    id="id-bd902c8bcc234121bf96002633c552d1"
+    documentation="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0 Transitional//EN&quot;>&lt;HTML>&lt;HEAD>&lt;META content=&quot;text/html; charset=utf-8&quot; http-equiv=Content-Type>&lt;META name=GENERATOR content=&quot;MSHTML 8.00.6001.19088&quot;>&lt;/HEAD>&lt;BODY>&lt;P>Customer Order Provisioning Orchestration is resposile for:&lt;/P>&#xA;&lt;P>*Dynamically build and schedules the product delivery workflow (sequencing Customer Order Items). This activity takes into account:&lt;/P>&#xA;&lt;P>-Constraints and validation rules between Products inside the Customer Order according to pre-requisites between products, or successive Customer Orders including modification or cancellation (in-flight changes)&lt;/P>&#xA;&lt;P>-Any type of business rules based on information even external to the Customer Order. For example : high priority for VIP customers&lt;/P>&#xA;&lt;P>*Orchestrates the Customer Order Items associated with the Product being provisioned according to the workflow&lt;/P>&#xA;&lt;P>*Triggers exception process or delivery planning update, depending on Customer Order events such as cancellation or delivery events.&lt;/P>&lt;/BODY>&lt;/HTML>">
+  <properties
+      key="Process Identifier"
+      value="1.3.3.9.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="3"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

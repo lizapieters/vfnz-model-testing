@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Performance Monitoring"
+    id="id-1260d3d7b78a4c8dbb17614140505395"
+    documentation="Resource Performance Monitoring applications provide functionality to support data collection and performance monitoringof the service provider's resources.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="7.9.1"/>
+  <properties
+      key="TMF Function"
+      value="Performance monitoring data accumulation Resource Performance Data aggregation and trending Resource Performance Data collection Resource Performance event correlation and filtering"/>
+  <properties
+      key="TMF Maturity"
+      value="Resource Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

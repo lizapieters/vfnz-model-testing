@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Localize Resource Trouble"
+    id="id-26a60b728cb44cd291285879e90aca27"
+    documentation="Perform analysis to identify the root cause of the specific resource trouble including those resource troubles related to security events.">
+  <properties
+      key="Process Identifier"
+      value="1.5.8.2"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of the Localize Resource Trouble processes is to identify the root cause of the specific resource trouble. These processes are invoked by the Track &amp; Manage Resource Trouble processes. The responsibilities of these processes include, but are not limited to: â€¢Verifying whether the resource configuration matches the appropriate service features; â€¢Performing diagnostics against the specific resources;â€¢ â€¢Running tests against the specific resources; â€¢Starting and stopping audits against specific resources â€¢Scheduling routine testing of the specific resources. The Localize Resource Trouble processes will make the results of the root cause analysis available to other processes. The Localize Resource Trouble processes will update the open resource trouble report, as required during the assessment, and when the root cause has been identified. When the process is complete the Localize Resource Trouble processes will notify the Track &amp; Manage Resource Trouble processes."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

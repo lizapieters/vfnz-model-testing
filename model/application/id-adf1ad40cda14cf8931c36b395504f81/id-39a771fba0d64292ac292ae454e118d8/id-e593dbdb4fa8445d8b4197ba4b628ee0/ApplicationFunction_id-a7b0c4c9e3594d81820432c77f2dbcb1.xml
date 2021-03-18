@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Order Dependencies Management"
+    id="id-a7b0c4c9e3594d81820432c77f2dbcb1"
+    documentation="Manages dependencies across resource orders by triggering and follow up as needed">
+  <properties
+      key="Function Identifier"
+      value="493"/>
+  <properties
+      key="TAM Application Name"
+      value="Resource Order Tracking &amp; Management"/>
+  <properties
+      key="TAM Application Id"
+      value="7.3.1.1"/>
+  <properties
+      key="Constructed Id"
+      value="7.3.1.1.493"/>
+</archimate:ApplicationFunction>

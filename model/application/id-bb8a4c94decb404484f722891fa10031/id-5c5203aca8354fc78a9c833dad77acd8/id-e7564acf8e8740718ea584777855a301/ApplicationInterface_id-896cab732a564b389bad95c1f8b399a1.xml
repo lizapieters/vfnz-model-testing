@@ -1,0 +1,39 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Communication Services"
+    id="id-896cab732a564b389bad95c1f8b399a1"
+    documentation="In BSS solution there is CNS module which is responsible for notifications (e.g. SMS, email). It is assumed that notifications triggered by CNS will be delivered to customres through this &quot;Communication Services&quot; interface.&#xA;Also for Campaign Management. Amazon SNS or Firebase.">
+  <properties
+      key="Stereotype"
+      value="abstract_interface"/>
+  <properties
+      key="Southbound Required"
+      value="Y"/>
+  <properties
+      key="Importance"
+      value="1"/>
+  <properties
+      key="Area"
+      value="BSS"/>
+  <properties
+      key="Interface Type"
+      value="Marketing"/>
+  <properties
+      key="Pattern"
+      value="REST/Event"/>
+  <properties
+      key="FWA"
+      value="Y"/>
+  <properties
+      key="Mobile"
+      value="Y"/>
+  <properties
+      key="Broadband"
+      value="Y"/>
+  <properties
+      key="Common"
+      value="Y"/>
+  <properties
+      key="Unexpected"
+      value="true"/>
+</archimate:ApplicationInterface>

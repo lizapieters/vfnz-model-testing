@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Assign Task"
+    id="id-80026c173ea44cadbd6c8edcf048841d"
+    documentation="The Assign Task process is responsible for assigning manual activities, described by work items (components of work orders), to assignable staff within the enterprise and/or third parties.">
+  <properties
+      key="Process Identifier"
+      value="1.5.5.5.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The association of a work item with a technician who is assigned to this work is a task, or, task assignment is a work item assignment to a particular performer. The scope of the Assign Task process includes the following: â€¢{T}Establishing and managing work assignment queues through which requests for task assignments are received from other eTOM processes â€¢{T}Automatic, manual, or semi-automatic assigning and scheduling based on optimization of the task, taking into consideration various parameters including the following: â€¢{T}Work order priority â€¢{T}Associated SLAs â€¢{T}Work order due date â€¢{T}Skills required to perform work â€¢{T}Dependencies between work tasks â€¢{T}Job location relative to other assignments made to the dispatchable staff â€¢{T}Workload of staff â€¢{T}Staff availability hours â€¢{T}Required materials, spares, and tools availability â€¢{T}Maintaining bulk assignment capabilities â€¢{T}Managing relocation of other previously scheduled tasks which have floating work schedules, aiming at increasing manpower availability â€¢{T}Optimizing the assignment of tasks to technicians selected according to skills, proximity to intervention site, technician availability, vehicles, equipment, and special tools required to perform these activities â€¢{T}Interacting with GIS for route optimization between task locations â€¢{T}Defining â€œdensity distributionâ€� patterns for bulk automated assignments of technicians for the entire day to provide the capability to â€œinsertâ€� new assignments throughout a work day based on priority work that might arise â€¢{T}Viewing the availability schedule of assignable staff from various workforce sources â€¢{T}Preparing information to be dispatched as updates to already-dispatched tasks"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource availability validation"
+    id="id-80a766591d244f03bbdbec11b079252f"
+    documentation="The Resource Availability function validates that the resource or resources specified on the resource order are available at the specified customer/service location and feasible from a network point of view. This includes the following:&#xA;� Resource address validation &#xA;� Resource availability validation &#xA;� Resource feasibility validation &#xA;� Establishment of service termination points &#xA;� Determination of delivery interval">
+  <properties
+      key="Function Identifier"
+      value="448"/>
+  <properties
+      key="TAM Application Name"
+      value="Resource Availability"/>
+  <properties
+      key="TAM Application Id"
+      value="7.3.3.1"/>
+  <properties
+      key="Constructed Id"
+      value="7.3.3.1.448"/>
+</archimate:ApplicationFunction>

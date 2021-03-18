@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Invoke Support Resource Trouble Management Processes"
+    id="id-595e3a2f04fc41799af01d0d2ab0c6d2"
+    documentation="This process recovers normal operation by invocation of the Support Resource Trouble Management processes. It also reports successful restoration of normal operation or an unsuccessful attempt at restoration to Track &amp; Manage Resource Trouble through updates to the associated resource trouble report.">
+  <properties
+      key="Process Identifier"
+      value="1.5.8.3.5"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

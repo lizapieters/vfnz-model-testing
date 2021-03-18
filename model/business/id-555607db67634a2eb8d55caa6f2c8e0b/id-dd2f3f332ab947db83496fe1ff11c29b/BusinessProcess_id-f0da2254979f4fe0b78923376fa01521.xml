@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Track and Report Service Capability Delivery"
+    id="id-f0da2254979f4fe0b78923376fa01521"
+    documentation="These processes  track the expenditure and staff resource usage to deliver the service components, and provide any reporting necessary to keep stakeholders informed of progress.">
+  <properties
+      key="Process Identifier"
+      value="1.4.2.6.5"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

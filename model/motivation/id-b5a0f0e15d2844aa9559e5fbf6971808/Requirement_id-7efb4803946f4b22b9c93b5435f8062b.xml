@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1023"
+    id="id-7efb4803946f4b22b9c93b5435f8062b"
+    documentation="As a PO, I want provide different mechanisms for a customer to enter a competition, including: Enter now, Enter with free text question, Enter with multiple choice question, click through to enter on third party site">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1023"/>
+  <properties
+      key="Status"
+      value="Potential gap"/>
+  <properties
+      key="Created by"
+      value="Gabrielle Paul"/>
+  <properties
+      key="Tribe"
+      value="Loyalty"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Redemption functionality"/>
+  <properties
+      key="Remarks"
+      value="[CLm] Various opt in features avaliable in CLM for offers, to be clarified"/>
+  <properties
+      key="Module"
+      value="CLM PC, VM, CCM, SC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

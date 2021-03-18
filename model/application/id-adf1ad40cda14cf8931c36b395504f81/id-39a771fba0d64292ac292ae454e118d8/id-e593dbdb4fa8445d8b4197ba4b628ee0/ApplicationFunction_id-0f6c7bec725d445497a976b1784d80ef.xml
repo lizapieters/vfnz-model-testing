@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Activation Notification and Inventory Update"
+    id="id-0f6c7bec725d445497a976b1784d80ef"
+    documentation="Resource Activation Notification and Inventory Update functions including: � Notify Resource Provision / Control of the activation status � Update Resource Inventory with the resource status information">
+  <properties
+      key="Function Identifier"
+      value="447"/>
+  <properties
+      key="TAM Application Name"
+      value="Resource Activation"/>
+  <properties
+      key="TAM Application Id"
+      value="7.4.2"/>
+  <properties
+      key="Constructed Id"
+      value="7.4.2.447"/>
+</archimate:ApplicationFunction>

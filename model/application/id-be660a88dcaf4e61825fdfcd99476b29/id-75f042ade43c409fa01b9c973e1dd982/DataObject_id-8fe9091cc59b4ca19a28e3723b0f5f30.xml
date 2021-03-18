@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ServiceLevelSpecExpression"
+    id="id-8fe9091cc59b4ca19a28e3723b0f5f30"
+    documentation="ServiceLevelSpecExpression describes strict relations between ServiceLevelSpecification subordinates (ServiceLevelSpecParameter; ServiceLevelObjective; ServiceLevelConsequence; and ServiceLevelApplicability)). The baseline idea of ServiceLevelSpecExpression is to resolve the multiple associations between its subordinates. For example; an expression may consist of a consequence and its applicability for a ServiceLevelSpecification."/>

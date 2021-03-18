@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PhysicalHolderRole"
+    id="id-f5efad8bf25d4c0fa5fbb341a4cc31be"
+    documentation="This is a concrete class that represents any type of physical resource that can play a holding role. A common example is a Card that can also serve as a motherboard; or a Card that can serve as a daughter card that attaches to a motherboard. This class enables a single Entity; such as a Line Card; to have multiple roles - it can function as a Router Processor as well as a Holder."/>

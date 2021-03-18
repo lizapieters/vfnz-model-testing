@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Location Risk Threshold Determination"
+    id="id-68914441dec544dfa348090684ce5ecc"
+    documentation="The ability to identify and define the level of acceptable risk associated with a location.">
+  <properties
+      key="TMF_ID"
+      value="1.3.3.7.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

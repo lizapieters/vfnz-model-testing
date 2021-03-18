@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer SLA Issue Service / Entitlement Validation"
+    id="id-6ba9ab9c28e546f2826eacb028cf0e20"
+    documentation="Customer SLA Issue Reception function to validate the service entitlement tothe service level agreement.">
+  <properties
+      key="Function Identifier"
+      value="293"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer SLA Issue Reception"/>
+  <properties
+      key="TAM Application Id"
+      value="5.18.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.18.1.293"/>
+</archimate:ApplicationFunction>

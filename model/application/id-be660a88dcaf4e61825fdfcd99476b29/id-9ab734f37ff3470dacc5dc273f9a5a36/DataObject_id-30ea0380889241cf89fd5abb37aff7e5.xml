@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ContainedPolicySetsDetail"
+    id="id-30ea0380889241cf89fd5abb37aff7e5"
+    documentation="This class represents the semantics of the ContainedPolicySets aggregation. It provides additional semantics that enable this grouping of PolicySets to be prioritized and enabled; so that they can interwork with other PolicyRules and PolicyGroups. Note that each object in this aggregation must have the exact same decision strategy.This aggregation is used to gather together discrete PolicySet objects to form a group of PolicySet objects. Such a group must share the same DecisionStrategy."/>

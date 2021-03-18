@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Quality Analyzing"
+    id="id-ca2fa8f466b94ea7913cd0cce8c3768b"
+    documentation="Service Quality Analysis functions analyze and evaluate the quality data collected by Service Quality Monitoring, and considering the past service quality data or system environment data in the analysis, notifying operations applications for automatic or manual action in case of alarming analysis results.">
+  <properties
+      key="Function Identifier"
+      value="631"/>
+  <properties
+      key="TAM Application Name"
+      value="Service Quality Analysis"/>
+  <properties
+      key="TAM Application Id"
+      value="6.9.3"/>
+  <properties
+      key="Constructed Id"
+      value="6.9.3.631"/>
+</archimate:ApplicationFunction>

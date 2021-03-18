@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MetricMeasureThresholdRule"
+    id="id-a2077c76240c4da9adf29ec2a1656d4f"
+    documentation="A MetricMeasureThresholdRule specifies the MetricDefMeasureThresholdRule whose threshold has been crossed by a MetricMeasure. It triggers one or more MetricMeasureConsequences. For example; the prescribed action (prescribedAction attribute) by a consequence might be to monitor the MetricMeasure more closely or to notify a specific person."/>

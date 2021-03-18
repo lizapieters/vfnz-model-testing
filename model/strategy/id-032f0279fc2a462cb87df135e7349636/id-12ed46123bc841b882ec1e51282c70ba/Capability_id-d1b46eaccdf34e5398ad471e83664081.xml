@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agreement/Human Resource Matching"
+    id="id-d1b46eaccdf34e5398ad471e83664081"
+    documentation="The ability to associate an agreement with a human resource.">
+  <properties
+      key="TMF_ID"
+      value="1.1.5.9.15"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

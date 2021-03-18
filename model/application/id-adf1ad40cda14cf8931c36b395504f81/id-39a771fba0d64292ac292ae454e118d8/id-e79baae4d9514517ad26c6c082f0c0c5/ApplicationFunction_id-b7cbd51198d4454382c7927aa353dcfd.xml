@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Self Service Reports on usage and charges"
+    id="id-b7cbd51198d4454382c7927aa353dcfd"
+    documentation="Customer self empowered billing functions provide an internet technology driven interface to the customer to undertake a variety of billing functions directly for themselves. E.g. web based reports for (historical) usage and charges.">
+  <properties
+      key="Function Identifier"
+      value="253"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Self Empowered Billing"/>
+  <properties
+      key="TAM Application Id"
+      value="5.4.3"/>
+  <properties
+      key="Constructed Id"
+      value="5.4.3.253"/>
+</archimate:ApplicationFunction>

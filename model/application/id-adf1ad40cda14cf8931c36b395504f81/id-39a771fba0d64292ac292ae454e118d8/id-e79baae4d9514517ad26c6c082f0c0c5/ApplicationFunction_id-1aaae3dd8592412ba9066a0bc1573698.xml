@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transactional Document Legend Formatting"
+    id="id-1aaae3dd8592412ba9066a0bc1573698"
+    documentation="Formats section legends (summary, call detail, etc) based on regulatory requirements.">
+  <properties
+      key="Function Identifier"
+      value="338"/>
+  <properties
+      key="TAM Application Name"
+      value="Transactional Document Generator"/>
+  <properties
+      key="TAM Application Id"
+      value="5.2.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.2.2.338"/>
+</archimate:ApplicationFunction>

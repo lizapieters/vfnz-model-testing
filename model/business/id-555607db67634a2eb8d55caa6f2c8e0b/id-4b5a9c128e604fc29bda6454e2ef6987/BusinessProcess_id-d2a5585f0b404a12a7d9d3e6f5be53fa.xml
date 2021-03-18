@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Allocate &amp; Install Resource"
+    id="id-d2a5585f0b404a12a7d9d3e6f5be53fa"
+    documentation="Allocate specific resources required to support a specific service">
+  <properties
+      key="Process Identifier"
+      value="1.5.6.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of the Allocate &amp; Install Resource processes is to allocate specific resources required to support a specific service. These activities include but are not limited to: â€¢Investigating the ability to be able to satisfy specific service orders as a part of a feasibility check; â€¢Reserving or allocating specific resources in response to issued resource orders; â€¢Confirming availability of, or initiating an order for, equipment or software with a related party â€¢Installing and commissioning specific resources following delivery. Where the Allocate &amp; Install Resource processes are requested by a resource order issued as part of a pre-order feasibility check, these processes determine whether there are adequate specific resources available to fulfill the request. Where there are not sufficient specific resources available, these processes may initiate enquiries using the relevant party management and/or Resource Support &amp; Readiness processes to determine lead times for specific resource availability. Depending on business rules, and on any specific levels of commitment contained in the initiating service order, these processes may reserve specific resources linked to the initiating service order for a period of time, and releasing them when the time period has expired. These processes are responsible for creating a response to the initiating processes with respect to the feasibility assessment. Where the Allocate &amp; Install Resource processes are requested by a resource order issued in response to a confirmed service order, these processes are responsible for allocating the specific resources required to satisfy the initiating service order. Any previously reserved specific resources are marked as allocated. These process are responsible for initiating, using the party management processes, resource requisition orders for any specific resources in shortfall. Sufficient information is supplied with the resource requisition orders to ensure that the appropriate specific resources are delivered to the appropriate location for installation and configuration. This may include, for example, a central office, a transmission room, or the customer premise. Following delivery, these processes are responsible for installing and commissioning specific resources, and updating the resource inventory as part of these processes. Where installation of the specific resources requires an upfront major resource infrastructure, the installation of both the resource infrastructure and specific resources may be undertaken under the control of the Support Resource Provisioning processes. The Allocate &amp; Install Resource processes will closely interact with the Manage Resource Inventory processes to determine availability of physical and logical specific resources to select from, thereby applying specific selection criteria."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitor Service Quality"
+    id="id-6afb74cef16f480eb9a97a41b45710a1"
+    documentation="Monitor received service quality information and undertake first-in detection">
+  <properties
+      key="Process Identifier"
+      value="1.4.7.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of the Monitor Service Quality processes is to monitor received service quality information and undertake first-in detection. The responsibilities of the processes include, but are not limited to: â€¢ Undertake the role of first in detection and collection by monitoring and logging the received specific service performance quality data; â€¢ Comparing the received specific service performance quality data to performance quality standards set for each specific service (available from the Service Inventory); â€¢ Assessing and recording received specific service performance quality data which is within tolerance limits for performance quality standards, and for which continuous monitoring and measuring of performance is required; â€¢ Recording the results of the continuous monitoring for reporting through the Report Service Quality Performance processes; â€¢ Detect performance quality threshold violations which represent specific service failures due to abnormal performance; â€¢ Pass information about specific service failures due to performance quality threshold violations to Service Problem Management to manage any necessary restoration activity as determined by that process; â€¢ Pass information about potential specific customer SLA/QoS performance degradations arising from specific service quality performance degradations (using knowledge about service to purchased product offering linkages) to Problem Handling to manage any necessary restoration activity as determined by that process; â€¢ Detect performance degradation for specific services which provide early warning of potential issues; â€¢ Forward service performance degradation notifications to other Service Quality Management processes, which manage activities to restore normal specific service performance quality â€¢ Log specific service performance quality degradation and violation details within the repository in the Manage Service Inventory processes to ensure historical records are available to support the needs of other processes. The processes also perform automated service testing using simulated calls simulating standard user behavior, and collect data related to service usage which may supply information to other processes (i.e. marketing, service cost, etc.) and identify abnormal usage by the service users (i.e. bad passwords, terminal configurations, etc.)."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0883"
+    id="id-0eec516ccc874be685e29a20ffe997cb"
+    documentation="As a Revenue Assurance Analyst I want be able to access and report on all customer credits and adjustments so that we can map customer credits to the related issue and also monitor the level of credits and adjustments being given to our customers and by whom for what reason.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0883"/>
+  <properties
+      key="Status"
+      value="Parked for workshop"/>
+  <properties
+      key="Created by"
+      value="Samuel Pachoud"/>
+  <properties
+      key="Tribe"
+      value="Finance / Revenue &amp; Network Assurance"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="y"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Reporting"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Credits and adjustments reporting"/>
+  <properties
+      key="Remarks"
+      value="Kiri: Unsure if its another feed per se, but there WILL be credits/adjustments for subscriptions e.g. need to issue refunds aswell as quota types (e.g. 1GB data), and reversing the purchase of products which should result in a refund (e.g I accidentally purchased the wrong plan need to remove and give a refund). So they need to be accessed by Rev assurance Refunds to be discussed, if always whole data bundle e.g. will be refunded or partial are also possible? what would be the form of adj, separate document?"/>
+  <properties
+      key="Module"
+      value="REP"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

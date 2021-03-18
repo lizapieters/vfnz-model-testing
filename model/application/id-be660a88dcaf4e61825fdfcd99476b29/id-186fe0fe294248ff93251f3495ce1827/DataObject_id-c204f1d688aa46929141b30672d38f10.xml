@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DunningCase"
+    id="id-c204f1d688aa46929141b30672d38f10"
+    documentation="The DunningCase represents a type of cases open for a party. Whenever a party enters the dunning process; a dunning case is linked to his party account debt and it contains all details pertaining to the debt; such as dunning case rules; interactionsâ€¦ The status of a dunning case evolves according to internal or external events (payments made by the party; payment schedule grantedâ€¦)."/>

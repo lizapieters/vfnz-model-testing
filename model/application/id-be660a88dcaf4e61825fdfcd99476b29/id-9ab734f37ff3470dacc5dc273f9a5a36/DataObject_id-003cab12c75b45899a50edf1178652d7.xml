@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IPv6FlowIDVariable"
+    id="id-003cab12c75b45899a50edf1178652d7"
+    documentation="This class represents using the value of the flow ID in the specified packet header as part of a condition expression. The specific packet header to use is specified in the flowHeaderNumber attribute of this class. Thus; only IntegerValue and BitStringValue classes can be used in the value portion of the condition expression with this Variable."/>

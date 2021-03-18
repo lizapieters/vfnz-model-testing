@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RM&amp;O Support &amp; Readiness"
+    id="id-9e520573e875472f85fe2c2569d2e224"
+    documentation="Manage resource infrastructure to ensure that appropriate application, computing and network resources are available and ready to support the Fulfillment, Assurance and Billing processes in instantiating and managing resource instances, and for monitoring and reporting on the capabilities and costs of the individual FAB processes.">
+  <properties
+      key="Process Identifier"
+      value="1.5.4"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="RM&amp;O Support &amp; Readiness processes are responsible for managing resource infrastructure to ensure that appropriate application, computing and network resources are available and ready to support the Fulfillment, Assurance and Billing processes in instantiating and managing resource instances, and for monitoring and reporting on the capabilities and costs of the individual FAB processes. Responsibilities of these processes include but are not limited to: â€¢ Supporting the operational introduction of new and/or modified resource infrastructure and conducting operations readiness testing and acceptance; â€¢ Managing planned outages; â€¢ Managing and ensuring the ongoing quality of the Resource Inventory; â€¢ Analyzing availability and performance over time on resources or groups of resources, including trend analysis and forecasting; â€¢ Demand balancing in order to maintain resource capacity and performance â€¢ Performing pro-active maintenance and repair activities; â€¢ Establishing and managing the workforce to support the eTOM processes â€¢ Managing spares, repairs, warehousing, transport and distribution of resources and consumable goods. â€¢ Conducting Vulnerability Management; â€¢ Conducting Threat Assessments; â€¢ Conducting Risk Assessments; â€¢ Conducting Risk Mitigation; â€¢ Conducting Secure Configuration Activities"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

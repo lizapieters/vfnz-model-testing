@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerFacingServiceComposite"
+    id="id-3007893316914ca6ac61c037988f09c5"
+    documentation="This is an abstract base class that defines an integrated set of CustomerFacingServices that collectively meets the needs of a Product. For example; the Customer may have requested GoldService; which is a ServicePackage that defines a set of ServiceBundles; each of which has its own QoS. This enables GoldService to be abstracted and treated as a managed object that provides a CustomerFacingService."/>

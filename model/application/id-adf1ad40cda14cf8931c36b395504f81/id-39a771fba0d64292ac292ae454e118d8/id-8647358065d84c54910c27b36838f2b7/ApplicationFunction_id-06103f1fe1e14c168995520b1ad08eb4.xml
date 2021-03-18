@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Payroll Reporting"
+    id="id-06103f1fe1e14c168995520b1ad08eb4"
+    documentation="Output payroll results to Financial Accounting. &#xA;Generates applicable reporting and analytics.">
+  <properties
+      key="Function Identifier"
+      value="772"/>
+  <properties
+      key="TAM Application Name"
+      value="Payroll Management"/>
+  <properties
+      key="TAM Application Id"
+      value="9.2.1"/>
+  <properties
+      key="Constructed Id"
+      value="9.2.1.772"/>
+</archimate:ApplicationFunction>

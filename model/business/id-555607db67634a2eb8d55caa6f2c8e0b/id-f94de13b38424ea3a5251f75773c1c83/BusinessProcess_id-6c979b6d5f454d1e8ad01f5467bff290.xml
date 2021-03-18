@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identify Additional Product Offering Purchase Processing"
+    id="id-6c979b6d5f454d1e8ad01f5467bff290"
+    documentation="Identify additional processing for an inbound purchase in the form of a product offering order, such as one from a customer, the purchase may require a feasibility assessment, may require new provisioning activities, may require a change to a previous purchase, or may require cancellation of a previously initiated purchase.">
+  <properties
+      key="Process Identifier"
+      value="1.2.9.1.2.2"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

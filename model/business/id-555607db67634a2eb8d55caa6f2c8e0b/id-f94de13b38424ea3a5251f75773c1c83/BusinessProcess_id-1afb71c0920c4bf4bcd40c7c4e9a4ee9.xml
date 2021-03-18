@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identify Party Revenue Share Adjustment"
+    id="id-1afb71c0920c4bf4bcd40c7c4e9a4ee9"
+    documentation="Use the revenue discrepancy resolution determined by Resolve Party Revenue Share Discrepancy to identify what type of adjustment is to be made to an enterprise's or party's revenue share.">
+  <properties
+      key="Process Identifier"
+      value="1.6.18.4.2.3"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Identify Party Revenue Share Adjustment uses the revenue discrepancy resolution determined by Resolve Party Revenue Share Discrepancy to identify what type of adjustment is to be made to an enterprise's or party's revenue share. For an enterprise the adjustment information is provided to the Adjust Party Revenue Share process. If the adjustment is to be made to a party's revenue share, the adjustment information can be used to update the revenue share information received and communicated to the party so its records can be updated to reflect the adjustment."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

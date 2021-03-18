@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Problem Qualification &amp; Reception"
+    id="id-4f953bf821f145fe8fe095075d361bcd"
+    documentation="Customer Problem Qualification &amp; Reception applications provide the necessary functionality to detect, evaluate and qualify a reported or affected customer problem.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.8.1"/>
+  <properties
+      key="TMF Function"
+      value="Qualify and prioritize customer problem Reception of problems from Customers Verify Customer services and entitlement"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

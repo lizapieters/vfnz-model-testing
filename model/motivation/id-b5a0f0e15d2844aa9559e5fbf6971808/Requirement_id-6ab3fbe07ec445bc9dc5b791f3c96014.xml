@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1083"
+    id="id-6ab3fbe07ec445bc9dc5b791f3c96014"
+    documentation="As a marketer I want to send a notification if a customer is near a location where a reward is offerred (ie in a mall by the cinema or a coffee shop), so that I can surprise customers with local and time relevant rewards">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1083"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="2"/>
+  <properties
+      key="Base_Old"
+      value="2"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Self Service"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="self service"/>
+  <properties
+      key="Topic"
+      value="Marketing and Campaign Management"/>
+  <properties
+      key="Remarks"
+      value="[CLM] Geofencing for loyalty offers, require Mobile App development if NOOTB Mobile Loyalty App is used SC: Push notifications to the app (outside Comarch solution) Needs to be forwarded and discussed in CCM"/>
+  <properties
+      key="Module"
+      value="CLM, SC, PC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

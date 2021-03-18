@@ -1,0 +1,33 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Location Management"
+    id="id-0da4dd81c3c341cb87ef21f8b1b78298"
+    documentation="Location Management provides the required functionality to manage the physical and logical attributes of location data for the service provider. It can include addresses (street, city, state/province, &amp; country), geospatial information (lat/long), as well as common code information (such as CLLI - Common Language Location Identifier). This location inventory can include both customer location data as well as service provider location data (anything of interest to the service provider to support their operational needs).">
+  <properties
+      key="TMF_ID"
+      value="1.3.3"/>
+  <properties
+      key="Level"
+      value="1"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+  <properties
+      key="TMF Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="7.15"/>
+  <properties
+      key="TMF Function"
+      value="Location Change History Management Location information Profiling Location Replenishment Function Location Search Function Location Structure Data Management Repository integrity handling"/>
+  <properties
+      key="TMF Maturity"
+      value="Resource Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

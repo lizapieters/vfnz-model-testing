@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Number Portability Policy Management"
+    id="id-5f684878fe3249a5ba2bfb9a36e2ca68"
+    documentation="Number Portability Policy Management: Management that regulates policies, standards, definitions and restrictions defined by the entities involved in Number Portability (country-specific regulatory entities).">
+  <properties
+      key="TAM Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="7.13.2.1"/>
+  <properties
+      key="Frameworx Domain"
+      value="Resource Domain"/>
+  <properties
+      key="Maturity Level"
+      value="3"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0553"
+    id="id-4e4302cb9ebc465aab65b24199d90104"
+    documentation="As a customer, I want to be able to easily return any equipment owned by Vodafone if it is no longer required, so that I don't incur extra charges.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0553"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Diane Watson"/>
+  <properties
+      key="Tribe"
+      value="Consumer Home"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="prio2"/>
+  <properties
+      key="Base"
+      value="1?"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Device returns"/>
+  <properties
+      key="Remarks"
+      value="Is it just regular return of, for example, router in case of service termination, are there any specific rules for return? There will be a process in Comarch that will start charging customer in case the return of device is not confirmed. Notifications will probably be needed to remind customer. Details of the process to be defined (returns by courier or also in shops?)."/>
+  <properties
+      key="Module"
+      value="AIF?, CNS?, CRM, SC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

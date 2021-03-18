@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trip Analytics Management"
+    id="id-7a940d94ede9470f827c6e495062fa09"
+    documentation="The Ability to identify, establish, validate, and articulate metrics and measures on historic and predictive determinations for one or more trips.">
+  <properties
+      key="TMF_ID"
+      value="1.1.6.5.5"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

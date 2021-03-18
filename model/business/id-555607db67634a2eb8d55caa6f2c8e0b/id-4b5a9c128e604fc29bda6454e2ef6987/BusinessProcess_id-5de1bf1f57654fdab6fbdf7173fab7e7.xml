@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Approve Product Business Case"
+    id="id-5de1bf1f57654fdab6fbdf7173fab7e7"
+    documentation="Develop and gain approval for a business case to develop and deliver the required capabilities, including identification of potential partners.">
+  <properties
+      key="Process Identifier"
+      value="1.2.2.3"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Approve Product Business Case processes capture all activities required to develop and gain the necessary level of approval for a business case to develop and deliver the required capabilities, including identification of potential business partners. The business case should identify any required product infrastructure components, development costs and anticipated benefits, including revenue gains, productivity gains, performance improvements and/or operational cost improvements. The business case should also include a general view of the types of product offers which could be developed and deployed using the product infrastructure, but would not necessarily include a specific proposal to launch a specific product. This later activity is managed by the PLM processes. The processes include any interaction with cross-enterprise co-ordination and management functions to ensure that the business case is supported by all stakeholders."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

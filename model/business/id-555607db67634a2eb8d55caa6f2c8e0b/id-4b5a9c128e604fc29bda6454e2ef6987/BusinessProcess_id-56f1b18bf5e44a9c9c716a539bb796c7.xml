@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Track &amp; Manage Party Performance Resolution"
+    id="id-56f1b18bf5e44a9c9c716a539bb796c7"
+    documentation="Track progress of the performance resolution as advised by the party.">
+  <properties
+      key="Process Identifier"
+      value="1.6.11.2"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Track &amp; Manage Party Performance Resolution ensures improvement and restoration activities are being assigned, coordinated and tracked efficiently, and that escalation is being invoked as required for any open party performance degradation reports in jeopardy. Responsibilities of these processes include but are not limited to: â€¢Managing regular interaction with the party to establish resolution progress for party performance degradation reports â€¢Modifying information in an existing party performance degradation report based on feedback of progress from the party â€¢Modifying the party performance degradation report status â€¢Canceling a party performance degradation report when the specific performance issue is discovered to not be related to the party â€¢Monitoring the jeopardy status of open party performance degradation reports, and initiating escalation of party performance degradation reports as necessary. The Track &amp; Manage Party Performance Resolution process also informs the Close Party Performance Degradation Report processes by modifying the party performance degradation report status to cleared when the party performance issue has been resolved."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

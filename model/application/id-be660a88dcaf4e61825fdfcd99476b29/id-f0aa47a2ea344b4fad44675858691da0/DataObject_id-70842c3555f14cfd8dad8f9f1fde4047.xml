@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CloseCustomerProblemSummary"
+    id="id-70842c3555f14cfd8dad8f9f1fde4047"
+    documentation="Records the closure activity of a CustomerProblem. There may be more than one CloseCustomerProblemSummary per CustomerProblem because CustomerProblems can be reopened; or a temporary solution may be replaced by a permanent one."/>

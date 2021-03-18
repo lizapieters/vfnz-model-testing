@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provide Earned Loyalty Program Reward Notification"
+    id="id-69fcdba003564510a3dfa33a13ee172f"
+    documentation="Provide a notification to the Earn Loyalty Program Reward process if earning loyalty program currency qualifies a program participant for a reward.">
+  <properties
+      key="Process Identifier"
+      value="1.1.19.2.2.5"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Provide Earned Loyalty Program Reward Notification provides a notification to the Earn Loyalty Program Reward process if earning loyalty program currency qualifies a program participant for a reward. For example, after watching a certain number of videos a loyalty program participant can view one video free."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

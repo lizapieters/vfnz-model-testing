@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0154"
+    id="id-c36c9e0896db43c4a9038c3981da2a65"
+    documentation="As a customer, I want to be able to turn off certain notifcations, so that I don't get annoyed by them">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0154"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Use"/>
+  <properties
+      key="Topic"
+      value="Notifications"/>
+  <properties
+      key="Remarks"
+      value="Requirement clear. Do you expect to steer this per each notification (can be hundreds of them) or per some group? Expectation: some groups would be defined. A nice to have - an option to disable a certain notification directly from the notification (&quot;don't bother me again&quot;)"/>
+  <properties
+      key="Module"
+      value="CNS, SC, PIM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="Not Applicable"/>
+</archimate:Requirement>

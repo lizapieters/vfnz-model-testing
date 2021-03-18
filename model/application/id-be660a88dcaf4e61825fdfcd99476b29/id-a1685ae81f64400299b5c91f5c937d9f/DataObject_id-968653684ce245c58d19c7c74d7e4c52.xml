@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WorkforceEmployeeAssignment"
+    id="id-968653684ce245c58d19c7c74d7e4c52"
+    documentation="Represents an assignment of a particular WorforceEmployeeRole for a particular work task in a specific timeframe. For example; assignment of a person in a network engineer role to a trouble shooting work task for at least 2 hours. The assignment is associated with a CalendarEntry of an Assignment WorkSchedule."/>

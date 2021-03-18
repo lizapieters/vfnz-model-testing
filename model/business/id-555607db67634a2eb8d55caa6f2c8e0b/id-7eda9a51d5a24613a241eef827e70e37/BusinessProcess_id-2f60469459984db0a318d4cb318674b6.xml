@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Capacity Management"
+    id="id-2f60469459984db0a318d4cb318674b6"
+    documentation="Specify available capacity and capture capacity demand for defined time periods.  The consumption of available capacity by demand is captured for a given time period.">
+  <properties
+      key="Process Identifier"
+      value="1.8.2"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Capacity Management specifies available capacity and captures capacity demand for defined time periods. The consumption of available capacity by demand is captured for a given time period. Available capacity and/or capacity demand may be adjusted based on consumption or other factors, such as reduced infrastructure availability. Available capacity and capacity demand can be specified as planned or actual. Domain specific capacity management processes, such as Product Capacity Management contain only the processes specific to them. For example, associating product offering with capacity amounts and capacity demand. Generalized processes such as this eliminate redundant processes used to create domain specific capacity management processes."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

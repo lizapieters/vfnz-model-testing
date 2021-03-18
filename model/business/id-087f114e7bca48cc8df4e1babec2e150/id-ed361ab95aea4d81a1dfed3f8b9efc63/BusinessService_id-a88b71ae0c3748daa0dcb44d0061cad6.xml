@@ -1,0 +1,30 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Broadband - FWA"
+    id="id-a88b71ae0c3748daa0dcb44d0061cad6"
+    documentation="Consumer/SME/SOHO - no bit stream requirement required">
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Segment"
+      value="Consumer/Business"/>
+  <properties
+      key="Access/Service Type"
+      value="FWA"/>
+  <properties
+      key="Comarch can support"
+      value="Yes"/>
+  <properties
+      key="Non-Comarch IT support needed"
+      value="Yes"/>
+  <properties
+      key="NaaS will support"
+      value="Yes"/>
+  <properties
+      key="Automated non-NaaS support"
+      value="Yes"/>
+  <properties
+      key="Unexpected"
+      value="true"/>
+</archimate:BusinessService>

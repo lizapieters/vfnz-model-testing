@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Track Party Revenue Share Reconciliation"
+    id="id-37d768a54f974de7ad997a88d2629ced"
+    documentation="Not used for this process element.">
+  <properties
+      key="Process Identifier"
+      value="1.6.18.4.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Ensure party revenue share reconciliation are managed and tracked efficiently to keep involved parties, including an enterprise's involved parties advised of the party revenue share reconciliation progress."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

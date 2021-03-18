@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Policy Risk Level Determination"
+    id="id-6ee37f720d9343f491549fa1f71875b0"
+    documentation="The ability to identify and define the level of risk associated with a policy or set of policies.">
+  <properties
+      key="TMF_ID"
+      value="1.2.3.4.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

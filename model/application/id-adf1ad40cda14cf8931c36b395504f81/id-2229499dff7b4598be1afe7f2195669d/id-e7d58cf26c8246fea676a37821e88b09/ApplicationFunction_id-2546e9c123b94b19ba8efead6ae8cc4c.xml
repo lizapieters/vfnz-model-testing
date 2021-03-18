@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Fault &amp; Performance Data Mediation"
+    id="id-2546e9c123b94b19ba8efead6ae8cc4c"
+    documentation="Resource Data Mediation applications provide integration to network resource and IT resources for all Resource Management functions. These applications take the output from the various resources and re-format the data into a form usable by an application responsible for monitoring fault and performance,�such as a status monitoring application. Resource Data Mediation application ensures that the application using the information from various resources is not impacted by the technology/topology/implementation changes of the underlying resources.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="7.4.3"/>
+  <properties
+      key="Frameworx Domain"
+      value="Resource Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

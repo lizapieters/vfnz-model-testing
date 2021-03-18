@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SMS, VoiceMail"
+    id="id-501a64a2415443ac93f9ea8edd4e0f17">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-643ad1417307472a87feb6317aeb7204.xml#id-643ad1417307472a87feb6317aeb7204"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-77559c30be4348cf9c934c1218421311.xml#id-77559c30be4348cf9c934c1218421311"/>
+</archimate:FlowRelationship>

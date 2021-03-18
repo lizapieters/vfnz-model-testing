@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RA Analysis"
+    id="id-fc07c071702644f5a124925ffe2e05b3"
+    documentation="RA Analysis provides the necessary functionality to investigate and diagnose revenue assurance anomalies identified via RA Monitoring. This can include both automated analysis per established RA policies and business rules as well as manual analysis/investigation.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="9.1.4"/>
+  <properties
+      key="Frameworx Domain"
+      value="Enterprise Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Support Portal Server"
+    id="id-9447225e9aa64b54b1d28c309ef567d3"
+    documentation="The Operations Support Portal encompasses Portal Infrastructure for internal / center use into which functional components are plugged. The Framework provides the �foundation� for the development of agent-facing functionality.">
+  <properties
+      key="Function Identifier"
+      value="731"/>
+  <properties
+      key="TAM Application Name"
+      value="Operations Portal"/>
+  <properties
+      key="TAM Application Id"
+      value="5.22.1.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.22.1.1.731"/>
+</archimate:ApplicationFunction>

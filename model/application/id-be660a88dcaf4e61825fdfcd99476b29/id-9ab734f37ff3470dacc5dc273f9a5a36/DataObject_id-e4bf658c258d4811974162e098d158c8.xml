@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MACAddressValue"
+    id="id-e4bf658c258d4811974162e098d158c8"
+    documentation="This class is used to define a list of MAC addresses and MAC address range values as an unordered list of strings; each specifying a MAC address or a range of MAC addresses according to the canonical 802 MAC address format. Each string entry is either: - a single MAC address; such as 0000:00A5:0000 - a range of MAC addresses specified by an address and mask; such as 0000:00A5:0000;FFFF:FFFF:0000; which defines a range of MAC addresses in which the first four octets are equal to 0000:00A5."/>

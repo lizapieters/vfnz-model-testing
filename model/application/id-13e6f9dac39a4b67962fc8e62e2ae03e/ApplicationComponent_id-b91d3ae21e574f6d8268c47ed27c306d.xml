@@ -1,0 +1,42 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RED ISP Hosting"
+    id="id-b91d3ae21e574f6d8268c47ed27c306d"
+    documentation="RED ISP Hosting">
+  <properties
+      key="StatusForLookUp"
+      value="Phase Out"/>
+  <properties
+      key="Owner"
+      value="AndrewH"/>
+  <properties
+      key="Level of Service"
+      value="Mission Critical"/>
+  <properties
+      key="Product / Service"
+      value="Fixed"/>
+  <properties
+      key="Segment"
+      value="Common"/>
+  <properties
+      key="DX Association"
+      value="Replaced Fully"/>
+  <properties
+      key="Existing Retained or Replaced"
+      value="Replace"/>
+  <properties
+      key="ComArch / Other"
+      value="Network as a Service (VF)"/>
+  <properties
+      key="Legacy BSS Stack Served"
+      value="Red"/>
+  <properties
+      key="TAM App ID"
+      value="7.1"/>
+  <properties
+      key="TAM Domain"
+      value="Resource Domain"/>
+  <properties
+      key="TAM Application"
+      value="Resource Lifecycle Management"/>
+</archimate:ApplicationComponent>

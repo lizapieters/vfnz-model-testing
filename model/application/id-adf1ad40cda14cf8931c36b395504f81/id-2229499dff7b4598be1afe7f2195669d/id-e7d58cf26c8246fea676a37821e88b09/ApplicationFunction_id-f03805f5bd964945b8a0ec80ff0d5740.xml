@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Self Empowered Fulfillment"
+    id="id-f03805f5bd964945b8a0ec80ff0d5740"
+    documentation="Customer self empowered fulfillment applications provide an internet technology driven interface to the customer to undertake a variety of fulfillment functions directly for themselves. These applications interact to provide fully automated service or assisted service over all customer self management touch points. These applications tend enable rapid order-to-activation while reducing operating costs through improved efficiency and integrated flow-through-fulfillment. Today�s communications products and services carry commodity oriented attributes requiring easy activation, amendment and consumption, rapid and comprehensive introduction to customers while bringing together customer consumption interests and service provider�s business interests in a seamless and consistent manner.&#xA;&#xA;It is assumed that the user is not as savvy as the employee at the call center. The customer experience should support a simple flow that capitalizes from the advanced application flows defined by the order management applications (cf. Order Management Applications).">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="5.4.1"/>
+  <properties
+      key="Frameworx Domain"
+      value="Customer Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Procurement Requisition &amp; Order Management"
+    id="id-83b3af5948464a1d9d68ee72c1f75cb5"
+    documentation="Manage the requisitions for material and placing the orders with the contracted supplier/partner">
+  <properties
+      key="Function Identifier"
+      value="750"/>
+  <properties
+      key="TAM Application Name"
+      value="Procurement"/>
+  <properties
+      key="TAM Application Id"
+      value="9.10.2"/>
+  <properties
+      key="Constructed Id"
+      value="9.10.2.750"/>
+</archimate:ApplicationFunction>

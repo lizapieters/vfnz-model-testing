@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Asset management Integration"
+    id="id-c4f5080907bb49e08f7ba486e41df81e"
+    documentation="Space Planning function for Integration to Asset management, including support for total cost of occupancy">
+  <properties
+      key="Function Identifier"
+      value="881"/>
+  <properties
+      key="TAM Application Name"
+      value="Space Planning"/>
+  <properties
+      key="TAM Application Id"
+      value="9.4.1.3"/>
+  <properties
+      key="Constructed Id"
+      value="9.4.1.3.881"/>
+</archimate:ApplicationFunction>

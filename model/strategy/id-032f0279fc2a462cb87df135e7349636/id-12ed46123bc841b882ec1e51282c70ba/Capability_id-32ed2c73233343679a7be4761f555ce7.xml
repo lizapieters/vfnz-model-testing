@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Route/Partner Matching"
+    id="id-32ed2c73233343679a7be4761f555ce7"
+    documentation="The Ability to associate a route with a partner.">
+  <properties
+      key="TMF_ID"
+      value="1.1.10.5.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

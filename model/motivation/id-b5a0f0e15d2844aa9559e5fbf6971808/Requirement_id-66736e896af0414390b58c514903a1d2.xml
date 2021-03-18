@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0048"
+    id="id-66736e896af0414390b58c514903a1d2"
+    documentation="As a product manager, I want to be able to create promo codes based on specific criteria, so that I can create appealing offers for customers">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0048"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="y"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Topic"
+      value="Create promo codes"/>
+  <properties
+      key="Remarks"
+      value="OOTB - discount coupons of one-time use? or are they distributed and e.g. limited use should be checked? what type of discounts is possible based on coupons ? A nice to have feature: automatically apply a promo code based on information in the link that is send in an email to the customer. not sure if coupons functionality should be provided for base 1 and description should be included in HLD, if yes at least to have an idea what is VF expectation we need answers for the following questions: 1. What type of coupons should be created ? a. Unique codes which can be used only once b. Code which can be used e.g. for the 200 first usage? c. Would you like to have like personalized codes with validation who is able to use this code, currently not provided ootb but the question is if you want to limit who can use the coupon? 2. Do you assume to create vouchers which have to be printed and provided for sale? 3. What are the use cases around codes: a. Campaign with code based on which customer gets discount? b. Codes for referrals? c. Codes for employees?"/>
+  <properties
+      key="Module"
+      value="DS, SC, OM, PC, VM (?)"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="Not Applicable"/>
+</archimate:Requirement>

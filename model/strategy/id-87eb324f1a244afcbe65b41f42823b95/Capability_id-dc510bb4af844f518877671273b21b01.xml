@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Capability Orchestration"
+    id="id-dc510bb4af844f518877671273b21b01"
+    documentation="Service Capability Orchestration application will perform automated service decomposition, service/serices integration, coordination, and management in service deployment, service or connected activation and service element updating. The application function fulfills the needs of orchestration for Operation Support &amp; Readiness, Fulfilment and Assurance and Billing domains applications with regards to Hybrid ecosystem.">
+  <properties
+      key="TMF Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="6.11"/>
+  <properties
+      key="TMF Function"
+      value="Service Instantiation and Lifecycle management support Service Task Item Configuration and Onboarding Service Task Item Decomposition Service Task Item Policy Control Configuration Service Task Item Sequence Carry Through Service Task Item Sequence Carry Through Configuration Service Task Item Sequence Control Service Task Item Sequence Control Configuration"/>
+  <properties
+      key="TMF Maturity"
+      value="Service Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

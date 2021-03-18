@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Party Revenue Sharing Model Specification Lifecycle"
+    id="id-657bcdb575a146d9a75cf032c46eb1aa"
+    documentation="Define, update, and remove the specification for a revenue sharing model including its name, description, validity period, and so forth.">
+  <properties
+      key="Process Identifier"
+      value="1.6.18.1.1.1"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

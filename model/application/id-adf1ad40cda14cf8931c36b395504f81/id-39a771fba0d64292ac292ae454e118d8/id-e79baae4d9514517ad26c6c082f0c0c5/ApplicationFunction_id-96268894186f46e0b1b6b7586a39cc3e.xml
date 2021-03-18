@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Billing Event Error Re-distribution"
+    id="id-96268894186f46e0b1b6b7586a39cc3e"
+    documentation="Re-distribution features to send the usage to the proper destination(s).">
+  <properties
+      key="Function Identifier"
+      value="80"/>
+  <properties
+      key="TAM Application Name"
+      value="Billing Event Error Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.20.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.20.2.80"/>
+</archimate:ApplicationFunction>

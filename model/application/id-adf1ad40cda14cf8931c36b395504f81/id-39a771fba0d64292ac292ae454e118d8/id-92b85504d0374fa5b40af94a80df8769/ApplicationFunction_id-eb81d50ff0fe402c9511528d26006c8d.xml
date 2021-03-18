@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service availability validation"
+    id="id-eb81d50ff0fe402c9511528d26006c8d"
+    documentation="Service availability validation function validates that the service or services specified on the service order are available at the specified customer/service location.">
+  <properties
+      key="Function Identifier"
+      value="586"/>
+  <properties
+      key="TAM Application Name"
+      value="Service Address Validation Service Availability Validation"/>
+  <properties
+      key="TAM Application Id"
+      value="#N/A"/>
+  <properties
+      key="Constructed Id"
+      value="#N/A"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Correct &amp; Resolve Resource Trouble"
+    id="id-494aacdc937a44ea8f03e8e30818fb78"
+    documentation="Restore or replace resources that have failed as efficiently as possible">
+  <properties
+      key="Process Identifier"
+      value="1.5.8.3"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of the Correct &amp; Resolve Resource Trouble processes is to restore or replace resources that have failed as efficiently as possible. Based on the nature of the resource failure leading to the associated resource alarm event notification, automatic restoration procedures might be triggered. Manual restoration activity is assigned to the Correct &amp; Resolve Resource Trouble processes from the Track &amp; Manage Resource Trouble processes. Depending on the nature of the specific resource failure, these processes may possibly repair or replace the failed unit or specific resource. These processes are also responsible for - to isolate a unit with a fault - to manage the redundant resource units (e.g. hot standby) - to (auto) heal a resource - to identify the root cause of failure - to repair failed specific resource (including hardware failure and software failure) For large resource failures requiring extensive repair and/or replacement activity to restore normal operation, these processes will attempt to implement work-arounds to recover the specific resource operation. In these circumstances, recover of normal operation may require invocation of the Support Resource Trouble Management processes. They will also report successful restoration of normal operation, restoration through temporary work-arounds or an unsuccessful attempt at restoration to Track &amp; Manage Resource Trouble through updates to the associated resource trouble report."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

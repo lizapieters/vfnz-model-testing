@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0664"
+    id="id-0f049b29a2a8427a8f44c21959b05029"
+    documentation="As a customer, I want to ensure that I'm not charged for my interest free device until after it has been dispatched.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0664"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="2"/>
+  <properties
+      key="Base_Old"
+      value="2"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="buy"/>
+  <properties
+      key="Topic"
+      value="Pre orders"/>
+  <properties
+      key="Remarks"
+      value="To be discussed. Does the customer not pay during the ordering? Does the cycle of payments start on the moment of dispatching? Yes, in this case the payment is done when the device is dispatched. More details to come from VF about all possible scenarios. Cycle of payments should start from first use for new customers, TBC for existing customers, possibly on dispatch of device. DX: Table to still be worked through. some sceanrios: if it’s a regular sale we can charge when ordering, if it’s pre sales we will hold the funds on card during order, and make the actual charge when device is dispatched. If existing customer, still tbc if its done on device dispatch or cycle aligned."/>
+  <properties
+      key="Module"
+      value="OM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

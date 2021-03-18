@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Support Product Offering Purchasing"
+    id="id-e33d3dbaad7f4adf8a141cfa96731039"
+    documentation="Support Product Offering Purchasing ensures that all information, materials, systems and resources are available so that the Product Offering Purchasing processes can operate effectively.">
+  <properties
+      key="Process Identifier"
+      value="1.2.4.4"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The purpose of the Support Product Offering Purchasing processes is to ensure that there is capability (for example, information, materials, systems and resources) so that the Product Offering Purchasing processes can operate effectively when there is a an inbound/outbound purchase of one or more product offerings, changes an offering being purchased, or reviewing an entire purchase. Examples are information on how to handle product purchases including shopping purchases in the form of in-store, shopping cart purchases, window shopping (a form of browsing) and purchases in the form of product (offering) orders that result in a product being delivered to a party or from a party. These processes are responsible for implementing generic and specific changes to product offering purchasing capabilities. This support could be in updating scripts, batch procedures, etc. These processes undertake trend analysis on product offerings purchasing, e.g. type, frequency, duration, outcome."/>
+  <properties
+      key="Maturity Level"
+      value="3"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

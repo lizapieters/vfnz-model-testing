@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Center Force &amp; Queue Management"
+    id="id-5b1cc6f39c9b4eb1a6964a27e94fbaba"
+    documentation="Center Force &amp; Work QueueManagement administers work center workforce and associated skills-based work assignments. It addresses scheduling, work distribution/assignment and planning for current and forecasted center work-loads.Center Force &amp; Work Queue Management also addresses work queuing and work assignment received from various channels including incoming calls, email, and back-office/front-office work distribution and queuing. Work Queuing can be on-line (active customer contact) or off line (no customer &quot;on the line&quot;).">
+  <properties
+      key="TMF Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.22.2.3"/>
+  <properties
+      key="TMF Function"
+      value="Care-center work queuing Care-center workforce administration"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

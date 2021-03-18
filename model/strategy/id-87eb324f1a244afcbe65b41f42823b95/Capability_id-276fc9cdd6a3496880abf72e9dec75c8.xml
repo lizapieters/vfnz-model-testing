@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Experience Monitoring"
+    id="id-276fc9cdd6a3496880abf72e9dec75c8"
+    documentation="Customer Experience Monitoring (�Monitor�) provides the necessary functionality for continuous monitoring of operational factors that qualify the customer experience such as financial (billing overage, payment, abnormal fee etc.), usage (failed attempts at using a particular service, inactivity or sudden decrease in usage of certain service etc.), technical (network related such as dropped calls, internet access problems, video buffering etc.&amp; device related such as battery draining, configuration mismatch, etc.), Customer Influence and Churn Risk Analysis and the like. This should also include monitoring of relevant events from external sources such as Social Media, 3rd Party sites etc.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.5.12"/>
+  <properties
+      key="TMF Function"
+      value="Customer Experience event capturing framework Customer Experience interaction gathering Customer Experience mapping and aggregation Customer Experience network probes event collection Customer Experience real time feeds injection Support Loyalty and Retention Management"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

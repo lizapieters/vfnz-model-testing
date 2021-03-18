@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BillingPeriod"
+    id="id-883d39848a334087a0f9f8daff7f26c7"
+    documentation="A billing time period. It can be recurring (for example; a week; a month; a quarter of year; a year) or partyom (in this case additional business entities to describe partyom dates would be needed)."/>

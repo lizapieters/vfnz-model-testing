@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Campaign/Job Matching"
+    id="id-aad1c2fef6914e84a2ba46d5a50fc055"
+    documentation="The ability to associate a campaign with a job.">
+  <properties
+      key="TMF_ID"
+      value="1.2.12.7.13"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

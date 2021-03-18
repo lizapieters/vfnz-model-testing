@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product/Message Matching"
+    id="id-216bbebc934947d38f31327ba88284c1"
+    documentation="The ability to associate a product specific message to the product.">
+  <properties
+      key="TMF_ID"
+      value="1.1.3.14.7"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

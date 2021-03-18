@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financial Controls, Editing, &amp; Reference Data"
+    id="id-ccad1694fecf421b91c2bdbcdf08fef3"
+    documentation="Financial Controls, Editing &amp; Reference Data applications provide the required functionality to enable financial feeders to pre-edit and validate transactions prior to sending them to the financial ledgers for posting. It also covers the receipt of those transactions by the financial applications and the validation features prior to transaction posting.">
+  <properties
+      key="TMF Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.3.1.2"/>
+  <properties
+      key="TMF Function"
+      value="Financial batch validation Financial DataTranslation Financial error correction Financial Reference Data Maintenance Financial Transaction Routing"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0939"
+    id="id-34f8ff10ad5241beb4f437131c104193"
+    documentation="As a Product owner, I want complex customers to have the following options for invoice format;&#xA;'- .pdf&#xA;'- an extract available that can be exported to Xero or MYOB (or any chosen accounting software)&#xA;'- ability to export to .csv or .xls">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0939"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Jared Mortlock"/>
+  <properties
+      key="Tribe"
+      value="Finance &amp; Business / Billing"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Billing"/>
+  <properties
+      key="Remarks"
+      value="Assumed that Comarch generates invoices in various format. Via which system exports should be available? Could you provide examples of Xero and MYOB formats? How mamy format should we assume? VFZN AP: Please provide templates for each types of document like invoice/statement (pdf, xml, csv, xls)"/>
+  <properties
+      key="Module"
+      value="EP, BS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

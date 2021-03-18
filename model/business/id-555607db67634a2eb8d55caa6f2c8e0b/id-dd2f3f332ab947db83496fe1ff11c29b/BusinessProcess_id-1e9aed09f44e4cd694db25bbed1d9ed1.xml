@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define Privacy Policy Rules Values"
+    id="id-1e9aed09f44e4cd694db25bbed1d9ed1"
+    documentation="Define the values possible for each Privacy Profile Rule that can be chosen by the Data Subject Party, through Consent and  in later versions, the Dashboard.">
+  <properties
+      key="Process Identifier"
+      value="1.6.7.2.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Define the values possible for each Privacy Profile Rule (Internal/External Purpose Rules, Internal/External Retention Rules) that can be chosen by the Data Subject Party, through Consent and in later versions, the Dashboard. The values can decrease or increase the permissions defined in the default value."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

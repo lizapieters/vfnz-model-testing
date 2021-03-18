@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Activation"
+    id="id-0a365c09ab7042b69ddb4696f95b102f"
+    documentation="Resource Activation Functions including: � Update the resource instance to perform the activation or deactivation � Multi-vendor and multi-technology activation � Update the resource to activate Billing data collection � Confirm / identify available resources">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="7.4.2"/>
+  <properties
+      key="Frameworx Domain"
+      value="Resource Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

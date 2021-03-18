@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1432"
+    id="id-f2072b857951487c908cb26d5c298324"
+    documentation="As a customer who has chosen to have a mix of billable and non-billable invoices, I want to be able to choose if a non-billed invoice is sent as info only e.g. Wn receives an info only invoice but all services are for by Chch">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1432"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Ben Pennell"/>
+  <properties
+      key="Tribe"
+      value="Business"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Setup"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Account Hierarchies"/>
+  <properties
+      key="Remarks"
+      value="What is meant by non-billable invoice? its the statement. copy of the invoice (different header - statement only). PDF/CSV If anything is expected for Wn (report?) Eddie excample of statement. Additional use case will be provided by Jared"/>
+  <properties
+      key="Module"
+      value="PIM, BS, SC, EP"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Business Only"/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

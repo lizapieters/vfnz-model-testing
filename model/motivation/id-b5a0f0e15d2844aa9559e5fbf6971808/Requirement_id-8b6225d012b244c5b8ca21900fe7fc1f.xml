@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1082"
+    id="id-8b6225d012b244c5b8ca21900fe7fc1f"
+    documentation="As a customer I want to b able to access Rewards from the vodafone web/app, so that everything I need is contained in one place">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1082"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="2"/>
+  <properties
+      key="Base_Old"
+      value="2"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Self Service"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="self service"/>
+  <properties
+      key="Topic"
+      value="Marketing and Campaign Management"/>
+  <properties
+      key="Remarks"
+      value="PC: What type of rewards are possible? where rewards should be defined in PC or external loyalty system?"/>
+  <properties
+      key="Module"
+      value="CLM, CCM, SC, PC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

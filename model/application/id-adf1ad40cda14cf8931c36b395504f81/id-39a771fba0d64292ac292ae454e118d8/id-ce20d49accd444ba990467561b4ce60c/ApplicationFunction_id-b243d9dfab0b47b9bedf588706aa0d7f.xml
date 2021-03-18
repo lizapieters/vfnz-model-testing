@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Catalog View Management"
+    id="id-b243d9dfab0b47b9bedf588706aa0d7f"
+    documentation="Generating different views for users that manage different data layers. As a master catalog can support multiple lines of business and multiple layers, it should be dynamic enough to provide different display options for the different cases&#xA;For example, a network implementer may require a visual graph that will show relations between services in a graphical manner, while a product manager will require a dedicated view that displays only the product offerings that are under his domain of responsibility. Creating differnet custom views for different roles is a mandatory requirement in such a catalog.">
+  <properties
+      key="Function Identifier"
+      value="15"/>
+  <properties
+      key="TAM Application Name"
+      value="Catalog Management"/>
+  <properties
+      key="TAM Application Id"
+      value="11.1"/>
+  <properties
+      key="Constructed Id"
+      value="11.1.15"/>
+</archimate:ApplicationFunction>

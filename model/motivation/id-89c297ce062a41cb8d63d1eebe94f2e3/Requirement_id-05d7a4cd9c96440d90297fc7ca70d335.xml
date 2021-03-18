@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0647"
+    id="id-05d7a4cd9c96440d90297fc7ca70d335"
+    documentation="The Collections solution shall enable customer accounts to be allocated to profiles automatically and manually">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0647"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Jasmin Khambata"/>
+  <properties
+      key="Tribe"
+      value="Collections"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Collections"/>
+  <properties
+      key="Remarks"
+      value="Can you please explain role of customer profiles in Collections solution? What kind of profiles do you have? Requirement clear Manualy change of profile should not be overriden by automated process"/>
+  <properties
+      key="Module"
+      value="BS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

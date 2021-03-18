@@ -1,0 +1,30 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WiFi Calling"
+    id="id-00f7a3dda8f245f4a5ae910b9163a794"
+    documentation="Hypothesis yes. might be confusion about Voice over WiFi which is different to WiFi-Calling.&#xA;Linked to Feature_6, 8, 9 &amp; 13">
+  <properties
+      key="Target Horizon"
+      value="TBC"/>
+  <properties
+      key="Segment"
+      value="Consumer/Business"/>
+  <properties
+      key="Access/Service Type"
+      value="VoIP"/>
+  <properties
+      key="Comarch can support"
+      value="TBC"/>
+  <properties
+      key="Non-Comarch IT support needed"
+      value="TBC"/>
+  <properties
+      key="NaaS will support"
+      value="TBC"/>
+  <properties
+      key="Automated non-NaaS support"
+      value="TBC"/>
+  <properties
+      key="Unexpected"
+      value="true"/>
+</archimate:BusinessService>

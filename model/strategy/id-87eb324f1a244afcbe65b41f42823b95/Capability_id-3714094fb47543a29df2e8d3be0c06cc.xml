@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Change Management"
+    id="id-3714094fb47543a29df2e8d3be0c06cc"
+    documentation="The planning functions&amp; Network Design Automation, Strategic, Tactical and Implementation Planning require change management that connects the activities into a set of planning processes. Strategic Planning needs to interwork with suppliers using Partner Management and Tactical Planning needs to connect out through the authorization and purchasing process to vendor ERPs as part of the supply chain. Network engineering generally relies on manual functions which need to be change managed through Job Control.&#xA;These various forms of orchestration are brought together in the Job Control and Delivery Management application.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="7.5.1"/>
+  <properties
+      key="TMF Function"
+      value="Resource Change Project management Resource Change to Financial Control Collaboration Resource Change Work Collaboration"/>
+  <properties
+      key="TMF Maturity"
+      value="Resource Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

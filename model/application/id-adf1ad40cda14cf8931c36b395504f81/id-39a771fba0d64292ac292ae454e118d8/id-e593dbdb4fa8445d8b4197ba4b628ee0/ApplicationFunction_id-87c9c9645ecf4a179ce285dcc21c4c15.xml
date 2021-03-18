@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Spares inventory"
+    id="id-87c9c9645ecf4a179ce285dcc21c4c15"
+    documentation="Database of all spares including location of the spares, as part of the Spares &amp; Warehouse Inventory Management">
+  <properties
+      key="Function Identifier"
+      value="521"/>
+  <properties
+      key="TAM Application Name"
+      value="Spares &amp; Warehouse Inventory Management"/>
+  <properties
+      key="TAM Application Id"
+      value="7.1.6"/>
+  <properties
+      key="Constructed Id"
+      value="7.1.6.521"/>
+</archimate:ApplicationFunction>

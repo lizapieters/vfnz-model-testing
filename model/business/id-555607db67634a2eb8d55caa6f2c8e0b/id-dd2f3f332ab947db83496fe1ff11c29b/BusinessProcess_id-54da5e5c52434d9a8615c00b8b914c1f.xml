@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Track Party Orders"
+    id="id-54da5e5c52434d9a8615c00b8b914c1f"
+    documentation="These processes track progress with the party, either periodically, or at defined points according to a project or program plan. This tracking may be driven from the enterprise, or triggered by reports from the party (such as periodically or at key events). These processes also initiate jeopardy and risk management in relation to the supplied specific resources, services and products, their availability and delivery schedule.">
+  <properties
+      key="Process Identifier"
+      value="1.6.8.3.6"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

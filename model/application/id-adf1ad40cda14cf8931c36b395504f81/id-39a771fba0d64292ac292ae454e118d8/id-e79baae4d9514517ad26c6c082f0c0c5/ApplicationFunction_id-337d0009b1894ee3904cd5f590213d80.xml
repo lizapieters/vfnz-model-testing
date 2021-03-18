@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Privacy Consent Agreement"
+    id="id-337d0009b1894ee3904cd5f590213d80"
+    documentation="A Privacy Dashboard function used to obtain consent from the &quot;Data Subject Party&quot; at the time of a change to the Privacy Profile. This can be initiated by the &quot;Data Subject Party&quot; at creation of new usage, or by the Service when delivering a new scenario.">
+  <properties
+      key="Function Identifier"
+      value="668"/>
+  <properties
+      key="TAM Application Name"
+      value="Privacy Consent"/>
+  <properties
+      key="TAM Application Id"
+      value="5.23.3"/>
+  <properties
+      key="Constructed Id"
+      value="5.23.3.668"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enterprise Risk Management"
+    id="id-7804051a02184a0cbe5a43804e327653"
+    documentation="The Enterprise Risk Management process grouping focuses on assuring that risks and threats to the enterprise value and/or reputation are identified, and appropriate controls are in place to minimize or eliminate the identified risks. The identified risks may be physical or logical/virtual. Successful risk management ensures that the enterprise can support its mission critical operations, processes, applications, communications in the face of a serious incident, from security threats/violations and fraud attempts.&#xA;The Enterprise Risk Management processes deal with issues surrounding business continuity, security and fraud. Where those risks can be managed within the context of the enterprise they are managed. However there are some risks, which are outside of the ability of the enterprise to reduce. In those circumstances external insurance can give some comfort to the enterprise, and so the area of insurance management is a key element. &#xA;A key aspect of risk management is an independent assessment that the identified controls are in place and working effectively. This independent assessment is provided by the Audit Management processes.&#xA;In many enterprises the area of credit management can be incorporated within the Enterprise Risk Management processes. In the information and communications technology industry, the issuing of credit and credit assessment is intimately tied with the operational processes surrounding the identification and management of customers. In the eTOM Business Process Framework, credit management processes are therefore placed within the Customer-Ops horizontal process grouping.">
+  <properties
+      key="Process Identifier"
+      value="1.7.2"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Enterprise Risk Management process grouping focuses on assuring that risks and threats to the enterprise value and/or reputation are identified, and appropriate controls are in place to minimize or eliminate the identified risks. The identified risks may be physical or logical/virtual. Successful risk management ensures that the enterprise can support its mission critical operations, processes, applications, communications in the face of a serious incident, from security threats/violations and fraud attempts. The Enterprise Risk Management processes deal with issues surrounding business continuity, security and fraud. Where those risks can be managed within the context of the enterprise they are managed. However there are some risks which are outside of the ability of the enterprise to reduce. In those circumstances external insurance can give some comfort to the enterprise, and so the area of insurance management is a key element. A key aspect of risk management is an independent assessment that the identified controls are in place and working effectively. This independent assessment is provided by the Audit Management processes. In many enterprises the area of credit management can be incorporated within the Enterprise Risk Management processes. In the information and communications technology industry, the issuing of credit and credit assessment is intimately tied with the operational processes surrounding the identification and management of customers. In the eTOM Business Process Framework, credit management processes are therefore placed within the Customer-Ops horizontal process grouping."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

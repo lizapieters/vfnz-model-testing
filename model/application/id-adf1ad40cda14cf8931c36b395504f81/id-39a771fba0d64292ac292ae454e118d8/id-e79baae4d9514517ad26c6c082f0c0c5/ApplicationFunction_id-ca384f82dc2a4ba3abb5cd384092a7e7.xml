@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collection Actions - Charges"
+    id="id-ca384f82dc2a4ba3abb5cd384092a7e7"
+    documentation="Automatic and manual generation of the penalty charges (dunning charges, payment rejection fees) linked to dunning of the due amount, in order to bill the customer according to the details of his / her contract..">
+  <properties
+      key="Function Identifier"
+      value="152"/>
+  <properties
+      key="TAM Application Name"
+      value="Collection Policy Execution and Monitoring"/>
+  <properties
+      key="TAM Application Id"
+      value="5.14.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.14.2.152"/>
+</archimate:ApplicationFunction>

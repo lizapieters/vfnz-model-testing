@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Payment State Management"
+    id="id-ff83a28b374f41a18a5a91ad14c993b3"
+    documentation="The ability to set and recognize payment status including determination of a payment pending, communicated, paid, or overdue.">
+  <properties
+      key="TMF_ID"
+      value="1.3.6.6.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

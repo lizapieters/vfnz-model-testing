@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inquiry Type Management"
+    id="id-340f2e64693d474aa8bdabe30e98ba33"
+    documentation="The ability to determine, modify, and interpret the category or classification of an inquiry.">
+  <properties
+      key="TMF_ID"
+      value="1.3.12.6.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

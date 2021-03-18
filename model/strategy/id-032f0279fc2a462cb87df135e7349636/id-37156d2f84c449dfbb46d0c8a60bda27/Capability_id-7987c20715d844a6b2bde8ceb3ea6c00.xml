@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trip Matching"
+    id="id-7987c20715d844a6b2bde8ceb3ea6c00"
+    documentation="The Ability to associate a trip with other aspects of a journey or related business objects.">
+  <properties
+      key="TMF_ID"
+      value="1.1.6.4"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0178"
+    id="id-ba4988ae328e4eb5ae486a79af2bfc04"
+    documentation="As a product owner, I want to be able to charge customers in real time (either per min or single payment over pre-defined period - daily, weekly, fortnightly, 4 weekly, monthly, annually) for roaming data, calls and texts">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0178"/>
+  <properties
+      key="Status"
+      value="Potential gap"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="2"/>
+  <properties
+      key="Base_Old"
+      value="2"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Use"/>
+  <properties
+      key="Topic"
+      value="Roaming"/>
+  <properties
+      key="Remarks"
+      value="Is charging for single payment over pre-defined period (daily, weekly, fortnightly, 4 weekly, monthly, annually) still required? This was not mentioned during Micropurchases presentation. Sounds more like buying and add-on and not real time charging. This is allowing for the scenario where a chargeable action can either be an add on OR a micropurchase. So we will need to have the ability to charge a per min or an add on (that can have different durations such as daily, weekly, etc)"/>
+  <properties
+      key="Module"
+      value="PC, OCS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="Yes"/>
+</archimate:Requirement>

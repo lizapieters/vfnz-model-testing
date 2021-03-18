@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Quality Reporting"
+    id="id-8d2c5af1911344a9824437fff7248de2"
+    documentation="Service Quality Reporting applications generate various reports on service quality and makes them available for consumption.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="6.9.4"/>
+  <properties
+      key="TMF Function"
+      value="Service Quality Reporting"/>
+  <properties
+      key="TMF Maturity"
+      value="Service Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

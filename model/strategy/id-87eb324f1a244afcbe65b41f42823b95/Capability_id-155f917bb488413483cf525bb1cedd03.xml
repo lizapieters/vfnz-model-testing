@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Quality Management"
+    id="id-155f917bb488413483cf525bb1cedd03"
+    documentation="Service Quality Management (SQM) applications are designed to allow operators to monitor and manage the levels of service they are delivering. Service quality measurements are collected and compared against established quality indicators, and the conclusions made available to interested parties.">
+  <properties
+      key="TMF Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="6.9"/>
+  <properties
+      key="TMF Function"
+      value="0"/>
+  <properties
+      key="TMF Maturity"
+      value="Service Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

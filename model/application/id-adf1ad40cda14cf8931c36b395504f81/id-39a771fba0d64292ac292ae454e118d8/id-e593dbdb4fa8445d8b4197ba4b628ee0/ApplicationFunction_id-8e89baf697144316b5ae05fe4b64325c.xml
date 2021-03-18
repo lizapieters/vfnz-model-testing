@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Usage Event Error cause identification"
+    id="id-8e89baf697144316b5ae05fe4b64325c"
+    documentation="Provide features to identify the error cause for usage records which have been identified as being non-processable due to edit, rate, guide, routing, etc. failures">
+  <properties
+      key="Function Identifier"
+      value="532"/>
+  <properties
+      key="TAM Application Name"
+      value="Usage Event Error Management"/>
+  <properties
+      key="TAM Application Id"
+      value="7.14.2"/>
+  <properties
+      key="Constructed Id"
+      value="7.14.2.532"/>
+</archimate:ApplicationFunction>

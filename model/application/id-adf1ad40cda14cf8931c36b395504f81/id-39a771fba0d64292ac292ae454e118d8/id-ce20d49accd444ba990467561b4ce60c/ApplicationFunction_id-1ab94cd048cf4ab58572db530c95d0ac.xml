@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Task Work Item Sequence Carry Through"
+    id="id-1ab94cd048cf4ab58572db530c95d0ac"
+    documentation="Task Work Item Sequence Carry Through: To carry through the overall task the items of the task need to be   performed in a specific order. This application function will perform the workflow according   to configuration.">
+  <properties
+      key="Function Identifier"
+      value="975"/>
+  <properties
+      key="TAM Application Name"
+      value="Orchestration Management"/>
+  <properties
+      key="TAM Application Id"
+      value="11.3"/>
+  <properties
+      key="Constructed Id"
+      value="11.3.975"/>
+</archimate:ApplicationFunction>

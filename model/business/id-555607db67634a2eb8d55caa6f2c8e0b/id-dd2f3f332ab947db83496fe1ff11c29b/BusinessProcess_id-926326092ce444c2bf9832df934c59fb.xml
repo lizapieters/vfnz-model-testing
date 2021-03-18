@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Correlate Resource Performance Event Notifications"
+    id="id-926326092ce444c2bf9832df934c59fb"
+    documentation="This process passes information about potential specific service performance degradations arising from specific resource degradations to Service Quality Management to manage any necessary restoration activity as determined by that process. It passes information about resource failures due to performance threshold violations to Resource Trouble Management to manage any necessary restoration activity as determined by that process. It forwards resource performance degradation notifications to other Resource Performance Management processes, which manage activities to restore normal specific resource performance">
+  <properties
+      key="Process Identifier"
+      value="1.5.9.1.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

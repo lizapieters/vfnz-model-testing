@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop Detailed Product Offering Commercial Specifications"
+    id="id-d30aef04ddc84c13b21161afcda0cd68"
+    documentation="Develop the product offering, associate applicable features defined for its associated product specification and/or product configuration specification, as well as other commercial aspects of the specification.">
+  <properties
+      key="Process Identifier"
+      value="1.2.7.2.1.3.1"/>
+  <properties
+      key="Category"
+      value="(6) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Develop Detailed Product Offering Commercial Specifications develops the product offering, which includes the development of bundled offerings. Bundles may include offerings on-boarded from other parties. Applicable features known as characteristics defined from the associated product specification and/or product configuration specification are associated to the product offering. Prices, developed by the Product Offering Pricing core process, are associated to the product offering. Associations between and among product offerings are developed. These associations represent business rules, such as migration, substitution, dependency, or exclusivity between and among the offerings. Associations with sales channels, market segments, and locations. and other entities are defined. The processes ensure that all detailed commercial specifications for the offering are produced and appropriately documented. Additionally the processes ensure that the documentation is captured in an appropriate enterprise repository."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

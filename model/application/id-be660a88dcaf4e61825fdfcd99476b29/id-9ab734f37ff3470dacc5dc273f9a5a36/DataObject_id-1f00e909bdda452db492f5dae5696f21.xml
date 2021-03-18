@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ConsequenceMetricNotificationSpec"
+    id="id-1f00e909bdda452db492f5dae5696f21"
+    documentation="It specifies the invariant characteristics that define a communication (notification) that occurs as part of a MetricDefMeasureConsquence. A Notification is typically one-sided; in that no Response is expected. For example; a notification might be defined for a supervisor role and another one for a technician role as the result of a MetricDefMeasureThresholdRule. In this case; each ConsequenceMetricNotificationSpec will specify to include the value of the MetricMeasure but the text might be different and they could contain different information according to the scope of interest from the supervisor and the technician."/>

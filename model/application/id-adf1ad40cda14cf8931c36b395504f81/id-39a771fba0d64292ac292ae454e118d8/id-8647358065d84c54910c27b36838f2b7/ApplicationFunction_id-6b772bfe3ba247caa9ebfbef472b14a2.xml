@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="General Ledger Integration"
+    id="id-6b772bfe3ba247caa9ebfbef472b14a2"
+    documentation="General Ledger Integration for journals, budgets, reporting, and currency rates, e.g. spreadsheet integration">
+  <properties
+      key="Function Identifier"
+      value="802"/>
+  <properties
+      key="TAM Application Name"
+      value="General Ledger"/>
+  <properties
+      key="TAM Application Id"
+      value="9.3.1.1"/>
+  <properties
+      key="Constructed Id"
+      value="9.3.1.1.802"/>
+</archimate:ApplicationFunction>

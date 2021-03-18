@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Program Performance Threshold Setting"
+    id="id-304d771dbf874237b78efbdfda76e8b2"
+    documentation="The ability to determine acceptable or unacceptable levels of performance.">
+  <properties
+      key="TMF_ID"
+      value="1.3.4.5.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Billing Event Processing Collection"
+    id="id-ae98515ad1ba439daf58d3073051948b"
+    documentation="Billing Event Processing Collection, including gateway functions">
+  <properties
+      key="Function Identifier"
+      value="83"/>
+  <properties
+      key="TAM Application Name"
+      value="Billing Event Processing"/>
+  <properties
+      key="TAM Application Id"
+      value="5.20.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.20.1.83"/>
+</archimate:ApplicationFunction>

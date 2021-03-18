@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Regulatory &amp; Compliance Management"
+    id="id-15543f73b2f84d36a75a8e20e6aac7c6"
+    documentation="Applications to stay on top of changing laws, regulations, industry specific regulations, standards, and internal policies.">
+  <properties
+      key="TMF Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.8"/>
+  <properties
+      key="TMF Function"
+      value="Regulatory &amp; Compliance Documentation Management Regulatory &amp; Compliance monitoring Regulatory &amp; Compliance Reporting"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Catalog Inquiry handling"
+    id="id-856ba424f1874a8fb3d3f561693aeb73"
+    documentation="Catalog data requires easy storage and retrieval of information. Historical changes should be stored and easily retrieved, including changes done on the entity level or changes done by different users. &#xA;Retrieval process should return simple queries but also complex queries retrieving data entities that comply with complex conditions, in order to enable easier analyzing and slicing of the catalog data.">
+  <properties
+      key="Function Identifier"
+      value="9"/>
+  <properties
+      key="TAM Application Name"
+      value="Catalog Management"/>
+  <properties
+      key="TAM Application Id"
+      value="11.1"/>
+  <properties
+      key="Constructed Id"
+      value="11.1.9"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Damage Claim to Accounting Integration"
+    id="id-1d9405a34ff74f318fb629352336da37"
+    documentation="Damage Claim to Accounting Integration supports the possible cost handling in connection to a Damage Claim.">
+  <properties
+      key="Function Identifier"
+      value="890"/>
+  <properties
+      key="TAM Application Name"
+      value="Damage Claims Management"/>
+  <properties
+      key="TAM Application Id"
+      value="9.4.2"/>
+  <properties
+      key="Constructed Id"
+      value="9.4.2.890"/>
+</archimate:ApplicationFunction>

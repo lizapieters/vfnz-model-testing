@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Create Service Orders"
+    id="id-8ddcf86a374b4004be7c627066d27e7e"
+    documentation="The service orders may be required to satisfy pertinent customer order information received, may arise as a result of requests for service provisioning to satisfy service problem recovery activities, may arise to alleviate service performance issues, or may arise as a result of information received from parties in relations to specific services. &#xA;The issued service order may require a service feasibility assessment or a service design to be produced, may require new provisioning activities for specific services, may require a change to a previously issued service order, or may require deletion and/or recovery of previously delivered specific services. Where, the initiating request or the purchased product offering has a standard set of associated service orders this process is responsible for issuing the service orders, and for creating a record of the relevant initiating request or customer order information and the associated service orders. &#xA;Where the initiating request or the purchased product offering has special or unusual requirements, and a specific feasibility assessment and/or service design has been previously created, this process is responsible for issuing the service orders, and for creating a record of the relevant initiating request or customer order information and the associated service orders.">
+  <properties
+      key="Process Identifier"
+      value="1.4.5.6.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

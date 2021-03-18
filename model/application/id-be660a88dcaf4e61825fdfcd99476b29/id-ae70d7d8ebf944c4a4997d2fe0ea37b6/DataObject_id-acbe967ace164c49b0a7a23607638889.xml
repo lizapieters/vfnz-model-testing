@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResourceNumber"
+    id="id-acbe967ace164c49b0a7a23607638889"
+    documentation="Sub-class of the abstract LogicalResource. This is the main class for numbers that relates to the number portability; but it can contain more general and shared characteristics like the inventory of numbers. It has an ID (inherited); name (inherited); description(inherited); status (inherited) and a dialedNumber (For mobile: MDN; fixed; and IP type of numbers) - escribir mÃ¡s sobre resourceNumber. The association with NumberPortabilityRequest is of one-to-many since a number can have many ports and a port can happen to a specific number. Nevertheless; they are already related through the order; for that reason the relationship they have is derived."/>

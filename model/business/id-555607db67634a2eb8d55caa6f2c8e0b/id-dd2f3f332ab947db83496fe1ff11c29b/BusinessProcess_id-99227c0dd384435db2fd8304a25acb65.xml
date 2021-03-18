@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Co-ordinate Business Continuity"
+    id="id-99227c0dd384435db2fd8304a25acb65"
+    documentation="Manage the development of strategies, policies, plans, organizational roles &amp; responsibilities, and escalation procedures for ensuring continuation of business processes and activities in the event of serious and/or sustained interruption. These processes ensure that appropriate plans and procedures are established and tested to provide continuous operation, or controlled re-establishment, of key business processes and activities, to provide for a controlled recovery of infrastructure capability to normal levels, and for determination of operational accountability and processes until the abnormal circumstances are resolved.">
+  <properties
+      key="Process Identifier"
+      value="1.7.2.1.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

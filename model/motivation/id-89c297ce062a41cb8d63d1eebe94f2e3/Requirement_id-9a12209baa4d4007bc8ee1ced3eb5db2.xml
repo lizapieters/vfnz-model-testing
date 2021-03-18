@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0179"
+    id="id-9a12209baa4d4007bc8ee1ced3eb5db2"
+    documentation="As a customer, I want to be able to perform all actions I need to do via e-SIM, so that I can use Vodafone on eSIM if I wish">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0179"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Use"/>
+  <properties
+      key="Topic"
+      value="e-SIM"/>
+  <properties
+      key="Remarks"
+      value="What type of actions do you mean? Swap SIM to eSIM, block SIM? All actions available for regular sims should be available for eSIMs. A replace sim between regular and eSIM and vice versa should be supported."/>
+  <properties
+      key="Module"
+      value="AIF, SC, OM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="Yes"/>
+</archimate:Requirement>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Remove Party Demographic Definition"
+    id="id-85f919063260464880334f2f77627195"
+    documentation="Remove a party demographic definition, either by deleting it or indicating it is no longer valid.">
+  <properties
+      key="Process Identifier"
+      value="1.6.3.2.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Remove Party Demographic Definition removes a party demographic definition, either by deleting it or indicating it is no longer valid. Care must be taken when deleting a demographic definition, because any party demographics related to it may also be deleted or could lose their context. Often the choice is to mark the demographic as no longer valid to preclude collecting it for any more parties."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

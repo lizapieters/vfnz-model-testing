@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define Resource Support Strategies"
+    id="id-3153c5ac470048698c13604b16677239"
+    documentation="Define the principles, policies and performance standards for the operational organization providing resource support">
+  <properties
+      key="Process Identifier"
+      value="1.5.1.4"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Define Resource Support Strategies processes define the principles, policies and performance standards for the operational organization providing resource support. Over time requirements for service levels and quality on existing resources change and operational challenges are introduced by new resources. These processes define the targets, and operational requirements, in this changing environment. The required performance standards are driven by community and regulatory expectations, internal process and technology capabilities and competitive offerings. A major input to these processes arises from the Gather &amp; Analyze Resource Information processes, and from the product portfolio, resource strategy and market strategy processes. These processes also provide the feedback point from analyses undertaken in the Resource Management &amp; Operations processes to determine bottlenecks and problems associated with existing resource operational support activities."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

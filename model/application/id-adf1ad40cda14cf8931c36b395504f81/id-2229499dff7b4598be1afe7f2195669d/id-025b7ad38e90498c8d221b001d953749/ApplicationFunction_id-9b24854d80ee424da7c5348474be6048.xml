@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="General Ledger"
+    id="id-9b24854d80ee424da7c5348474be6048"
+    documentation="General Ledger applications provide the required functionality to create a book of final entry summarizing all of a company's financial transactions, through offsetting debit and credit accounts.">
+  <properties
+      key="TAM Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="9.3.1.1"/>
+  <properties
+      key="Frameworx Domain"
+      value="Enterprise Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Advance Payment Acceptance"
+    id="id-482c6f3ca315420baed76da2c316304b"
+    documentation="Advance Payments are accepted before initiation of service -  usually at time of ordering.  Interest is not accrued on advance payments.">
+  <properties
+      key="Function Identifier"
+      value="30"/>
+  <properties
+      key="TAM Application Name"
+      value="A/R Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.9.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.9.1.30"/>
+</archimate:ApplicationFunction>

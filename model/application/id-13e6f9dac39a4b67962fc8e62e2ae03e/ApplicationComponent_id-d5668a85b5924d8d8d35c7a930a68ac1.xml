@@ -1,0 +1,42 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SAP ERP EVO Employee Self Service"
+    id="id-d5668a85b5924d8d8d35c7a930a68ac1"
+    documentation="SAP ERP">
+  <properties
+      key="StatusForLookUp"
+      value="Active"/>
+  <properties
+      key="Owner"
+      value="VF Group"/>
+  <properties
+      key="Level of Service"
+      value="Business Premium"/>
+  <properties
+      key="Product / Service"
+      value="Common"/>
+  <properties
+      key="Segment"
+      value="Common"/>
+  <properties
+      key="DX Association"
+      value="Integrate"/>
+  <properties
+      key="Existing Retained or Replaced"
+      value="Retained"/>
+  <properties
+      key="ComArch / Other"
+      value="CSP Service"/>
+  <properties
+      key="Legacy BSS Stack Served"
+      value="Common"/>
+  <properties
+      key="TAM App ID"
+      value="6.9.2"/>
+  <properties
+      key="TAM Domain"
+      value="Service Domain"/>
+  <properties
+      key="TAM Application"
+      value="Service Quality Collection &amp;amp; Monitoring"/>
+</archimate:ApplicationComponent>

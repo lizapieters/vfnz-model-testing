@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Distribute Management and Security Information &amp; Data"
+    id="id-7c708cee4012483fbce0ec95ae49f842"
+    documentation="Distribute processed management and security information and/or data to resource instances, service instances or other processes within the enterprise for further analysis and/or reporting.">
+  <properties
+      key="Process Identifier"
+      value="1.5.7.3"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Distribute Management Information &amp; Data processes are responsible for distributing processed management information and/or data to resource instances, service instances or other processes within the enterprise for further analysis and/or reporting. These processes also manage any orchestration required for distribution of the management information and/or data. Upon successful delivery theses processes are responsible for informing the original sending process or instance that the information has been successfully distributed (if required), and for deleting the locally stored information from any local repositories."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitor Available Capacity"
+    id="id-f83b5120cb4a44068e30b5aac9e5db13"
+    documentation="Monitor available planned and actual capacity and provide results to the Suggest Available Capacity Adjustment process.">
+  <properties
+      key="Process Identifier"
+      value="1.8.2.5.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Monitor Available Capacity monitors available planned and actual capacity and provide results to the Suggest Available Capacity Adjustment process. In order to improve efficiency and accuracy of available capacity monitoring, different domains' available capacity may be monitored at the same time in a single monitoring platform. Factors that are monitored include planned and actual demand changes caused by events such as unexpected reductions or unexpected increases in planned or actual product sales. Availability can also be influenced by changes to the underlying planned or actual infrastructure, such as resource availability, which affects all types of actual available capacity (Product, Service, Resource). A prediction model based on different factors may be applied to master capacity monitoring."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

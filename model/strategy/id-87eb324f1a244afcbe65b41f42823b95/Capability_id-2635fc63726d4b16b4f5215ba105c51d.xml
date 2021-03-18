@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Hierarchy &amp; Group Management"
+    id="id-2635fc63726d4b16b4f5215ba105c51d"
+    documentation="Customer Hierarchy &amp; Group Management provides the necessary functionality to manage the customer hierarchy for both business and residential type customers.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.1.1"/>
+  <properties
+      key="TMF Function"
+      value="Customer Relationship, Hierarchy and Group Management"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

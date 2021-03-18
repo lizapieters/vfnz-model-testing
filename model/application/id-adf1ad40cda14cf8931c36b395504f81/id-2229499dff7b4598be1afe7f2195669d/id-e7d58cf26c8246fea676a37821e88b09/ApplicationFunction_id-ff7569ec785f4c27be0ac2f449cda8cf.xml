@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Context Map Building"
+    id="id-ff7569ec785f4c27be0ac2f449cda8cf"
+    documentation="Customer Context Map Building (&quot;Interpret&quot;)provides the functionality to accumulate customer context in the systemic memory based on �observations� made on the customer through processing the data collected from customer experience monitoring and historical analysis. The context could include items such as customer transactions, interactions which are both implicit &amp; explicit. For example. when a customer pays his/her bill the context map is updated in real time to reflect the payment pattern and keep it up-to-date. Context map can be used by decision engines to drive appropriate treatment for customers based on recent behavior. For example a �late payer� or �chronic caller� may be treated differently from a normal payer or an occasional caller.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="5.5.13"/>
+  <properties
+      key="Frameworx Domain"
+      value="Customer Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

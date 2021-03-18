@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0828"
+    id="id-3c224744e829461ab4db7d1e073a05c0"
+    documentation="As a Fraud Manager I want the ability to suspend or block accounts for anyone identified as a fraudster or a victim of fraud">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0828"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Caroline Carver"/>
+  <properties
+      key="Tribe"
+      value="Privacy, Fraud and Compliance"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="y"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Manage"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Fraud"/>
+  <properties
+      key="Remarks"
+      value="this could be the same process as used in case of collection process. Different operations available for fraudster and victim. Some high level details to be provided by VF. OOTB processes in the area as Suspend product or Block SIM Card."/>
+  <properties
+      key="Module"
+      value="BR"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="REQ_OSS_54 REQ_OSS_55 REQ_OSS_56"/>
+</archimate:Requirement>

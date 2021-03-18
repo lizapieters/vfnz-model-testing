@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Supply Chain Management"
+    id="id-5d535c4397ef45528a0f360f64f8c4c8"
+    documentation="Supply Chain Management provides the necessary functionality to support the planning of needed materials and services, procurement of these materials and services, stocking and shipping preparation, and transportation to their final destination.">
+  <properties
+      key="TAM Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="9.10"/>
+  <properties
+      key="Frameworx Domain"
+      value="Enterprise Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

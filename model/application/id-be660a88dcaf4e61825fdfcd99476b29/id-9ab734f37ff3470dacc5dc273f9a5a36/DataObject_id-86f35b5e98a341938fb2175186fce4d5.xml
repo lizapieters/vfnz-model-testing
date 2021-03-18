@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicyConfigRole"
+    id="id-86f35b5e98a341938fb2175186fce4d5"
+    documentation="This is a concrete base class that defines the concept of various types of roles used to describe configuration monitoring and checking; and their use in the model. A PolicyConfigRole refines the generic concepts of a PolicyApplicationRole. Specifically; this base class is used to describe different processes required to check; change; and verify changes in the configuration of a Managed Object. For example; this includes the ability to retrieve a configuration for examination; as well as to construct; approve and deploy changes to that configuraiton."/>

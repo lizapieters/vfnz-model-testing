@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1062"
+    id="id-229b7c0fd15645bf9d520d344a6df50f"
+    documentation="As a customer I want to be able to change from a consumer plan to a business plan and vice versa, so that my plan is designed with my needs in mind">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1062"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="2"/>
+  <properties
+      key="Base_Old"
+      value="2"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Change"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="change"/>
+  <properties
+      key="Topic"
+      value="Change Config"/>
+  <properties
+      key="Remarks"
+      value="SC: Conversion to plans from another customer segment is not available in our solution at the moment (other structure of business and private customers) PIM: when you change plan from e.g. individual to business do you also need to update customer data (ususaly consumer and business customer model differs)"/>
+  <properties
+      key="Module"
+      value="SC, PC, OM, PIM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

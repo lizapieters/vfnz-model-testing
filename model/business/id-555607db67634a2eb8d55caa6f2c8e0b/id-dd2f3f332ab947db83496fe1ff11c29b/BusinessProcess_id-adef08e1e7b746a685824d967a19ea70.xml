@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Remove Order Handling Infrastructure"
+    id="id-adef08e1e7b746a685824d967a19ea70"
+    documentation="Managing recovery and/or removal of obsolete or unviable customer order handling infrastructure;">
+  <properties
+      key="Process Identifier"
+      value="1.3.1.2.12"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

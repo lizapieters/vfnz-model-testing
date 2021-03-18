@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API Gateway"
+    id="id-67fcdb1764e84548916df944af4a4a51"
+    documentation="High-performance, scalable, and low latency engine capable of mediating�HTTP�requests between�API consumers and service enablers">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="10.3.1"/>
+  <properties
+      key="TMF Function"
+      value="API Authentication API Diagnostics &amp; Notification API Gateway Caching API Gateway Log Reporting API Gateway Logging API Gateway Policy Evaluation API Gateway Routing API Gateway Web protocol data transforming API Gateway Web protocol header transforming"/>
+  <properties
+      key="TMF Maturity"
+      value="Integration Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RevenueAssuranceResponse"
+    id="id-c03776eeeb674931ac93908230301c8e"
+    documentation="The result of reconciling a RATroubleTicket represented by a series of one or more activities being initiated and performed. The RAResponse can also determine the root cause for RATroubleTickets based on rules that trigger the analysis."/>

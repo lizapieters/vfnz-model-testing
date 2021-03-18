@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Experience interaction gathering"
+    id="id-bcd5eec0d21343a98515dcc5adfbcffe"
+    documentation="Gathering of customer interaction events/data from all channels (agent interaction/notes, web/device click analytics, retail transactions, etc.), including receiving information from Customer Interaction Collection &amp; Storage">
+  <properties
+      key="Function Identifier"
+      value="189"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Experience Monitoring"/>
+  <properties
+      key="TAM Application Id"
+      value="5.5.12"/>
+  <properties
+      key="Constructed Id"
+      value="5.5.12.189"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0908"
+    id="id-b9c210752ece43a5ab122c6b140e3065"
+    documentation="As a customer, when I am seeing what access types are available at my address, I want to look for the answers online without logging in or giving any info, so that I can check on access types quickly and privately">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0908"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Rudolf Arada"/>
+  <properties
+      key="Tribe"
+      value="Business"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="prio2"/>
+  <properties
+      key="Base"
+      value="1?"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Learn"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Address Checker"/>
+  <properties
+      key="Remarks"
+      value="DS: Similar to REQ_BSS_1198 As a prospective customer, I want to be able to see the mobile coverage map In scope for Comarch: integration with a map via a CMS zone, adding a link or otherwise embedding the map https://www.vodafone.co.nz/broadband/rural/"/>
+  <properties
+      key="Module"
+      value="DS, AP, PC, OM, AIF"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

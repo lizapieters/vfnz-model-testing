@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Administer Commercial Arrangement for Party Bill/Invoice Creation Capability"
+    id="id-73b75e26e2e349e99ddcc748fde47106"
+    documentation="Establish the requirements for, and manage the agreed commercial arrangements with, appropriate outsourced parties of the creation capabilities.">
+  <properties
+      key="Process Identifier"
+      value="1.6.15.3.6"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Administer Commercial Arrangement for Party Bill/Invoice Creation Capability establishes the requirements for, and manages the agreed commercial arrangements with, appropriate outsourced parties who will create bill/invoices for the enterprise. An outsourced approach such as this requires the exchange of usage and latest party details, including whatever is required for rating/pricing calculations, details of the parties' products and their postal address, and will result in bills/invoices generated 'as if' the enterprise had produced them internally. The business logos and contact details on the invoices produced by the 'billing on behalf of' (BOBO) vendor will be those of the enterprise outsourcing their billing. The BOBO vendor will usually not have any of their details present on the bills/invoices since the BOBO vendor is providing a transparent 'back office' billing function about which the end parties are unaware. Note that when establishing arrangements with an outsourced party or parties this process interacts with Party Tender Management and Party Agreement Management to select and manage agreements with the party or parties."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

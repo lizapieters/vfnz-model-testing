@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0512"
+    id="id-53869e5cec794ca2989cbd82cf826280"
+    documentation="As Vodafone, we want to adhere to NZ accessibility standards, so that Vodafone is accessible to all">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0512"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="y"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="use"/>
+  <properties
+      key="Topic"
+      value="Accessibility rules"/>
+  <properties
+      key="Remarks"
+      value="Is using a special browser or a special accessibility mode in a browser sufficient? It's not about a separate layout, but having the UI that meets all the defined accessibility standards (they are not legally forced, but it is important for Vodafone to meet those standards). Jared to provide more details on the standard."/>
+  <properties
+      key="Module"
+      value="SC, DS, EP, NFR"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

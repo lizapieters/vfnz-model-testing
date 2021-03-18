@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProjectElementDependency"
+    id="id-189c3beed85a441196fc1bebe5590cbf"
+    documentation="This allows us to show dependencies; that typically relate to a ProjectElement not being able to commence until another Element has been completed."/>

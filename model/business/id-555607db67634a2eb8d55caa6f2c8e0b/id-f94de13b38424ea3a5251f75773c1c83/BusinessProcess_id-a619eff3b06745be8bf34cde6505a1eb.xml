@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Conduct Maturity Technical Reviews"
+    id="id-a619eff3b06745be8bf34cde6505a1eb"
+    documentation="Perform technical reviews within organization and organization stakeholders">
+  <properties
+      key="Process Identifier"
+      value="1.7.8.2.2.3"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Conduct Maturity Technical Reviews Process assesses the maturity assessment that is requires for the technology dimension. This review requires a different set of questions and actions to get the answers that are more technical in nature such as : Reviewing existing tools and systems for fitness for purpose, obsolescence, current licenses and support contracts, trained users."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

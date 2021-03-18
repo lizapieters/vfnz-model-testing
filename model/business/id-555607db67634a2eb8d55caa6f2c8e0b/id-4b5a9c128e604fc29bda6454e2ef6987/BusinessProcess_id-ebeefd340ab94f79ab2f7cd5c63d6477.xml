@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Logistics"
+    id="id-ebeefd340ab94f79ab2f7cd5c63d6477"
+    documentation="Manage and control warehousing, stock level management, physical distribution and transport of purchased resources and consumable goods.">
+  <properties
+      key="Process Identifier"
+      value="1.5.4.6"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The responsibility of the Manage Logistics processes is twofold - manage and control warehousing, stock management, physical distribution and transport of purchased resources and consumable goods, and monitoring, managing and reporting on the capability of the Manage Logistics processes. These processes are applicable for both resources managed by the processes in the Resource-Ops processes as well as the myriad of consumable goods used by the enterprise in its day-to-day activities, such as paper, stationery, etc. These processes manage all operational processes associated with the storage and distribution of purchased resources and consumable goods from the other parties. In addition, these processes are responsible for initiating orders for consumable goods, spare parts and for monitoring and reporting on progress of consumable goods orders. The actual order placed is managed through the appropriate party management processes. These purchased items may be temporarily stored in enterprise, vendor or third party managed warehouses before being delivered to smaller distribution points, or being delivered direct to site. Or alternatively they may be delivered directly to site from specific party's facilities. These processes are responsible for determining the distribution path for individual resources and consumable goods. These processes are responsible for the internal operational processes associated with managing a warehouse including aspects such as yard management, dock management, pick management, etc. These processes track all goods stored in the warehouse from the time of inward delivery to outwards dispatch. These processes manage the co-ordination and control of transport infrastructure, including land, air and sea transport capabilities. The transport may be owned and managed by the enterprise, the vendor or a third-party. Different parties may be responsible for different aspects of the overall end-end transport requirements, i.e., a vendor may deliver to a warehouse, and an other party from the warehouse to site. These processes are responsible for determining truck loads, distribution routes, etc. To the extent that the above processes are managed by other party, the enterprise processes are responsible for initiating requests, and for monitoring, tracking and reporting on the operation of the other party. Each of the above processes has sub-processes responsible for: â€¢ Managing the registration and access control processes that enable enterprise processes to create, modify, update, delete and/or download individual requests into other party systems associated with any of the above processes; â€¢ Managing the registration and access control processes that enable other party processes to create, modify, update, delete and/or download relevant details into enterprise systems associated with any of the above processes; â€¢ Managing of issuing and re stocking of spares; â€¢ Tracking and monitoring of the usage of, and access to, the specific process and associated costs of the specific processes, and reporting on the findings â€¢ Identifying any technical driven shortcomings of the specific automated support capabilities, and providing input to Resource Development &amp; Management processes to rectify these issues."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

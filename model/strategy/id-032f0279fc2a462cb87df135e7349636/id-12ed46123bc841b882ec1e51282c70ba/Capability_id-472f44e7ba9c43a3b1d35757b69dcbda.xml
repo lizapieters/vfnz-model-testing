@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer/Plan Matching"
+    id="id-472f44e7ba9c43a3b1d35757b69dcbda"
+    documentation="The ability to associate a customer with a plan.">
+  <properties
+      key="TMF_ID"
+      value="1.1.2.6.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

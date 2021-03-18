@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RA Analysis"
+    id="id-22926a848ee7450bb7b5851a04dde600"
+    documentation="RA Analysis provides the necessary functionality to investigate and diagnose revenue assurance anomalies identified via RA Monitoring. This can include both automated analysis per established RA policies and business rules as well as manual analysis/investigation.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.1.4"/>
+  <properties
+      key="TMF Function"
+      value="RA Anomaly Analysis"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

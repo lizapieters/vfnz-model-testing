@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Activation notifications"
+    id="id-779b0ecb2efe4fe5ac9c121a76ad066c"
+    documentation="The function provide notifications on successful activation; in cases of exceptions send fallouts to Service Order Orchestration and manage rollbacks activities (if applicable)">
+  <properties
+      key="Function Identifier"
+      value="583"/>
+  <properties
+      key="TAM Application Name"
+      value="Service Activation Management"/>
+  <properties
+      key="TAM Application Id"
+      value="6.3.7"/>
+  <properties
+      key="Constructed Id"
+      value="6.3.7.583"/>
+</archimate:ApplicationFunction>

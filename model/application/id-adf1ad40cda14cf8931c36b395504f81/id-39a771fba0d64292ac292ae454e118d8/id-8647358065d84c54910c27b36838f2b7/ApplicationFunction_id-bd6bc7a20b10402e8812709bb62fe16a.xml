@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Employee Records Administration"
+    id="id-bd6bc7a20b10402e8812709bb62fe16a"
+    documentation="Employee Records Administration provides the following functionality:&#xA;� Manages long term storage of employee records. &#xA;� Defines what employee records are to be retained. &#xA;� Defines record retention/destruction guidelines.">
+  <properties
+      key="Function Identifier"
+      value="784"/>
+  <properties
+      key="TAM Application Name"
+      value="Employee Records Management"/>
+  <properties
+      key="TAM Application Id"
+      value="9.2.7"/>
+  <properties
+      key="Constructed Id"
+      value="9.2.7.784"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0509"
+    id="id-74de4b14d2d9476dbad533f29478673c"
+    documentation="As a customer, I want to be able to enter into a hardship agreement with Vodafone which includes deferral &amp; special arrangement of payments, so that if I experience hardship Vodafone can help me">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0509"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="2"/>
+  <properties
+      key="Base_Old"
+      value="2"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="use"/>
+  <properties
+      key="Topic"
+      value="Hardship customer"/>
+  <properties
+      key="Remarks"
+      value="Does it apply to both interest free devices and plans? Anywhere where customer can have debt to Vodafone."/>
+  <properties
+      key="Module"
+      value="CRM, BS?, SC, PC?"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

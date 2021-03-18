@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Capability Specification Management"
+    id="id-6e23c0072078449d9e86ee1050fac2e7"
+    documentation="This application involves the creation, editing, storage and retrieval of capability specifications. The capability specifications represent the general, common and invariant characteristics of resource that may be realized in more than one type of specific resource. Examples of capability are Layer2, Data, radio and Transport. These specifications are used in the creation of new capability instances mainly in Strategic Planning and are further specified into Resource Instances by Tactical and Implementation Planning.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="7.1.4"/>
+  <properties
+      key="Frameworx Domain"
+      value="Resource Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

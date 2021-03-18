@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Order Orchestration"
+    id="id-3de0f05a46f94bcc87eaf533a445b38e"
+    documentation="The ability to oversight order process activities including quoting, placement, settlement, cancellation, and exception management.">
+  <properties
+      key="TMF_ID"
+      value="1.1.8.7"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

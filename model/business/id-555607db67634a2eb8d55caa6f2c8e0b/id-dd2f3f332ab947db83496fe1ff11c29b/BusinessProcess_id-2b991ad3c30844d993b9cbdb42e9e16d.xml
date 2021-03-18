@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Configure Entity"
+    id="id-2b991ad3c30844d993b9cbdb42e9e16d"
+    documentation="Configure or create a new version of a configuration for an entity, such as a product, service, or resource, as defined by a configuration specification.">
+  <properties
+      key="Process Identifier"
+      value="1.8.3.2.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Configure Entity configures or creates a new version of a configuration for an entity, such as a product, service, or resource, as defined by a configuration specification. Values for configuration parameters are also assigned. As defined by a selected configuration specification other entities may also be configured. For example, the configuration of a product may require the configuration of a service and a physical resource, such as a device. In this case the other configuration of the other entities are related to the configuration being created."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Order Tracking &amp; Management"
+    id="id-7a6e9f7cb2c84d35a523cb2547ef8812"
+    documentation="Customer Order Tracking &amp; Management provides the functionality necessary to track and manage the distributed requests decomposed by Customer Order Distribution.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.3.5"/>
+  <properties
+      key="TMF Function"
+      value="Customer Order Tracking &amp; Management"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

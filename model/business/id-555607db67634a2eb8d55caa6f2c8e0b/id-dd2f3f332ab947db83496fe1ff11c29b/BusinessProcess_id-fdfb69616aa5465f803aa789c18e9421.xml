@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Acknowledge Product Offering Purchase Completion"
+    id="id-fdfb69616aa5465f803aa789c18e9421"
+    documentation="Provide acknowledgement to the party making the product offering purchase that it is complete.">
+  <properties
+      key="Process Identifier"
+      value="1.2.9.5.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Acknowledge Product Offering Purchase Completion provides acknowledgement to the party making the product offering purchase that it is complete. The acknowledgement can be provided in a number of ways including email and text message. It may also include acknowledgement of payment if one has been made as part of the purchase. The Party Payment Handling process is responsible for accepting payments."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

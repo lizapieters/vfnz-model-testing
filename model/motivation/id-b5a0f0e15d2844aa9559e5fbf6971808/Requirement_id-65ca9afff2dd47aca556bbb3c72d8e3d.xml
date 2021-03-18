@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0929"
+    id="id-65ca9afff2dd47aca556bbb3c72d8e3d"
+    documentation="As a finance user, I require discounts/credits to be apportioned across the services delivered where appropriate (i.e. credit for billing issue for a converged customer to be split across mobile and broadband).">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0929"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Aleesha Giles"/>
+  <properties
+      key="Tribe"
+      value="Finance/Financial accounting"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="y"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Manage"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Financial accounting"/>
+  <properties
+      key="Remarks"
+      value="Rules for split needs to be provided by VF or example. DX response: Account level discounts/credits currently split 45% to fixed and 55% to mobile, and we would like to be able to change the percentages as appropriate and services change. Converged services for base 2 or 3 correct?"/>
+  <properties
+      key="Module"
+      value="BS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

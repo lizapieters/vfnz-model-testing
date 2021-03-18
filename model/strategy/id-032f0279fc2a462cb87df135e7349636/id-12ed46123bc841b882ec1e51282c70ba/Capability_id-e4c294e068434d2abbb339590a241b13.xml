@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agreement Access Constraints Definition"
+    id="id-e4c294e068434d2abbb339590a241b13"
+    documentation="The ability to unambiguously define the restrictions, limitations, and permissions of an agreement in a way that can be efficiently and effectively interpreted and enforced.">
+  <properties
+      key="TMF_ID"
+      value="1.1.5.7.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

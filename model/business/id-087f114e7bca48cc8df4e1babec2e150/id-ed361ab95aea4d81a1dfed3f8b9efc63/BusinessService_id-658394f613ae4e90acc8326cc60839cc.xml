@@ -1,0 +1,30 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mobile - Prepay"
+    id="id-658394f613ae4e90acc8326cc60839cc"
+    documentation="MVNO type of Prepay.&#xA;25-09-2020 - Kayne confirmed this is for  MVMO for Horizon 1 -">
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Segment"
+      value="Consumer/Business"/>
+  <properties
+      key="Access/Service Type"
+      value="Mobile"/>
+  <properties
+      key="Comarch can support"
+      value="Yes"/>
+  <properties
+      key="Non-Comarch IT support needed"
+      value="Yes"/>
+  <properties
+      key="NaaS will support"
+      value="Yes"/>
+  <properties
+      key="Automated non-NaaS support"
+      value="Yes"/>
+  <properties
+      key="Unexpected"
+      value="true"/>
+</archimate:BusinessService>

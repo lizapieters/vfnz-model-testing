@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define Catalog Specification Relationship"
+    id="id-c3cbbe87c60f4bef89439658abef218a"
+    documentation="Define, update, and remove one or more associations among catalog specifications.">
+  <properties
+      key="Process Identifier"
+      value="1.8.1.1.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financial Forecast Validation"
+    id="id-875d22b175594d448103904d49e0711b"
+    documentation="The ability to validate and verify (prove or disprove) a financial forecast.">
+  <properties
+      key="TMF_ID"
+      value="1.3.6.1.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

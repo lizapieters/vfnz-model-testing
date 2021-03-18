@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Add Loyalty Program Currency to Loyalty Account"
+    id="id-e76c8226af8144c0b7793bc7246da50b"
+    documentation="Add currency earned to a loyalty program participants balance.">
+  <properties
+      key="Process Identifier"
+      value="1.1.19.2.2.3"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resolve Revenue Assurance Trouble"
+    id="id-565a2f966c9743df84aa2a523fdb188d"
+    documentation="Undertake actions as directed to resolve detected revenue assurance violations and degradations.">
+  <properties
+      key="Process Identifier"
+      value="1.7.2.6.2.4"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of the Resolve Revenue Assurance Trouble processes is to undertake actions as directed to resolve detected revenue assurance violations and degradations. These processes undertake resolution activities within the bounds of the organizational capability associated with revenue assurance. The resolution activities are likely to lead to process and/or procedural changes which can be managed to fruition by these processes. Where the analysis has indicated that resolution requires changes to specific resource and/or service configurations, these later resolution activities are managed by the specific resolution processes associated these resources and services. They are outside of the scope of this Resolve Revenue Assurance Trouble process."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

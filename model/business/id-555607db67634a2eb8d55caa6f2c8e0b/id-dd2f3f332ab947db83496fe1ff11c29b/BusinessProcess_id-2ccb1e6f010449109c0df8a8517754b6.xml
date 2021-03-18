@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analyze Party Interactions"
+    id="id-2ccb1e6f010449109c0df8a8517754b6"
+    documentation="Perform all required analysis on closed (completed or unfulfilled) requests and on Party contacts">
+  <properties
+      key="Process Identifier"
+      value="1.6.9.5.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The purpose of this process is to perform all required analysis on closed (completed or unfulfilled) requests and on Party contacts."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

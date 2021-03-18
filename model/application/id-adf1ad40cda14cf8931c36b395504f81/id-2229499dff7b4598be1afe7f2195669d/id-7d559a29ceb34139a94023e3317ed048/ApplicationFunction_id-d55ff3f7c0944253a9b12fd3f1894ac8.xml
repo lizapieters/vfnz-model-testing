@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security Management"
+    id="id-d55ff3f7c0944253a9b12fd3f1894ac8"
+    documentation="Security Management Applications are part of Enterprise Management. They provide a Unified approach to Security, and the foundation technologies to:  Protect systems and network infrastructure against   unauthorized access to or modification of information, whether in storage,   processing or transit   Restrict provision of service to only authorized   users   Prevent any denial of service to authorized   users   Provide the measures necessary to detect,   document, and counter such threats">
+  <properties
+      key="TAM Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="9.5"/>
+  <properties
+      key="Frameworx Domain"
+      value="Enterprise Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

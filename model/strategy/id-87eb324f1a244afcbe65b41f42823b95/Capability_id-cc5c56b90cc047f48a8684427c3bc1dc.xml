@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OSS Inventory/Data Synchronization Management"
+    id="id-cc5c56b90cc047f48a8684427c3bc1dc"
+    documentation="OSS Inventory/Data Synchronization application provide a common inventory view across the applications in Resource Management. This may be a virtual common inventory produced by synchronization of federated inventories, a single inventory system, or some combination of the two.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="7.4.4"/>
+  <properties
+      key="TMF Function"
+      value="OSS Inventory/Data Synchronization"/>
+  <properties
+      key="TMF Maturity"
+      value="Resource Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Communicate Available Capacity and Capacity Demand Adjustments"
+    id="id-3dad69a3660640a783ac89b03e08a7bf"
+    documentation="Provide capacity and capacity demand adjustment notifications to impacted stakeholders.">
+  <properties
+      key="Process Identifier"
+      value="1.8.2.6.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Communicate Available Capacity and Capacity Demand Adjustments provides capacity and capacity demand adjustment notifications to impacted stakeholders. It is important to notify stakeholders because of the relationship among the various types of capacity and capacity demand. For example, a change in product offering capacity demand may mean that resource infrastructure processes, such as Resource Capability Delivery, may need to be carried out to make any necessary resource infrastructure adjustments based on the reduced product offering demand. This also implies a reduction to resource capacity and resource demand. These processes are particularly important in a digital ecosystem, where may need to be transformed into automated processes and handled proactively. Notification between related stakeholders may generated automatically."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

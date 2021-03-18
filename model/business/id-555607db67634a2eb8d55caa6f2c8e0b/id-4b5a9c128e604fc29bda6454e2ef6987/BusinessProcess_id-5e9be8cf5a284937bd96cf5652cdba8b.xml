@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Close Resource Performance Degradation Report"
+    id="id-5e9be8cf5a284937bd96cf5652cdba8b"
+    documentation="Close a resource performance degradation report when the resource performance has been resolved">
+  <properties
+      key="Process Identifier"
+      value="1.5.9.7"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of the Close Resource Performance Degradation Report processes is to close a resource performance degradation report when the resource performance has been resolved. These processes monitor the status of all open resource performance degradation reports, and recognize that a resource performance degradation report is ready to be closed when the status is changed to cleared."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0638"
+    id="id-8443d25cd9944e3c96b859b0f5452ab3"
+    documentation="As a product manager, I want to be able to display interest free pricing based on logged in state in order to vary the price based on customer">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0638"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Choose"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Choose"/>
+  <properties
+      key="Topic"
+      value="0"/>
+  <properties
+      key="Remarks"
+      value="Customer can apply to go for interest free option and go through a credit check. If credit check fails, customer can only buy with full price or deposit is requested. OOTB functionality"/>
+  <properties
+      key="Module"
+      value="DS, SC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

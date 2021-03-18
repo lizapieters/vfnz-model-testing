@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Identification"
+    id="id-ca34dd4febe04001b0c1177d92fd45a0"
+    documentation="The ability to determine that a customer is who they claim to be in context of a specific scenario or point of contact.">
+  <properties
+      key="TMF_ID"
+      value="1.1.2.4.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

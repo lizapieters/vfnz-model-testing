@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Capture Resource Capability Shortfalls"
+    id="id-e2d395a7d84a465caeca27008e23bcea"
+    documentation="Identify specific or imminent resource capacity, resource performance and/or resource operational support shortfalls">
+  <properties
+      key="Process Identifier"
+      value="1.5.2.2"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Capture Resource Capability Shortfalls processes identify specific or imminent resource capacity, resource performance and/or resource operational support shortfalls. These processes take information available from the Resource Management &amp; Operations processes to establish detailed views of anticipated resource and shortfalls and support process issues. These views may be displayed on a console or visual platform and shared by relevant resource owners. Resource capability shortfalls may be captured via an automated process. It may process information using advanced technologies such as AI."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

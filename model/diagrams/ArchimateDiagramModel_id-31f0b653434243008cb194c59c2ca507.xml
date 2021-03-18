@@ -1,0 +1,164 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="_Home Diagram"
+    id="id-31f0b653434243008cb194c59c2ca507">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-6859acbca89b49e4bfd1705c0d21bc2b"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      fillColor="#dcebeb">
+    <bounds
+        x="60"
+        y="156"
+        width="163"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-2507d3f0b51a4b678885f54220bb8a47.xml#id-2507d3f0b51a4b678885f54220bb8a47"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-57dff7ff2b764b379410ba22e7a06a1e"
+      font="1|Lucida Grande|24.0|1|WINDOWS|1|0|0|0|0|700|0|0|0|1|0|0|0|0|Lucida Grande"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      alpha="0"
+      content="DX Domain Architecture Repository">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <bounds
+        x="183"
+        y="57"
+        width="490"
+        height="64"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-0f24ba93e4cf410fb5c0f43bee081954"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Reference diagram for scope of systems for DX in R1">
+    <bounds
+        x="60"
+        y="210"
+        width="163"
+        height="91"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-6cc0ee860d064ab3879cdaad7f71598e"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      fillColor="#dcebeb">
+    <bounds
+        x="240"
+        y="156"
+        width="163"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-5bb2ec652eb44db49c396d67fd73c21c.xml#id-5bb2ec652eb44db49c396d67fd73c21c"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-aa1468825ffc4f48b5724b9cd91b3058"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Reference diagram for scope of ALL interfaces in scope for DX in R1">
+    <bounds
+        x="240"
+        y="210"
+        width="163"
+        height="91"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-472ff39c98324854a902b994cf82c143"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      fillColor="#dcebeb">
+    <bounds
+        x="420"
+        y="156"
+        width="163"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-c06b2023ec454029b8f3dc351f19da5a.xml#id-c06b2023ec454029b8f3dc351f19da5a"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-27008457d14c40608b9409cf7f5f6a6d"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Reference diagram for the functional scope of the application components in scope for DX in R1">
+    <bounds
+        x="420"
+        y="210"
+        width="163"
+        height="91"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-fb96d0c2e5414ad3b0b8bca4c7fa163b"
+      font="1|Lucida Grande|18.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Lucida Grande"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="DX Journeys">
+    <bounds
+        x="241"
+        y="369"
+        width="185"
+        height="40"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-91b19822c93a4d09b7325c58ad09f022"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      fillColor="#dcebeb">
+    <bounds
+        x="60"
+        y="432"
+        width="163"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-a51c7e9dd96140abb533c3ddce9e2db6.xml#id-a51c7e9dd96140abb533c3ddce9e2db6"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-0e6963de68bc4546b52865a26a970387"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="High level diagram relating to the business processes involved in the buy journey. Provides links to next level of process and how they link to systems.">
+    <bounds
+        x="60"
+        y="486"
+        width="163"
+        height="115"/>
+  </children>
+</archimate:ArchimateDiagramModel>

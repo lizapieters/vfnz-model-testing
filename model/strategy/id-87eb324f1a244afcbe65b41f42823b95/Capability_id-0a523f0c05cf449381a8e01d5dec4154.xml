@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Time Reporting &amp; Attendance Management"
+    id="id-0a523f0c05cf449381a8e01d5dec4154"
+    documentation="Time Reporting &amp; Attendance Management provides the necessary means for tracking work time and attendance. It also applies time rules.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.2.4"/>
+  <properties
+      key="TMF Function"
+      value="Time &amp; Attendance Reporting Time Attendance Management"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

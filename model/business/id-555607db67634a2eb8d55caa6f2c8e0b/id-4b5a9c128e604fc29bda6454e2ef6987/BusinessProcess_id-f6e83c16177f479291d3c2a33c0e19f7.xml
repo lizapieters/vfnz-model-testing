@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Receive Party Problem"
+    id="id-f6e83c16177f479291d3c2a33c0e19f7"
+    documentation="Receive a party problem.">
+  <properties
+      key="Process Identifier"
+      value="1.6.10.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Receive Party Problem creates a party problem. A party problem may be created as a result of a specific party initiated problem. It may also request and receive additional information from a party if needed to further process the problem."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

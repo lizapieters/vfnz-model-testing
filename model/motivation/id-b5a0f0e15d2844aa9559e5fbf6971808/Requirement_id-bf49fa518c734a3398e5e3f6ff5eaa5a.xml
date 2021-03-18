@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0581"
+    id="id-bf49fa518c734a3398e5e3f6ff5eaa5a"
+    documentation="As an existing customer, moving services from one address to another, I want to be able to change my speed (if available), so I can enjoy faster speed at my new address.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0581"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Diane Watson"/>
+  <properties
+      key="Tribe"
+      value="Consumer Home"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="prio2"/>
+  <properties
+      key="Base"
+      value="1?"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Change"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Topic"
+      value="Relocate services"/>
+  <properties
+      key="Remarks"
+      value="Relocation flow to be discussed (from technical and billing point of view)"/>
+  <properties
+      key="Module"
+      value="SC, OM, BR"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="REQ_OSS_15"/>
+</archimate:Requirement>

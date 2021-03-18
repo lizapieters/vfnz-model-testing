@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AllowedProductAction"
+    id="id-697d928fcc4545c8a6e9182f43e95004"
+    documentation="An AllowedProductAction specifies the actions allowed for a ProductSpecification or a ProductOffering and might limit this action to a sub-set of SalesChannel. An AllowedProductAction has a type represented by a ProductActionType."/>

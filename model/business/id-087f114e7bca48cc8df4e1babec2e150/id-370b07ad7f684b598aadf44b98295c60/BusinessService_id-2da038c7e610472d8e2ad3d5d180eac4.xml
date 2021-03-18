@@ -1,0 +1,30 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cloud services e.g. Office 365"
+    id="id-2da038c7e610472d8e2ad3d5d180eac4"
+    documentation="0">
+  <properties
+      key="Target Horizon"
+      value="2"/>
+  <properties
+      key="Segment"
+      value="Business"/>
+  <properties
+      key="Access/Service Type"
+      value="0"/>
+  <properties
+      key="Comarch can support"
+      value="TBC"/>
+  <properties
+      key="Non-Comarch IT support needed"
+      value="TBC"/>
+  <properties
+      key="NaaS will support"
+      value="TBC"/>
+  <properties
+      key="Automated non-NaaS support"
+      value="TBC"/>
+  <properties
+      key="Unexpected"
+      value="true"/>
+</archimate:BusinessService>

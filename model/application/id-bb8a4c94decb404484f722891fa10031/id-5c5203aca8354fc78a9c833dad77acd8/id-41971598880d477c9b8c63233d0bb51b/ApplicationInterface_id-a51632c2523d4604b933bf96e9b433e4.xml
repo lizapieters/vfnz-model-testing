@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DXINT003: Coverage Maps"
+    id="id-a51632c2523d4604b933bf96e9b433e4"
+    documentation="A coverage is a georelational data model that stores vector data—it contains both the spatial (location) and attribute (descriptive) data for geographic features. Coverages use a set of feature classes to represent geographic features. Each feature class stores a set of points, lines (arcs), polygons, or annotation (text). Coverages can have topology, which determines the relationships between features."/>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Solution Design Editor"
+    id="id-d07d6794a38141adb503f7a3cb93fbb1"
+    documentation="The Solution Design Editor function combine/configure the emerged solution based on the existing solution, planned changes and newly designed features (e.g. for site connectivity services)&#xA;Selecting relevant Products and Services from Catalog � Browse and select entries from a catalog that might be relevant to the set of captured requirements into the design.">
+  <properties
+      key="Function Identifier"
+      value="928"/>
+  <properties
+      key="TAM Application Name"
+      value="Solution Design"/>
+  <properties
+      key="TAM Application Id"
+      value="3.10.1"/>
+  <properties
+      key="Constructed Id"
+      value="3.10.1.928"/>
+</archimate:ApplicationFunction>

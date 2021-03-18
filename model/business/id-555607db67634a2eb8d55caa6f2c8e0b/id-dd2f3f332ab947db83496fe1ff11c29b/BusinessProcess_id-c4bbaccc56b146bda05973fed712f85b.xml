@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Update Party Problem Status to Resolved"
+    id="id-c4bbaccc56b146bda05973fed712f85b"
+    documentation="Update the party problem status to resolved.">
+  <properties
+      key="Process Identifier"
+      value="1.6.10.5.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Update Party Problem Status to Resolved updates the party problem status to resolved and informs the Close Party Problem process that a party problem has been resolved."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

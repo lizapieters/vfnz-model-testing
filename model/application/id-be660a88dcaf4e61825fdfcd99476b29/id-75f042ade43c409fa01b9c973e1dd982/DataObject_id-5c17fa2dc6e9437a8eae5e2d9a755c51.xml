@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ServiceRole"
+    id="id-5c17fa2dc6e9437a8eae5e2d9a755c51"
+    documentation="This is an abstract base class that defines a Service in terms of a set of roles. The roles are then used to characterize the functionality of the Service; regardless of whether it is a resource- or a customer-facing service. ServiceRoles represent the functionality of a Service; and as such are a mix of the invariant and changeable characteristics of a Service. Representing a Service in terms of ServiceRoles enables the functionality of the Service to be defined independently of BusinessActor; PhysicalResource; LogicalResource; or other Services."/>

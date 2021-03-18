@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Knowledge Management"
+    id="id-a2f3f776e3ef42829c2678b3008ddb87"
+    documentation="Knowledge Management (KM) application supports the identification, collation, labelling, storage and sharing of knowledge. Knowledge includes insights, experiences, intellectual properties (both external and internal), organizational processes and practices that are vital for the enterprise operation and development.&#xA;It ensures that an organisation is having access to the same set of Information and Data about the Knowledge which is acquired with the time and past experience.">
+  <properties
+      key="TAM Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="9.6"/>
+  <properties
+      key="Frameworx Domain"
+      value="Enterprise Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Finalize Sourcing Requirements"
+    id="id-7237793bb57643e1aed26dec18a7f91e"
+    documentation="These processes manage the finalization of the specific requirements to be achieved from the sourcing process including a chronological timetable for anticipated sourcing activities.">
+  <properties
+      key="Process Identifier"
+      value="1.6.2.1.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="These processes manage the finalization of the specific requirements to be achieved from the sourcing process including a chronological timetable for anticipated sourcing activities. The processes include any interaction with cross-enterprise coordination and management functions to ensure that the ...what is demand distribution?...demand distributions capture the needs of all stakeholders."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

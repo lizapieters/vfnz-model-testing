@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financial Account Management"
+    id="id-d5176276f7bd45ca84a2e15d3495a882"
+    documentation="The ability to establish, maintain, balance, audit, secure, and provide access to a named container of monetary value, organized into debits, credits, liabilities, equity, and related categories such as client, savings, checking, payable, general ledger, budgetary, and receivable categories.">
+  <properties
+      key="TMF_ID"
+      value="1.3.6.2"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

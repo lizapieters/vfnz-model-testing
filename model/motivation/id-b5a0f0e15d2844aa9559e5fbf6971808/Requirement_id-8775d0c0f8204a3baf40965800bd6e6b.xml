@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0615"
+    id="id-8775d0c0f8204a3baf40965800bd6e6b"
+    documentation="As an agent, I want to view products, add ons and offers available for customers to be able to advise customers">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0615"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="y"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Help"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Choose"/>
+  <properties
+      key="Topic"
+      value="Portal"/>
+  <properties
+      key="Remarks"
+      value="OOTB this can be achived via CRM. Is it sufficient for Base1?"/>
+  <properties
+      key="Module"
+      value="CRM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

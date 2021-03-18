@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Network Activation"
+    id="id-d7a3e6fdb73748ab8cb284e1393b8638"
+    documentation="The ability to bring a network into use.">
+  <properties
+      key="TMF_ID"
+      value="1.1.7.3.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

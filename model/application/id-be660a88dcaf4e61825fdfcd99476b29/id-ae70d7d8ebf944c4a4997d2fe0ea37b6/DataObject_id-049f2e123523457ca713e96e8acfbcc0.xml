@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PhysicalPort"
+    id="id-049f2e123523457ca713e96e8acfbcc0"
+    documentation="This class represents an actual or potential end point of a topological (physical) link; and corresponds directly to a physical port on a topology map. PhysicalPorts are always contained by another physical object - they cant exist by themselves. The two most common examples are PhysicalPorts on a Card and on a Chassis."/>

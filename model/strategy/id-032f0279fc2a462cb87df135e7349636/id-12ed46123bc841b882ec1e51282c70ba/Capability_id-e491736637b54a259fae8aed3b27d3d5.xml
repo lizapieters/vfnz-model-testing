@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Risk Threshold Determination"
+    id="id-e491736637b54a259fae8aed3b27d3d5"
+    documentation="The ability to identify and define the level of acceptable risk associated with a product.">
+  <properties
+      key="TMF_ID"
+      value="1.1.3.10.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

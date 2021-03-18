@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Operational Status Surveillance"
+    id="id-41681b4584c94629918ffae258553ed5"
+    documentation="This Fault Surveillance function is responsible for displaying the operational status of resources in either a tabular or graphical representation or both. The function is responsible for collecting the status messages and correlating them to resource topology.">
+  <properties
+      key="Function Identifier"
+      value="424"/>
+  <properties
+      key="TAM Application Name"
+      value="Fault Surveillance"/>
+  <properties
+      key="TAM Application Id"
+      value="7.10.1"/>
+  <properties
+      key="Constructed Id"
+      value="7.10.1.424"/>
+</archimate:ApplicationFunction>

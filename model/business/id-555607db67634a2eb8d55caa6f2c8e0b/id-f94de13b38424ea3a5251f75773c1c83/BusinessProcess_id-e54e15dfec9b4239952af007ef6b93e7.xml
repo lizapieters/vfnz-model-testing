@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gather Sales Prospect Needs"
+    id="id-e54e15dfec9b4239952af007ef6b93e7"
+    documentation="Collect needs from a sales prospect in addition to one or more product offerings that may have already been expressed as of interest to a prospect or recommended to a prospect.">
+  <properties
+      key="Process Identifier"
+      value="1.1.11.3.2.2"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Gather Sales Prospect Needs collect needs from a sales prospect in addition to one or more product offerings that may have already been expressed as of interest to a prospect or recommended to a prospect. The needs are collected via the Party or Customer Interaction Management processes that is triggered by Initiate Interaction With Sales Prospect. For example, a marketing communication sent to a sales prospect may have suggested one or more product offerings; a potential partner may have expressed interest in marketing one or more of an enterprise's offerings."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

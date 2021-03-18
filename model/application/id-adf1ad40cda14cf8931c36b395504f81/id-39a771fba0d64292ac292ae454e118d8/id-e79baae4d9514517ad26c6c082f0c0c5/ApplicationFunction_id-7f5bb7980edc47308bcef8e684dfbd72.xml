@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Roll-over and cyclic Balance Management policies."
+    id="id-7f5bb7980edc47308bcef8e684dfbd72"
+    documentation="Record definition of policies per balance or balance type of roll-over and cyclic policies">
+  <properties
+      key="Function Identifier"
+      value="52"/>
+  <properties
+      key="TAM Application Name"
+      value="Balance Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.19.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.19.2.52"/>
+</archimate:ApplicationFunction>

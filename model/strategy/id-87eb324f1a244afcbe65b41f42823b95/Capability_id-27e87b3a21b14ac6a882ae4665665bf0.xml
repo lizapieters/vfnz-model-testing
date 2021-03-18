@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sales Account Assignment"
+    id="id-27e87b3a21b14ac6a882ae4665665bf0"
+    documentation="Sales Account Assignment provides the necessary functionality to assign customers to a service provider�s sellers (either third party or internal). Ownership might further be differentiated based on various products with the same customer. Sales Account Assignment also maintains the sales hierarchy (different than HR reporting hierarchy) for sales compensation, sales forecasting, and sales results.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="3.11.2"/>
+  <properties
+      key="TMF Function"
+      value="Sales Account Assignment"/>
+  <properties
+      key="TMF Maturity"
+      value="Market_Sales Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

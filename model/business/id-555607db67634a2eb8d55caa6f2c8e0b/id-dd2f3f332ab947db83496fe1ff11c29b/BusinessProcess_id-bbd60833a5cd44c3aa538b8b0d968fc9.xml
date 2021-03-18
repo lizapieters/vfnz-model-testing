@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Share/Stock Registry"
+    id="id-bbd60833a5cd44c3aa538b8b0d968fc9"
+    documentation="Manage and administer the enterpriseâ€™s share/stock registry.">
+  <properties
+      key="Process Identifier"
+      value="1.7.6.6.4"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1430"
+    id="id-2b63ea0e60d343a4b9e60d04d0bb5115"
+    documentation="As a customer who has multiple prods/services with Vodafone, I want the be able to control how my products/services are grouped together across my invoices and within the various customer portals e.g. Mobile vs Fixed groups or Auck, Wn, Chch sites grouped separately, or certain Mobiles to Cost Centre A, and the other mobiles to Cost Centre B. Note - This is currently achieved by using a Parent/Child account structure">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1430"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Ben Pennell"/>
+  <properties
+      key="Tribe"
+      value="Business"/>
+  <properties
+      key="Target Horizon"
+      value="1.x"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Setup"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Account Hierarchies"/>
+  <properties
+      key="Remarks"
+      value="Grouping rules to be provided. Is it about billing hierarchy?Billing and non-billing How does it relate to presentation in the portals? yes Is it for Horizon 1? (Horizon 1.x) parked until we recieve use cases from Jared"/>
+  <properties
+      key="Module"
+      value="PIM, BS, EP"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Business Only"/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

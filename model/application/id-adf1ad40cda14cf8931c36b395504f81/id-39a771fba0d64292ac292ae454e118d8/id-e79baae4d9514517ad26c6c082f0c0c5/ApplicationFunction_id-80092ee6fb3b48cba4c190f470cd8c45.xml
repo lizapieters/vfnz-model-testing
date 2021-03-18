@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collection Actions-Update financial scoring:"
+    id="id-80092ee6fb3b48cba4c190f470cd8c45"
+    documentation="Update of the customer scoring information, based on events that are significant of payer behavior of the customer (e.g. late payment, delays, etc.)">
+  <properties
+      key="Function Identifier"
+      value="144"/>
+  <properties
+      key="TAM Application Name"
+      value="Collection Policy Execution and Monitoring"/>
+  <properties
+      key="TAM Application Id"
+      value="5.14.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.14.2.144"/>
+</archimate:ApplicationFunction>

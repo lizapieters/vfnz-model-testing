@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Specify Party Payment Method"
+    id="id-f03ed363c5984812ae021cb19174c642"
+    documentation="Define a method by which an individual party may make an inbound and/or outbound payment.">
+  <properties
+      key="Process Identifier"
+      value="1.6.16.1.2.2.1"/>
+  <properties
+      key="Category"
+      value="(6) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Specify Party Payment Method defines a method by which an individual party may make an inbound and/or outbound payment. A payment method may also be associated with a party payment plan when a plan is set up for a party. For example, a bank credit card may include the bank, the credit card number, security code, name on card, and expiration date. The preferred method of payment may also be specified."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

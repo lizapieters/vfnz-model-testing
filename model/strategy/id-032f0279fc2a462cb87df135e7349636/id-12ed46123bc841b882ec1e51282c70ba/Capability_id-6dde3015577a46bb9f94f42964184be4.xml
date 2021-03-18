@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Human Resource Authentication and Authorization Determination"
+    id="id-6dde3015577a46bb9f94f42964184be4"
+    documentation="The ability to determine security and accessibility levels to a particular item.">
+  <properties
+      key="TMF_ID"
+      value="1.3.8.2.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

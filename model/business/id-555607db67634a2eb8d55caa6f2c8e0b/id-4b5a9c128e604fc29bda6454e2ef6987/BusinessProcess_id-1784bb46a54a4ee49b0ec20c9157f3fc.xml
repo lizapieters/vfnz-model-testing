@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mediate Service Usage Records"
+    id="id-1784bb46a54a4ee49b0ec20c9157f3fc"
+    documentation="Validate, normalize, convert and correlate usage records collected from the resource layer">
+  <properties
+      key="Process Identifier"
+      value="1.4.8.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The purpose of the Mediate Service Usage Records process is to validate, normalize, convert and correlate usage records collected. It also removes any duplicate usage records that have already been processed."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

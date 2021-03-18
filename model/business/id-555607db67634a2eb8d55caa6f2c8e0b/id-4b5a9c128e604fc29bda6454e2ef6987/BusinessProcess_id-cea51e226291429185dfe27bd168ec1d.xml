@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Report Party Bill Inquiry"
+    id="id-cea51e226291429185dfe27bd168ec1d"
+    documentation="Monitors the status of on or more party bill inquiries, provide notifications of any changes and provide management reports.">
+  <properties
+      key="Process Identifier"
+      value="1.6.20.5"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Report Party Bill Inquiry monitors the status of party bill inquiries, provides notifications of any changes and provides management reports. Note that the jeopardy status is monitored by the Track Party Bill Inquiry process. These processes are responsible for continuously monitoring the status of party bill inquiries and managing notifications to other processes and to other parties, including partners, registered to receive notifications of any status changes. Note that lists of contacts related to a process such as this can be maintained by a generalized process such as Process Management &amp; Support that is part of Enterprise Effectiveness Management in the Enterprise domain. These processes record, analyze and assess the party bill inquiry status changes to provide management reports and any specialized summaries of the efficiency and effectiveness of the overall Party Bill Inquiry Handling processes. These specialized summaries could be specific reports required by specific audiences, such as partners. These processes also report any identified constraints that can affect party billing quality standards to other processes. These constraints may include specific resource (billing application and/or database, for example) failures, and so forth."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

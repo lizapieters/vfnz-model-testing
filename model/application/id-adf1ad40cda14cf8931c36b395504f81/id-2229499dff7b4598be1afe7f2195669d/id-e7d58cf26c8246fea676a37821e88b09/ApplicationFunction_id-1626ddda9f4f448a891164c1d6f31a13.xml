@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Problem Diagnostics"
+    id="id-1626ddda9f4f448a891164c1d6f31a13"
+    documentation="Determine the source (root cause) of the problem &#xA;� Utilize service performance and service problem management functions &#xA;� Use Diagnostics /Testing tools to determine the actual cause &#xA;� Use a detailed physical, logical and service inventory to create a up-to-date detailed customer connectivity/topology view. &#xA;� Receive service quality of service violation data from Service Quality Management  &#xA;� Correlate various events associated with customer contact to determine the source &#xA;� Update the case with a �Cause Code�">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="5.8.3"/>
+  <properties
+      key="Frameworx Domain"
+      value="Customer Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

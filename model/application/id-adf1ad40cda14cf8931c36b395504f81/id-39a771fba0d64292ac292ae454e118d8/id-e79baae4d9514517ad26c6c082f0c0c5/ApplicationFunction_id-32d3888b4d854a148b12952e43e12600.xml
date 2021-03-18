@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Order Decomposition and Distribution"
+    id="id-32d3888b4d854a148b12952e43e12600"
+    documentation="Customer Order Decomposition and Distribution function decomposes each relevant Product Order Item of the Customer Order, into Service Orders (CFS level) and distributes the Service Order requests to appropriate systems. For example : Service Order Management (SOM), potential 3rd parties, ...&#xA;This decomposition relies on :&#xA;- the articulation between Products and CFS described in the Catalogue Repository&#xA;- the articulation between Product Operations and CFS Operations described in the Catalogue Repository&#xA;- existing installed CFS&#xA;- the potential rules of choice if several CFS can fit in with the product.">
+  <properties
+      key="Function Identifier"
+      value="202"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Operational Decisioning"/>
+  <properties
+      key="TAM Application Id"
+      value="5.5.14"/>
+  <properties
+      key="Constructed Id"
+      value="5.5.14.202"/>
+</archimate:ApplicationFunction>

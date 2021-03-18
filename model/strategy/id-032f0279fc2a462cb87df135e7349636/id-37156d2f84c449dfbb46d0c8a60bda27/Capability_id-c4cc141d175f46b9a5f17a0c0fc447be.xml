@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financial Forecast Management"
+    id="id-c4cc141d175f46b9a5f17a0c0fc447be"
+    documentation="The ability to predict and estimate the financial aspects of the Business using, but not limited to, history and market trends.">
+  <properties
+      key="TMF_ID"
+      value="1.3.6.1"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

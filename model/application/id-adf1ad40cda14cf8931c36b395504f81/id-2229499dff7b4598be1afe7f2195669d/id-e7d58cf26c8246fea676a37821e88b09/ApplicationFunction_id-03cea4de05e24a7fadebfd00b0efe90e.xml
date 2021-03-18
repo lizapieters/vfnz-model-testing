@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Order Orchestration"
+    id="id-03cea4de05e24a7fadebfd00b0efe90e"
+    documentation="The Customer Order Orchestration function provides workflow and orchestration capabilities at the Product Order Item level for a dedicated Customer Order. &#xA;Orchestration can take into account :&#xA;- constraints between Product Order Items inside the Customer Order, or successive Customer Orders including modification or cancellation (in-flight changes)&#xA;- any type of business rules based on information even external to the Customer Order. For example : high level of priority for VIP customers&#xA;-  Triggering of exception process or delivery planning update, depending on Customer Order or Service Order events.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="5.3.3"/>
+  <properties
+      key="Frameworx Domain"
+      value="Customer Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

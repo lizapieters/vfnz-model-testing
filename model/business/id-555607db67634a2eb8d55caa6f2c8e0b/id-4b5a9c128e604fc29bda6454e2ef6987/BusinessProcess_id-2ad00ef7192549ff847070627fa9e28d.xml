@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Control Resource Performance"
+    id="id-2ad00ef7192549ff847070627fa9e28d"
+    documentation="Apply controls to resources in order to optimize the resource performance">
+  <properties
+      key="Process Identifier"
+      value="1.5.9.3"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of the Control Resource Performance processes is to apply controls to resource instances in order to optimize the resource performance. The responsibilities of the processes include, but are not limited to: â€¢Instantiating controls to attempt to restore resource instances to normal operation, at the request of Analyze Resource Performance processes. These controls may be based on established control plans, or the controls may be developed within the Control Resource Performance processes depending on circumstances. â€¢Instantiating controls to attempt to restore failed resource instances to normal operation, at the request of Resource Trouble Management or Service Quality Management processes. These controls may be based on established control plans, or the controls may be developed within the Control Resource Performance process depending on circumstances."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

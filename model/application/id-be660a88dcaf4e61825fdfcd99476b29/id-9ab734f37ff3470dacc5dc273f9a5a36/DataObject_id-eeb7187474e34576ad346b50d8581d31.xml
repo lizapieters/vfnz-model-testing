@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicyAction"
+    id="id-eeb7187474e34576ad346b50d8581d31"
+    documentation="This is an abstract base class that represents how to form the action clause of a PolicyRule. This consists of a single occurrence of a PolicyStatement; which is of the form: {variable; operator; value} Policy actions have the semantics of SET variable to value. There are two types of actions: - pass actions are invoked if the condition clause was TRUE - fail actions are invoked if the condition clause was FALSE"/>

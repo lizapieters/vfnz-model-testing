@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="StringVariable"
+    id="id-4255317ad71a46088957af8bd724d8ed"
+    documentation="This class is used to represent a single or set of string variable. Each can have wildcards. Thus; only StringValue classes can be used in the value portion of the condition expression with this PolicyVariable."/>

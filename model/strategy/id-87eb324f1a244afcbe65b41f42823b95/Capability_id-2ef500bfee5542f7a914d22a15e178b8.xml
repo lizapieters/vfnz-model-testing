@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Supplier/Partner Invoice Reconciliation"
+    id="id-2ef500bfee5542f7a914d22a15e178b8"
+    documentation="Supplier/Partner Invoice Reconciliation Management uses thecharges from the supplier/partner along with substantiating informationavailable tothe service provider to reconcile the invoice presented by the supplier/partner.">
+  <properties
+      key="TMF Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="8.2.5.1"/>
+  <properties
+      key="TMF Function"
+      value="Supplier/Partner Invoice Reconciliation"/>
+  <properties
+      key="TMF Maturity"
+      value="Supplier_Partner Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

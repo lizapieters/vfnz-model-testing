@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Entity/Policy Matching"
+    id="id-d412918ddcae4af4a635197fabe4a1a6"
+    documentation="The ability to associate a business entity with a policy.">
+  <properties
+      key="TMF_ID"
+      value="1.2.4.6.5"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

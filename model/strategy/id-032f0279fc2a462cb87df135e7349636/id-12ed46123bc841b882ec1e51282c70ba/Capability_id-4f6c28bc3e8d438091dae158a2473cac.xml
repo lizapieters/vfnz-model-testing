@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Channel Risk Threshold Determination"
+    id="id-4f6c28bc3e8d438091dae158a2473cac"
+    documentation="The ability to identify and define the level of acceptable risk associated with a channel.">
+  <properties
+      key="TMF_ID"
+      value="1.1.1.4.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

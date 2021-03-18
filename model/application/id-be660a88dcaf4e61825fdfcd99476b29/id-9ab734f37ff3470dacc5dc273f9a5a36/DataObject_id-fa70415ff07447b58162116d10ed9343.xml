@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MetricDimension"
+    id="id-fa70415ff07447b58162116d10ed9343"
+    documentation="A metric dimension designates a method of organizing individual metrics into common sets; related by the value of the named dimension. An example would be a metric for revenue--individual instance values of revenue could be organized in the dimension of geography (Region 1 Revenues; Region 2 Revenues; etc.); or by Product (Wireless Revenue; Wire-line Revenue; Broadband Revenue; Advertising Revenue; etc.). The characteristic term when discussing Dimension is by; as in Revenue; by Product or Revenue; by Region."/>

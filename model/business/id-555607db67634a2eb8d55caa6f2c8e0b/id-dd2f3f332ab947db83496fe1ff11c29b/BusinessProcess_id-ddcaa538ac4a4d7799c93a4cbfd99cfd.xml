@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Request Party Privacy Profile Extension"
+    id="id-ddcaa538ac4a4d7799c93a4cbfd99cfd"
+    documentation="Offer the possibility for the Data Processor to request modification of a Privacy Profile by the Data Subject.">
+  <properties
+      key="Process Identifier"
+      value="1.6.7.3.4"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Request Party Privacy Profile Extension process is used by the Data Controller to request the change of Privacy Profile rule after its agreement between Data Controller and Data Subject. Those modifications typically occur in the Consent Screen, at the moment the evolution of the settings are required to deliver a new service, in the case a PII must be sent to a new Processor Party, etc. If the External Rules prevent the sending of an element of PII - that is required to deliver a Service - to a Data Processor party, the Data Controller can request an extension of the Privacy Policy through the â€˜Request Party Privacy Profile extensionâ€™ process."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

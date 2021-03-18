@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Network/Capacity Matching"
+    id="id-29af22d08cd5449e9e2b8811fade6846"
+    documentation="The ability to ensure efficient capacity exists for a period of time (special events)">
+  <properties
+      key="TMF_ID"
+      value="1.1.7.8.5"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

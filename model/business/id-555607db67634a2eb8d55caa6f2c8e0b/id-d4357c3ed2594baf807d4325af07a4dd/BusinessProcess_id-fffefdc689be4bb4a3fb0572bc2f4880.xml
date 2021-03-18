@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Obtain Product Offering Price Approval"
+    id="id-fffefdc689be4bb4a3fb0572bc2f4880"
+    documentation="Approve all creations, modifications, and removals of product offering prices and price plans.">
+  <properties
+      key="Process Identifier"
+      value="1.2.7.2.2.1.4"/>
+  <properties
+      key="Category"
+      value="(6) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Obtain Product Offering Price Approval handles the approval of the creates, modifications, removals/discontinues to prices and price plans by those parties involved in the approval process. This includes any actions taken by any pricing related core processes. Additionally enterprise cross-product pricing approval is also obtained. Upon approval the Provide Product Offering Price Notification process provides notification of the approval to all involved parties."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

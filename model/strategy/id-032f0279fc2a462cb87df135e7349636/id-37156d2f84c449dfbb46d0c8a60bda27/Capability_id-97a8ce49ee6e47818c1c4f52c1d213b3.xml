@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Policy Access Management"
+    id="id-97a8ce49ee6e47818c1c4f52c1d213b3"
+    documentation="The ability to control who, internally or externally, is able to view a policy.">
+  <properties
+      key="TMF_ID"
+      value="1.2.3.5"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

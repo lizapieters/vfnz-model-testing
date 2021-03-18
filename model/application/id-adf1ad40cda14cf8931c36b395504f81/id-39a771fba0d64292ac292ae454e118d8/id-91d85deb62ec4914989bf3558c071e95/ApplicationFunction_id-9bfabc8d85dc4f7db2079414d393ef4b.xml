@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Automatic Solution Validation"
+    id="id-9bfabc8d85dc4f7db2079414d393ef4b"
+    documentation="Automatic Solution Validation � Obtain configurations constraints from the catalog and validates the correctness of the design against them.">
+  <properties
+      key="Function Identifier"
+      value="930"/>
+  <properties
+      key="TAM Application Name"
+      value="Solution Design"/>
+  <properties
+      key="TAM Application Id"
+      value="3.10.1"/>
+  <properties
+      key="Constructed Id"
+      value="3.10.1.930"/>
+</archimate:ApplicationFunction>

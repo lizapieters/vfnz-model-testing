@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Campaign Performance Threshold Measurement"
+    id="id-d738ff3f958f4bfb9412b872d851617b"
+    documentation="The ability to determine if a campaign is exceeding or falling short of an acceptable threshold of performance.">
+  <properties
+      key="TMF_ID"
+      value="1.2.12.6.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Equipment"
+    id="id-d6ec22c5c65942d5800486e14a78e755"
+    documentation="This class is based on the m.3100 specification; and is described as follows: The Equipment object class is a class of managed objects that represents physical components of a managed device; including replaceable components. An instance of this object class must be present in only a single geographic location. An Equipment object may be nested within another Equipment object; thereby creating a containment relationship. The Equipment type shall be identified by sub-classing this object class. Either the name of the sub-class or an attribute may be used for identifying the equipment type."/>

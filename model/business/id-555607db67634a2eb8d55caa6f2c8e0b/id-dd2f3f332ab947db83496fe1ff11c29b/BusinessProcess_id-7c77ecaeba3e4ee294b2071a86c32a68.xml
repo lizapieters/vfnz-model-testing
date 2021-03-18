@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ascertain Sales Prospect Requirements"
+    id="id-7c77ecaeba3e4ee294b2071a86c32a68"
+    documentation="Ascertain a sales prospectâ€™s requirements. This process commences following approval by the Qualify Opportunity process.">
+  <properties
+      key="Process Identifier"
+      value="1.1.9.2.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Ascertain Sales Prospect Requirements ascertains a sales prospectâ€™s requirements. This process commences following approval by the Qualify Opportunity process. The development of a sales proposal may require the selection of a standard product offering, may require the development of a non-standard offering, or may require the creation of a project team to construct an offering in response to a customerâ€™s Request For Proposal."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Close Work Order"
+    id="id-69a572dedc5a4a20a2c7db620bc53af9"
+    documentation="Close a Work Order when the manual activities assigned to employees and/or third parties have been completed.">
+  <properties
+      key="Process Identifier"
+      value="1.5.5.5.6"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of the Close Work Order processes is to: â€¢{T}Close a Work Order when the tasks and work items assigned to employees and/or third parties have been completed. These processes monitor the status of all open work orders, and recognize that a work order is ready to be closed when the status is changed to Complete."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

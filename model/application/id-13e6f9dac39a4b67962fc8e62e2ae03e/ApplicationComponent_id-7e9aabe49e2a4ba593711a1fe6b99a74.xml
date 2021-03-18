@@ -1,0 +1,45 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NetVault"
+    id="id-7e9aabe49e2a4ba593711a1fe6b99a74"
+    documentation="NetVault">
+  <properties
+      key="StatusForLookUp"
+      value="Inactive"/>
+  <properties
+      key="Owner"
+      value="TonyB"/>
+  <properties
+      key="Level of Service"
+      value="Business Premium"/>
+  <properties
+      key="Product / Service"
+      value="Common"/>
+  <properties
+      key="Segment"
+      value="Common"/>
+  <properties
+      key="DX Association"
+      value="Integrate"/>
+  <properties
+      key="Existing Retained or Replaced"
+      value="Replace"/>
+  <properties
+      key="ComArch / Other"
+      value="Network as a Service (VF)"/>
+  <properties
+      key="Dig Future Module"
+      value="Application Integration Framework (AIF)"/>
+  <properties
+      key="Legacy BSS Stack Served"
+      value="Common"/>
+  <properties
+      key="TAM App ID"
+      value="10.1"/>
+  <properties
+      key="TAM Domain"
+      value="Integration Domain"/>
+  <properties
+      key="TAM Application"
+      value="Enterprise Application Integration"/>
+</archimate:ApplicationComponent>

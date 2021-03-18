@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Performance Reporting"
+    id="id-e9a785da897b472a97cbc5b839b966cd"
+    documentation="Service Performance Reporting provides the necessary functionality required togenerate reports about the performance of the service provider's services.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="6.7.3"/>
+  <properties
+      key="TMF Function"
+      value="Service Performance Reporting"/>
+  <properties
+      key="TMF Maturity"
+      value="Service Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

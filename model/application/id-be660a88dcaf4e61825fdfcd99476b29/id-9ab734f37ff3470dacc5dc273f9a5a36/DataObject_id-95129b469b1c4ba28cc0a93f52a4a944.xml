@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ManagementInfo"
+    id="id-95129b469b1c4ba28cc0a93f52a4a944"
+    documentation="This is an abstract base class that is used to represent entities that represent management information obtained in a managed environment . Specifically; in the process of managing an entity; information of various forms are created. This class is the base class for defining different types of management information. The design of how management information is obtained uses this class to gather specific type of information; and the ManagementMethodEntity class to obtain the desired data using an appropriate method. This combination of class hierarchies enables different management methods (e.g.; CLI vs. SNMP) to be used to gather different types of management data; and is unique to the SID information model."/>

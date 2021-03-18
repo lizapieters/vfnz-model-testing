@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define Orchestration Specification"
+    id="id-d2ae641632794d59bca3a2b014118be9"
+    documentation="Define Orchestration Specification process defines which elements are to be the subject of alignment and the relationship between them.">
+  <properties
+      key="Process Identifier"
+      value="1.8.5.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Define Orchestration Specification process defines which elements are to be the subject for alignment and the relationship between them. The definition of &quot;Element&quot; includes, but is not limited to: a domain, a process, a person (including staff), a group of people, an organizational department and an asset, whether tangible (such as network or ecosystem) or intangible (such as information and intangible ecosystems). For example, product offering elements in Product domain may require to be aligned with sales campaign elements in Marketing/Sales domain. Equally the neccessary alignment may be intra-domain such as transmission, facilities and cells within the Resource domain of a mobile CSP."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

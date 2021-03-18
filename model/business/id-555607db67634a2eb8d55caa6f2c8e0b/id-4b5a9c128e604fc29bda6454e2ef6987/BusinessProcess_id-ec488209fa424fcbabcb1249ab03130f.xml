@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Design Resource Capabilities"
+    id="id-ec488209fa424fcbabcb1249ab03130f"
+    documentation="Manage the design of the resource infrastructure to meet the requirements in any approved investment proposals.">
+  <properties
+      key="Process Identifier"
+      value="1.5.2.4"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Design Resource Capabilities processes manage the design of the resource infrastructure to meet the requirements in any approved investment proposals. These processes ensure the collation and coordination of requirements from all approved investment proposals, assess the most appropriate resource infrastructure, develop the tactical/solution architecture and design specifications to be used to build or source the necessary resource infrastructure components, and select the most appropriate resource infrastructure other parties to support the resource requirements. A key element of the overall design is the integration approach between the existing legacy resource infrastructure and any proposed new resource infrastructure. This integration design is managed within the architecture and specification processes. Note that the actual management of the sourcing process is handled within the Party Offering Development &amp; Retirement processes."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

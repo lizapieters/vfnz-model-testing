@@ -1,0 +1,39 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Debt Collection"
+    id="id-5f06d3585cb94296ac797b59978a57f4"
+    documentation="Interface with Debt Collection agency (file based export of data from BS module)">
+  <properties
+      key="Stereotype"
+      value="abstract_interface"/>
+  <properties
+      key="Southbound Required"
+      value="Y"/>
+  <properties
+      key="Importance"
+      value="1"/>
+  <properties
+      key="Area"
+      value="BSS"/>
+  <properties
+      key="Interface Type"
+      value="Core"/>
+  <properties
+      key="Pattern"
+      value="REST/Event/Batch"/>
+  <properties
+      key="FWA"
+      value="Y"/>
+  <properties
+      key="Mobile"
+      value="Y"/>
+  <properties
+      key="Broadband"
+      value="Y"/>
+  <properties
+      key="Common"
+      value="Y"/>
+  <properties
+      key="Unexpected"
+      value="true"/>
+</archimate:ApplicationInterface>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Entity Risk Level Determination"
+    id="id-e900d2a3d1ff4c98b47e4e140017cf54"
+    documentation="The ability to identify and define the level of risk associated with a business entity.">
+  <properties
+      key="TMF_ID"
+      value="1.2.4.5.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

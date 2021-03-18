@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SecurityEvent"
+    id="id-5956ad8aa8d641ceb58a754badeaf59c"
+    documentation="A change of state that has significance for the security of a Configuration Item or IT Service. SecurityEvents are designed to carry information about network defense-related activities that are sensed on networks and network-connected devices. SecurityEvents can be either assessed in depth to determine if successful intrusions or compromises resulted; or they can be aggregated to characterize the threat environment."/>

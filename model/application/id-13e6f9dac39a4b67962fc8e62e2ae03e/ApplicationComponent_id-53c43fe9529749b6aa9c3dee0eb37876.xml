@@ -1,0 +1,36 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Paradise Mail"
+    id="id-53c43fe9529749b6aa9c3dee0eb37876"
+    documentation="Paradise Mail">
+  <properties
+      key="StatusForLookUp"
+      value="Decommissioned"/>
+  <properties
+      key="Owner"
+      value="AndrewH"/>
+  <properties
+      key="Level of Service"
+      value="Mission Critical"/>
+  <properties
+      key="Product / Service"
+      value="Fixed"/>
+  <properties
+      key="Segment"
+      value="Common"/>
+  <properties
+      key="DX Association"
+      value="Unrelated"/>
+  <properties
+      key="Legacy BSS Stack Served"
+      value="Blue-Common"/>
+  <properties
+      key="TAM App ID"
+      value="10.3.1"/>
+  <properties
+      key="TAM Domain"
+      value="Integration Domain"/>
+  <properties
+      key="TAM Application"
+      value="API Gateway"/>
+</archimate:ApplicationComponent>

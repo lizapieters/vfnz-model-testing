@@ -1,0 +1,17 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Common Process Patterns Domain"
+    id="id-56ac0ff25af64b49b069adbff22b06bd"
+    documentation="The common domain is of different nature from the above defined ones as the processes, information data and applications described there do not necessarily have relationships.">
+  <properties
+      key="Process Identifier"/>
+  <properties
+      key="Category"/>
+  <properties
+      key="Extended Description"
+      value="The common domain is of different nature from the above defined ones as the processes, information data and applications described there do not necessarily have relationships. The elements in these common domains are related only to their respective framework. In the Business Process Framework it is referred to as the Common process patterns (introduced in release 15.5). The Common Process Pattern domain contains processes, such as Cataloging, Capacity Management, and Configuration Specification and Configuration Management. They represent reusable components that can be used to define business processes, such as Product Capacity Management, Service Capacity Management, and Resource Capacity Management. A key characteristic of Common Process Patterns domain is that they CANNOT execute on their own and ALWAYS require specialization (are used to define true business processes). For example, defining capacity has no meaning unless it is put in the context of a process, such as defining product capacity. In the Information Framework it is referred to as the Common Business Entities domain defined as follows: The Common Business Entities Domain represents business entities shared across two or more other domains. As such, these business entities are not “owned” by any particular domain. In some cases a common business entity represents a generic abstraction of other real-world business entities. For example, Business Interaction is an abstraction (super-class) of business entities such as Customer Order and Supplier/Partner SLA In the Application Framework it is referred to as a cross domain, that includes specifically two common applications (Catalog Management and Fallout Management). The notion of common domain does not represent the broad dimension and purpose that it has in the Information Framework."/>
+  <properties
+      key="Maturity Level"/>
+  <properties
+      key="Frameworx Status"/>
+</archimate:BusinessProcess>

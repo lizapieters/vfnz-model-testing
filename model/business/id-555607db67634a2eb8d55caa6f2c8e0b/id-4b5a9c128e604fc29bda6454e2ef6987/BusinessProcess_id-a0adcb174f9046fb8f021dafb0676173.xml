@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consume Available Capacity"
+    id="id-a0adcb174f9046fb8f021dafb0676173"
+    documentation="Allocate planned or actual capacity availability to the respective capacity demand for a given time period.">
+  <properties
+      key="Process Identifier"
+      value="1.8.2.4"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Consume Available Capacity allocates capacity availability to capacity demand for a given time period. The allocation may identify the available capacity is not enough to satisfy demand or that there is too much capacity for a given time period. This information is communicated to the Monitor Capacity processes."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HolderAtomic"
+    id="id-401f7698ab2143e6951f6eb3870fefa5"
+    documentation="This class represents atomic holders of Equipment that are individually manageable and do NOT form composite; or nested; Equipment Holders. Each HolderAtomic object can be a FRU."/>

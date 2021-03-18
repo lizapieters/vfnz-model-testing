@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Product Configuration"
+    id="id-e40cd30215c1459d93bd1e19943def36"
+    documentation="Create and remove a the product configuration as defined by a selected product configuration specification, as well as relationship between a product and a product configuration.">
+  <properties
+      key="Process Identifier"
+      value="1.2.5.2"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

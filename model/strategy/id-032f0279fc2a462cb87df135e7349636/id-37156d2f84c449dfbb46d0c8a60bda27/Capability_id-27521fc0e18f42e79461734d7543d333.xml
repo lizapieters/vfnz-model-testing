@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Order Settlement"
+    id="id-27521fc0e18f42e79461734d7543d333"
+    documentation="The ability to control, execute, and record the order in accordance with the agreed and defined terms and conditions.">
+  <properties
+      key="TMF_ID"
+      value="1.1.8.4"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

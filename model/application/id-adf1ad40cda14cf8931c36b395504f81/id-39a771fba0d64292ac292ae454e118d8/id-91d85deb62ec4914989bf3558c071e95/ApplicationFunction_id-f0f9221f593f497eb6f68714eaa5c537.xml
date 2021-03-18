@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Virtual network Data fencing"
+    id="id-f0f9221f593f497eb6f68714eaa5c537"
+    documentation="A security function that will allow the VNO agents or Dealers to view only their own customers. In some cases, the network provider will use the same BSS environment to serve several VNOs (multi tenancy)">
+  <properties
+      key="Function Identifier"
+      value="369"/>
+  <properties
+      key="TAM Application Name"
+      value="Virtual Network Operators (Dealers)"/>
+  <properties
+      key="TAM Application Id"
+      value="3.4.5"/>
+  <properties
+      key="Constructed Id"
+      value="3.4.5.369"/>
+</archimate:ApplicationFunction>

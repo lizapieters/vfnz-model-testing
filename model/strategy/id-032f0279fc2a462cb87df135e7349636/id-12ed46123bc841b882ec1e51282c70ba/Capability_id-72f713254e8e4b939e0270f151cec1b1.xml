@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Network/Location Matching"
+    id="id-72f713254e8e4b939e0270f151cec1b1"
+    documentation="The ability to associate a network with a location.">
+  <properties
+      key="TMF_ID"
+      value="1.1.7.8.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

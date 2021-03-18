@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Handle IP Interconnect Party Billing"
+    id="id-fb6275c1102d422ab5dfdc897c7ec84a"
+    documentation="Handle IP Interconnect Party  Billing  process  handle  particular billing  which occurs in IP Backhaul Traffic.">
+  <properties
+      key="Process Identifier"
+      value="1.6.15.4.2.1"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Handle IP Interconnect Party Billing process handle particular billing which occurs in IP Backhaul Traffic."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

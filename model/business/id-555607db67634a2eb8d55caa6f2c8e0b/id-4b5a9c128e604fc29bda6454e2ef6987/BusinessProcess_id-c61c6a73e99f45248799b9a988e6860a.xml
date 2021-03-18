@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gather &amp; Analyze New Resource Ideas"
+    id="id-c61c6a73e99f45248799b9a988e6860a"
+    documentation="Combine specific product &amp; service class requirements with demographic, customer, technology and marketing information to identify specific new resource classes/components, or enhancements to existing resource classes/components">
+  <properties
+      key="Process Identifier"
+      value="1.5.3.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Gather &amp; Analyze New Resource Ideas processes combine specific product &amp; service class requirements with demographic, customer, technology and marketing information to identify specific new resource classes/components, or enhancements to existing resource classes/components. These processes undertake the necessary analysis to identify potential resource classes, compare current resource classes with the identified required resource classes, and as a result of the analysis develop new resource class ideas."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

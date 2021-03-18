@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trip History Management"
+    id="id-f65e081d101c41f785817b5b2b52416f"
+    documentation="The Ability to identify, record, and represent a chronological order of events and actions associated with a trip.">
+  <properties
+      key="TMF_ID"
+      value="1.1.6.5.4"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

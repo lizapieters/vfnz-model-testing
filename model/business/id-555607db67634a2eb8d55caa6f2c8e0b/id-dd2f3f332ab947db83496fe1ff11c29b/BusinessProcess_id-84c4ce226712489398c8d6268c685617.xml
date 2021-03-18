@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop Resource Strategy"
+    id="id-84c4ce226712489398c8d6268c685617"
+    documentation="Accept changing resource requirements and develop resource strategies">
+  <properties
+      key="Process Identifier"
+      value="1.5.1.3.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Develop resource Strategy processes, accept the changing of resource requirements and develop appropriate resource strategies and strategic resource architectures based on the changing needs of the enterprise, and increasing expectations of the markets. Develop resource strategy may perform in-parallel across all required resources proactively. Today in digital ecosystem, Digital resource architecture map could help to facilitate this process."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

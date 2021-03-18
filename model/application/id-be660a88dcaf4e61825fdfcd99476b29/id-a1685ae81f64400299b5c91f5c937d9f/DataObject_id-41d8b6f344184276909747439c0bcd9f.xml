@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SecurityVulnerability"
+    id="id-41d8b6f344184276909747439c0bcd9f"
+    documentation="An information security vulnerability is a mistake in software that can be directly used by a hacker to gain access to a system or network. CVE considers a mistake a vulnerability if it allows an attacker to use it to violate a reasonable security policy for that system (this excludes excluding entirely open security policies in which all users are trusted; or where there is no consideration of risk to the system). For CVE; a vulnerability is a state in a computing system (or set of systems) that either: Â· allows an attacker to execute commands as another user Â· allows an attacker to access data that is contrary to the specified access restrictions for that data Â· allows an attacker to pose as another entity Â· allows an attacker to conduct a denial of service source: http://cve.mitre.org"/>

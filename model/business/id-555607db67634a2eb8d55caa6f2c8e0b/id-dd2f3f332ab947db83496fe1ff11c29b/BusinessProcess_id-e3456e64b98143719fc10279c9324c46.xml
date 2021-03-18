@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Select Marketing Communication Delivery Channels"
+    id="id-e3456e64b98143719fc10279c9324c46"
+    documentation="Select the appropriate channel or channels to support delivery of a marketing communication message.">
+  <properties
+      key="Process Identifier"
+      value="1.1.14.3.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Select Marketing Communication Delivery Channels selects the appropriate channel or channels to support delivery of a marketing message associated with a communication. A particular product offering or marketing campaign may require selection of one or several delivery channels."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

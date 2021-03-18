@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Capability Specification Management"
+    id="id-b50e47d7c8ea41a385d455c47fea874d"
+    documentation="This function involves the creation, editing, storage and retrieval of capability specifications. The capability specifications represent the general, common and invariant characteristics of resource that may be realized in more than one type of specific resource. Examples of capability are Layer2, Data, radio and Transport.">
+  <properties
+      key="Function Identifier"
+      value="737"/>
+  <properties
+      key="TAM Application Name"
+      value="Capability Specification Management"/>
+  <properties
+      key="TAM Application Id"
+      value="7.1.4"/>
+  <properties
+      key="Constructed Id"
+      value="7.1.4.737"/>
+</archimate:ApplicationFunction>

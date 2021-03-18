@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Internal Process Policies"
+    id="id-d635a516412c4ddf988dff61a1309da1"
+    documentation="This process serves as a repository of  M&amp;P (Methods and Procedures) information that maintains best practices for internal process navigation.">
+  <properties
+      key="Process Identifier"
+      value="1.7.2.3.1.4"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Through the course of fraud program operations, other areas within the business will often need to be engaged as part of investigative actions, corrective actions, etc. This process serves as the set of guidelines needed to understand at what points external support (outside of a fraud core team) is necessary, and what actions could be expected to be performed by those external teams. This process will also contain pertinent contact information of trusted, qualified individuals within those external teams that may be used for fraud program work."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

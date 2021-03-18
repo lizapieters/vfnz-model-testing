@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CrossedThreshold"
+    id="id-67d1713f2c6048c986d2f2b34fc9757c"
+    documentation="This class provides crossed threshold information when the alarm is a result of crossing a threshold. It is an implementation-oriented object; since the information it provides is a summary of information contained in other SID entities. It consists of : - Threshold Id; identifying the threshold that caused the alarm - Indicator Name; identifying the name of performance indicator which crossed the threshold - Observed Value; providing the value of the performance indicator which crossed the threshold - Granularity; providing the granularity at which the indicator is evaluated for threshold crossing - Direction; providing the threshold crossing direction: up or down - ThresholdQualifier; qualifying the crossed threshold - Threshold Crossing Description; containing further information on the threshold crossing alarm. Note that some of the information present in the Threshold object ; like indicator name or granularity is repeated here in order to have a contained alarm report."/>

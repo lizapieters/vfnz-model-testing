@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agreement/Collateral Matching"
+    id="id-77d74acc3b4e452d827860ee651493a7"
+    documentation="The ability to associate an agreement with a piece of collateral.">
+  <properties
+      key="TMF_ID"
+      value="1.1.5.9.9"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

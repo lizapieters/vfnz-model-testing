@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Port-in/Port-out Reliquihments"
+    id="id-cc5f8bc6061040b69665b52961b94bd4">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-41d5704966c8447abf8a36bfb957bd1c.xml#id-41d5704966c8447abf8a36bfb957bd1c"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-77a13a64886e466dad1341d6a7c6a6ff.xml#id-77a13a64886e466dad1341d6a7c6a6ff"/>
+</archimate:TriggeringRelationship>

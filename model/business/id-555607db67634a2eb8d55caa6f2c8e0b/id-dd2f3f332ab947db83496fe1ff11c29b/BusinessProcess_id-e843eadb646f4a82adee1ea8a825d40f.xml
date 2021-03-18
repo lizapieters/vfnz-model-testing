@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Party Relationship"
+    id="id-e843eadb646f4a82adee1ea8a825d40f"
+    documentation="Establish and manage the on-going processes to support the commercial, strategic, delivery and operational interactions between an enterprise and party.">
+  <properties
+      key="Process Identifier"
+      value="1.6.3.1.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Manage Party Relationship establishes and manages the on-going processes to support the commercial, strategic, delivery and operational interactions between the enterprise and a party. It monitors, reviews, and agrees on changes to the commercial, strategic and operational interaction processes to improve their effectiveness. This process oversees and administers any agreed joint management and/or process improvement activities between an enterprise and a party. These joint activities could include operations monitoring and management, project related build and implementation activities, joint strategic management meetings, etc."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

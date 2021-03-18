@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Perform Specific Service Problem Tests"
+    id="id-bdcc0643b9dd4675a1c2a5e3f6e7cc90"
+    documentation="This process runs tests against the specific services.">
+  <properties
+      key="Process Identifier"
+      value="1.4.6.2.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

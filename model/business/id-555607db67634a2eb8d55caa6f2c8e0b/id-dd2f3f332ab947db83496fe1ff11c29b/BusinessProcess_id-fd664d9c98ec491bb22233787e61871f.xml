@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cancel Party Order"
+    id="id-fd664d9c98ec491bb22233787e61871f"
+    documentation="Cancel a party order when the specific order requirements are no longer required as notified by the other processes.">
+  <properties
+      key="Process Identifier"
+      value="1.6.8.3.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

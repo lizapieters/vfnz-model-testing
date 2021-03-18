@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Analytics"
+    id="id-173e6ef966fe43baa77f45a92c33a51f"
+    documentation="Data Analytics process provides capabilities like Data Ingestion to import data from variety of sources, Data Management process to manage the data within the analytics domain, Data Analysis  process to perform analytics as requested by customer, â€œAnalytics Consumer &amp; Distribution Managementâ€� process to manage the analytics consumer and distribute the analytic results and Data Governance process to manage the security and privacy of customer data.">
+  <properties
+      key="Process Identifier"
+      value="1.7.8.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Data Analytics process aims to provide capability to import, store, format, manage and perform analysis on the data as per the request from the consumer of analytics. It also provides capability to protect the privacy of customer as mandated by customer himself &amp; regulatory body. It must ensure that processes are in place to manage and fulfill the privacy preferences of customer while publishing analytic results. Data Analytics process encompasses Data Ingestion, Data Management, Data Analysis, Analytics Consumer &amp; Distribution Management and Data Governance processes. Data Analytics processes uses the advanced architecture enabled through BDA tools and techniques to import data (Structured, Unstructured and Semi structured) from variety of sources, perform analytics and presentation with better data processing mechanisms meeting the organization desire to monetize on the huge base of data."/>
+  <properties
+      key="Maturity Level"
+      value="2"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

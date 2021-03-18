@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Accounts Payable Supplier Management"
+    id="id-f113ea54f17947b68c1a2ae76fd131a0"
+    documentation="Accounts Payable Supplier management; Accounts Payable function to provide the required functionality to maintain all of a company's creditors.">
+  <properties
+      key="Function Identifier"
+      value="813"/>
+  <properties
+      key="TAM Application Name"
+      value="Accounts Payable"/>
+  <properties
+      key="TAM Application Id"
+      value="9.3.1.3"/>
+  <properties
+      key="Constructed Id"
+      value="9.3.1.3.813"/>
+</archimate:ApplicationFunction>

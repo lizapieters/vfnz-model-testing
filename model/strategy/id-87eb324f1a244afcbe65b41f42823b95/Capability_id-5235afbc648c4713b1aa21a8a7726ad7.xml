@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Order Validation"
+    id="id-5235afbc648c4713b1aa21a8a7726ad7"
+    documentation="Customer Order Validation is, like enrichment, widespread ordering functionality, that checks the validity of the order.">
+  <properties
+      key="TMF Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.3.1.6"/>
+  <properties
+      key="TMF Function"
+      value="Customer Order Validation"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="3"/>
+</archimate:Capability>

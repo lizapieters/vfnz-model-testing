@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Network/Plan Matching"
+    id="id-68e23eb6f8074d41bc16a7ca924c17ea"
+    documentation="The ability to plan a network for a defined period of time.">
+  <properties
+      key="TMF_ID"
+      value="1.1.7.8.4"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

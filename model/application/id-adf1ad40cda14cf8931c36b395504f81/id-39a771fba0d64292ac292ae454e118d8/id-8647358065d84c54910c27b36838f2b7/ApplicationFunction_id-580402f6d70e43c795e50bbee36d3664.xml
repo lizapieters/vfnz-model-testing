@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="General Ledger Reporting"
+    id="id-580402f6d70e43c795e50bbee36d3664"
+    documentation="Financial Core Operations for General Ledger Reporting">
+  <properties
+      key="Function Identifier"
+      value="837"/>
+  <properties
+      key="TAM Application Name"
+      value="Financial Core Operations Reporting"/>
+  <properties
+      key="TAM Application Id"
+      value="9.3.4"/>
+  <properties
+      key="Constructed Id"
+      value="9.3.4.837"/>
+</archimate:ApplicationFunction>

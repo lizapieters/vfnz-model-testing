@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Real Estate Asset Capital Planning"
+    id="id-c3bb86b2b42a4300bb29bc08aef7236a"
+    documentation="Real Estate Asset Capital Planning supports the process of budgeting Real Estate Assets for the future long term plans. Analysis and market planning to find the best markets and the best locations within those markets for investment or leasing.">
+  <properties
+      key="TMF Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.4.1.4"/>
+  <properties
+      key="TMF Function"
+      value="Real Estate Asset Capital Budgeting Real Estate Market and Location Analysis"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

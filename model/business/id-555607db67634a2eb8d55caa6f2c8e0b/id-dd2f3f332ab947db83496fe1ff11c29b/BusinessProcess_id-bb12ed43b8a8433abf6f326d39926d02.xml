@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Specify Resource Capability Infrastructure"
+    id="id-bb12ed43b8a8433abf6f326d39926d02"
+    documentation="These processes assess the most appropriate resource infrastructure, and develop the tactical/solution architecture and design specifications to be used to build or source the necessary resource infrastructure components, to meet the identified resource capability requirements. A key element of the overall design is the integration approach between the existing legacy resource infrastructure and any proposed new resource infrastructure. This integration design is managed within the architecture and specification processes.&#xA;Note that the actual management of the sourcing process is handled within the Supply Chain Development &amp; Management processes.">
+  <properties
+      key="Process Identifier"
+      value="1.5.2.4.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

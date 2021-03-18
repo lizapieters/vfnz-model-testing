@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Return Product Offering Purchase"
+    id="id-16083ff45b344b48870de60cdc1443aa"
+    documentation="Return one or more purchased product offerings after receipt by the purchasing party.">
+  <properties
+      key="Process Identifier"
+      value="1.2.9.2.4"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Return Product Offering Purchase returns one or more purchased product offerings after receipt by the purchasing party. Before making a return the purchasing party obtains authorization to make the return. Once the returned offering(s) are received by the appropriate logistics process it will initiate a credit for the returned offering(s)."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

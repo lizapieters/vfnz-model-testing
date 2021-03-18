@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Access Management"
+    id="id-ca16dffe77ac4e3b90b5afe6a564b91d"
+    documentation="The ability to establish, control, restrict, and administer rights to view, use, or change a product in a variety of contexts.">
+  <properties
+      key="TMF_ID"
+      value="1.1.3.11"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

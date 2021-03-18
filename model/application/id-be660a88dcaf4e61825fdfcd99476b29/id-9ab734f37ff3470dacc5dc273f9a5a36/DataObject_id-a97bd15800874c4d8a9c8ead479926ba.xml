@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EventEmitDetails"
+    id="id-a97bd15800874c4d8a9c8ead479926ba"
+    documentation="This class contains the OCL expression that will be used by the emits association to determine what; if any; constraints are to be applied to this PolicyEventSet. It also contains some additional semantics to help identify the type of this event."/>

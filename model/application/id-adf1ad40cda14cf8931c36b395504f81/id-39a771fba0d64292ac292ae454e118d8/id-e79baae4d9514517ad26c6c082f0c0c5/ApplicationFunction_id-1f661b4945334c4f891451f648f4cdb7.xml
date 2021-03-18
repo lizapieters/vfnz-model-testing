@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CSR Orders Reporting"
+    id="id-1f661b4945334c4f891451f648f4cdb7"
+    documentation="A CSR fulfillment function that provides front end support for Business, Financial and Operational  reporting and analysing of the ordering activities.">
+  <properties
+      key="Function Identifier"
+      value="172"/>
+  <properties
+      key="TAM Application Name"
+      value="CSR fulfillment"/>
+  <properties
+      key="TAM Application Id"
+      value="5.6.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.6.1.172"/>
+</archimate:ApplicationFunction>

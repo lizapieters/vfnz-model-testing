@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Off-Board Party Product Offering"
+    id="id-ad1e2e3502f0481e85bf041a7067e110"
+    documentation="Off-board a party's product offering. This can occur when an agreement or an item on an agreement associated with a product offering is terminated.">
+  <properties
+      key="Process Identifier"
+      value="1.6.4.2.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Off-Board Party Product Offering off-boards a party's product offering. This can occur when an agreement or an item on an agreement associated with a product offering is terminated. When the final product offering related to a product specification is off-boarded the product specification may also be off-boarded by the Off-Board Party Product Specification process. Note that this process will interact with the Manage Product Offering Exit process which is part of Product Offering Development &amp; Retirement."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

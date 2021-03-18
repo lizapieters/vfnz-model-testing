@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Performance Data collection"
+    id="id-6af865c5d05d4816a94aea1925e44f0e"
+    documentation="Performance data collection, including real time monitoring data.">
+  <properties
+      key="Function Identifier"
+      value="500"/>
+  <properties
+      key="TAM Application Name"
+      value="Resource Performance Monitoring"/>
+  <properties
+      key="TAM Application Id"
+      value="7.9.1"/>
+  <properties
+      key="Constructed Id"
+      value="7.9.1.500"/>
+</archimate:ApplicationFunction>

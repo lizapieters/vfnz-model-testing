@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1334"
+    id="id-41fb214780d1420ba236426f8f290ac8"
+    documentation="As a new or existing customer, when I purchase a new post-paid connection I also want to be able to purchase add-ons, so that I can get the add-ons I need at the same time as I purchase my plan">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1334"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Jared Mortlock"/>
+  <properties
+      key="Tribe"
+      value="Business"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Self Service"/>
+  <properties
+      key="Topic"
+      value="New connection"/>
+  <properties
+      key="Remarks"
+      value="0"/>
+  <properties
+      key="Module"
+      value="DS, SC, AP, PC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Business only"/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

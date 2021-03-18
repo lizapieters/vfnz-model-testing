@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Catalog Management"
+    id="id-02e4d05ca9f241e8b2746b141886488e"
+    documentation="Catalog Management is a cross domain, multilayer application that operates as a master repository for componentized entities of products, services and / or resources within one or more domains of a service provider�s environment. Catalog Management includes the abilities to create and design new entities, map entity definitions, manage complex rules, support componentization of entities and manage their relationships and dependencies. Additional aspects include versioning, change management, enhanced viewing, as well as editing and tracking capabilities">
+  <properties
+      key="TMF Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="11.1"/>
+  <properties
+      key="TMF Function"
+      value="Catalog Change management Catalog Compatibility rules definition Catalog Component relation management Catalog Componentization Catalog Data driven Security Catalog Entity data implementation Catalog Entity handling Catalog Entity state management Catalog Entity Versioning Catalog Inquiry handling Catalog Integrity rules Catalog Inter layer aspects Catalog Revision control Catalog View Management Partner catalog integration"/>
+  <properties
+      key="TMF Maturity"
+      value="Common Domain Cross Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

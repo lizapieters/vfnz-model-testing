@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Order Profile Management"
+    id="id-6423f0639ffd405e8c441b69d256c856"
+    documentation="The ability to identify, track, validate, report on, or otherwise administer descriptive information related to an order.">
+  <properties
+      key="TMF_ID"
+      value="1.1.8.13.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

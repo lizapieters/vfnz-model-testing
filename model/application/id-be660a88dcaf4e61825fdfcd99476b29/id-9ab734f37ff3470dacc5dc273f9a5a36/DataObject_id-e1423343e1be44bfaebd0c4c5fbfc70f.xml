@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ValueStandard"
+    id="id-e1423343e1be44bfaebd0c4c5fbfc70f"
+    documentation="ValueStandard is the abstract base class for defining a set of standardized PolicyValues. This set of PolicyValues will be added to over time; and represents a set of common values that are useful in a variety of PBNM applications. The subclasses of ValueStandard are a set of classes that define the semantics of commonly occurring variables that occur in PBNM applications."/>

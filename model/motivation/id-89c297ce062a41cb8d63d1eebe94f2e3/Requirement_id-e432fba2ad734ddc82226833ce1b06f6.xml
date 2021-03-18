@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0718"
+    id="id-e432fba2ad734ddc82226833ce1b06f6"
+    documentation="As a customer with multiple accounts and services, I want to be able to make simple changes to my account quickly when the need arises so that I can easily manage multiple tasks and  have time to do the things I enjoy">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0718"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Jared Mortlock"/>
+  <properties
+      key="Tribe"
+      value="Business"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="y"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Make changes"/>
+  <properties
+      key="Remarks"
+      value="OOTB addressed by build in processes concept where there are dedicated, simple processes for various actions (change billl adress, bill cycle, credit score, consents, etc)"/>
+  <properties
+      key="Module"
+      value="SC, EP"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

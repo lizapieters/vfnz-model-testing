@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Incident Profile Management"
+    id="id-cb8826ed96644b00950b8e4b854c11a4"
+    documentation="The ability to articulate, organize, identify, track, validate, or otherwise administer descriptive, identifying information about an incident.">
+  <properties
+      key="TMF_ID"
+      value="1.3.11.6.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

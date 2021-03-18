@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0987"
+    id="id-1a013388d5c447d1bbf4cd40dc985888"
+    documentation="As a Billing Specialist, I require the ability to include more than one email delivery address for sending invoices to so that larger corporate and govt customers can be catered for">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0987"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Kurt Harniss"/>
+  <properties
+      key="Tribe"
+      value="Finance &amp; Business / Billing"/>
+  <properties
+      key="Target Horizon"
+      value="2"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Reporting"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Billing"/>
+  <properties
+      key="Remarks"
+      value="Requirement clear."/>
+  <properties
+      key="Module"
+      value="BS, CRM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SecurityVulnerabilityCategoryAssignment"
+    id="id-726bdfd5752746b2840e25dd5c437fcd"
+    documentation="It is the instance of a particular SecurityVulnerability that has been classified into one of the three categories (software flaw; software feature misuse; or software configuration issue). Notes: For example (hypothetically); Internet Explorer could have a bug that is categorized as a software flaw. There can be vulnerabilities that have one or more of the three category types associated with it. In this case; the vulnerability would be scored for all three types."/>

@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1063"
+    id="id-692996c4d9ea4d80b4592a1c28b97160"
+    documentation="When a Vodafone segment changes, it must be reflected in finance reports and CRM, so we can understand revenue implications and service the customer appropriately">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1063"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="2"/>
+  <properties
+      key="Base_Old"
+      value="2"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Change"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="change"/>
+  <properties
+      key="Topic"
+      value="Segmentation"/>
+  <properties
+      key="Remarks"
+      value="PIM: What segment changes impacts revenue and how? Is segment meant here rather static B2B/B2C or dynamic from CCM?"/>
+  <properties
+      key="Module"
+      value="PIM, CCM, BS, AIF, REP"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

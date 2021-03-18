@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Commitment Tracking Data Collection"
+    id="id-fa7d352af64a41e1a2743266c1762bfd"
+    documentation="Gathering data to be used in the evaluation of the terms and conditions to monitor financial commitments between the customer and the provider.">
+  <properties
+      key="Function Identifier"
+      value="160"/>
+  <properties
+      key="TAM Application Name"
+      value="Commitment Tracking"/>
+  <properties
+      key="TAM Application Id"
+      value="5.15.4"/>
+  <properties
+      key="Constructed Id"
+      value="5.15.4.160"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vulnerability Management"
+    id="id-b3f1b41d9bb0431b8ce7f76644483b49"
+    documentation="Assessing networks and systems for vulnerabilities and taking proactive action to reduce the vulnerabilities or limit the impacts if they are exploited. This is achieved by documenting and managing element configuration, recording any vulnerability as they are discovered, and applying in a timely manner the software patches and upgrades that address known vulnerabilities">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.5.3"/>
+  <properties
+      key="TMF Function"
+      value="Software Update Planning Vulnerability Assessment Planning"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

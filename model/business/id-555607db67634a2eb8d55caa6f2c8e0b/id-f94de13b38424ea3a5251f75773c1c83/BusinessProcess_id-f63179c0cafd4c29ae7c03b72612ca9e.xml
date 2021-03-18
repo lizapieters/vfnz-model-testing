@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analyze Sales Prospect Needs"
+    id="id-f63179c0cafd4c29ae7c03b72612ca9e"
+    documentation="Analyze the needs of a sales prospect to identify one or more potential product offerings to recommend to a prospect.">
+  <properties
+      key="Process Identifier"
+      value="1.1.11.3.2.3"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Analyze Sales Prospect Needs analyzes the needs of a sales prospect. Based on the analysis of a prospect's needs, one or more potential product offerings are identified from an enterprise's product catalog to recommend to a prospect. The product offerings may be in addition or different than the offerings in which a prospect expressed interest. For example the offering or offerings may represent upselling/cross selling; it may be that a customized offering is needed. If this is the case then the solution is further analyzed by the Selling process. Initiate Interaction With Sales Prospect triggers an interaction with a party to communicate the suggested offering(s) to a party."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Party Payment Handling"
+    id="id-9af8ad1da05a4529b8eed4a14915e6a0"
+    documentation="Receive payments from parties, remit payments to parties, and apply payments to any form of request for payment, such as bills, settlements or other forms of revenue sharing, purchases, charges, or payment plans as needed.">
+  <properties
+      key="Process Identifier"
+      value="1.6.16.1.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Party Payment Handling receives payments from parties, remits payments to parties, and applies payments to any form of request for payment, such as bills, settlements or other forms of revenue sharing, purchases, charges, or payment plans as needed. A payment may be received from a party who has not yet registered on a web site or from an anonymous party who makes a purchase can pays for it in a store. The Bill/Invoice Management processes handle the application of credits, discounts, promo codes, and so forth to a party's bill/invoice or other ways in which a party may be charged for products which have been acquired."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

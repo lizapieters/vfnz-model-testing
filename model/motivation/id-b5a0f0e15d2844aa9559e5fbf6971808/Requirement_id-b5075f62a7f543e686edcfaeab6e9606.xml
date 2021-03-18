@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0274"
+    id="id-b5075f62a7f543e686edcfaeab6e9606"
+    documentation="As a customer, when I make a purchase, I want to be able to track how my order is progressing either via the app or web self service">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0274"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Diane Watson"/>
+  <properties
+      key="Tribe"
+      value="Consumer Home"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="prio2"/>
+  <properties
+      key="Base"
+      value="1?"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Customer notifications"/>
+  <properties
+      key="Remarks"
+      value="In which details you would like to see this? Information about delivery (link to the courier page). Information that order is waiting for neighbour consent. Information that something went wrong The customer could ask a question at any point of order, this should be redirected to the corresponding group based on the current step of the order. Individual order items need to be tracked seperatelly. Would be good to have a seperate session about order tracker (based on flows defined on MIro)"/>
+  <properties
+      key="Module"
+      value="SC, OM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

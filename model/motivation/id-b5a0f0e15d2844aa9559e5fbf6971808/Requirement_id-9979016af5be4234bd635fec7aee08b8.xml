@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0740"
+    id="id-9979016af5be4234bd635fec7aee08b8"
+    documentation="As customer, when I am checking the progress of an order, I want to be able to get support from the order itself, without needing to go elsewhere, so that If I need their support on the order, I can easily be in touch the right person at Vodafone">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0740"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Jared Mortlock"/>
+  <properties
+      key="Tribe"
+      value="Business"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Tracking"/>
+  <properties
+      key="Remarks"
+      value="We assume this is a case registered in a context of the order which will be assigned to the correct support group. To be discussed on dedicated workshop"/>
+  <properties
+      key="Module"
+      value="SC, EP"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

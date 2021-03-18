@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legal"
+    id="id-4130badaea0d4c868041afddd74b9041"
+    documentation="Legal Administrative Services provides legal services like assistance and advice on issues such as procurement, contracting, public law and related activities.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.9.1"/>
+  <properties
+      key="TMF Function"
+      value="Legal Assistance Support"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

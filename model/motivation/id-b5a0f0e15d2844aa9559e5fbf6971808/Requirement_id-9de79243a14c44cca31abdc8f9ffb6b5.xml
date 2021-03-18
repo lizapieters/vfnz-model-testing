@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1085"
+    id="id-9de79243a14c44cca31abdc8f9ffb6b5"
+    documentation="As a customer I want to be able to request service upgrade in my area and see if others in my area have also requested (either bad reception in an area or fesitval concert, event), so that I can help Vodafone to improve the network experience in my area">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1085"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="2"/>
+  <properties
+      key="Base_Old"
+      value="2"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Change"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="change"/>
+  <properties
+      key="Topic"
+      value="Self-Service"/>
+  <properties
+      key="Remarks"
+      value="cannot understand this BUC, is it related with conversion? gathering some feedback?"/>
+  <properties
+      key="Module"
+      value="SC, OM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

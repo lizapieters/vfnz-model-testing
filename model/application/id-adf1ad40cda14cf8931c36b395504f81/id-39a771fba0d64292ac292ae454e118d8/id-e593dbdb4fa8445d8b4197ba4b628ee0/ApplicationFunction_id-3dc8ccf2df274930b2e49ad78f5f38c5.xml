@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Inventory Update Notifications"
+    id="id-3dc8ccf2df274930b2e49ad78f5f38c5"
+    documentation="This function entails the generation of inventory update notifications based on changes to the inventory;  Notifications concerning object creation, object deletion and attribute value changes to other systems. &#xA;� Single Entity Notifications � in this variation of the feature, each notification pertains to only one entity, e.g., an equipment instance &#xA;� Multi-entity Notifications � in this variation of the feature, a single notification may report on inventory changes for multiple entities. &#xA;� Notification Suppression � in this variation of the feature, each notification pertains to only one entity.">
+  <properties
+      key="Function Identifier"
+      value="472"/>
+  <properties
+      key="TAM Application Name"
+      value="Resource Inventory Management"/>
+  <properties
+      key="TAM Application Id"
+      value="7.2"/>
+  <properties
+      key="Constructed Id"
+      value="7.2.472"/>
+</archimate:ApplicationFunction>

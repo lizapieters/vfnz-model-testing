@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Problem Model Establishment"
+    id="id-cc8b004f33cd4e00891e4cfdd1551a05"
+    documentation="Service Problem Monitoring Model Establishment applications provide the necessary functionality to establish what will be monitored and how it will be monitored in terms of service problem.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="6.5.7"/>
+  <properties
+      key="Frameworx Domain"
+      value="Service Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="0"/>
+</archimate:ApplicationFunction>

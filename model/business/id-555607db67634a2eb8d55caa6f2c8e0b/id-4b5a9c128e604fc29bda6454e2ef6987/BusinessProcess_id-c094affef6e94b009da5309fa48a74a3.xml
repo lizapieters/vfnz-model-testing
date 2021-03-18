@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Submit Party Problem"
+    id="id-c094affef6e94b009da5309fa48a74a3"
+    documentation="Prepare and submit a party problem to another party.">
+  <properties
+      key="Process Identifier"
+      value="1.6.10.3"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Prepare Party Problem process prepares and submits a party problem to another party. A submission may supply additional information if requested by the party. A party problem may be prepared and submitted by an enterprise as a result of a failure of a product to work or to work ineffectively."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

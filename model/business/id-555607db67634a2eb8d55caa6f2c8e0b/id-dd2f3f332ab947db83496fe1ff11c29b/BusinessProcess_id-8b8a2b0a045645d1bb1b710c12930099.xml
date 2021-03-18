@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Assign Party Problem Jeopardy Status"
+    id="id-8b8a2b0a045645d1bb1b710c12930099"
+    documentation="Assign a jeopardy status to a party problem.">
+  <properties
+      key="Process Identifier"
+      value="1.6.10.4.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

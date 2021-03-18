@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RatePlanProductSpec"
+    id="id-2a1b4b494bcd4770b792435b51151dd7"
+    documentation="A RatePlanProductSpec defines criteria to be used to gain special usage tariffs like the period (Ex: evenings and week-ends) or phone number (Ex: friends and family). The ProductOffering packaging a RatePlanProductSpec defines the Usagesâ€™ ProductOfferingPrice conditioned by the criteria. A RatePlanProductSpec requires a NetworkProductSpecs."/>

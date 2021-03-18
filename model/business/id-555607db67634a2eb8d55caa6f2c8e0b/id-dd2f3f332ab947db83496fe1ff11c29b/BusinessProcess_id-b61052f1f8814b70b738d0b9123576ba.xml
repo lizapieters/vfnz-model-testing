@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop Logistics/Transport Policies"
+    id="id-b61052f1f8814b70b738d0b9123576ba"
+    documentation="Develop policies related to transport of purchased material to warehousing, to site, etc.">
+  <properties
+      key="Process Identifier"
+      value="1.7.5.3.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

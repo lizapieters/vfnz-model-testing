@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Task Item Decomposition"
+    id="id-4e119420d93a415d8523f58f6ca77e41"
+    documentation="Resource Task Item Decomposition: By a request for an orchestration of a resource the Task Item needs to be analyzed and decomposed into the part-actions necessary to take to fulfill the requested resource orchestration. The resource task item may consist of several resource tasks and may use a number of Resources. It may also be controlled by several parameters for optional behaviors. This composition of the Resource is given by configuration data available from Catalog applications and the Resource Capability Orchestration application.">
+  <properties
+      key="Function Identifier"
+      value="958"/>
+  <properties
+      key="TAM Application Name"
+      value="Resource Capability Orchestration"/>
+  <properties
+      key="TAM Application Id"
+      value="7.16"/>
+  <properties
+      key="Constructed Id"
+      value="7.16.958"/>
+</archimate:ApplicationFunction>

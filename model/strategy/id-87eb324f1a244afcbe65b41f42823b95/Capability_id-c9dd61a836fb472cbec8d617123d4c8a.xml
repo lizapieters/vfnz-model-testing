@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Logistics"
+    id="id-c9dd61a836fb472cbec8d617123d4c8a"
+    documentation="Resource logistics applications coordinate the availability and deployment of resources to their in-service locations. These often have a close-coupling with supply chain applications but serve complementary roles. Whereas supply chain applications identify vendors and alternate sources, and manage order fulfillment while seeking to minimize stocking levels&amp; resource logistics applications identify and distribute resource stock where needed as quickly as possible.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="7.5.4"/>
+  <properties
+      key="TMF Function"
+      value="Engineering Resource location management Network Asset Deployment Workflow People, Part, Event &amp; location coordination Resource Logistics Resource needs identification Resource or kit distribution Resource problem management Resource Supply Chain Management Stock balancing or distribution Warehouse stock level projections Workforce management"/>
+  <properties
+      key="TMF Maturity"
+      value="Resource Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

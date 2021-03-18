@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NACSecurityEvent"
+    id="id-345e8d8b47484a479610c24b03275475"
+    documentation="NAC events are generated whenever new devices and/or users attempt to gain access to a network. The NAC event record will record the name of the network where access was attempted; the access decision (permit/deny); IP and MAC address of the device/user; and the name provided on the credential that was used to gain access â€“ X.509 subject name; MAC address; or other name. Network access may be granted on the basis of either device or user credentials depending on the local security policy."/>

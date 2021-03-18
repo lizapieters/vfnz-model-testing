@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agreement Policy Conformance Verification"
+    id="id-5c09538edb334e609cbf8897295d2f1d"
+    documentation="The ability to determine if an agreement is in accordance with all applicable enterprise policies.">
+  <properties
+      key="TMF_ID"
+      value="1.1.5.2.3.2"/>
+  <properties
+      key="Level"
+      value="4"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

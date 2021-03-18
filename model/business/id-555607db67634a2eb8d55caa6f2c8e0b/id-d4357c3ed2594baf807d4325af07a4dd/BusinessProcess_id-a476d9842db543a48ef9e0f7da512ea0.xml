@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identify Product Offering Exit Impact"
+    id="id-a476d9842db543a48ef9e0f7da512ea0"
+    documentation="Identify the impact of the exit of the product offering.">
+  <properties
+      key="Process Identifier"
+      value="1.2.7.2.1.6.2"/>
+  <properties
+      key="Category"
+      value="(6) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Identify Product Offering Exit Impact identifies customers impacted by any exit, and develop customer specific or market segment exit or migration strategies."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

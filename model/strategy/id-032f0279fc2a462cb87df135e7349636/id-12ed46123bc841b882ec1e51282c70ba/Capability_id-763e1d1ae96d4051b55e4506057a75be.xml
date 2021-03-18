@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Order/Customer Matching"
+    id="id-763e1d1ae96d4051b55e4506057a75be"
+    documentation="The ability to match an order with a customer.">
+  <properties
+      key="TMF_ID"
+      value="1.1.8.12.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

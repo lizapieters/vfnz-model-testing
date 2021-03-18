@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResourceSpecCharacteristic"
+    id="id-79792cbf685f42ef8d7240959094a9e0"
+    documentation="A characteristic quality or distinctive feature of a ResourceSpecification. The characteristic can be take on a discrete value; such as color; can take on a range of values; (for example; sensitivity of 100-240 mV); or can be derived from a formula (for example; usage time (hrs) = 30 - talk time *3). Certain characteristics; such as color; may be configured during the ordering or some other process."/>

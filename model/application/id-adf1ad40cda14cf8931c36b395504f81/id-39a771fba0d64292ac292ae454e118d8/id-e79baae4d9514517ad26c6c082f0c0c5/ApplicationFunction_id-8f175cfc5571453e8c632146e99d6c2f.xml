@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Payment Interface Direct debit payment support"
+    id="id-8f175cfc5571453e8c632146e99d6c2f"
+    documentation="Supports direct debit payments from the nominated (specified) bank accounts.">
+  <properties
+      key="Function Identifier"
+      value="321"/>
+  <properties
+      key="TAM Application Name"
+      value="Payment Interface Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.9.4.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.9.4.1.321"/>
+</archimate:ApplicationFunction>

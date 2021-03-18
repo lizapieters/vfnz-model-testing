@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0099"
+    id="id-754ebc1068954da6afeb437e4e68f63b"
+    documentation="As an existing customer when I select send a message I want to be able to enter a destination phone number and then record a voicemail for the recipient. I want to be able to playback the message, delete, re-record and send that voicemail.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0099"/>
+  <properties
+      key="Status"
+      value="Not Comarch BSS Solution"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Voicemail menu"/>
+  <properties
+      key="Remarks"
+      value="Not Comarch solution"/>
+  <properties
+      key="Module"
+      value="0"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

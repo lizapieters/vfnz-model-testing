@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DNVariable"
+    id="id-11edf96e87854cb1966459c67aa2f7c9"
+    documentation="This class is used to represent a single or set of Distinguished Name variable; which may include wildcards. This variable type is specifically defined for retrieving LDAP-based data. Thus; only DNValue classes can be used in the value portion of the condition expression with this PolicyVariable."/>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Determine Party Bill Invoice Management Capability"
+    id="id-568bc4e68de840999ed7f208ddc7988e"
+    documentation="Make certain that there is capability so that the Bill Invoice Management processes can operate effectively.">
+  <properties
+      key="Process Identifier"
+      value="1.6.15.1.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

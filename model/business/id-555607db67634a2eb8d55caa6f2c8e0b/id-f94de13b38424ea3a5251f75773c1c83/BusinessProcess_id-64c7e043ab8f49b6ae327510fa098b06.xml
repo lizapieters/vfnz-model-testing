@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Loyalty Program Account Currency"
+    id="id-64c7e043ab8f49b6ae327510fa098b06"
+    documentation="Expire, reinstate, transfer in/out, adjust, a loyalty participant's account currency.">
+  <properties
+      key="Process Identifier"
+      value="1.1.19.2.5.2"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Manage Loyalty Program Account Currency provides the ability to expire, reinstate, transfer in/out, adjust, a loyalty participant's account currency. The Provide Loyalty Account Communication process provides a notification of any of these types of updates. Note that transfer in/out may be subject to an agreement with a loyalty program partner. These updates are in addition to those made when earning loyalty program currency or redeeming loyalty program rewards."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

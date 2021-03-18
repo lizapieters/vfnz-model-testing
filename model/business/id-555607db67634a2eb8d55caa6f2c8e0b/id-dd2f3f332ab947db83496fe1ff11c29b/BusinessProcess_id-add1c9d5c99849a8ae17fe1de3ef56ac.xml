@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aggregate Information/Data"
+    id="id-add1c9d5c99849a8ae17fe1de3ef56ac"
+    documentation="Aggregate or disaggregate the management and security information and/or data to provide summarized versions">
+  <properties
+      key="Process Identifier"
+      value="1.5.7.2.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

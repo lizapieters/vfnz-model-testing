@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1441"
+    id="id-6876d4a2d542489a8e16470ce4908d96"
+    documentation="As a customer receiving a bill from Vodafone, I want to be able to analyse the bill online including full details (CDRs), via self-service, so that I can carry out my own bill analysis">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1441"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Ben Pennell"/>
+  <properties
+      key="Tribe"
+      value="Business"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1?"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Billing"/>
+  <properties
+      key="Remarks"
+      value="What type of bill, is it for postpaid so not base 1?"/>
+  <properties
+      key="Module"
+      value="SC, EP, BS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Business Only"/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Data Usage"
+    id="id-d0697953f83445759ec1f8a688ece883"
+    documentation="Manage Data Usage process provides capabilities to tailor /format the data and make it available for using. It provides processes to Perform Data Formatting, Perform Data Integration, Tailoring and etc.">
+  <properties
+      key="Process Identifier"
+      value="1.7.8.5.6"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Manage Data Usage process ensures that the data is made available to be used within and outside the enterprise both through offline and online mode. It ensures the data are used as per the requirement. Additionally it uses the various other processes of data governance to ensure that security, compliance and quality of data is maintained while using data. It provides processes to Perform Data Formatting, Perform Data Integration, Tailoring and etc."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

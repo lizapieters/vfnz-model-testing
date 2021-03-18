@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Policy Type Management"
+    id="id-a3cf73f93b7b463785134cebeda3597b"
+    documentation="The ability to determine, modify, and interpret the category or classification of a policy.">
+  <properties
+      key="TMF_ID"
+      value="1.2.3.9.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

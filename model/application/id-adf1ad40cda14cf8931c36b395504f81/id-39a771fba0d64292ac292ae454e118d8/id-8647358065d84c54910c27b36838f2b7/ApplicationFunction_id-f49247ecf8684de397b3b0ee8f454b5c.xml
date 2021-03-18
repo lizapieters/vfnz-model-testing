@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cost Allocations Regulatory Accounting"
+    id="id-f49247ecf8684de397b3b0ee8f454b5c"
+    documentation="Regulatory Accounting function for Cost allocations and associated cost allocation manuals to comply with federal regulations. In the US, it is specially Title 47, Part 64 (Telecommunication - Miscellaneous Rules Relating to Common Carriers).">
+  <properties
+      key="Function Identifier"
+      value="872"/>
+  <properties
+      key="TAM Application Name"
+      value="Regulatory Accounting"/>
+  <properties
+      key="TAM Application Id"
+      value="9.3.11"/>
+  <properties
+      key="Constructed Id"
+      value="9.3.11.872"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Add Party Payment Method Type"
+    id="id-5602663073544a54986784fbf08d8343"
+    documentation="Add the base set of attributes, such as name and description, that the specification for a payment method.">
+  <properties
+      key="Process Identifier"
+      value="1.6.16.1.2.1.1.1"/>
+  <properties
+      key="Category"
+      value="(7) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

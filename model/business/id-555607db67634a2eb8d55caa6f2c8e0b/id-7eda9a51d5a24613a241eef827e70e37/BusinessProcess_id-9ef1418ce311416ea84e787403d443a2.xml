@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Specification Test Development &amp; Retirement"
+    id="id-9ef1418ce311416ea84e787403d443a2"
+    documentation="Resource Test Development &amp; Retirement is in charge of the Resource Test catalogue.">
+  <properties
+      key="Process Identifier"
+      value="1.5.11"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Resource Test Development &amp; Retirement is in charge of the Resource Test catalogue. A type of Resource Test aims at measuring proper functioning and capacities of a Resource. Resource Test Development &amp; Retirement includes: - Specifying in detail each Resource Test according to the different context. It includes specifying: - the roles authorized to use the Test and quotas for each type of role - the method to conduct the Test - the rules that define the strategies for conducting the test (including the test plan) - the thresholds and related actions - the report of test results with rules for enrichment of Resource Tests results according to role asking for it - Specifying test scenarios defining sequence of Tests with rules about context and planning to trigger it. It includes roles allowed for asking test scenario and corresponding quotas."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

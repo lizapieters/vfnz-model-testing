@@ -1,0 +1,45 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Unica Campaign Manager"
+    id="id-f04e3cdbd8ee444b98ede4738fb3c6f7"
+    documentation="CMIS; Affinium">
+  <properties
+      key="StatusForLookUp"
+      value="Active"/>
+  <properties
+      key="Owner"
+      value="AndrewH"/>
+  <properties
+      key="Level of Service"
+      value="Mission Critical"/>
+  <properties
+      key="Product / Service"
+      value="Common"/>
+  <properties
+      key="Segment"
+      value="Common"/>
+  <properties
+      key="DX Association"
+      value="Integrate"/>
+  <properties
+      key="Existing Retained or Replaced"
+      value="Replace"/>
+  <properties
+      key="ComArch / Other"
+      value="Comarch"/>
+  <properties
+      key="Dig Future Module"
+      value="Campaign Management (CaM)"/>
+  <properties
+      key="Legacy BSS Stack Served"
+      value="Common"/>
+  <properties
+      key="TAM App ID"
+      value="3.9"/>
+  <properties
+      key="TAM Domain"
+      value="Market_Sales Domain"/>
+  <properties
+      key="TAM Application"
+      value="Campaign &amp;amp; Funnel Management"/>
+</archimate:ApplicationComponent>

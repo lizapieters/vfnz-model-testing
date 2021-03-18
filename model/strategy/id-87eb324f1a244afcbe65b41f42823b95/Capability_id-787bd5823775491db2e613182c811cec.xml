@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Employee Expense Reimbursement"
+    id="id-787bd5823775491db2e613182c811cec"
+    documentation="Employee Expense Reimbursement applications provide the tools to effectively manage the employee travel and expense process.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.3.2"/>
+  <properties
+      key="TMF Function"
+      value="Detection of Duplicate Expenses Electronic Attachments to Expence Reports Electronic Routing for Approval Expense Data Downloading Integration with Accounts Payable"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

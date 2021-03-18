@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Billing Account Reporting"
+    id="id-70781a23a76449e79b6bc9eb34879241"
+    documentation="Grouping charges/statement/accounts for the purpose of creating a report">
+  <properties
+      key="Function Identifier"
+      value="73"/>
+  <properties
+      key="TAM Application Name"
+      value="Billing Account Associations Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.13.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.13.2.73"/>
+</archimate:ApplicationFunction>

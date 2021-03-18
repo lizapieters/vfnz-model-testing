@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer SLA Issue Reception"
+    id="id-adcd3c278bbb436cab532d0360b92c50"
+    documentation="SLA issue reception of the problem from: &#xA;o Customers or customer systems &#xA;o Internal systems (SQM, Service Problem Management, Service Performance Management, and Customer Problem Management as well as billing or fulfillment systems)">
+  <properties
+      key="Function Identifier"
+      value="292"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer SLA Issue Reception"/>
+  <properties
+      key="TAM Application Id"
+      value="5.18.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.18.1.292"/>
+</archimate:ApplicationFunction>

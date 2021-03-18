@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0494"
+    id="id-bd34da789dfc47758a0f8199259f2feb"
+    documentation="As a transitioning product owner, I want the Comarch system to publish a message of successful transiton in the CCM that will be subscribed by the legacy system to initiate the disconnect.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0494"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Steve Bird"/>
+  <properties
+      key="Tribe"
+      value="Transition"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Transition"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Transition"/>
+  <properties
+      key="Remarks"
+      value="Why via CCM? Maybe directly? Not to impact BSS with integrations with legacy. Note: Comarch will discuss internally on the best option. Probably a dedicated order flow will be needed anyway."/>
+  <properties
+      key="Module"
+      value="AIF?, CCM?, OM?"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

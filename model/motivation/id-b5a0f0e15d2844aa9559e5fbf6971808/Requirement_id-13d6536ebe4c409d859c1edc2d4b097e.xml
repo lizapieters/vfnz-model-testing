@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0505"
+    id="id-13d6536ebe4c409d859c1edc2d4b097e"
+    documentation="As a credit manager, I want to be able to modify the  interest free credit decisioning rules when I like, so I can fine tune the decisioning when I like.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0505"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1?"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="use"/>
+  <properties
+      key="Topic"
+      value="Credit decisioning rules"/>
+  <properties
+      key="Remarks"
+      value="Rules are configured in the system by Comarch. A change would require Comarch intervention. Finetunung of existing rules may be just a change of parameter (quick). New rules may require more work. Park for dedicated session."/>
+  <properties
+      key="Module"
+      value="OM, AIF"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

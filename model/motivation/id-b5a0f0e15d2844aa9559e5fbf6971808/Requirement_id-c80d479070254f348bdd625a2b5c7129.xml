@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0797"
+    id="id-c80d479070254f348bdd625a2b5c7129"
+    documentation="As a Direct Cost Specialist - We want the CDR report has call actual duration, chargeable duration, 1+1 duration, 60+1 duration and 60+60 duration for commercial analysis. Source EDW">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0797"/>
+  <properties
+      key="Status"
+      value="Duplicate"/>
+  <properties
+      key="Created by"
+      value="Catherine McMurtrie"/>
+  <properties
+      key="Tribe"
+      value="Finance / Direct Costs"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Finance"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Reporting"/>
+  <properties
+      key="Remarks"
+      value="Looks like a requirement for IPB KH: agree, been handed to IPB Moved to seperate excel for IPB"/>
+  <properties
+      key="Module"
+      value="IPB"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

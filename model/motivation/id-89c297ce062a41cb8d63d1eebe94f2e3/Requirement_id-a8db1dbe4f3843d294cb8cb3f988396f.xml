@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0690"
+    id="id-a8db1dbe4f3843d294cb8cb3f988396f"
+    documentation="Zero touch security for handsets – integrated Apple DEP and Samsung KME enrolment if required by customers">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0690"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="2"/>
+  <properties
+      key="Base_Old"
+      value="2"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="use"/>
+  <properties
+      key="Topic"
+      value="Zero touch security"/>
+  <properties
+      key="Remarks"
+      value="What is expected role of BSS system? Customer needs to have Apple DEP ID, Samsung KME id (entered manually during onboarding) and this would need to be provided in the order process. Then the registration on Apple and Samsung platforms is done by Brightpoint (hardware supplier)."/>
+  <properties
+      key="Module"
+      value="AIF, DS, SC, OM, PIM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

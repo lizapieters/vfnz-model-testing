@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Shipment Interpretation"
+    id="id-c4f4b2765b384ac8a77d4bfc4aaa1cb6"
+    documentation="The Ability to quantify the terms and preferences that establish a baseline for determining compliance.">
+  <properties
+      key="TMF_ID"
+      value="1.1.11.2.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

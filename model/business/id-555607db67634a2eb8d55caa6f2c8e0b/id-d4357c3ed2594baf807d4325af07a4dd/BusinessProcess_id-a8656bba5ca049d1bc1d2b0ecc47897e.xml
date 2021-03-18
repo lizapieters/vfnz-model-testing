@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Receive Loyalty Partner Currency Communication"
+    id="id-a8656bba5ca049d1bc1d2b0ecc47897e"
+    documentation="Receive a loyalty program communication from a partner that provides loyalty program currency or information that can be used to determine the currency for one or more loyalty program participants.">
+  <properties
+      key="Process Identifier"
+      value="1.1.19.2.2.2.1"/>
+  <properties
+      key="Category"
+      value="(6) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

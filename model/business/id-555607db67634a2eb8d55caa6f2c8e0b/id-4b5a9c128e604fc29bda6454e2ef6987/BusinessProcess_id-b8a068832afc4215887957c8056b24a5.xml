@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Experience Assurance"
+    id="id-b8a068832afc4215887957c8056b24a5"
+    documentation="Establish an enterprise-wide customer experience assurance policy framework, and an associated operational capability aimed at ensuring that the internal and customer facing processes and E2E customer journey are monitored with instant identification and correction of any negative deviations to deliver positive Customer Experience and End-to-End customer journey that contribute to positive business results.">
+  <properties
+      key="Process Identifier"
+      value="1.7.9.9"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of the Customer Experience Assurance process is to establish an enterprise-wide customer experience assurance policy framework, and an associated operational capability aimed at ensuring that the internal and customer facing processes and E2E customer journey are monitored with instant identification and correction of any negative deviations to deliver positive Customer Experience and End-to-End customer journey that contribute to positive business results. Customer Experience Assurance process focusses on assuring the positive customer experience in enterprise own processes and network, customer journeys in enterprise own environment as well as in partnerâ€™s environment to ensure: â€¢{T}Minimization of identified process errors reported by the customers â€¢{T}Minimization of unsuccessful endings of a customer journey â€¢{T}Improve brand perception in social media â€¢{T}Assure uninterrupted customer journey in the partners network/ omnichannel Customer experience assurance in own processes and networks focusses on risk identification and mitigation measures that improve the customer experience by resolving the customer complaints with regards to the root-cause of the issue, ensuring there are no repeated complaints for the same problem and by proactively identifying patterns of complaints with the same root-cause and their correction. The part of Customer experience assurance that assures the customer journey focuses if the journeys are complete, accurate and on time and they deliver the expected customer experience and business outcomes. Itâ€™s also assures if the designed customer journeys are optimal in terms of customer expectations: response time, easy, efficient, educational collaborative, build trust and that enable change in customer behavior."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

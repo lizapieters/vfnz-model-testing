@@ -1,0 +1,30 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integrate self-service portal for Cloud-Blue Marketplace"
+    id="id-8655b57eca4e43c1998660fe5ab7ead3"
+    documentation="Self-service, Enterprise Portal? this should an integration point driven from BUCs for Enterprise Portal. doesn't seem to be a product/feature">
+  <properties
+      key="Target Horizon"
+      value="N/A"/>
+  <properties
+      key="Segment"
+      value="Business"/>
+  <properties
+      key="Access/Service Type"
+      value="0"/>
+  <properties
+      key="Comarch can support"
+      value="N/A"/>
+  <properties
+      key="Non-Comarch IT support needed"
+      value="N/A"/>
+  <properties
+      key="NaaS will support"
+      value="N/A"/>
+  <properties
+      key="Automated non-NaaS support"
+      value="N/A"/>
+  <properties
+      key="Unexpected"
+      value="true"/>
+</archimate:BusinessService>

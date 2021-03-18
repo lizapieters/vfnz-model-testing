@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Complete Product Offering Purchase"
+    id="id-666bd143793f44f7a11b8cfcb10e92fe"
+    documentation="Complete a product offering purchase which may trigger other processes, such as ones that accept payment and deliver the purchased offerings.">
+  <properties
+      key="Process Identifier"
+      value="1.2.9.5"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Complete Product Offering Purchase completes a product offering purchase which may trigger other processes, such as ones that accept payment and deliver the purchased offerings. Other processes that may be triggered include infrastructure configuration (Service/Resource) to fulfill the purchase and interaction with other parties, such as partners, to complete the acquisition of the purchased product offerings. For example, to forward the purchased product offering(s) that they fulfill in the form of a product offering order."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

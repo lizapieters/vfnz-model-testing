@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer QoS/SLA Management"
+    id="id-ec8d3a74a201400989cd666076d9ebf0"
+    documentation="Customer QoS/SLA Management uses indicators produced by other processes such as Product Performance Mgt as well as information coming from Customer orders for delivery delay vs. contractual Quality of Service (QoS),">
+  <properties
+      key="Process Identifier"
+      value="1.3.8"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Customer QoS/SLA Management processes encompass monitoring, managing and reporting of delivered vs. contractual Quality of Service (QoS), as defined in the enterprise's Service Descriptions, customer contracts or the catalogue of product offerings. They are also concerned with the performance of the enterprise and its products in relation to its Service Level Agreements (SLA) for specific product instances, and other service-related documents. They include operational parameters such as resource performance and availability, but also encompass performance across all of a product's contractual or regulatory parameters, e.g., % Completion on Time for Order Requests, time to repair commitments, customer contact performance. Failure to meet a contracted SLA may lead to billing adjustments, which are handled by Billing and Collections Management."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

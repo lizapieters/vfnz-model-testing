@@ -1,0 +1,33 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Solution Pricing"
+    id="id-5ef4f80dc0ba4416b9270002fc6196dc"
+    documentation="The Solution  Pricing function is concerned with assuring that the designs are priced consistent with pricing used for billing. The common product catalog provides an initial price base for the components that are in the solution vs. the existing configuration at the customer location.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="3.10.2"/>
+  <properties
+      key="Frameworx Domain"
+      value="Market Sales Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+  <properties
+      key="Function Identifier"
+      value="931"/>
+  <properties
+      key="TAM Application Name"
+      value="Solution Pricing"/>
+  <properties
+      key="TAM Application Id"
+      value="3.10.2"/>
+  <properties
+      key="Constructed Id"
+      value="3.10.2.931"/>
+</archimate:ApplicationFunction>

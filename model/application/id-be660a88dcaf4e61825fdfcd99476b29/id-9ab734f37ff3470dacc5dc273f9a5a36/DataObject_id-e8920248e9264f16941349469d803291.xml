@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PerformanceIndicatorDerivationParameter"
+    id="id-e8920248e9264f16941349469d803291"
+    documentation="A parameter used in the calculation of a PerformanceIndicator. A CharacteristicSpecification can be used as a parameter or another PerformanceIndicatorSpecification can be used."/>

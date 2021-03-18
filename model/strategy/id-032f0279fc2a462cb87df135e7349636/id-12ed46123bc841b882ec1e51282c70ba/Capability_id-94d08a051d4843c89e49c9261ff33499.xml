@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Facility/Policy Matching"
+    id="id-94d08a051d4843c89e49c9261ff33499"
+    documentation="The ability to associate a facility with a policy.">
+  <properties
+      key="TMF_ID"
+      value="1.3.14.7.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

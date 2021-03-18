@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Test Lifecycle Management"
+    id="id-ed0353fbabee48dfb19ea657864e41f1"
+    documentation="Resource Test Lifecycle Management applications provides the necessary functionality to manage the end-to-end lifecycle of a test of a resource.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="7.11.2"/>
+  <properties
+      key="TMF Function"
+      value="Management of resource test head capacity Management of resource test results Management of resource testing rules Reporting of resource test results Resource end to end test configuration setting up and tearing down Resource end to end test execution Resource end to end test results interpretation Resource end to end test scheduling Resource test resources acquisition and management Retrieval of appropriate resource inventory data"/>
+  <properties
+      key="TMF Maturity"
+      value="Resource Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

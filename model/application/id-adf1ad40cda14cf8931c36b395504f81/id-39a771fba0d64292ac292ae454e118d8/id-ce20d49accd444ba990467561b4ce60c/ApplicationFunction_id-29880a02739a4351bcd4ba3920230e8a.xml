@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fallout Auto Correction"
+    id="id-29880a02739a4351bcd4ba3920230e8a"
+    documentation="Fallout Auto Correction function tries to automatically fix fallouts in workflows before they go to a human for handling. &#xA;This includes a Fallout Rules Engine that provides the capability to handling various errors or error types based on built rules. These rules can facilitate auto correction, correction assistance, placement of errors in the appropriate queues for manual handling, as well as access to various systems">
+  <properties
+      key="Function Identifier"
+      value="16"/>
+  <properties
+      key="TAM Application Name"
+      value="Fallout Auto Correction"/>
+  <properties
+      key="TAM Application Id"
+      value="11.2.1"/>
+  <properties
+      key="Constructed Id"
+      value="11.2.1.16"/>
+</archimate:ApplicationFunction>

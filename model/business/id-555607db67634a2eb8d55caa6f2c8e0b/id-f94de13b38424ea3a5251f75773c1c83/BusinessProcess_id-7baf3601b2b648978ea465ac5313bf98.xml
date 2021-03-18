@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Approve Loyalty Program Strategy"
+    id="id-7baf3601b2b648978ea465ac5313bf98"
+    documentation="Gain enterprise commitment to the loyalty program strategy.">
+  <properties
+      key="Process Identifier"
+      value="1.1.19.1.2.4"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Approve Loyalty Program Strategy gains enterprise commitment to the strategy. It includes identification of stakeholders and negotiation to gain stakeholder approval."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

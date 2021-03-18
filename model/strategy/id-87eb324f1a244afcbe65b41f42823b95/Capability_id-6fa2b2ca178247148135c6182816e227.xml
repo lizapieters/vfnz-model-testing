@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Employee Identification Management"
+    id="id-6fa2b2ca178247148135c6182816e227"
+    documentation="Securing the employees to have a correct identification with the right authorities to be used in the overall Corporate security.">
+  <properties
+      key="TMF Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.5.1.1"/>
+  <properties
+      key="TMF Function"
+      value="Identification Card Management Unique Employee Number Registration"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

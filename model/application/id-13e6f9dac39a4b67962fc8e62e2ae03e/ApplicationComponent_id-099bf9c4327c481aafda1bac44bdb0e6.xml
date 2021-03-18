@@ -1,0 +1,42 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LMNP FCN Notifications"
+    id="id-099bf9c4327c481aafda1bac44bdb0e6"
+    documentation="LMNP FCN Notifications">
+  <properties
+      key="StatusForLookUp"
+      value="Active"/>
+  <properties
+      key="Owner"
+      value="AndrewH"/>
+  <properties
+      key="Level of Service"
+      value="Business Standard"/>
+  <properties
+      key="Product / Service"
+      value="fixed"/>
+  <properties
+      key="Segment"
+      value="Common"/>
+  <properties
+      key="DX Association"
+      value="Integrate"/>
+  <properties
+      key="Existing Retained or Replaced"
+      value="Replace"/>
+  <properties
+      key="ComArch / Other"
+      value="COmarch"/>
+  <properties
+      key="Legacy BSS Stack Served"
+      value="Blue-Common"/>
+  <properties
+      key="TAM App ID"
+      value="5.5.15"/>
+  <properties
+      key="TAM Domain"
+      value="Customer Domain"/>
+  <properties
+      key="TAM Application"
+      value="Customer Service Representative Toolbox"/>
+</archimate:ApplicationComponent>

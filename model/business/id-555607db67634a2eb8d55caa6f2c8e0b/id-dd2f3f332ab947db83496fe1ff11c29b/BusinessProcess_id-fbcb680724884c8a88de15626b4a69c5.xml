@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Erase Party Privacy Profile Information"
+    id="id-fbcb680724884c8a88de15626b4a69c5"
+    documentation="Enforce the right of erasure of Party Privacy Profile Information">
+  <properties
+      key="Process Identifier"
+      value="1.6.7.3.7"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Delete all information referenced in the Privacy Profile according to Data Processor Rules. It can be done according to Data Subject request or retention rules."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

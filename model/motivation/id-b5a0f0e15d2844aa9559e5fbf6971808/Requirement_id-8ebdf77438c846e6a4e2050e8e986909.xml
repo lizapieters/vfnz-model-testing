@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1184"
+    id="id-8ebdf77438c846e6a4e2050e8e986909"
+    documentation="As a user using the My Vodafone app for the first time, I want to be prompted to create a PIN after successful email address &amp; password authentication, so I can login easily in future">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1184"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="bk"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Self Service"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Learn"/>
+  <properties
+      key="Topic"
+      value="Security &amp; Authentication"/>
+  <properties
+      key="Remarks"
+      value="So like a &quot;save password&quot; with PIN blockade? Probably outside of Comarch solution now"/>
+  <properties
+      key="Module"
+      value="SC, TUM, BR"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

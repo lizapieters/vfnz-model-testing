@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0580"
+    id="id-c90b8d9772c347079e295b8212b114a7"
+    documentation="As an existing customer, I want to be able to easily disconnect services at my old address, so that I can be confident I won't be charged for services I cannot use.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0580"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Diane Watson"/>
+  <properties
+      key="Tribe"
+      value="Consumer Home"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="prio2"/>
+  <properties
+      key="Base"
+      value="1?"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Change"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Change"/>
+  <properties
+      key="Topic"
+      value="Relocate services"/>
+  <properties
+      key="Remarks"
+      value="Relocation flow to be discussed (from technical and billing point of view)"/>
+  <properties
+      key="Module"
+      value="SC, OM, BR"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

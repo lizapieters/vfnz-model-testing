@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ValueConstraintDetails"
+    id="id-40c4f60051a54ff28aabc41283e644a1"
+    documentation="This is an association class that contains the OCL expression that will be used to define the particular semantics of how this Value is constrained by this Variable. This includes constraints such as upper and lower bounds of the value that a PolicyValue object can take.This association defines any value constraints that exist between a value of a variable and the variable itself. For example; modeling an enumerated source port variable; the specific values that can be assigned to the PortSourceVariable are limited to the range of values that represent legal assignments for this source port."/>

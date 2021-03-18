@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Discounts Calculation"
+    id="id-1447edd69a6c4d858508835d53d3a775"
+    documentation="The Discounts Calculation provides appropriate functionality to apply discounts to charges.Discount Calculation provides appropriate functionality to apply discounts or recalculate discounts in the context of appropriate billing events. Discount Calculation also considers the results of aggregation and balance management functions (based on a certain balance, different discounts are applied) in the process of calculating discounts.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.15.2"/>
+  <properties
+      key="TMF Function"
+      value="Discount Calculation"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

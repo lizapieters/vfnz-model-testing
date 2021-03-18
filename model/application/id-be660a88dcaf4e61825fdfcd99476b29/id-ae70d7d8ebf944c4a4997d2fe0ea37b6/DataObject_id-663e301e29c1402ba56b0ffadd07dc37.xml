@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LinkStateRoutingProtocol"
+    id="id-663e301e29c1402ba56b0ffadd07dc37"
+    documentation="This is the base class for defining protocols that use a link state routing algorithm. In this algorithm; each router broadcasts or multicasts information regarding the cost of reaching each of its neighbors to all nodes in the internetwork. In other words; each router sends only the portion of its routing table that describes the state of its own link. Link state algorithms enable each router to build a picture of the entire network in its routing table."/>

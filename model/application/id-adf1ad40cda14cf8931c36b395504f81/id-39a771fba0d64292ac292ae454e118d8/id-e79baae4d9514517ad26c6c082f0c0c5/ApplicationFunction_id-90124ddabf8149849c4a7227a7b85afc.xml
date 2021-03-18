@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financial Code Assignment"
+    id="id-90124ddabf8149849c4a7227a7b85afc"
+    documentation="Assigns financial codes to transactions received from billing, online adjusment, paymnet, refund, and collection processes.">
+  <properties
+      key="Function Identifier"
+      value="314"/>
+  <properties
+      key="TAM Application Name"
+      value="Journalization"/>
+  <properties
+      key="TAM Application Id"
+      value="5.9.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.9.2.314"/>
+</archimate:ApplicationFunction>

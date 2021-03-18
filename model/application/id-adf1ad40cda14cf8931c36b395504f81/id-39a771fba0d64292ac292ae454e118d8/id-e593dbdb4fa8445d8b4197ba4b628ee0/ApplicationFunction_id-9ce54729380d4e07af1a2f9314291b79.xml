@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Order Configuration Management"
+    id="id-9ce54729380d4e07af1a2f9314291b79"
+    documentation="The Resource Order Configuration Management is similar to the service design/ assign functions outlined elsewhere in this publication. The service is built up of services and the services are built of resources. For a full compound Service configuration there is a need for Resource configuration for the Resource Order to support aggregate customer facing services. Services can be viewed as being comprised of a number of building blocks - e.g. bandwidth, security, maintenance packages, SLAs, QoS, specific features e.g. voicemail. Service Configuration management might be either the set up of network / resource components for a customer, or a class of customers of a generic service build. Service configuration can be derived from order details in addition to inherent business rules from service specifications.">
+  <properties
+      key="Function Identifier"
+      value="484"/>
+  <properties
+      key="TAM Application Name"
+      value="Resource Order Configuration Management"/>
+  <properties
+      key="TAM Application Id"
+      value="7.3.3.2"/>
+  <properties
+      key="Constructed Id"
+      value="7.3.3.2.484"/>
+</archimate:ApplicationFunction>

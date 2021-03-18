@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Information Security Management"
+    id="id-2e84fabf68aa4d84a6dfcdd7d53816a9"
+    documentation="The ability to control integrity, access, use, disclosure, disruption, modification, inspection, recording, or destruction of information.">
+  <properties
+      key="TMF_ID"
+      value="1.3.1.6"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

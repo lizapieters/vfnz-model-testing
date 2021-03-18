@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Center Efficiency Tools"
+    id="id-f2deeab52408444e96a9aecb2e6ea6f5"
+    documentation="Center Efficiency Tools provides various non-portlet enabled scripts and tools for the agent to automate specific tasks.This function can also include terminal and system emulators (Citrix, Attachmate, etc).">
+  <properties
+      key="TMF Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.22.1.2"/>
+  <properties
+      key="TMF Function"
+      value="Support Portal Tools Server"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

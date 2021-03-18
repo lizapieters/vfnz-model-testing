@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service configuration activation"
+    id="id-4b39a3ec3d804c71a9496a947b15232c"
+    documentation="Implements and activates the specific service configuration against the service configuration plan (including activation of CPE if part of the service offering)">
+  <properties
+      key="Function Identifier"
+      value="585"/>
+  <properties
+      key="TAM Application Name"
+      value="Service Activation Management"/>
+  <properties
+      key="TAM Application Id"
+      value="6.3.7"/>
+  <properties
+      key="Constructed Id"
+      value="6.3.7.585"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Close Resource Trouble Report"
+    id="id-2daaefb210a040048237268a25099c9e"
+    documentation="Close a resource trouble report when the resource problem has been resolved">
+  <properties
+      key="Process Identifier"
+      value="1.5.8.6"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of the Close Service Trouble Report processes is to close a service trouble report when the service problem has been resolved. These processes monitor the status of all open service trouble reports, and recognize that a service trouble report is ready to be closed when the status is changed to cleared."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

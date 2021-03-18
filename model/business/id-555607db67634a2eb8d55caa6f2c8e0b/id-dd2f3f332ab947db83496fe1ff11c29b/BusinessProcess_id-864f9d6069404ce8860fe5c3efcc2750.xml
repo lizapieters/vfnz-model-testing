@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Shares/Securities"
+    id="id-864f9d6069404ce8860fe5c3efcc2750"
+    documentation="Manage activities associated with securities/shares of the enterprise and any securities/company regulations impacting on the company, including the administration and management of continuous disclosure/announcements to the securities exchange and/or securities/company regulator.">
+  <properties
+      key="Process Identifier"
+      value="1.7.6.6.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

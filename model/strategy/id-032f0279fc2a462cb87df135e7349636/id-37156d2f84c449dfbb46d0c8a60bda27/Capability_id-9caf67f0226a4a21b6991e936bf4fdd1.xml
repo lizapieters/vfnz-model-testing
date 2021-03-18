@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Network Performance Management"
+    id="id-9caf67f0226a4a21b6991e936bf4fdd1"
+    documentation="The ability to determine how well a network is meeting specification and objective levels, or delivering against design.">
+  <properties
+      key="TMF_ID"
+      value="1.1.7.4"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

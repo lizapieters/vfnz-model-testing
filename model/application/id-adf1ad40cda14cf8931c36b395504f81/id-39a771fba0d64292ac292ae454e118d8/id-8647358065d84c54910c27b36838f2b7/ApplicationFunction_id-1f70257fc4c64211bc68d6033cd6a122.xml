@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Transformation"
+    id="id-1f70257fc4c64211bc68d6033cd6a122"
+    documentation="Data Transformation: Data transformation provides transformation function to transform data according to standard or configured transformation algorithms (e.g. number to alphanumeric) internally or requesting transformation externally. This includes encryption/decryption and logging according to compliance guidelines.">
+  <properties
+      key="Function Identifier"
+      value="1022"/>
+  <properties
+      key="TAM Application Name"
+      value="Data Transformation and Formatting"/>
+  <properties
+      key="TAM Application Id"
+      value="9.11.5"/>
+  <properties
+      key="Constructed Id"
+      value="9.11.5.1022"/>
+</archimate:ApplicationFunction>

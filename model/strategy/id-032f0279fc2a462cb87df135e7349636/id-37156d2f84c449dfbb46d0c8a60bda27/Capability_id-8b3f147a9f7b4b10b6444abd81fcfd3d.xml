@@ -1,0 +1,33 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Lifecycle Management"
+    id="id-8b3f147a9f7b4b10b6444abd81fcfd3d"
+    documentation="Product Lifecycle Management (PLM) is responsible for the managing the entire lifecycle of the product and its underlying components. This includes all of the processes required to design, build, deploy, maintain and ultimately retire the product. Product Lifecycle Management includes those activities and tools used to define new products and updates to existing products. Generally these activities require a significant degree of collaboration, often across multiple geographic locations. This could even include the gathering of customer needs/preferences and mapping those to current and future product capabilities. There will also be a significant use of project and program management activities and tools to satisfy these functional areas.">
+  <properties
+      key="TMF_ID"
+      value="1.1.3.9"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Core"/>
+  <properties
+      key="TMF Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="4.3"/>
+  <properties
+      key="TMF Function"
+      value="Marketing &amp; Offer Strategies Implementation New Product Introduction and Maintenance Product Modeling Function Product Requirement and Specification Function Product Retirement"/>
+  <properties
+      key="TMF Maturity"
+      value="Product Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

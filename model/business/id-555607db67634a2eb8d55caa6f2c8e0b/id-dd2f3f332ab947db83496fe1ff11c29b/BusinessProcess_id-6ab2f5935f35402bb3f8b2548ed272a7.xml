@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop Service &amp; Operational Agreements for Services"
+    id="id-6ab2f5935f35402bb3f8b2548ed272a7"
+    documentation="These processes ensure that the required service level agreements and operational level agreements are developed and agreed for each resource class deployed, and that any party operational support has been identified.">
+  <properties
+      key="Process Identifier"
+      value="1.4.3.5.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

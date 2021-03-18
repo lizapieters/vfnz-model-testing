@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0747"
+    id="id-64901d3d2b594845aaef18f15e05def0"
+    documentation="As provisioning specialist, when an order reaches a certain stage, I want a customers ability to make changes to be stopped so that the order completes as it is. E.g. a customer cannot change a delivery address within x hours before dispatch of the item.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0747"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Jared Mortlock"/>
+  <properties
+      key="Tribe"
+      value="Business"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Tracking"/>
+  <properties
+      key="Remarks"
+      value="SC, EP: Requirement clear Assumption: definition of point of no return and trigger in OSS"/>
+  <properties
+      key="Module"
+      value="SC, EP, OM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="impacted"/>
+</archimate:Requirement>

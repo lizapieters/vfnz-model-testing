@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forecast service demand &amp; capture new opportunities"
+    id="id-8670912688fe473b9ff5246a54592765"
+    documentation="Forecast service demand and capture new opportunities for future needs of new/existing customers">
+  <properties
+      key="Process Identifier"
+      value="1.4.1.5.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Forecast service demand &amp; capture new opportunities processes ensures that the enterprise can implement the services necessary for the future needs of their customers and potential customers."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

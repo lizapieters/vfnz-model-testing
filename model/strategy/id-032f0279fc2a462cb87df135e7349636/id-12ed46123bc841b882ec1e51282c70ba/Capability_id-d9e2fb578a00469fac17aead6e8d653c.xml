@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Order/Payment Matching"
+    id="id-d9e2fb578a00469fac17aead6e8d653c"
+    documentation="The ability to associate an order with monies paid out and monies collected.">
+  <properties
+      key="TMF_ID"
+      value="1.1.8.12.8"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

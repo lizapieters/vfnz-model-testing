@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Project Management"
+    id="id-e0a1f5969bcc432e822d9e2b34752f04"
+    documentation="Project Management Tools application for resource and time planning, follow up of resource and time utilization and reporting of project progress and follow up results.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.9.4"/>
+  <properties
+      key="TMF Function"
+      value="Project Followup Project Planning Project Reporting"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

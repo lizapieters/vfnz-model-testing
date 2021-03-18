@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Resource Infrastructure, Provisioning and Preventive Maintenance Schedules"
+    id="id-65c8dddfce7e44ef9d7a2a90b48409fc"
+    documentation="Proactively undertaking statistically driven preventative and scheduled resource infrastructure maintenance activities, and repair activities, and monitoring, managing and reporting on the capability of the Resource Trouble Management processes.">
+  <properties
+      key="Process Identifier"
+      value="1.5.4.3.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="â€¢ Requesting scheduling of additional resource instance data collection to assist in the analysis activity; â€¢ Requesting scheduling of resource instance performance testing to assist in analysis activity; â€¢ Developing and managing resource infrastructure and resource instance proactive maintenance programs; â€¢ Requesting resource provisioning activity to prevent anticipated resource troubles associated with capacity limitations identified in the analysis activities;"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

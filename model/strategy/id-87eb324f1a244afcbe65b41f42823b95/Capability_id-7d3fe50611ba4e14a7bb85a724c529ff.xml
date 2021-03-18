@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Case Tracking &amp; Management"
+    id="id-7d3fe50611ba4e14a7bb85a724c529ff"
+    documentation="The Case Tracking &amp; Management application handles the cases based on the definition and configuration established via the Case Definition and Configuration application. The Case Tracking &amp; Management application creates and manages case worklists and oversees the transfer (dispatch or assignment) of the case to appropriate internal applications or work groups, as well as affiliates or partners&amp; tracks the case until closed and notifies appropriate parties or applications when the case has been closed/completed.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.17.4"/>
+  <properties
+      key="TMF Function"
+      value="Case Tracking &amp; Management transfer Capability Case Tracking &amp; Management Completion Notification Case Tracking &amp; Management Creation Capability Case Tracking &amp; Management Escalation Capability Case Tracking &amp; Management Real time query Capability Case Tracking &amp; Management Sequence Capability Case Tracking &amp; Management Status notification Case Tracking &amp; Management Threshold Notification Case Tracking &amp; Management Update Capability"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aggregate Revenue Share"
+    id="id-75860e7a673341ad897c07de1ad1d200"
+    documentation="Calculate the total revenue to be shared for a product offering when the party revenue sharing agreement specifies an aggregation must be provided. The aggregation is performed after the determination of the revenue share.">
+  <properties
+      key="Process Identifier"
+      value="1.6.18.3.5"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Aggregate Revenue Share calculates the total revenue to be shared for a product offering when the party revenue sharing agreement specifies an aggregation must be provided. The aggregation is performed after the determination of the revenue share. For example, a flat rate model calculates a revenue share for each acquisition of a product offering, and this process would calculate the total revenue share."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fault Assurance Metrics Generation"
+    id="id-7e04ec5af9064975a54a0d4d9bbe677a"
+    documentation="Fault Analytics &amp; Metrics function collects necessary data to generate fault metrics to support various assurance metrics.">
+  <properties
+      key="Function Identifier"
+      value="423"/>
+  <properties
+      key="TAM Application Name"
+      value="Fault Reporting &amp; Analytics"/>
+  <properties
+      key="TAM Application Id"
+      value="7.10.4"/>
+  <properties
+      key="Constructed Id"
+      value="7.10.4.423"/>
+</archimate:ApplicationFunction>

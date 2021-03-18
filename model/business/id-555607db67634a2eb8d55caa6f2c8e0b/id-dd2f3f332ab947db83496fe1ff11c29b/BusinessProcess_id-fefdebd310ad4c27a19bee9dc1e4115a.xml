@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Service Performance Quality Data"
+    id="id-fefdebd310ad4c27a19bee9dc1e4115a"
+    documentation="This process monitors and logs the received specific service performance quality data, compares the received specific service performance quality data to performance quality standards set for each specific service (available from the Service Inventory), detect performance quality threshold violations which represent specific service failures due to abnormal performance, and detects performance degradation for specific services which provide early warning of potential issues.">
+  <properties
+      key="Process Identifier"
+      value="1.4.7.1.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

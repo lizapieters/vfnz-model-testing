@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collect Management and Security Information &amp; Data"
+    id="id-2e5e350bbc0d47a8b6c5b677e5ca75ca"
+    documentation="Collection of management and security information and data records from resource and service instances and other enterprise processes">
+  <properties
+      key="Process Identifier"
+      value="1.5.7.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Collect Management and Security Information &amp; Data processes are responsible for collection of management and security information and data records from resource and service instances and other enterprise processes. This includes collection of security information and data from networks, systems, and security sensors. These processes interact with the resource and service instances to intercept and/or collect usage, network, security and information technology events and, performance and other management information for distribution to other processes within the enterprise, and with enterprise processes to accept command, query and other management information for distribution to resource and service instances."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

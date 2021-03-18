@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Conduct Loyalty Program Acceptance Testing"
+    id="id-a03bd788d9874487867ece495bf5866e"
+    documentation="Conduct acceptance testing of anew or enhanced loyalty program in preparation for launch/rollout to the market.">
+  <properties
+      key="Process Identifier"
+      value="1.1.19.1.5"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Conduct Loyalty Program Acceptance Testing reuses Product Offering Acceptance Testing sub-processes to manage acceptance testing of a new or amended/enhanced loyalty program and to handover for ongoing rollout. Acceptance testing is conducted using commercial pilots or market trials of the program or prototypes of it, in which case the commercial negotiations for the pilot and/or trial are managed through these processes. These processes identify the shortcomings or issues, and manage the necessary improvements to a loyalty program to allow full rollout. At the conclusion of the pilots and/or trials when the loyalty program passes its acceptance tests or defined acceptance criteria it is ready for launch/rollout to the market."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Profiling"
+    id="id-c8d8f664481a429d92ffa86d49218c03"
+    documentation="Customer profiling (�Profile�) provides the necessary functionality for advanced customer profiling such as automatic and statistical based profiling of customers based on explicit preferences and implicit behaviour from usage, location, patterns of similar customers, etc. Although existing BI/DW customer segmentation can also be leveraged to arrive at the customer profiling, most of these systems are broad based customer profiles and do not create an individual profile for each customer. Also, Customer Profiling differs from customer experience monitoring &amp; the rest of the functional blocks (see below) in that it is focused on customer preferences, tastes, and behaviour (ex. Soccer Fan, Movie buff etc.) rather than operational view of the customer such as �Late Payer�.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="5.5.11"/>
+  <properties
+      key="Frameworx Domain"
+      value="Customer Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

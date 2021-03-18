@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Receive Port Over Request"
+    id="id-ec5418de1c6d457e8d29ae84f7fc9134"
+    documentation="The Receive Port Over Request process is responsible for receiving notifications of number portability between third CSPs.">
+  <properties
+      key="Process Identifier"
+      value="1.5.4.7.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Receive Port Over Request process is responsible for receiving notifications of number portability between third CSPs. The process allows notify other systems or applications about number portability processes between third CSPs for different. Responsibilities of these processes include, but are not limited to: â€¢Â Â Â Â  Receiving Port Over notifications â€¢Â Â Â Â  Reporting Port Over notifications to other systems or applications"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

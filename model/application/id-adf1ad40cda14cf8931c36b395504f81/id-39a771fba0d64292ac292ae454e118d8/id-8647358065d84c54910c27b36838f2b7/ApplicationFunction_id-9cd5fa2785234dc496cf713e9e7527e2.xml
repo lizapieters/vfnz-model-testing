@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Chart of Accounts Maintenance"
+    id="id-9cd5fa2785234dc496cf713e9e7527e2"
+    documentation="General Ledger Chart of Accounts Maintenance of the Chart of Accounts and General Ledger reporting structures">
+  <properties
+      key="Function Identifier"
+      value="800"/>
+  <properties
+      key="TAM Application Name"
+      value="General Ledger"/>
+  <properties
+      key="TAM Application Id"
+      value="9.3.1.1"/>
+  <properties
+      key="Constructed Id"
+      value="9.3.1.1.800"/>
+</archimate:ApplicationFunction>

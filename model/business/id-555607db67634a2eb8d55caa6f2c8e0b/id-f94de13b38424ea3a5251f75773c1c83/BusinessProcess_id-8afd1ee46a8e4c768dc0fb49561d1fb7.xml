@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Apply Party Pricing, Discounting, Adjustments &amp; Rebates to Party Account"
+    id="id-8afd1ee46a8e4c768dc0fb49561d1fb7"
+    documentation="Determine the party account or party specific pricing, charges, discounts, and taxation that should be delivered on the bills/invoice for a party.">
+  <properties
+      key="Process Identifier"
+      value="1.6.15.3.1.2"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Apply Party Pricing, Discounting, Adjustments &amp; Rebates to Party Account determines the party account or party specific pricing, charges, discounts, and taxation that should be delivered on the bills/invoice for a party. In certain countries it is standard practice to outsource sub functions of tax determinations to specialized external parties. An adjustment is a transaction that debits or credits a party's account by changing the amount due for a bill/invoice item. Adjustments can also change non-currency balances in the account. There are many reasons to apply adjustments, such as goodwill and mistakes. An adjustment may also be in the form of a credit memo that is issued because a party returned goods to the enterprise, or there is a pricing dispute, or a marketing allowance, or other reasons under which the party will not pay the enterprise the full amount of the bill/invoice."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Order/Partner Matching"
+    id="id-b26543183b6e44f9889ed20262983f65"
+    documentation="The ability to associate an order with a partner.">
+  <properties
+      key="TMF_ID"
+      value="1.1.8.12.9"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

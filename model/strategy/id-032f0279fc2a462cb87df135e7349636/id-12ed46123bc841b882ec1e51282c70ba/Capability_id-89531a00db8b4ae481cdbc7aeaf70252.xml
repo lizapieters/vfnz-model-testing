@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legal Matter Profile Management"
+    id="id-89531a00db8b4ae481cdbc7aeaf70252"
+    documentation="The ability to articulate, organize, identify, track, validate, or otherwise administer descriptive, identifying information about a legal proceeding and its relationships.">
+  <properties
+      key="TMF_ID"
+      value="1.3.2.6.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

@@ -1,0 +1,42 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Callidus Cloud"
+    id="id-09f09a92c46b4cbcb88e03708f76f82a"
+    documentation="Sales Commissions">
+  <properties
+      key="StatusForLookUp"
+      value="Active"/>
+  <properties
+      key="Owner"
+      value="AndrewH"/>
+  <properties
+      key="Level of Service"
+      value="Mission Critical"/>
+  <properties
+      key="Annual Support Cost"
+      value="$154,386.00"/>
+  <properties
+      key="Product / Service"
+      value="Common"/>
+  <properties
+      key="Segment"
+      value="Common"/>
+  <properties
+      key="DX Association"
+      value="Integrate"/>
+  <properties
+      key="Existing Retained or Replaced"
+      value="Retained"/>
+  <properties
+      key="Legacy BSS Stack Served"
+      value="Common"/>
+  <properties
+      key="TAM App ID"
+      value="3.3"/>
+  <properties
+      key="TAM Domain"
+      value="Market_Sales Domain"/>
+  <properties
+      key="TAM Application"
+      value="Compensation &amp;amp; Results"/>
+</archimate:ApplicationComponent>

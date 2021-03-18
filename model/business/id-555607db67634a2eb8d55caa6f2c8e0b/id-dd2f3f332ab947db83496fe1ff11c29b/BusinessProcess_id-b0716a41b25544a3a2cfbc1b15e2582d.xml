@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plan &amp; Forecast Service Infrastructure Requirements and Manage Capacity Planning"
+    id="id-b0716a41b25544a3a2cfbc1b15e2582d"
+    documentation="Planning, managing, deploying, monitoring and reporting of new and/or modified service infrastructure">
+  <properties
+      key="Process Identifier"
+      value="1.4.4.2.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Planning, managing, deploying, monitoring and reporting of new and/or modified service infrastructure to ensure availability of sufficient service infrastructure to support the Service Provisioning processes. This includes: â€¢ Forecasting at an operational level service infrastructure volume requirements and run-out timeframes; â€¢ Managing capacity planning associated with the deployment of new and/or modified service infrastructure"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

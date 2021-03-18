@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0635"
+    id="id-a622db4a54d74419b529c52e6f96c1f4"
+    documentation="As a customer account owner, I want to turn on or off the ability to require approval for chargeable services when assigning someone as the admin/user for my product, so that I can avoid surprise charges">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0635"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="2"/>
+  <properties
+      key="Base_Old"
+      value="2"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Use"/>
+  <properties
+      key="Topic"
+      value="0"/>
+  <properties
+      key="Remarks"
+      value="Assumption: this apply to standard add-ons selected by this admin/user in Self Care (not micropurchases, IVR). In such case the ordering flow triggered by user would be redirected to owner for approval. What about micropurchases via IVR? Parked for the separate session about customer hierarchy."/>
+  <properties
+      key="Module"
+      value="SC, EP, TUM, PIM, OM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1106"
+    id="id-123e140a8433475f9489de7c5a293401"
+    documentation="As a customer I want to be able to view anyone that has access to my product/service information and remove anyone except the owner, so that I can manage permissions on my account">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1106"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="2"/>
+  <properties
+      key="Base_Old"
+      value="2"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Self Service"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Self Service"/>
+  <properties
+      key="Topic"
+      value="Account/User Management"/>
+  <properties
+      key="Remarks"
+      value="PIM, BR OOTB: Realized by Subscription Users management capabilities"/>
+  <properties
+      key="Module"
+      value="SC, BR, PIM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

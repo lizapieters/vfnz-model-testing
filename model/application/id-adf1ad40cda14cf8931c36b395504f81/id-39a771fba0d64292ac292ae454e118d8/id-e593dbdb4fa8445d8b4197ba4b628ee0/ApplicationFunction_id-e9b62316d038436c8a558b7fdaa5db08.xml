@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Workforce Management Reporting"
+    id="id-e9b62316d038436c8a558b7fdaa5db08"
+    documentation="Workforce Management Reporting functions provide the necessary functionality to report on the status of open work orders as well as technician information such as availability, utilization, and overall performance.">
+  <properties
+      key="Function Identifier"
+      value="560"/>
+  <properties
+      key="TAM Application Name"
+      value="Workforce Management Reporting"/>
+  <properties
+      key="TAM Application Id"
+      value="7.12.6"/>
+  <properties
+      key="Constructed Id"
+      value="7.12.6.560"/>
+</archimate:ApplicationFunction>

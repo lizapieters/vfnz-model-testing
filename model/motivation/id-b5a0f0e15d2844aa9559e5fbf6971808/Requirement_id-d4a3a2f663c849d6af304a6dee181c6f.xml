@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0658"
+    id="id-d4a3a2f663c849d6af304a6dee181c6f"
+    documentation="The Collections solution shall enable integration with inbound and outbound communications channels (internal and 3rd party)&#xA;1.&#x9;Including:&#xA;2.&#x9;Dialler (refer CC005)&#xA;3.&#x9;SMS server&#xA;4.&#x9;Email server&#xA;5.&#x9;Letter distribution">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0658"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Jasmin Khambata"/>
+  <properties
+      key="Tribe"
+      value="Collections"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Collections"/>
+  <properties
+      key="Remarks"
+      value="By &quot;Letter distribution&quot; you mean integration with printhouse? - Yes. What does mean CC005? - Automated calls to the customer that connect with an agent. File integration. VFNZ AP: Will you need additional (not listed in original requirement) notification (like push) in SC application?"/>
+  <properties
+      key="Module"
+      value="BS,AIF,CNS,SC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Loyalty Communications Management"
+    id="id-60d7e14443264193996ffed56573fa24"
+    documentation="The Communication Management component sends information related to Loyalty Programmes (Point Balance, Prize Request status, renewed Loyalty Code) to external components in push and pull modes.">
+  <properties
+      key="Function Identifier"
+      value="237"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Program Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.21.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.21.1.237"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fallout Reporting"
+    id="id-814052e94fc24bd5a79eda874097d53d"
+    documentation="Fallout Reporting applications provide fallout management specific reporting.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="11.2.5"/>
+  <properties
+      key="TMF Function"
+      value="Fallout Reporting"/>
+  <properties
+      key="TMF Maturity"
+      value="Cross Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

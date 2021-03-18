@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rack"
+    id="id-cf05441bcf1040079177ec4ca24a30db"
+    documentation="A Rack is a type of SecureHolder that represents an enclosure in which EquipmentHolders; such as Chassis; are placed. Typically a Rack is nothing more than the enclosure; and all the functioning componentry is packaged in the Chassis. Note that the logical identifier of a Rack is NOT typically associated with the Device (i.e.; the NetworkElement). Compare this to either a Bay or a Shelf; whose logical identifier IS associated with the Device. This means that the Rack is explicitly NOT a part of the logical model of a network. The Rack typically serves as the master enclosure for Chassis; Shelves and Bays. In addition; Racks can have multiple instances of multiple Devices mounted in them."/>

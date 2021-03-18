@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fixed Assets"
+    id="id-4d1c6c01f0194eafae813d5ae20072e5"
+    documentation="Fixed Asset applications provide the required functionality to manage the long-term assets of a business at a summarized level. Detailed, subsidiary asset records are not covered by this group of applications.">
+  <properties
+      key="TMF Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.3.1.4"/>
+  <properties
+      key="TMF Function"
+      value="Financial Systems Application Integration Fixed Assets Depreciation calculation Fixed Assets Journaling Fixed Assets Reporting Total Cost of Ownership Tracking"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

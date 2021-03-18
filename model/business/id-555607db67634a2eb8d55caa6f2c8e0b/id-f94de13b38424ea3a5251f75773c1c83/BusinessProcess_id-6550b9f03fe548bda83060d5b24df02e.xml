@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analyze and Identify Policies"
+    id="id-6550b9f03fe548bda83060d5b24df02e"
+    documentation="This process serves as a repository of  M&amp;P (Methods and Procedures) information that maintains best practices for fraud analysis and identification work.">
+  <properties
+      key="Process Identifier"
+      value="1.7.2.3.1.2"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Within the fraud practice, certain processes are formulated to provide consistency and control around analysis of suspected fraud and the supporting investigative work to determine whether a given case is, in fact, fraud. Analysis and identification procedure policies may include M&amp;P information covering: - When an issue is eligible for investigation (e.g., meeting certain alarming criteria, having a high enough financial value, etc.). - How issues are prioritized once deemed eligible for investigation (ranking in work queue, assignment to rapid teams vs. longer term investigation teams, etc.) - What investigative processes are involved (e.g., internal process investigation, external agency investigation, internal network or system investigation, etc.) - Which individuals should conduct specific investigative steps (some steps may involve managerial levels for information access, etc.) - What supporting information may be necessary to conduct investigative analysis - What criteria should be met to deem an incident as actual fraud - What follow-up actions or steps are taken at the close of an incident (rules changes, policy changes, process changes, etc.) The Analysis and Identification policies should not only contain this information, but also be able to provide this information as a guide to analysts, readily available and easily employed."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

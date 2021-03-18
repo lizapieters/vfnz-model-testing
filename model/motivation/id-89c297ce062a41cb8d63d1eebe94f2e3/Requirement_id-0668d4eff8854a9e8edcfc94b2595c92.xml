@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0649"
+    id="id-0668d4eff8854a9e8edcfc94b2595c92"
+    documentation="The Collections solution shall enable customer accounts to be allocated to profiles based on customer account characteristics&#xD;&#xA;Including:&#xD;&#xA;1.&#x9;Account balance (aged)&#xD;&#xA;2.&#x9;Vodafone products &amp; services&#xD;&#xA;3.&#x9;Number and type of accounts&#xD;&#xA;4.&#x9;Financial transaction history&#xD;&#xA;5.&#x9;Payment method&#xD;&#xA;6.&#x9;Monthly spend&#xD;&#xA;7.&#x9;Contract term &amp; last re-sign date&#xD;&#xA;8.&#x9;Monthly device payment">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0649"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Jasmin Khambata"/>
+  <properties
+      key="Tribe"
+      value="Collections"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Collections"/>
+  <properties
+      key="Remarks"
+      value="Requirement clear"/>
+  <properties
+      key="Module"
+      value="BS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

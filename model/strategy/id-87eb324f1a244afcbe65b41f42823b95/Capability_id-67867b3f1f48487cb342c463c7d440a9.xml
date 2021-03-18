@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Receivables Management"
+    id="id-67867b3f1f48487cb342c463c7d440a9"
+    documentation="The purpose of this application is to automate and manage the processing of financial transactions affecting the customer's financial account. Furthermore this process is meant to match these transactions with the services/invoices delivered to this customer. This is a legal requirement in some countries e.g. as required by the Sarbanes-Oxley Act in the USA.">
+  <properties
+      key="TMF Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.9"/>
+  <properties
+      key="TMF Function"
+      value="0"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

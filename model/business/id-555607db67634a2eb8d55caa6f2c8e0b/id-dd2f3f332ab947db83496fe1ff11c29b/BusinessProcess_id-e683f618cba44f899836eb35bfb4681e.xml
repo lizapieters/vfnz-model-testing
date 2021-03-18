@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Perform Final Service Test"
+    id="id-e683f618cba44f899836eb35bfb4681e"
+    documentation="This process initiates any final testing to confirm clearance of the Service Problem.">
+  <properties
+      key="Process Identifier"
+      value="1.4.6.4.5"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

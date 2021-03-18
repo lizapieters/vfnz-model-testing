@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MetricDefMeasure"
+    id="id-9225f8de70ef4fa292d9aea3008434ab"
+    documentation="A MetricDefMeasure specifies a measure of a specific aspect of an entity; such as lost packets or dealer sales target achievement; defined for a MetricDefinition that may trigger consequence (s) (MetricDefMeasureConsequence) if a threshold (MetricDefMeasureThreshold) is crossed."/>

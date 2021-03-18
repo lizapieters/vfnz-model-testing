@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Offering Cataloging"
+    id="id-3d35689fe04e44a98a6d5bc8808e0fec"
+    documentation="Develop a specification (definition) of a catalog containing product offerings, develop a product offering catalog, and exchange a catalog among parties.">
+  <properties
+      key="Process Identifier"
+      value="1.2.7.2.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Product Offering Cataloging develops a specification (definition) for a catalog containing product offerings, develops a product offering catalog, and exchanges a catalog among parties. Product catalog specifications define reusable definitions for one or more catalogs. For example, a catalog specification that defines a catalog of smart home devices that is updated with new devices periodically and issued as a new catalog. Product catalogs can be exchanged by sending a catalog to another party and receiving a catalog from another party. The receiving party could be a prospect, a customer, or another enterprise that may become a business partner that makes an enterprise's offerings available to the market Similarly a catalog received from another party may be a prelude to the possible on-boarding of the parties offerings. Note that this process reuses a set of generalized cataloging processes that can also be used to develop service catalogs and resource catalogs."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

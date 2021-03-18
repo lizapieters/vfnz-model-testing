@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prototype Loyalty Program"
+    id="id-f125ed0f64dd43749e1dda03820e7d5f"
+    documentation="Iteratively develop a loyalty program to a state that enables it to be tested in some way.">
+  <properties
+      key="Process Identifier"
+      value="1.1.19.1.4"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Prototype Loyalty Program iteratively develops a loyalty program. Develop Loyalty Program sub- processes develop each iteration of the loyalty program to a state that enables it to be tested in some way by the Conduct Loyalty Program Acceptance Testing process. Tests can be conducted internally, in the form of a pilot, or field trial. Tests are measured against defined acceptance criteria. Identified improvements/enhancements are made during the next iteration based on test results. Once the final iteration tests are accepted the loyalty program is rolled out and launched to the market at large."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

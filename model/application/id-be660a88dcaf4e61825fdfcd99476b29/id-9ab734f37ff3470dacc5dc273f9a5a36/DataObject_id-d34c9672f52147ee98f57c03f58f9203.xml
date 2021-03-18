@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LinearRing"
+    id="id-d34c9672f52147ee98f57c03f58f9203"
+    documentation="A LineString which is both closed and simple. In other words; the first and last coordinate in the ring must be equal; and the interior of the ring must not self-intersect."/>

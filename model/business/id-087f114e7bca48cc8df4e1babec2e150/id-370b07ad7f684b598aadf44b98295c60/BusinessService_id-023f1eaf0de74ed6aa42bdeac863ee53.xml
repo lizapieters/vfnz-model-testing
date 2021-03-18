@@ -1,0 +1,30 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vodafone TV - Standalone"
+    id="id-023f1eaf0de74ed6aa42bdeac863ee53"
+    documentation="CDC. Hypothesis no.">
+  <properties
+      key="Target Horizon"
+      value="N/A"/>
+  <properties
+      key="Segment"
+      value="Consumer/Business"/>
+  <properties
+      key="Access/Service Type"
+      value="VTV"/>
+  <properties
+      key="Comarch can support"
+      value="N/A"/>
+  <properties
+      key="Non-Comarch IT support needed"
+      value="N/A"/>
+  <properties
+      key="NaaS will support"
+      value="N/A"/>
+  <properties
+      key="Automated non-NaaS support"
+      value="N/A"/>
+  <properties
+      key="Unexpected"
+      value="true"/>
+</archimate:BusinessService>

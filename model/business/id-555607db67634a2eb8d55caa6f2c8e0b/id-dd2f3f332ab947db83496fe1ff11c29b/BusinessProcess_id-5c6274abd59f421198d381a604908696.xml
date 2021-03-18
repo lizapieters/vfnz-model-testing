@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Establish Warehouse and Manage Spares Including other Parties"
+    id="id-5c6274abd59f421198d381a604908696"
+    documentation="Establishing and managing the spares houses and managing the spares including other parties spares.">
+  <properties
+      key="Process Identifier"
+      value="1.5.4.3.4"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="â€¢ Establishing and managing resource instance spares holding facilities, including arrangements with other parties for vendor managed spares (the actual commercial agreement is negotiated using Supply Chain Development &amp; Management processes); â€¢ Management of issuing and re-stocking of spares; â€¢ Establishing and managing resource instance return and repair programs and associated processes, including both service provider and other parties repair activities;"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

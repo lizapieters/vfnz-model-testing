@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Arrange and Manage Access to Party Service Performance Mgmt. Tools and Processes"
+    id="id-1cba3a85884f4258a624154d864f52ac"
+    documentation="Supervising of the interfaces from Service Provider to party support tools in order to keep always up and running the accessibility.">
+  <properties
+      key="Process Identifier"
+      value="1.6.6.3.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Arranging and managing service provider access to appropriate party performance management support tools (including any appropriate Inventories) and processes;"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define Security Management Prevention"
+    id="id-56b7871a682d41fd992210e2aded28a0"
+    documentation="The specification of baseline security controls and operational policies to be deployed to the Enterprise.Â  In this process, the organization makes decisions (funding, staffing, R&amp;D, testing, monitoring, etc. about what assets (tangible and intangible) to protect, using what particular means, and at what target assurance levels. These decisions must be informed not only be technical options, but also by perceived asset value and threat probability.     These is typically done by conducting Vulnerability Management, Threat Assessment, and Risk Mitigation processes.Â Within the Prevention process the organization selects, designs and specifies a baseline set of security controls, including operational policies, to be applied to its managed resources and services to include Secure Configuration policies and procedures.">
+  <properties
+      key="Process Identifier"
+      value="1.7.2.2.8"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

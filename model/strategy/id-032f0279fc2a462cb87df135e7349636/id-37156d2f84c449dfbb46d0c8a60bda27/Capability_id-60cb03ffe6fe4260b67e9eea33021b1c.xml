@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Order Cancellation"
+    id="id-60cb03ffe6fe4260b67e9eea33021b1c"
+    documentation="The ability to stop an order placement and settlement based on a party request or order exception criteria.">
+  <properties
+      key="TMF_ID"
+      value="1.1.8.6"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

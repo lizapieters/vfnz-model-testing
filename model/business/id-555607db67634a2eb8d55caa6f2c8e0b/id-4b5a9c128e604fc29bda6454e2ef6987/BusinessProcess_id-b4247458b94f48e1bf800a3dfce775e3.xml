@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Schedules &amp; Appointments"
+    id="id-b4247458b94f48e1bf800a3dfce775e3"
+    documentation="Manages the appointment schedule of assignable staff.">
+  <properties
+      key="Process Identifier"
+      value="1.5.5.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The responsibilities of the Manage Appointment Schedule processes include the ability to view the availability of appropriate assignable staff as well as being able to schedule an appointment. Both the viewing and the scheduling may be based on availability of a collection of staff and not a specific person. Similarly, times could be windows of time (i.e. - AM or PM) or a specific time."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

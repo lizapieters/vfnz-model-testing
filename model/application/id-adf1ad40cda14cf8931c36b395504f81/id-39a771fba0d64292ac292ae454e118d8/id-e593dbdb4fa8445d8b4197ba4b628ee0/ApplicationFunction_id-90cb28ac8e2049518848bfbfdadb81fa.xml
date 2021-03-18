@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource parameters Reservation"
+    id="id-90cb28ac8e2049518848bfbfdadb81fa"
+    documentation="Reserve the right resource parameters based on resource specification and resource inventory.">
+  <properties
+      key="Function Identifier"
+      value="487"/>
+  <properties
+      key="TAM Application Name"
+      value="Resource Order Configuration Management"/>
+  <properties
+      key="TAM Application Id"
+      value="7.3.3.2"/>
+  <properties
+      key="Constructed Id"
+      value="7.3.3.2.487"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0008"
+    id="id-3305103543644f7ca42ba8a59735029f"
+    documentation="As a marketer, I want to be able to present customers with targeted mobile subscription offerings, so that it is most appealing to them">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0008"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1?"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Topic"
+      value="Subscription"/>
+  <properties
+      key="Remarks"
+      value="Sorting rules by some parameter can be defined in PC. To be discussed what exactly would be needed. Some engine for customized offers? To be discussed during the architecture session where this solution could be placed (externally of Comarch?)"/>
+  <properties
+      key="Module"
+      value="CCM, AP, DS, SC, PC, CNS, RE"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="Not Applicable"/>
+</archimate:Requirement>

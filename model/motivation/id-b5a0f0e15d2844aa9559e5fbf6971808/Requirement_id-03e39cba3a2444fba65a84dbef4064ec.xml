@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1182"
+    id="id-03e39cba3a2444fba65a84dbef4064ec"
+    documentation="As a user purchasing a service, at checkout with an unknown email address, I want to create a password, so I can create credentials for my self service account as part of checkout">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1182"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="bk"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Self Service"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Self Service"/>
+  <properties
+      key="Topic"
+      value="Security &amp; Authentication"/>
+  <properties
+      key="Remarks"
+      value="DS: Normally password is created by the customer later on when he receives an e-mail with confirmation of order and customer registration. Creation of a new customer or authentication is a part of a purchase process"/>
+  <properties
+      key="Module"
+      value="DS, TUM, BR"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

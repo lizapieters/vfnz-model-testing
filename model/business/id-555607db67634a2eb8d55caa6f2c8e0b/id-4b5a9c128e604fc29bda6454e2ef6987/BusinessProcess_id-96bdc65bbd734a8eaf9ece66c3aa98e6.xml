@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Party Bill/Invoice Lifecycle Management"
+    id="id-96bdc65bbd734a8eaf9ece66c3aa98e6"
+    documentation="Ensure bills/invoices are created, physically and/or electronically produced and distributed to parties, and that the appropriate taxes, discounts, adjustments, rebates and credits for the products delivered to parties have been applied.">
+  <properties
+      key="Process Identifier"
+      value="1.6.15.3"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Party Bill/Invoice Lifecycle Management ensures party bills/invoices are created, physically and/or electronically produced and distributed to parties, and that the appropriate taxes, discounts, adjustments, rebates and credits for the products delivered to parties have been applied. These processes are accountable for assuring that enterprise revenue is billed and bills/invoices delivered appropriately to parties. These processes are responsible for, but not limited to: â€¢ Establishment and application of taxes and charges to the products delivered to parties â€¢ Application of adjustments (adjustment decision done in Party Bill Inquiry Handling and other applicable processes) â€¢ Creation of accurate bills/invoices including all adjustments, rebates, discounts, credits, and so forth â€¢ Production &amp; distribution of bills/invoices in physical and/or electronic form to parties in accordance with a billing cycle or as needed â€¢ Forecasting of physical resources associated with bill/invoice production, such as paper and envelope quantities â€¢ Alignment and management of promotional material insertion into distributed bills/invoices â€¢ Interaction with Party Tender Management and Party Agreement Management to establish and manage of third party arrangements to support bill/invoice generation, production and distribution."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

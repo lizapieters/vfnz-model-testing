@@ -1,0 +1,45 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BEST Tool"
+    id="id-808fdf067df04df2bda5f0e7b9f880b2"
+    documentation="BEST Tool">
+  <properties
+      key="StatusForLookUp"
+      value="Active"/>
+  <properties
+      key="Owner"
+      value="Business"/>
+  <properties
+      key="Level of Service"
+      value="Business Premium"/>
+  <properties
+      key="Product / Service"
+      value="Common"/>
+  <properties
+      key="Segment"
+      value="Common"/>
+  <properties
+      key="DX Association"
+      value="Replaced Fully"/>
+  <properties
+      key="Existing Retained or Replaced"
+      value="Replace"/>
+  <properties
+      key="ComArch / Other"
+      value="Amazon Connect + USAN"/>
+  <properties
+      key="Dig Future Module"
+      value="Customer Relationship Management (CRM), Convergent Charging &amp;amp; Billing &amp;amp; Revenue Management (OCS &amp;amp; BS), Voucher Management (VM), Campaign Management (CaM), eShop (eShop), OSS Service Desk (SD)"/>
+  <properties
+      key="Legacy BSS Stack Served"
+      value="Common"/>
+  <properties
+      key="TAM App ID"
+      value="5.22.3.2"/>
+  <properties
+      key="TAM Domain"
+      value="Customer Domain"/>
+  <properties
+      key="TAM Application"
+      value="Voice Channel Contact"/>
+</archimate:ApplicationComponent>

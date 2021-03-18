@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Investment Access Enforcement"
+    id="id-611692323b3549098789c49c72eac885"
+    documentation="The ability to ensure that access rights are granted where constraints are not appropriate and to prevent access where constraints are in place to prevent access.">
+  <properties
+      key="TMF_ID"
+      value="1.2.6.5.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

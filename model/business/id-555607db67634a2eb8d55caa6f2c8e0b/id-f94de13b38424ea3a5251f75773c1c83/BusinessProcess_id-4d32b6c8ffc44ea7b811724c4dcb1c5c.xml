@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Determine Party Pre-Purchase Feasibility"
+    id="id-4d32b6c8ffc44ea7b811724c4dcb1c5c"
+    documentation="Determine the ability of parties to deliver the specific resources, services or products, within the specified requirements. Query a set of candidate parties to check for party specific resource, service or product availability and ability to meet delivery volumes, delivery time-scales and schedules, locations, specific technical and other requirements (including relevant standards), and so forth.">
+  <properties
+      key="Process Identifier"
+      value="1.2.9.1.1.2"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Determine Party Pre-Purchase Feasibility determines the ability of parties to deliver the specific resources, services or products, within the specified requirements. It queries a set of candidate parties to check for party specific resource, service or product availability and ability to meet delivery volumes, delivery time-scales and schedules, locations, specific technical and other requirements (including relevant standards), and so forth. The candidate parties will have been defined by the Identify Appropriate Outbound Purchase Party. Once a party is chosen, it must be established that the specific resource, service or product is available (in stock / or that sufficient capacity is available), and that the delivery volumes and conditions can be met. There may be some negotiation with the party regarding delivery scheduling and party specific resource, service or product availability. There may be a number of parties who in principle can meet the business need, and so, within the confines of existing commercial agreements, there may be a process of evaluating each party's specific resource, service or product offering (and options) against the business need."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

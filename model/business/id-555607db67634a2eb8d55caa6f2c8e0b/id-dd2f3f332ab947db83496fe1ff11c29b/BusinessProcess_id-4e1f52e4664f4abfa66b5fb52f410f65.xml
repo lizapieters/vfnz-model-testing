@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="File Tariffs"
+    id="id-4e1f52e4664f4abfa66b5fb52f410f65"
+    documentation="Responsible for tariff filings as required.">
+  <properties
+      key="Process Identifier"
+      value="1.7.6.4.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

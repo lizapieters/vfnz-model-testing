@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Review Major Resource Trouble"
+    id="id-c72be1afda1946658bd3183ce0850240"
+    documentation="To review the resolution of resource troubles that have been categorized as major impact, in order to prevent recurrence and learn lessons for the future.">
+  <properties
+      key="Process Identifier"
+      value="1.5.8.3.6"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="To review the resolution of resource troubles that have been categorized as major impact, in order to prevent recurrence and learn lessons for the future."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

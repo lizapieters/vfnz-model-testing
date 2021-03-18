@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Party Privacy Profile Type Development"
+    id="id-3aae19695f8b4d82ab7540abf0e18fe1"
+    documentation="Develop the Privacy Profile Type for a Party Profile Type (i.e. a type of Data Subject), including the Information from the SID concerned by the Privacy Management, as well as the default values for each Privacy Policy and potential values the Data Subject Party can use.">
+  <properties
+      key="Process Identifier"
+      value="1.6.7.2"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Establishes the Privacy Profile Type for a Party Profile. The Data Controller Party defines for a category of Data Subject Party the different elements that constitute the Privacy Profile : - the locations and jurisdictions that PII will be processed in, the regulations that must be complied with in those locations and jurisdictions. - according to the previous point, the information that constitutes PII - the standards that must be applied to the processing of PII for the different elements of the Privacy Policy - the default values, and possible values which can be set by the Data Subject&quot;"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

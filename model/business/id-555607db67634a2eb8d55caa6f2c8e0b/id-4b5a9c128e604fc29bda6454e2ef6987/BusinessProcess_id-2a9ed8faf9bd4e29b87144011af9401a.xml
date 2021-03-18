@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Close Product Offering Purchase"
+    id="id-2a9ed8faf9bd4e29b87144011af9401a"
+    documentation="Close a product offering purchase when all offerings it contains have been fulfilled.">
+  <properties
+      key="Process Identifier"
+      value="1.2.9.6"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Close Product Offering Purchase closes a product offering purchase when all offerings it contains have been provisioned, fulfilled, paid for (if payment is required at the time the purchase is made), and delivered. This includes any offerings that may have been backordered."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

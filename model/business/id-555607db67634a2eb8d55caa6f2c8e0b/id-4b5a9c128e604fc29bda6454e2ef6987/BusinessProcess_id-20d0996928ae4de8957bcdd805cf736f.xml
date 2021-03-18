@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Support Selling"
+    id="id-20d0996928ae4de8957bcdd805cf736f"
+    documentation="Administer and manage the operation of the various sales channels and to ensure that there is capability (for example, information, materials, systems and resources) to support the Selling processes.">
+  <properties
+      key="Process Identifier"
+      value="1.1.7.2"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The purpose of the Support Selling processes is twofold - to administer and manage the operation of the various sales channels and to ensure that there is capability (for example, information, materials, systems and resources) to support the Selling processes so that they can operate effectively. These processes monitor current selling trends, and are responsible for the optimization and/or redistribution of existing sales channel capability or for enabling new capability (people, facilities, infrastructure). These processes undertake trend analysis on selling, including problems, successes, profit and loss Support Selling processes deal with the administration of the Selling processes and the effectiveness of the channels to support new and existing products, as well as existing and potential customers. The processes ensure the effectiveness of the sales staff and channels both in terms of skill sets available, but also in terms of demand forecasting and management of utilization. These processes are also responsible for the administration and management of sales channel incentive, compensation and reward schemes, and for assessing the performance and effectiveness of sales channels. Other marketing processes, such as Manage Campaign and Product Marketing Communications &amp; Promotion, are responsible for determining the appropriate selling route or channel, and the required selling method and mechanism for specific market segments and channels, by product or product family, e.g., face-to-face contact, telemarketing, etc. Support Selling processes are responsible for ensuring that the sales channels are capable of implementing the required selling method and have the necessary skills and capacity to support the anticipated volumes and type of product in each market segment. These processes are responsible for providing feedback on the performance and effectiveness information as required to other marketing processes. Sales Channels managed by these processes include retail storefronts, e.g. a third-party retailer or an enterprise's own storefront, various web sites or ISPs, B2B marketplaces or direct relationships with external parties, distributors for that product family, account teams, outbound calling teams, direct sales teams, etc. The Support Selling processes are responsible for the collection and administration of sales lead s and the associated probabilities, and for the distribution of leads to the appropriate sales channels. Leads are collected from many processes both customer facing processes and back-end processes. This process is responsible to ensure that processes are operating to collect leads wherever they arise, for the management of leads, and for the matching of the lead to the appropriate sales channel. These processes are responsible for distributing the lead into the appropriate sales channel."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

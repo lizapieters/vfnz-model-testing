@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fallout Technician Dashboard"
+    id="id-853e66e91d0c42b29fd550a317da8703"
+    documentation="Fallout Technician Dashboard applications provide staff the means to access to a variety of tools and information to assist in the handling of order fallout.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="11.2.4"/>
+  <properties
+      key="TMF Function"
+      value="Fallout dashboard auto logon capability Fallout dashboard automatic information pre-population"/>
+  <properties
+      key="TMF Maturity"
+      value="Cross Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Communication collection &amp; storage"
+    id="id-50d5efeb049d42118ef8fb19b1f48fd0"
+    documentation="The collection &amp; storage of all contact events with the customer via all channels whether unassisted (self service, retail kiosk) or assisted (call center, retail store). All types of interactions, including interaction history order history, trouble ticket history, billing collection history, case management, etc... &#xA;The Store of any communications in any current or future form including Fax, IVR, email, Page, text, online chat, social media and postal mail. &#xA;The storage of all inbound and outbound interactions with the customer.">
+  <properties
+      key="Function Identifier"
+      value="196"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Interaction Collection &amp; Storage"/>
+  <properties
+      key="TAM Application Id"
+      value="5.1.4"/>
+  <properties
+      key="Constructed Id"
+      value="5.1.4.196"/>
+</archimate:ApplicationFunction>

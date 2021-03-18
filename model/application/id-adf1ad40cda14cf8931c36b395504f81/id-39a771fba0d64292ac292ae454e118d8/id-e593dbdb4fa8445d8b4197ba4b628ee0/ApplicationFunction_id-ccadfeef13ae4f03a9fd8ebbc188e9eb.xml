@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Work Order updating"
+    id="id-ccadfeef13ae4f03a9fd8ebbc188e9eb"
+    documentation="Managing updates to orders, including in-flight changes and cancelations">
+  <properties
+      key="Function Identifier"
+      value="552"/>
+  <properties
+      key="TAM Application Name"
+      value="Work Order Tracking &amp; Management"/>
+  <properties
+      key="TAM Application Id"
+      value="7.12.4"/>
+  <properties
+      key="Constructed Id"
+      value="7.12.4.552"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Problem Correction &amp; Resolution"
+    id="id-a5f6a6d66a37433d88d14379a57a0f5e"
+    documentation="Service Problem Correction &amp; Resolution functions provide the necessary maintenance functionality to resolve the service problem back to a normal operational state as efficiently as possible, and automated notification to applications responsible for automatic problem mitigation on the services and resources.&#xA;This may involve automated or manual restoration activities.  It may also reconfiguration, re-assignments, temporary work-arounds, and/or dispatches of field technicians.">
+  <properties
+      key="Function Identifier"
+      value="612"/>
+  <properties
+      key="TAM Application Name"
+      value="Service Problem Correction &amp; Resolution"/>
+  <properties
+      key="TAM Application Id"
+      value="6.5.4"/>
+  <properties
+      key="Constructed Id"
+      value="6.5.4.612"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Complete Resource Recovery"
+    id="id-b52bcf1d1fa741cabc932c184ecd7351"
+    documentation="This process is responsible for notifying when it is completed. &#xA;When recovered, the specific resources and/or associated resource specific parameters will be marked as unallocated.">
+  <properties
+      key="Process Identifier"
+      value="1.5.6.8.5"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

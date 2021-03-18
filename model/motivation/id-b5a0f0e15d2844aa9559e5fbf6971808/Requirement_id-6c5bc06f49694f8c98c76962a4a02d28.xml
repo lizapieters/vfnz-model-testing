@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1052"
+    id="id-6c5bc06f49694f8c98c76962a4a02d28"
+    documentation="As a Payments specialist, I want to be able to inform Treasury via an export file to advise any payment transfers between customer accounts so they are able to action the exchange of money from one bank account to another">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1052"/>
+  <properties
+      key="Status"
+      value="Parked for workshop"/>
+  <properties
+      key="Created by"
+      value="Karen Lydon"/>
+  <properties
+      key="Tribe"
+      value="Finance &amp; Business / AR Payments"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="y"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Pay"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="AR/Payments"/>
+  <properties
+      key="Remarks"
+      value="Is it related to unmatched payments from suspence list? Do you need special file template for exported file? What is the scope of work for Comarch here? Is it enough to generate file or maybe Comarch should integrate with external system?"/>
+  <properties
+      key="Module"
+      value="BS,AIF?"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

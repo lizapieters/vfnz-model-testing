@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Earn Loyalty Program Reward"
+    id="id-867c4162f3ff48cb8a3f3cdc5fa56c4b"
+    documentation="Earn a loyalty program reward. A reward may be earned by a loyalty program participant based on currency earned or may be awarded based on an event. Communicate the attainment of an reward.">
+  <properties
+      key="Process Identifier"
+      value="1.1.19.2.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Earn Loyalty Program Reward earns a loyalty program reward. A reward may be earned by a loyalty program participant based on currency earned which is communicated to this process by the Provide Earned Loyalty Program Reward Notification process. A reward may also be awarded based on an event. This process may notify the Provide Loyalty Account Communication process, which manages operational communications with a loyalty program participant. In this case to inform a loyalty program participant that they have earned a reward."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

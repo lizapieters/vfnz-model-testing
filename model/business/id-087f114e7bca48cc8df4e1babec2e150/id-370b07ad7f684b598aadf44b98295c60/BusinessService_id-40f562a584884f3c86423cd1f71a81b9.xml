@@ -1,0 +1,30 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Assurance/Warranty"
+    id="id-40f562a584884f3c86423cd1f71a81b9"
+    documentation="Leased device CDC. H2">
+  <properties
+      key="Target Horizon"
+      value="2"/>
+  <properties
+      key="Segment"
+      value="Consumer/Business"/>
+  <properties
+      key="Access/Service Type"
+      value="0"/>
+  <properties
+      key="Comarch can support"
+      value="0"/>
+  <properties
+      key="Non-Comarch IT support needed"
+      value="0"/>
+  <properties
+      key="NaaS will support"
+      value="0"/>
+  <properties
+      key="Automated non-NaaS support"
+      value="0"/>
+  <properties
+      key="Unexpected"
+      value="true"/>
+</archimate:BusinessService>

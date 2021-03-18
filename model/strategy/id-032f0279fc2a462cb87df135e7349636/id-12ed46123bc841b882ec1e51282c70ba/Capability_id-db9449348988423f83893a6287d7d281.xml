@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agreement Activation"
+    id="id-db9449348988423f83893a6287d7d281"
+    documentation="The ability to activate accounts / agreements with clients, messages, Partners, Channels, Products, and/or Financial Accounts.">
+  <properties
+      key="TMF_ID"
+      value="1.1.5.4.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

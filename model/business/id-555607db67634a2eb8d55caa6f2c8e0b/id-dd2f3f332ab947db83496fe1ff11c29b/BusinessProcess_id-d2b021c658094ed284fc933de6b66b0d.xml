@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Margin Assurance Operations"
+    id="id-d2b021c658094ed284fc933de6b66b0d"
+    documentation="Measure the actual margin assurance performance at defined control points against the expected performance, report anomalies and manage resolution.">
+  <properties
+      key="Process Identifier"
+      value="1.7.9.3.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Margin Assurance Operations processes should deliver detailed information on service provider margins and profits, delivered through a comprehensive analysis of the full value-chain. The Margin Assurance Operations process responsibilities lies in the detection and investigation of outliers in margins over time and includes monitoring of commissions, sales fees and other direct and indirect costs, such as 3rd Party and Content Commissions, Interconnection, Roaming and Mobile Financial Services as well as detection of deliberate or involuntary financial leakages and goodwill credit notes together with promotions and discounts which lead to negative or low margin customers, unprofitable tariffs, unprofitable subscribers, unprofitable partners, unprofitable transit services and unprofitable marketing campaigns. The operational capabilities should support analysis and creating of cases based on indentified underperformance, monitoring and tracking the open cases, quantification and reporting."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

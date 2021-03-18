@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voice Channel Contact"
+    id="id-ae6fca4128fc4f7e9837fba4cd732c3c"
+    documentation="Voice Channel Contact applications provides the means for a customer to speak to a service representative, including the mechanism to query the customer (e.g. � IVR) on the nature of their request, and routing of the contact to the best available agent and presentation to the agent of select call information.">
+  <properties
+      key="TMF Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.22.3.2"/>
+  <properties
+      key="TMF Function"
+      value="Voice Channel Contact Voice Channel Contact Routing"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

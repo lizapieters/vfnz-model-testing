@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Approve New Product Specification Business Proposal"
+    id="id-c275572443554456aeeed4b90950da50"
+    documentation="Approve the new product specification business proposal.  As a result of the approval development of the detailed product specification commences.">
+  <properties
+      key="Process Identifier"
+      value="1.2.7.1.2.7"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fallout Management Interface Bus"
+    id="id-0e30f3de8cff4b64b60c21446b4530d6"
+    documentation="Fallout Interface Bus function provides a variety of tools to facilitate Fallout Management access to other applications and repositories to facilitate proper Fallout Management.� This can include various general access techniques such as messaging, publish and subscribe, etc. as well as specific APIs and contracts to perform specific queries or updates to various applications or repositories within the fulfillment domain.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="11.2.9"/>
+  <properties
+      key="Frameworx Domain"
+      value="Cross Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

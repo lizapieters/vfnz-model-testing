@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Record Party Problem Resolution"
+    id="id-71f2ddd56d29427aa380d25ba5bd369f"
+    documentation="Resolve a party problem and record how the inquiry was resolved.">
+  <properties
+      key="Process Identifier"
+      value="1.6.10.5.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Record Party Problem Resolution resolves a party problem and records how the inquiry was resolved. For example, a party may accept that a product is now working properly after its underlying service(s) and/or resource(s) have been reconfigured or replaced in the case of resource(s)."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

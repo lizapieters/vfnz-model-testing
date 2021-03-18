@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analyze Product Offering Promotion Metrics"
+    id="id-46259f48a6424a07a61756a6487db5cd"
+    documentation="Analyze gathered product offering promotion(s) metrics to identify any issues with the promotion(s).">
+  <properties
+      key="Process Identifier"
+      value="1.2.7.2.6.5.3"/>
+  <properties
+      key="Category"
+      value="(6) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Analyze Product Offering Promotion Metrics analyzes gathered product offering promotion(s) metrics to identify any issues with the promotion(s). The analysis includes identifying any established thresholds that have been crossed and the associated consequence (good or bad). A report is produced that reflects the effectiveness of the product offering promotion(s)."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

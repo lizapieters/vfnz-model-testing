@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Facilities Management &amp; Support"
+    id="id-7ffe225a6c8b41bfb3e2e91ffbbf4d41"
+    documentation="Take care of environmental aspects within the enterprise's workplace.">
+  <properties
+      key="Process Identifier"
+      value="1.7.3.5"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Facilities Management &amp; Support processes take care of environmental aspects within the enterprise's workplace, making sure the workplace facilities are adequate to guarantee the optimal performance of the employees"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

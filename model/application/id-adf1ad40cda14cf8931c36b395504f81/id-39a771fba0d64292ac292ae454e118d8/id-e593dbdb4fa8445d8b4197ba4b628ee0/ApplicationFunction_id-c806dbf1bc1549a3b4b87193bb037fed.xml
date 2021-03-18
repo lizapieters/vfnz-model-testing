@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Repository integrity handling"
+    id="id-c806dbf1bc1549a3b4b87193bb037fed"
+    documentation="Provides ability to maintain data integrity in the whole location repository. It�s especially important if there are many external data sources that deliver new addresses for the repository.">
+  <properties
+      key="Function Identifier"
+      value="434"/>
+  <properties
+      key="TAM Application Name"
+      value="Location Management"/>
+  <properties
+      key="TAM Application Id"
+      value="7.15"/>
+  <properties
+      key="Constructed Id"
+      value="7.15.434"/>
+</archimate:ApplicationFunction>

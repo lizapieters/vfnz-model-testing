@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Channel Infrastructure"
+    id="id-db338e2dff20421080b7c43098b353d7"
+    documentation="Channel Infrastructure represents the cross-channel components that drive consistency and analytics of the customer experience. Channel infrastructure would manage common contact event information such as transaction state, statistics, history, etc.">
+  <properties
+      key="TAM Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="5.22.3.4"/>
+  <properties
+      key="Frameworx Domain"
+      value="Customer Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

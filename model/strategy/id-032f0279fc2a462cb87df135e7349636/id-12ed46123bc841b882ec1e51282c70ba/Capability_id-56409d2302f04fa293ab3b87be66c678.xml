@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Device Security Management"
+    id="id-56409d2302f04fa293ab3b87be66c678"
+    documentation="The ability to confirm a device has the relevant controls in place to safely access and use services provided by the organization, reducing the risk of harm to the organisation’s networks or infrastructure.">
+  <properties
+      key="TMF_ID"
+      value="1.2.2.4.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

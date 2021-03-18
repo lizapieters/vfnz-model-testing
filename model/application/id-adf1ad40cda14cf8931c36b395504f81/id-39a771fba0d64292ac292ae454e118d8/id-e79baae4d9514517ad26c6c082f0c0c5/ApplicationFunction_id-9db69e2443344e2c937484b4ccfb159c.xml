@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Balance information to the financial systems reporting"
+    id="id-9db69e2443344e2c937484b4ccfb159c"
+    documentation="Communication of balance information to the financial systems (e.g. General Ledger, Accounts Receivable) within the enterprise.">
+  <properties
+      key="Function Identifier"
+      value="47"/>
+  <properties
+      key="TAM Application Name"
+      value="Balance Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.19.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.19.2.47"/>
+</archimate:ApplicationFunction>

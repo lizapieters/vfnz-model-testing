@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Update service inventory"
+    id="id-94e5b55629564954a2425078392d900b"
+    documentation="Update information in the service inventory according to the configuration of specific services">
+  <properties
+      key="Function Identifier"
+      value="593"/>
+  <properties
+      key="TAM Application Name"
+      value="Service Configuration Management"/>
+  <properties
+      key="TAM Application Id"
+      value="6.3.6"/>
+  <properties
+      key="Constructed Id"
+      value="6.3.6.593"/>
+</archimate:ApplicationFunction>

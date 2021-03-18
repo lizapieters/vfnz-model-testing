@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collection Settlement"
+    id="id-69c8f175453d48f39bff8b0f331c2fde"
+    documentation="The application provides the mechanism that allows the CSR to negotiate with customers and offer them acceptable plans to pay their debts. These plans might be based on multiple installments over a defined period of time, including the milestones at which the customer is re-evaluated for fulfilling the arrangement.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.14.3"/>
+  <properties
+      key="TMF Function"
+      value="Collation Actions- Build payment plan Collection Actions-Payment plan monitoring"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

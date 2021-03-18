@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Support Party Requisition Management"
+    id="id-1008b5e202254c86b0cc8c71104a4eac"
+    documentation="Manage engagement with parties who own and manage outsourced infrastructure, and to ensure that the Party Requisition Management processes are operating effectively.">
+  <properties
+      key="Process Identifier"
+      value="1.6.6.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The purpose of the Support Party Requisition Management processes is twofold - to manage requisition activity with parties who own and manage outsourced infrastructure, and to ensure that the Party Requisition Management processes can operate effectively. External parties are engaged by the service provider in infrastructure level provisioning-related activities when the service provider has outsourced the relevant infrastructure ownership and management to parties providing this (i.e. outsourced network or IT bureau arrangements). The actual engagement with the party is initiated by the specific fulfillment or provisioning enablement processes of the Customer-Ops, Service-Ops or Resource-Ops process layers. Where Enable Party Requisition Management processes are engaged to manage new and/or modified infrastructure deployment and/or capacity availability, these processes are responsible to ensure on-time and correct deployment and delivery of the requested infrastructure. For the Party Requisition Management processes the role of the Support Party Requisition Management processes is to make sure that there is sufficient process capacity and capability (for example, information, materials, systems and resources) so that the Party Requisition Management processes can operate effectively. Examples are: information on how to process requisitions for specific party products, materials needed to confirm requisition requests, systems needed to validate party product and service availability. The responsibilities of these processes include, but are not limited to: â€¢arranging and managing external party access to appropriate service provider infrastructure deployment support tools (including any appropriate Inventories) and processes; â€¢arranging and managing service provider access to appropriate external party infrastructure deployment support tools (including any appropriate Inventories) and processes; â€¢oversight of party roll-out, in accordance with approved plans, of the approved new and/or modified infrastructure; â€¢reporting on deployed external party resource infrastructure capacity; â€¢tracking and monitoring of the requested party infrastructure deployment; â€¢reporting on party deployment capability; â€¢ establishing and managing party requisition notification facilities and lists to support the Party Requisition Management notification and reporting processes; â€¢updating the inventories related to parties of any changes to the party infrastructure deployment requests and progress; â€¢updating party product and/or service information, etc. to support the Party Requisition Management processes â€¢undertaking, and reporting on, trend analysis on Party Requisition Management processes, including types of associated requisition requests, response duration, delays and other process measures."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

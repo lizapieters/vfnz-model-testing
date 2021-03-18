@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicyEventSpecType"
+    id="id-b19884620dbd44a787772fb8dd058c82"
+    documentation="The PolicyEventSpecType class defines a generic category of PolicyEventSpecs. Each PolicyEventSpecType serves to group a set of particular PolicyEventSpecs that share the same behavior and other semantics. One result of this is to be able to more efficiently define a set of related PolicyEventSpecs that can be grouped together to form a higher-level; or composite; PolicyEventSpec."/>

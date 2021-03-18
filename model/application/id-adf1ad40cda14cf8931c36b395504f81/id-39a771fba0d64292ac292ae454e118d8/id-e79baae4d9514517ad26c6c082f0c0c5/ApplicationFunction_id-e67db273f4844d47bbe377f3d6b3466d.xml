@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Profiling of actions"
+    id="id-e67db273f4844d47bbe377f3d6b3466d"
+    documentation="Profiling customer based on implicit and explicit actions, transactions (ex., deriving actual channel preference from a customer whose implicit preference is SMS, not email)">
+  <properties
+      key="Function Identifier"
+      value="233"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Profiling"/>
+  <properties
+      key="TAM Application Id"
+      value="5.5.11"/>
+  <properties
+      key="Constructed Id"
+      value="5.5.11.233"/>
+</archimate:ApplicationFunction>

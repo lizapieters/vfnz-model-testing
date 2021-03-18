@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0487"
+    id="id-062bd96aaf814dd7b15e0491ead9ee33"
+    documentation="As a transitioning customer I would like my subscription to start for the base service when I am created in DX">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0487"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Steve Bird"/>
+  <properties
+      key="Tribe"
+      value="Transition"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Transition"/>
+  <properties
+      key="Remarks"
+      value="This is also about speed changes for fixed. It is important that the customer is charged for the service he is actually getting (before the upgrade in case the upgrade takes time or failes for whatever reason). Exact algorithm to be refined during LLD. Not clear how this would fit subscription model where customer should be charged in advance."/>
+  <properties
+      key="Module"
+      value="DS?, OM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

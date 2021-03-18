@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gather &amp; Analyze Service Information"
+    id="id-aade2c19ebca4b1db87215bf649916c9"
+    documentation="Research and analyze customer, technology, competitor and marketing information to identify new service directions and industry best practice, and potential enhancements to existing services">
+  <properties
+      key="Process Identifier"
+      value="1.4.1.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Gather &amp; Analyze Service Information processes research and analyze customer, technology, competitor and marketing information to identify new service directions and industry best practice, and potential enhancements to existing services. These processes undertake the necessary analysis to identify potential opportunities, compare current capabilities with the identified opportunities, and as a result of the analysis develop new service requirements. Included in this analysis are the capture and analysis of service growth driven by expansion of housing estates, building developments and building approvals forecasts. The new service requirements include an analysis of the customer value proposition. These processes include the establishment and management of relationships with external providers of service information, and the management of internal resources used for providing service information. A key source of input to this analysis is derived from the marketing and product strategy and planning processes."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

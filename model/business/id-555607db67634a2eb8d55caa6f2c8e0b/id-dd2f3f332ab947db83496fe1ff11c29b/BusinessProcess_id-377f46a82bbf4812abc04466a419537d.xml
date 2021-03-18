@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Order Provisioning Activities Identification"
+    id="id-377f46a82bbf4812abc04466a419537d"
+    documentation="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0 Transitional//EN&quot;>&lt;HTML>&lt;HEAD>&lt;META content=&quot;text/html; charset=utf-8&quot; http-equiv=Content-Type>&lt;META name=GENERATOR content=&quot;MSHTML 8.00.6001.19088&quot;>&lt;/HEAD>&lt;BODY>&lt;P>Customer Order provisioning Activities Identification Identifies &amp;amp; publishes corresponding components needed for each Customer Order Item associated with a product&lt;/P>&#xA;&lt;P>*Identifies &amp;amp; publishes CustomerFacingServices needed for each non-tangible product realised by the enterprise. The request will result in Service Orders through Issue Service Order process&lt;/P>&#xA;&lt;P>*Identifies &amp;amp; publishes Resources needed for each tangible product stored by the enterprise. The request will result in Resource Orders through Issue Resource Orders process&lt;/P>&#xA;&lt;P>*Identifies &amp;amp; publishes Supplier products needed for each product not realized by the company. The request will result in Business / Partner Orders through Issue Business / Partner Orders &lt;SPAN lang=EN>&lt;/P>&lt;/SPAN>&lt;/BODY>&lt;/HTML>">
+  <properties
+      key="Process Identifier"
+      value="1.3.3.9.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="3"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opportunities Dispatching"
+    id="id-a518039ed5984c61b5a44c75816ccdf0"
+    documentation="Create and dispatch opportunities to relevant employees/sales personnel. Capture customer information and qualify leads according to the guidelines set by your company (cf Customer Information Management). Sales opportunities are dispatched to sales representatives in the field.">
+  <properties
+      key="Function Identifier"
+      value="371"/>
+  <properties
+      key="TAM Application Name"
+      value="Direct Sales Force"/>
+  <properties
+      key="TAM Application Id"
+      value="3.4.1"/>
+  <properties
+      key="Constructed Id"
+      value="3.4.1.371"/>
+</archimate:ApplicationFunction>

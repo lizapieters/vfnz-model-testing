@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ConfigurationFeatureSpec"
+    id="id-31188e66473a462c8de54822b4716117"
+    documentation="A ConfigurationFeatureSpec is a type of EntitySpecification. It is used to expose one or several ResourceFunctionSpecs to a consumer in such a way that it is easier to configure these RFSpecs from a consumer view point; at the deployment stage (intend based deployment as opposed to detailed based deployment). â€¢ Some ConfigurationFeatureSpec may be mandatory while others can be selected or not by the consumer (for a given instantiation). â€¢ ConfigurationFeatureSpec may have characteristics which are settable by the consumer (at instantiation time and/or during the lifetime of the ResourceFunction)."/>

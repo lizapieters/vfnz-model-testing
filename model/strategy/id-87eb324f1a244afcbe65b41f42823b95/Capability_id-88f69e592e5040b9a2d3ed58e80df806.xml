@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Workforce Management"
+    id="id-88f69e592e5040b9a2d3ed58e80df806"
+    documentation="Workforce Management applications manage field forces to make optimum use of manpower and other resources such as vehicles. They are used to schedule resources, provide a map of field skill sets and provide forecasting and load balancing capabilities. Workforce Management can be used to manage both internal and externalresources in areas of service assurance,provisioning, routine work, and preventive maintenance.">
+  <properties
+      key="TMF Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="7.12"/>
+  <properties
+      key="TMF Function"
+      value="0"/>
+  <properties
+      key="TMF Maturity"
+      value="Resource Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

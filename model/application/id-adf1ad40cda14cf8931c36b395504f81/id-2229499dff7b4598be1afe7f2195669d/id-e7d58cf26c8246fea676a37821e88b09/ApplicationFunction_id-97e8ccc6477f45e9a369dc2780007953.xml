@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cash Reconciliation &amp; Escheatment"
+    id="id-97e8ccc6477f45e9a369dc2780007953"
+    documentation="Cash Reconciliation &amp; Escheatment applications provide the required functionality to perform bank statement reconciliations, manage unclaimed checks, and recover unclaimed funds payable to the service provider.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="9.3.8"/>
+  <properties
+      key="Frameworx Domain"
+      value="Enterprise Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

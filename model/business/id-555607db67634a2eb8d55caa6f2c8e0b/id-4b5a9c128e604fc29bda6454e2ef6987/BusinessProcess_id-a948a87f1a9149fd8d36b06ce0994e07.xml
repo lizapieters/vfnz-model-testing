@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Program &amp; Project Management"
+    id="id-a948a87f1a9149fd8d36b06ce0994e07"
+    documentation="Define and manage the program and project management methodologies, skills and tools within the enterprise.">
+  <properties
+      key="Process Identifier"
+      value="1.7.3.3"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Program &amp; Project Management processes define and manage the program and project management methodologies, skills and tools within the enterprise. These processes document the program and project methodologies to be used by all projects within the enterprise, and provide documentation templates and any project management tools required. The processes select any tools required to support project and program management, using the Party Offering Development &amp; Retirement processes as required. The skills sets and required levels of certification, if any, are defined and managed by these processes. If used, these processes may develop and manage an enterprise repository of program and project information. Metrics associated with program and project management are defined, collected and analyzed by these processes. Note that projects are actually managed within other areas of the enterprise but follow the guidelines defined by this process, which provides a template for specific applications of Program &amp; Project Management in any area of the enterprise."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

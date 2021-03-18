@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Implement, Configure &amp; Activate Service"
+    id="id-6c18dac58cb64ebab15bc6baae4a1f0f"
+    documentation="Implement, configure and activate the specific services allocated against an issued service order.">
+  <properties
+      key="Process Identifier"
+      value="1.4.5.4"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The purpose of the Implement, Configure &amp; Activate Service processes is to implement, configure and activate the specific services allocated against an issued service order. These processes are responsible for, but not limited to: â€¢Assessing and planning the approach to be undertaken for implementation, configuration and activation; â€¢Re-using standard implementation, configuration and activation processes applicable to specific services; â€¢Implementing, configuring and reconfiguring specific services, including customer premises equipment if part of the service provider offering. â€¢Providing notifications as required if the implementation, configuration and activation activity requires a planned outage or is likely to initiate false specific service alarm event notifications â€¢Updating the information contained in the service inventory as to the configuration of specific services and their status. At the successful conclusion of these activities, the status of the specific services will be changed from allocated to activated, which means they are in-use."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

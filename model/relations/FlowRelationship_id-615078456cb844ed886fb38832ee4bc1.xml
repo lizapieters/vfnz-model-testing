@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Broadband FWA provisioning data"
+    id="id-615078456cb844ed886fb38832ee4bc1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_b84da571-8498-40d1-b9de-6726067358db.xml#b84da571-8498-40d1-b9de-6726067358db"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-9c499bc727c44aa2874692f80cce9854.xml#id-9c499bc727c44aa2874692f80cce9854"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Track &amp; Manage Product Offering Purchase"
+    id="id-4a88d207e4b246018f7a858430fefb3b"
+    documentation="Coordinate provisioning activities for inbound product offering purchases, escalate purchases that are in jeopardy of not meeting due dates, modify the purchase states, add additional information to the purchase, and modify purchase information.">
+  <properties
+      key="Process Identifier"
+      value="1.2.9.3"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Track &amp; Manage Product Offering Purchase monitors the jeopardy status of product offering purchases and escalates purchases that are in jeopardy of not meeting due dates. Additional information may be added to the product offering purchase and modifications may be made to any purchase information."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

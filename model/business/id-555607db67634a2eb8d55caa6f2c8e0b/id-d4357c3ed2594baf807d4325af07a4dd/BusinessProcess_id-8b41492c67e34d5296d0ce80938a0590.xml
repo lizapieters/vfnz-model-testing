@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Set Product Offering Price"
+    id="id-8b41492c67e34d5296d0ce80938a0590"
+    documentation="Set (create) a variety of prices such as recurring, non-recurring, discounts, allowances.">
+  <properties
+      key="Process Identifier"
+      value="1.2.7.2.2.1.1"/>
+  <properties
+      key="Category"
+      value="(6) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Set Product Offering Price sets (creates) a variety of prices such as recurring, non-recurring, discounts, allowances. Price events that trigger a price are also defined by creating an event and associating it with a price. Additionally, the applicability of a price to one or more geographic areas are defined."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

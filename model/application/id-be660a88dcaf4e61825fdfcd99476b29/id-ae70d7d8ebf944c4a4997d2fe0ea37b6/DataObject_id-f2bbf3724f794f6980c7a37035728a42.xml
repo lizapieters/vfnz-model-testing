@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResourcePerformanceSpec"
+    id="id-f2bbf3724f794f6980c7a37035728a42"
+    documentation="The invariant characteristics of a measure of the manner in which a Resource is functioning. Each related Performance instance will have the same invariant characteristics. However; the values associated with other characteristics of the instantiated Performance entity are specific to each instance."/>

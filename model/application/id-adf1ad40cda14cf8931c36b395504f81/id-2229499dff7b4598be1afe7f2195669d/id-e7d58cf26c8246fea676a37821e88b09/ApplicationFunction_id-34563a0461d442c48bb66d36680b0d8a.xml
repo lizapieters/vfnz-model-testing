@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fault Correlation &amp; Root Cause Analysis"
+    id="id-34563a0461d442c48bb66d36680b0d8a"
+    documentation="Fault Correlation &amp; Root Cause Analysis collects the various fault events in the network as well asother relevant information such as network topology,and relates these events, reducing the number of raw events to some smaller number. Root Cause Analysis (RCA) enables the end user to quickly determine the root cause of a problem in the network. These applications have a unique role in mediating network alarms with topology and configuration data.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="7.10.2"/>
+  <properties
+      key="Frameworx Domain"
+      value="Resource Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

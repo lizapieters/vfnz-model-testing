@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer SLA Issue Reception"
+    id="id-fabdef5f78da4ada8d8a4dfb7fea1dcf"
+    documentation="Customer SLA Issue Reception applications provide the necessary functionality to receive a complaint or notice about some product or service with respect to an established customer service level agreement.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.18.1"/>
+  <properties
+      key="TMF Function"
+      value="Customer SLA issue Customer Validation Customer SLA Issue Reception Customer SLA Issue Service / Entitlement Validation"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

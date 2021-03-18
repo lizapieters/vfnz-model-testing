@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0654"
+    id="id-25954dac87874d2eb5147ed73bada5c2"
+    documentation="The Collections solution shall enable customer accounts to be identified for special (manual) Collections treatment&#xD;&#xA;Including:&#xD;&#xA;1.&#x9;Disputes/Complaints&#xD;&#xA;2.&#x9;Treat With Care&#xD;&#xA;3.&#x9;Fraud&#xD;&#xA;4.&#x9;Natural Disaster&#xD;&#xA;5.&#x9;Medical dependency&#xD;&#xA;6.&#x9;Deceased&#xD;&#xA;7.&#x9;Test Accounts&#xD;&#xA;8.&#x9;Insolvency&#xD;&#xA;9.&#x9;Bankruptcy&#xD;&#xA;10.&#x9;Suspension or Lost/Stolen&#xD;&#xA;11.&#x9;Temp Hold">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0654"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Jasmin Khambata"/>
+  <properties
+      key="Tribe"
+      value="Collections"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Collections"/>
+  <properties
+      key="Remarks"
+      value="What do you mean by special manual collections? Does it mean that Comarch should exclude that customer from automated collection process? Requirement clear. Comarch have to check customer flag and stop collections mechanism. Just one reason will be selected."/>
+  <properties
+      key="Module"
+      value="BS,CRM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

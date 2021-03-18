@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Performance Monitoring"
+    id="id-d6b8cb70841447298e3d1d767615f5e1"
+    documentation="Service Performance Monitoring applications provide the necessary functionality to continuously collect data and monitor the performance of the service provider's services.The collected data is logged and made available for further analysis, and present performance made available as notifications for immediate action in case of significant deviation.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="6.7.1"/>
+  <properties
+      key="TMF Function"
+      value="Service Data aggregation and trending Service performance data collection Service performance event correlation and filtering Service performance monitoring"/>
+  <properties
+      key="TMF Maturity"
+      value="Service Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

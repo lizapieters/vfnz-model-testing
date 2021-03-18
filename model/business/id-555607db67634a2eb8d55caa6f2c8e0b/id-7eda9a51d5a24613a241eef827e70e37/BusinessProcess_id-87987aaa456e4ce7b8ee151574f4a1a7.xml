@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Party Bill Inquiry Handling"
+    id="id-87987aaa456e4ce7b8ee151574f4a1a7"
+    documentation="Ensure the timely and effective resolution of all party bill inquiries and complaints initiated by an enterprise or initiated by another party, such as a partner.">
+  <properties
+      key="Process Identifier"
+      value="1.6.20"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Party Bill Inquiry Handling ensures the timely and effective resolution of all party bill inquiries and complaints initiated by an enterprise or initiated by another party, such as a partner. It includes the receiving and sending inquiries regarding a bill/invoice, managing the entire bill inquiry lifecycle, reporting changes to and updates to, and closure of a bill inquiry when all activities have been completed."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

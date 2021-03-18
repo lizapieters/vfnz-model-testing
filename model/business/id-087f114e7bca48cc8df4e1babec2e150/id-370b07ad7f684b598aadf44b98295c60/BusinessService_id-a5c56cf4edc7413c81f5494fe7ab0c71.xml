@@ -1,0 +1,30 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Device management - leasing equipment, software to manage devices"
+    id="id-a5c56cf4edc7413c81f5494fe7ab0c71"
+    documentation="Asset manage feature (2) v mobile device management (1.3) - separate feature. Jared confirmed it is for all devices; CPE, Mobile, Laptop, etc. This needs to be split into multiple features. E.g. Mobile device management (VSDM), leasing, etc">
+  <properties
+      key="Target Horizon"
+      value="1.x"/>
+  <properties
+      key="Segment"
+      value="Business"/>
+  <properties
+      key="Access/Service Type"
+      value="0"/>
+  <properties
+      key="Comarch can support"
+      value="TBC"/>
+  <properties
+      key="Non-Comarch IT support needed"
+      value="TBC"/>
+  <properties
+      key="NaaS will support"
+      value="TBC"/>
+  <properties
+      key="Automated non-NaaS support"
+      value="TBC"/>
+  <properties
+      key="Unexpected"
+      value="true"/>
+</archimate:BusinessService>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Charge Calculation Balance updating"
+    id="id-0b589e56baf3457397d4e5bde9661cd1"
+    documentation="Charge Calculation results applied to the balance as a credit or debit.">
+  <properties
+      key="Function Identifier"
+      value="48"/>
+  <properties
+      key="TAM Application Name"
+      value="Balance Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.19.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.19.2.48"/>
+</archimate:ApplicationFunction>

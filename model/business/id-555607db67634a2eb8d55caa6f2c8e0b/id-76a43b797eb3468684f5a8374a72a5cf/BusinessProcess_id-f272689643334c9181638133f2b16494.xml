@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop Algorithmic Product Offering Pricing Matrix Definition"
+    id="id-f272689643334c9181638133f2b16494"
+    documentation="Define the product offering pricing matrix and its association(s) to the specific product offering(s) to which it applies.">
+  <properties
+      key="Process Identifier"
+      value="1.2.7.2.2.3.2.1"/>
+  <properties
+      key="Category"
+      value="(7) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Develop Algorithmic Product Offering Pricing Matrix Definition defines the product offering pricing matrix based on a matrix specification and its association(s) to the specific product offering(s) to which it applies."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

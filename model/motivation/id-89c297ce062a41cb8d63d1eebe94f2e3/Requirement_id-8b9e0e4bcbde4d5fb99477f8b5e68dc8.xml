@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0691"
+    id="id-8b9e0e4bcbde4d5fb99477f8b5e68dc8"
+    documentation="As a customer, I want to be able to create a self service account if I don't already have one, so that I can manage a product">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0691"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Setup"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="setup"/>
+  <properties
+      key="Topic"
+      value="Account registration"/>
+  <properties
+      key="Remarks"
+      value="SC/BR/TUM: OOTB account is created during customer onboarding of afterwards (dedicated button on the loggin page - Register user)"/>
+  <properties
+      key="Module"
+      value="SC, BR, TUM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

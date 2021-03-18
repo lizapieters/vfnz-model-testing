@@ -1,0 +1,30 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fixed - Business Internet Access"
+    id="id-6eb8407eea1a470799005a9bae324d07"
+    documentation="Should be Horizon 2?&#xA;current network automation is lacking for provisioning&#xA;potentially Comarch OSS to manage workflow and manual tasks and use NaaS for individual service provisioning.">
+  <properties
+      key="Target Horizon"
+      value="1.x"/>
+  <properties
+      key="Segment"
+      value="Business"/>
+  <properties
+      key="Access/Service Type"
+      value="0"/>
+  <properties
+      key="Comarch can support"
+      value="Yes"/>
+  <properties
+      key="Non-Comarch IT support needed"
+      value="N/A"/>
+  <properties
+      key="NaaS will support"
+      value="No"/>
+  <properties
+      key="Automated non-NaaS support"
+      value="No"/>
+  <properties
+      key="Unexpected"
+      value="true"/>
+</archimate:BusinessService>

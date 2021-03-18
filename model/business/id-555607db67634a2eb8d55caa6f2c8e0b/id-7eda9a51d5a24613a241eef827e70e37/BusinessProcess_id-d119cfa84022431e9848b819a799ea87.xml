@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Party Charging"
+    id="id-d119cfa84022431e9848b819a799ea87"
+    documentation="Manage the assignment of a value (monetary or other) to an event or product, or combination (bundle or aggregate) of the above.">
+  <properties
+      key="Process Identifier"
+      value="1.6.17"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Party Charging assigns a value (monetary or other) to an event or product, or combination (bundle or aggregate) of the above. The charge may be either a credit or a debit and can be handled either online or offline. Online charging is performed in real-time, requiring an authorization component which may affect how a product is rendered and enables an enterprise to provide prepaid products to parties. Whereas offline charging is performed after the product is rendered and is not required to be done in real-time and generally relates to subscription based products. The charge may appear on a party invoice via Apply Party Pricing, Discounting, Adjustments &amp; Rebates."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Planning Design Automation"
+    id="id-8586a2f9618b4d2c9f8c4e2ce71640c9"
+    documentation="�Planning Design Automation� is an additional, value-add application, which should also be part of Application Map, but is not present in Application Map r2. It provides automation for both Tactical and Strategic Planning.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="7.1.5"/>
+  <properties
+      key="Frameworx Domain"
+      value="Resource Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

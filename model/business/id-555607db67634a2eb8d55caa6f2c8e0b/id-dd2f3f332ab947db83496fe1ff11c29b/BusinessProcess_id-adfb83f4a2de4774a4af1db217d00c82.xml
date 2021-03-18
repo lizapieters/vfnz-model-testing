@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Asset Assurance Operations"
+    id="id-adfb83f4a2de4774a4af1db217d00c82"
+    documentation="Analyze controls and network insights related to the actual asset assurance performance at defined control points against the expected performance, report anomalies and manage resolution.">
+  <properties
+      key="Process Identifier"
+      value="1.7.9.4.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Asset Assurance Operations processes should deliver continual monitoring and controls at each phase of the asset lifecycle to provide the stakeholders with a holistic, networkwide view of all network assets from procurement through disposition, including all asset states (spare parts, on-air, project reserved, etc.). Asset Assurance provides the enterprise insights and processes to optimize the network performance and capacity including the establishment of tools and data collection capabilities to capture details of operational activity supporting the discovery, recapture, and redeployment of stranded or underutilized assets. The operational capabilities should support analysis and creating of cases based on indentified underperformance, monitoring and tracking the open cases, quantification and reporting."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

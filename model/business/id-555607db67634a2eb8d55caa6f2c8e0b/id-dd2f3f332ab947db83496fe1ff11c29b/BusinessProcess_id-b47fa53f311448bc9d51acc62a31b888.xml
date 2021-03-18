@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Administer Human Resources Catalog"
+    id="id-b47fa53f311448bc9d51acc62a31b888"
+    documentation="This process configures the catalog of field technicians, including description, grouping, hours, relationships, and rules.">
+  <properties
+      key="Process Identifier"
+      value="1.5.5.3.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="â€¢ Managing individual technicians, allocating them to various workforce groups, (workforce pools, crews, etc.), forming holistic assignable units â€¢ Associating human resources with aggregations of skills they posses, locations they cover, tools and devices they can operate, etc. â€¢ Establishing basic working and non-working hours of human resources, including the allocation of technicians to shifts â€¢ Managing a list of technician activities divided into two types: extending available working hours (because of overtime, for example) and reducing working hours (to allow for activities such as training and meetings) â€¢ Establishing the rules by which some types of activities can be ignored â€¢ Establishing interaction with HR systems for data transfer and synchronization"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

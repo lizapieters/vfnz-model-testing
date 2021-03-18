@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Problem Monitoring Collection"
+    id="id-cd137b6c7db84a77bc56a1884b19b208"
+    documentation="The function is responsible for collecting the status messages and correlating them to service topology and comparing them to the established Service monitoring model.">
+  <properties
+      key="Function Identifier"
+      value="982"/>
+  <properties
+      key="TAM Application Name"
+      value="Service Problem Monitoring"/>
+  <properties
+      key="TAM Application Id"
+      value="6.5.2"/>
+  <properties
+      key="Constructed Id"
+      value="6.5.2.982"/>
+</archimate:ApplicationFunction>

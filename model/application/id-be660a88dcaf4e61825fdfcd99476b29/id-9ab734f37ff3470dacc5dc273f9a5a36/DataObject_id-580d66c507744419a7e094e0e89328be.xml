@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PerformanceIndicatorSpecification"
+    id="id-580d66c507744419a7e094e0e89328be"
+    documentation="A measure of a specific aspect of the performance of an entity; such as a lost packets or average jitter; defined for a PeformanceSpecification that may trigger the creation of a PerformanceConsequence."/>

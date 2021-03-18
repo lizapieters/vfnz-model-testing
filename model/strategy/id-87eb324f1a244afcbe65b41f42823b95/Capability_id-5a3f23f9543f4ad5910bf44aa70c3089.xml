@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sales &amp; Marketing Reporting"
+    id="id-5a3f23f9543f4ad5910bf44aa70c3089"
+    documentation="Sales &amp; Marketing Reporting provides insight into multiple aspects of Sales &amp; Marketing, including closed loop marketing, sales metrics, forecasting, sales workflow, funnel and pipeline activities and order handoffs.">
+  <properties
+      key="TMF Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="3.12"/>
+  <properties
+      key="TMF Function"
+      value="Funnel Tracking &amp; Management Sales &amp; Marketing Reporting Sales Forecast Analysis Sales Metrics function Sales Order Reporting"/>
+  <properties
+      key="TMF Maturity"
+      value="Market_Sales Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0938"
+    id="id-bb49f57bdebd4354af791450c3ba08c6"
+    documentation="As a Product owner, I want complex customers to be able to choose what time of the month they want to bill so that it gives customers flexibility and Vodafone aren't restricted to a set number of bill cycles per month">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0938"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Jared Mortlock"/>
+  <properties
+      key="Tribe"
+      value="Finance &amp; Business / Billing"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Billing"/>
+  <properties
+      key="Remarks"
+      value="Requirement clear. Customer should have possibility to select any date. Billing cycle for each day. VFNZ AP: Can you please confirm how many billing cycles should we create? If we will deliver 31 billing cycles (billing cycle how each possible day) what should happen in case of months that do not have 31 days (for example in February)? Maybe it will be enough to prepare smaller set of possible days that customer will be able to choose?"/>
+  <properties
+      key="Module"
+      value="BS, EP, BR"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

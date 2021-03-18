@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RA Correction &amp; Recovery Initiation"
+    id="id-dfcbc57122274632bbad7534dab5196c"
+    documentation="RA Correction &amp; Recovery Initiation provides the necessary functionality to initiate correction of the revenue assurance anomalies as well as recovery of the lost revenue.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="9.1.5"/>
+  <properties
+      key="Frameworx Domain"
+      value="Enterprise Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

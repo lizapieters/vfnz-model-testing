@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Support Party Settlements &amp; Payments Management"
+    id="id-4d8626dbf0084c33b8756ae149f14dbb"
+    documentation="Ensure that there is capability (for example, information, materials, systems and resources) so that the Party Settlements &amp; Payments Management processes can operate effectively">
+  <properties
+      key="Process Identifier"
+      value="1.6.6.4"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The purpose of the Support Party Settlements &amp; Payments Management processes is to ensure that there is capability (for example, information, materials, systems and resources) so that the Party Settlements &amp; Payments Management processes can operate effectively. Examples are information on how to respond to current settlements and payment issues with suppliers and partners, materials needed to process payments and invoices with parties: systems needed to create payments, handle invoices or analyze party payment and settlement concerns, requests for provisioning of additional resources where it has been identified that current levels will impact on timely payment preparation, and complaint handling. External parties are engaged by the service provider in infrastructure level payment and settlement-related activities when the service provider has outsourced the relevant infrastructure ownership and management to parties (i.e. outsourced network or IT bureau arrangements). These processes undertake trend analysis on payment and invoicing, including problems, delays and complaints."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

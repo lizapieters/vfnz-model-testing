@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prioritize Service Problem"
+    id="id-7826c58873e3465ab12084118a16f53d"
+    documentation="This process is responsible for assigning the prioritization to service problem in order to establish an order for managing it. The prioritization is assigned (usually automatically) according to criteria, such as, categorization, services affected and SLAs.">
+  <properties
+      key="Process Identifier"
+      value="1.4.6.4.6"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="This process is responsible for assigning the prioritization to service problem in order to establish an order for managing it. The prioritization is assigned (usually automatically) according to criteria, such as, categorization, services affected and SLAs."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1195"
+    id="id-b92c4bfd97134e49abe27356b84a0015"
+    documentation="As a customer with an app PIN, I want to be able to use my web self service credentials to login on the app if I have forgotten my PIN, So that I can still access the app">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1195"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="bk"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Self Service"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Choose"/>
+  <properties
+      key="Topic"
+      value="Security &amp; Authentication"/>
+  <properties
+      key="Remarks"
+      value="Probably outside of Comarch solution now"/>
+  <properties
+      key="Module"
+      value="SC, TUM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

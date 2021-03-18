@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EtherTypeVariable"
+    id="id-b0c6070e6d8546539fc72e84e1c02a9c"
+    documentation="This class represents using the value of the Ethertype protocol number of Ethernet frames as part of a condition expression. Thus; only BitStringValue and IntegerValue classes can be used in the value portion of the condition expression with this PolicyVariable."/>

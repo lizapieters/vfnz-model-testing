@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Specify Requirements for Engaged Element Change"
+    id="id-b7b255991c38459fae00681879d77599"
+    documentation="Specify Requirements for Engaged Element Change process specifies the shared goals for engaged elements and calibrates any adjustments required for individual engaged elements.">
+  <properties
+      key="Process Identifier"
+      value="1.8.5.2.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Specify Requirements for Engaged Element Change process specifies the shared goals for engaged elements and calibrates any adjustments required for individual engaged elements to bring the engaged element into alignment with the specified shared goals. The adjustments are communicated to the Modify Engaged Element process. For example, a SP operating a mobile network may decompose its network resource into 3 elements: transmission, cells and facilities such as power. The shared goal for network upgrades may be to align these 3 elements such that all are upgraded at the same time."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

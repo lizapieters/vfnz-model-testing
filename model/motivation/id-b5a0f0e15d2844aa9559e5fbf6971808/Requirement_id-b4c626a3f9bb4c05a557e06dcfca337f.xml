@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0907"
+    id="id-b4c626a3f9bb4c05a557e06dcfca337f"
+    documentation="As a customer who doesn't use self-service, when there is something that requires my attention, I want to be notified via text, so that I know what action to undertake and don't lose service.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0907"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Rudolf Arada"/>
+  <properties
+      key="Tribe"
+      value="Business"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Notifications"/>
+  <properties
+      key="Remarks"
+      value="to be discussed during workshops"/>
+  <properties
+      key="Module"
+      value="CNS, BR, OM, PIM, AGR, OCS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

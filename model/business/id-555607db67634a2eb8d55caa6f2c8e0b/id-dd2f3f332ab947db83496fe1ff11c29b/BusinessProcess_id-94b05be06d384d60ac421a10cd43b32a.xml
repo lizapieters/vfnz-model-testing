@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Capture Service Test Results"
+    id="id-94b05be06d384d60ac421a10cd43b32a"
+    documentation="Capture and store the test results for historical and downstream testing comparison purposes. &#xA;If the tests succeed, the specific services will be marked as in-service which means the specific services are available for use by customers.">
+  <properties
+      key="Process Identifier"
+      value="1.4.5.5.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

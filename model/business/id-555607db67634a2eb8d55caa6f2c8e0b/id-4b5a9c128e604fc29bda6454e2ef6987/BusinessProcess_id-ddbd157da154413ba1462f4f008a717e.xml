@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Track &amp; Manage Service Provisioning"
+    id="id-ddbd157da154413ba1462f4f008a717e"
+    documentation="Ensure service provisioning activities are assigned, managed and tracked efficiently.">
+  <properties
+      key="Process Identifier"
+      value="1.4.5.3"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of the Track &amp; Manage Service Provisioning processes is to ensure service provisioning activities are assigned, managed and tracked efficiently. Responsibilities of these processes include, but are not limited to: â€¢ Scheduling, assigning and coordinating service provisioning related activities; â€¢ Generating the respective resource order creation request(s) to Issue Resource Orders based on specific service orders; â€¢ Escalating status of service orders in accordance with local policy; â€¢ Undertaking necessary tracking of the execution process; â€¢ Adding additional information to an existing service order; â€¢ Modifying information in an existing service order;â€¢ â€¢ Modifying the service order status; â€¢ Canceling a service order when the initiating customer order is cancelled; â€¢ Monitoring the jeopardy status of service orders, and escalating service orders as necessary â€¢ Indicating completion of a service order by modifying the service order status. Note that some specific service components may be delivered by other parties. In these cases the Track &amp; Manage Service Provisioning process is responsible for initiating requests, through Party Order handling for the delivery by the party of the specific service components."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

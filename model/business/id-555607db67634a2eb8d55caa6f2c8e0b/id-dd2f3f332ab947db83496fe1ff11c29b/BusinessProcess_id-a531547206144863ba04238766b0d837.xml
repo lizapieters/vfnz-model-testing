@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Complete Party Order"
+    id="id-a531547206144863ba04238766b0d837"
+    documentation="Inform the Close Party Order process by modifying the party order status to completed when the order has been successfully delivered.">
+  <properties
+      key="Process Identifier"
+      value="1.6.8.3.7"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

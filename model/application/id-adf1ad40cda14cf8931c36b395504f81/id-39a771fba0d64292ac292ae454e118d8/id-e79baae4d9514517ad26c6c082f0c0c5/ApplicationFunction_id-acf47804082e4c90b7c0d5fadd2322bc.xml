@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="View unbilled items"
+    id="id-acf47804082e4c90b7c0d5fadd2322bc"
+    documentation="List all unbilled invoice items for current bill cycle">
+  <properties
+      key="Function Identifier"
+      value="66"/>
+  <properties
+      key="TAM Application Name"
+      value="Bill Inquiry"/>
+  <properties
+      key="TAM Application Id"
+      value="5.10.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.10.1.66"/>
+</archimate:ApplicationFunction>

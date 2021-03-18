@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Incident Management"
+    id="id-8142ce56f50a4c70904586a2b4e374f8"
+    documentation="The ability to detect, collect data on, organize, respond and remediate reported troubles/incidents.">
+  <properties
+      key="TMF_ID"
+      value="1.3.11"/>
+  <properties
+      key="Level"
+      value="1"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

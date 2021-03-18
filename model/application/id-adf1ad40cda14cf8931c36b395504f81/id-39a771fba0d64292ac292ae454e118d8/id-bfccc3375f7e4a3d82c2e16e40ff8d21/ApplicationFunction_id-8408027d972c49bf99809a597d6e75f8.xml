@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CPE Procurement"
+    id="id-8408027d972c49bf99809a597d6e75f8"
+    documentation="The CPE Procurement  function determines customer premise equipment needs and availability as well as assigns assets or orders CPE via supply chain processes as appropriate.">
+  <properties
+      key="Function Identifier"
+      value="939"/>
+  <properties
+      key="TAM Application Name"
+      value="Procure CPE"/>
+  <properties
+      key="TAM Application Id"
+      value="6.3.4.4"/>
+  <properties
+      key="Constructed Id"
+      value="6.3.4.4.939"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Improve Service Quality"
+    id="id-e848e39fcc1d47ff84b26fb5d992dcd0"
+    documentation="Restore the service quality to a normal operational state as efficiently as possible.">
+  <properties
+      key="Process Identifier"
+      value="1.4.7.3"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of the Improve Service Quality processes is to restore the service quality to a normal operational state as efficiently as possible. These processes follow service improvement plans specified by the external party, or use service improvement plans developed by the service provider. Where appropriate service improvement plans are not available these processes are responsible for developing appropriate service improvement plans. Where activity to improve service quality performance is likely to impact other in-use specific services, this process is responsible for providing appropriate notification of the improvement proposal and ensuring authorization is received to proceed with the service improvement plan. When the service improvement activity is about to commence, these processes are responsible for notifying when service improvement activity is commencing and when it is completed. Based on the information determined within the Analyze Service Quality processes and the nature of the specific service degradation, these processes may possibly re-assign services or re-configure service parameters."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

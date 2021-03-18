@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicyApplicationRole"
+    id="id-79b6fff76bb74a3cb446db2505cf7a5d"
+    documentation="This is an abstract base class that defines the concept of various types of roles used to describe PolicyApplications and their use in the model. This facilitates the use and management of Policy by defining functionality in terms of roles that are played in the managed environment."/>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gain Resource Capability Investment Approval"
+    id="id-1e030b8782c448e38603851fe8769c48"
+    documentation="Capture all activities required to develop and gain necessary approval for investment proposals to develop and deliver the required resource capabilities">
+  <properties
+      key="Process Identifier"
+      value="1.5.2.3"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Gain Resource Capability Investment Approval processes capture all activities required to develop and gain necessary approval for investment proposals to develop and deliver the required resource capabilities, including identification of potential other parties. These processes take the input from the Map &amp; Analyze Resource Requirements, the Capture Resource Capability Shortfalls and the Map &amp; Analyze Service Requirements processes to develop and gain approval for any business proposals arising. In some cases the business proposal may require the creation and approval of a formal business case, in other cases the business proposal approval may be delegated to local management. In any event the cost estimates for delivering the resource infrastructure, including costs for materials (equipment and tools), labor and training are part of the investment proposal. The rules and procedures outlining the necessary approval process to be used are also part of these processes. The processes include any interaction with cross-enterprise and cross-domain coordination and management functions to ensure that the demand distributions capture the needs of relevant stakeholders. Coordination and management function may use automated processes to improve efficiency and shorten TTM."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

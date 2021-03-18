@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicyEnforcementPoint"
+    id="id-d9d9bb80ddc648568fea851bad84ffb9"
+    documentation="A PolicyEnforcementPoint is a type of PolicyApplication; and is used to verify that a prescribed set of PolicyActions have been successfully executed on a set of PolicyTargets. A PolicyEnforcementPoint serves as an interface between the devices that policy is executed on and the policy decision-makers (such as the PolicyDecisionPoint) of the policy. PolicyEnforcementPoints request work to be performed from PolicyDecisionPoints; and then enforce decisions made by PolicyExecutionPoints on their PolicyTargets. One or more PolicyEnforcementPoints are contained in a PolicyServer. The combination of a PolicyExecutionPoint and a PolicyEnforcementPoint enable the act of executing a decision (made by a PolicyExecutionPoint) to be separated from the act of ensuring that the executing actions were performed correctly; and had the desired results (both of these latter two functions are performed by the PolicyEnforcementPoint)."/>

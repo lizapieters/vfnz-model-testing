@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Location Hierarchy Management"
+    id="id-78be70e2101f464580de94e358fd6c63"
+    documentation="The ability to define sub-categorizations of locations, for example, cities within countries.">
+  <properties
+      key="TMF_ID"
+      value="1.3.3.3"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

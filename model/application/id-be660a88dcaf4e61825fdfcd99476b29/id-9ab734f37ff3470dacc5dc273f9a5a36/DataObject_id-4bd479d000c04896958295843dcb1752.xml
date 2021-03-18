@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MetricMeasurementJob"
+    id="id-4bd479d000c04896958295843dcb1752"
+    documentation="A MetricManagementJob is a management activity that may consist of several steps but is performed as a single logical unit in a Metric context. It can be a one-time activity or a regular one. In the latter case; a schedule definition is attached to it. A MetricMeasurementJob defines a measurement job for a scope of monitored objects using the MonitoredMetricObjectCriterion."/>

@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Availability"
+    id="id-c35b97e2d4ed460e831e67bea97ef82b"
+    documentation="Resource Availability applications validate that the resource or resources specified on the resource order are available at the specified customer/service location.">
+  <properties
+      key="TMF Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="7.3.3.1"/>
+  <properties
+      key="TMF Function"
+      value="Resource availability validation"/>
+  <properties
+      key="TMF Maturity"
+      value="Resource Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TerminationPointEncapsulation"
+    id="id-6da4e1cd251047d589ac0fbb62d20b4f"
+    documentation="The TerminationPointEncapsulation (TPE) represents one or more functions that terminate/originate a signal that adapt a signal for use; and that enable a signal to propagate. Hence a TPE can represent the end point of a signal flow. The TPE can also represent the intermediate point of a signal flow. A TPE is capable of encapsulating multiple transport functions (G.805 termination functions; adapters; points etc.) at many different layers where the encapsulated transport functions are all related to the same signal flow. The encapsulated layers may be exposed via usage of instances of LayerTermination (LT). The TPE deals equivalently with unidirectional and bidirectional flows."/>

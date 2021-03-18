@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Design / Assign"
+    id="id-54557a135ce942f1a57723524e542d9f"
+    documentation="The Resource Design/Assign application addresses both the design of new resources to be included in a network as well as the design of resource configurations which are needed to support new service activations. Assignment is the function which conveys the new designs to those systems which initiate and support the implementation.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="7.3.3"/>
+  <properties
+      key="Frameworx Domain"
+      value="Resource Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

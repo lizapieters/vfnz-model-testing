@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Probe Root Cause Of Failure"
+    id="id-f1ba24189c4944f294c6853ef5d8dbca"
+    documentation="Probe the root cause of failure to identify repair point and prevention of recurrence.">
+  <properties
+      key="Process Identifier"
+      value="1.5.8.3.7"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of Probe Root Cause Of Failure process is to find out a root cause of failure causing resource trouble for dealing with hardware repair and software upgrade. The process is performed after resource healing, and analyzes the problem (e.g., the failure software bugs and/or hardware faults causing failure of network function). The responsibilities of these processes include: -Perform testing of resource for isolation of cause of failure . -Identify a real cause of failure. -Obtain existing knowledge information related to recovery. -Determine a optimal way to repair. -Determine schedule for repair work. -Update knowledge information coping with recovery if the event is unknown failure."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Problem Reception"
+    id="id-3370fbf0e2f5497692a6f1ca73ad9d78"
+    documentation="Service Problem Reception functions provide appropriate functionality to receive customer problems (manually or automated) that are perceived to be service affecting as well as resource troubles (faults).">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="6.5.1"/>
+  <properties
+      key="Frameworx Domain"
+      value="Service Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

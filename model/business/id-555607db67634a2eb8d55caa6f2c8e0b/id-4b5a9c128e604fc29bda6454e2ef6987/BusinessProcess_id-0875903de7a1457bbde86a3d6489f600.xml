@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Create Resource Performance Degradation Report"
+    id="id-0875903de7a1457bbde86a3d6489f600"
+    documentation="Create a new resource performance degradation report">
+  <properties
+      key="Process Identifier"
+      value="1.5.9.5"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of the Create Resource Performance Degradation Report process is to create a new resource performance degradation report, modify existing resource performance degradation reports, and request cancellation of existing resource performance degradation reports. A new resource performance degradation report may be created as a result of specific resource performance notifications undertaken by the Monitor Resource Performance processes, or at the request of analysis undertaken by other Service-Ops or Resource-Ops or party management processes which detect that some form of deterioration or failure has occurred requires an assessment of the specific resource performance. If the resource performance degradation report is created as a result of a notification or request from processes other than Monitor Resource Performance processes, the Create Resource Performance Degradation Report processes are responsible for converting the received information into a form suitable for the Resource Performance Management processes, and for requesting additional information if required."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

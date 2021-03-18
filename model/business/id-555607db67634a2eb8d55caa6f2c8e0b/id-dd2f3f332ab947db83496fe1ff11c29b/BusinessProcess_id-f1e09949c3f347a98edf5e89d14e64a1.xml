@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identify Revenue Share Product Offering"
+    id="id-f1e09949c3f347a98edf5e89d14e64a1"
+    documentation="Determine a product offering which qualifies for revenue sharing.">
+  <properties
+      key="Process Identifier"
+      value="1.6.18.3.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Identify Revenue Share Product Offering determines a product offering which qualifies for revenue sharing. This can be done by identifying a party with whom a revenue sharing agreement exists along with each of the offerings contained within the agreement. Alternatively it could be done by identifying an offering on-boarded from another party and determining if there is a revenue sharing agreement with a party for the offering. It also initiates a revenue share for the offering. A party revenue sharing agreement defines the period for which a revenue share for a product offering are determined."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

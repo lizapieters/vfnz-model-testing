@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Loyalty Program Development &amp; Retirement"
+    id="id-7b4435bda96b4d508fb2f6fb76629512"
+    documentation="Define all aspects of a loyalty program, such as  requirements, its name, and objectives of the loyalty program, determine the benefits to participants. Develop a program, prototype it, test it, rollout/launch it, amend and evaluate it, and terminate it when it is no longer viable for an enterprise.">
+  <properties
+      key="Process Identifier"
+      value="1.1.19.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Loyalty Program Development &amp; Retirement defines all aspects of a loyalty program, such as requirements, the name, and objectives of the loyalty program, determines the benefits to participants. It develops the program, prototypes it, tests it, rollouts/launches it, amends and evaluates it, and terminates it when it is no longer viable for an enterprise. Note that Royalty Program Development &amp; Retirement is sometimes viewed as comparable to Product Offering Development &amp; Retirement. While the rollout/launch, evaluate, amend, and terminate processes are similar the process other processes are different. For example, the Develop Loyalty Program process is quite different, as it includes sub-processes that focus on structuring the program, defining the program's currency, and capturing program requirements. Where noted, and to avoid duplication, existing Product Offering Development &amp; Retirement processes will be reused."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

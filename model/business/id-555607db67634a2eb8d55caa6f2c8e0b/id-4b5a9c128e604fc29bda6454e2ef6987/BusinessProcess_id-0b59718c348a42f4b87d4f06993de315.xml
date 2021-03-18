@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop Catalog Specification"
+    id="id-0b59718c348a42f4b87d4f06993de315"
+    documentation="Develop the specification (definition) for a catalog, relationships among catalogs, and attributes associated with a catalog.">
+  <properties
+      key="Process Identifier"
+      value="1.8.1.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Develop Catalog Specification develops the specification (definition) for a catalog, relationships among catalogs, and attributes associated with a catalog. Specifications define attributes that are shared among catalogs described by the specification. Additional attributes, called characteristics, can also be defined using a generalized set of processes to create the attributes. This process focuses on associating them with a catalog specification. Relationships among catalogs include those that specify one catalog replaces another and those that define a group of catalogs, for example a content catalog that contains other catalogs that contain a specific category, such as drama movie category and a comedy drama category. Note: To minimize the number of sub-processes that update and remove various aspects of a catalog specification, such as relationships with other catalogs, it is assumed that the &quot;develop&quot; processes and their sub-processes also perform updates and removals."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

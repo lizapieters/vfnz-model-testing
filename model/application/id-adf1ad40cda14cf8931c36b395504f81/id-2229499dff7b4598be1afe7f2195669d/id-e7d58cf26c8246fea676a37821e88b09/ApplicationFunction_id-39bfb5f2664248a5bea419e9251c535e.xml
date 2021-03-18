@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Solution Requirements Capture"
+    id="id-39bfb5f2664248a5bea419e9251c535e"
+    documentation="Solution Requirements Capture, � Capture the overall solution requirements (e.g. target date, customer locations, multi-location/shared services)&#xA;and � Capture the particular requirements for each customer location as part of the desired solution">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="3.10.7"/>
+  <properties
+      key="Frameworx Domain"
+      value="Market Sales Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

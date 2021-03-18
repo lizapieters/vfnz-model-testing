@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trip/Plan Matching"
+    id="id-f104acc0f41c48179ce28bd74e09d4be"
+    documentation="The Ability to associate a trip with a plan.">
+  <properties
+      key="TMF_ID"
+      value="1.1.6.4.5"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

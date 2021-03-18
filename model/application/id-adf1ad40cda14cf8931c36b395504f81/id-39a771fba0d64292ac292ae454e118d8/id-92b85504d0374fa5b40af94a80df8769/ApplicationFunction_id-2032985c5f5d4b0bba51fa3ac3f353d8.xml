@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sales Forecast Analysis"
+    id="id-2032985c5f5d4b0bba51fa3ac3f353d8"
+    documentation="Forecast Analysis: This function should enable data analysis of your sales pipeline and predict the revenue that will result when opportunities are won and deals are finalized. Forecasts are either Sales forecasts, which one can apply to anticipate the consumer demand or Order forecasts, which enables CSP�s to determine whether the supply required is available to meet expected consumption levels.">
+  <properties
+      key="Function Identifier"
+      value="370"/>
+  <properties
+      key="TAM Application Name"
+      value="Direct Sales Force Sales &amp; Marketing Reporting"/>
+  <properties
+      key="TAM Application Id"
+      value="#N/A"/>
+  <properties
+      key="Constructed Id"
+      value="#N/A"/>
+</archimate:ApplicationFunction>

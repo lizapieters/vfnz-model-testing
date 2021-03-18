@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VNO Personalization"
+    id="id-cce325243480469fbc5b8959329270f7"
+    documentation="VNO Personalization - in cases where the network provider serves multiple VNOs under the same BSS environment (multi tenancy) the user interface of each VNO needs to be �personalized� to the VNO business (look and feel, business flow, etc.)">
+  <properties
+      key="Function Identifier"
+      value="404"/>
+  <properties
+      key="TAM Application Name"
+      value="Virtual Network Operators (Dealers)"/>
+  <properties
+      key="TAM Application Id"
+      value="3.4.5"/>
+  <properties
+      key="Constructed Id"
+      value="3.4.5.404"/>
+</archimate:ApplicationFunction>

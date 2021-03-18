@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Engineering Resource location management"
+    id="id-cf44e4fca0ff4dc697af3fa7aeb03c5c"
+    documentation="Engineering Resource logistics functions coordinate the availability and deployment of resources to their in-service locations.">
+  <properties
+      key="Function Identifier"
+      value="473"/>
+  <properties
+      key="TAM Application Name"
+      value="Resource Logistics"/>
+  <properties
+      key="TAM Application Id"
+      value="7.5.4"/>
+  <properties
+      key="Constructed Id"
+      value="7.5.4.473"/>
+</archimate:ApplicationFunction>

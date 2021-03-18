@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RootEntity"
+    id="id-c924d594beb549fb89e6c45bfdaf179b"
+    documentation="This is the top of the SID class hierarchy. The purpose of the RootEntity is to define a set of attributes that are common to all SID entities that derive from it. These properties enable us to name; describe; and identify all objects (manageable and unmanageable) in the environment."/>

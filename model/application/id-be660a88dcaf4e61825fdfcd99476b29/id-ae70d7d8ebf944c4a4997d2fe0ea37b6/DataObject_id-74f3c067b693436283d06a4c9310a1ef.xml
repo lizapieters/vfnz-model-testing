@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PhysicalDeviceComposite"
+    id="id-74f3c067b693436283d06a4c9310a1ef"
+    documentation="This is a concrete base class for representing hardware devices that can be managed that contains one or more sub-ordinate devices. In other words; this physical device is not a stand-alone physical device; rather; it represents an aggregation of physical devices. Each physical device in this aggregation can be managed. This class represents a convenient aggregation point for combining different aspects of a device (e.g.; its physical composition as well as the set of services that it offers). It also enables the device itself to have a physical manifestation. Examples of this class include routers and switches; computers; and other end-devices that are managed."/>

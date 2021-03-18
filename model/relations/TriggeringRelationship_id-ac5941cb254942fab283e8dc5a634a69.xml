@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Updates to Porting Xns"
+    id="id-ac5941cb254942fab283e8dc5a634a69">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-77a13a64886e466dad1341d6a7c6a6ff.xml#id-77a13a64886e466dad1341d6a7c6a6ff"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-41d5704966c8447abf8a36bfb957bd1c.xml#id-41d5704966c8447abf8a36bfb957bd1c"/>
+</archimate:TriggeringRelationship>

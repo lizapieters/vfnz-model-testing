@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1429"
+    id="id-60219bc9e2184c908e50657c41deaf28"
+    documentation="As a Product Owner I want it to be possible for people outside a certain organisation to manage that orgs services if they are delegated the correct authority (through assigning roles)">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1429"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Ben Pennell"/>
+  <properties
+      key="Tribe"
+      value="Business"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="y"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Role Profile"/>
+  <properties
+      key="Remarks"
+      value="What items are managable by this kind of user - e.g. (s)he can only change existing services but cannot order new ones? it Is the &quot;accountant case&quot; an example of this feature an aggregator working in the name of the customer. DataCom few employees may have access to some customer (may act on behafl of somebody). DataCom not nessesarly a customer of VF. @Jared's use cases to provide more input here REQ_BSS_1435, 1436 - to be discussed in here"/>
+  <properties
+      key="Module"
+      value="TUM, PIM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

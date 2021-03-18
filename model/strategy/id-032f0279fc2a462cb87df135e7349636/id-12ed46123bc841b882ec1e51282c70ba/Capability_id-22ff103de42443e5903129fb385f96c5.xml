@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Channel Access Constraints Interpretation"
+    id="id-22ff103de42443e5903129fb385f96c5"
+    documentation="The ability to understand imposed access rights limitations for a given channel or set of channels.">
+  <properties
+      key="TMF_ID"
+      value="1.1.1.5.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

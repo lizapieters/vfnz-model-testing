@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Regulatory Assurance"
+    id="id-944f01e4b7014073b96651da7208e93f"
+    documentation="Establish an enterprise-wide Regulatory Assurance policy framework to assure that regulations and respective protective measures are properly implemented and applied  across all processes with Business Assurance remit.">
+  <properties
+      key="Process Identifier"
+      value="1.7.9.8"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of Regulatory Assurance process is the proper implementation of regulations across all processes with Business Assurance remit and to assure a proper implementation of protective measures according to different regulations in place, new or updated ones. The regulatory requirements might be very different in different countries, therefore the risks and control objectives are different. Just few examples of controls to ensure the regulatory compliance: â€¢Metering accuracy comply with regulatory requirements â€¢Bill accuracy comply with regulatory requirements â€¢Customer complaints processed within legal frame â€¢Regulated prices implemented correctly â€¢Limit notifications sent according to regulation â€¢Tax compliance â€¢Transfer of ownership â€¢Traceability â€¢Data breach risk â€¢Prevention against mobile payment-related money laundering This process also covers the most efficient exploitation of given regulation by monitoring the compliance with regards to maximum price (e.g. Charging of MVNO and interconnection), efficient cost strategies (e.g. least license costs for of allocated numbers ranges) and the enforcement as well as the correct implementation of legally granted fair use policies (e.g. Roam like Home)."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

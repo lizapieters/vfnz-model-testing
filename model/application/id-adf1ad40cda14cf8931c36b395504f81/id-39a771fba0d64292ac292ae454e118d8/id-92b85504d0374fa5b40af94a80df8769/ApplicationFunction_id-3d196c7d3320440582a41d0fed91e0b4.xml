@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Order Validation"
+    id="id-3d196c7d3320440582a41d0fed91e0b4"
+    documentation="Customer Order Validation Function ensures that the qualified order is valid in any moment of order lifecycle, usually as data become available. Validation ensures early fallout which is less costly than encountering errors in later stages of order handling.">
+  <properties
+      key="Function Identifier"
+      value="718"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Order Establishment Customer Order Validation"/>
+  <properties
+      key="TAM Application Id"
+      value="#N/A"/>
+  <properties
+      key="Constructed Id"
+      value="#N/A"/>
+</archimate:ApplicationFunction>

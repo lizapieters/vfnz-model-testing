@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Policy Definition"
+    id="id-1fb8bb99ae274f1eab689aad9aa9e346"
+    documentation="The ability to create, declare, and maintain a policy.">
+  <properties
+      key="TMF_ID"
+      value="1.2.3.1"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

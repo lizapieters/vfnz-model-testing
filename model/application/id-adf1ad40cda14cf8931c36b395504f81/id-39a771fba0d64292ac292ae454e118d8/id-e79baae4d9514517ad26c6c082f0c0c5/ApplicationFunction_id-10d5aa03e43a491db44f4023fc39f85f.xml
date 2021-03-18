@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Account Receivable GL posting"
+    id="id-10d5aa03e43a491db44f4023fc39f85f"
+    documentation="Accounts Receivable (A/R) Management function of Posting customer revenue account: Recording of revenues and expenses at the General Ledger level provide necessary tools to maintain the customer account receivable.  Aggregate customer accounts for general ledger:  Group receivables by type of customer accounts, through grouping of individual customers� A/R accounts">
+  <properties
+      key="Function Identifier"
+      value="25"/>
+  <properties
+      key="TAM Application Name"
+      value="A/R Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.9.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.9.1.25"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitor and Analyze Resource Performance Reports, and Identify Issues"
+    id="id-e3184819bee24f1ca4e88cf016108d6b"
+    documentation="Review the resource performance management operational report prepared by resource performance management processes.">
+  <properties
+      key="Process Identifier"
+      value="1.5.4.2.4"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="â€¢ Monitoring and analyzing the resource instance analyses produced by the Resource Performance Management processes to identify problems that may be applicable to the resource infrastructure as a whole; In order to increase enterprise agility this may be done in near real-time."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

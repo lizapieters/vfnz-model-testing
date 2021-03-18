@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop Metric Definition Measure"
+    id="id-6eca531c4ae34b37b54c820dc0ea6ddf"
+    documentation="Specify the details for measuring a Metric, as well as the threshold values and threshold-crossing rules and consequences.">
+  <properties
+      key="Process Identifier"
+      value="1.7.3.4.5.2"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Metric Definition Measure Development specifies detailed Metric formulas (ratios or other equations), detailed data acquisition methods, and measurement units. Metric Definition Measure Development also specifies threshold values and threshold-crossing rules and consequences."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

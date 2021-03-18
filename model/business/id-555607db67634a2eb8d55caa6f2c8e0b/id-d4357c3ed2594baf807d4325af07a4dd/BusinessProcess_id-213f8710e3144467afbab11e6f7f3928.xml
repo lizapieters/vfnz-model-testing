@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Amend Party Payment Method Type"
+    id="id-213f8710e3144467afbab11e6f7f3928"
+    documentation="Modify a specification that represents a method by which a payment may be made by a party.">
+  <properties
+      key="Process Identifier"
+      value="1.6.16.1.2.1.2"/>
+  <properties
+      key="Category"
+      value="(6) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Amend Party Payment Method Type modifies a specification that represents a method by which a payment may be made by a party. This process modifies base properties as well as properties unique to a certain type of payment method using the generic set of processes that support the modification of these unique properties, called characteristics. Unique properties may also be removed."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

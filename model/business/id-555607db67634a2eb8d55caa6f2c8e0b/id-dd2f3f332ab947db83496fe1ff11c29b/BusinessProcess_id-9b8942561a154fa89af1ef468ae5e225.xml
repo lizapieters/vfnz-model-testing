@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Proactive Security Management"
+    id="id-9b8942561a154fa89af1ef468ae5e225"
+    documentation="identify areas of threat to the enterprise (covering both internal and external sources of threat). Areas of threat can be physical (e.g. break-ins or terrorist incident, inappropriate use of network) or logical (e.g. inappropriate access to and use of information technology). The processes support the categorization and prioritization of areas of threat, and deal with enterprise exposure to loss of value or reputation through threats or security violations. These processes strongly interact with Fraud Management and have common elements and information services and communications specific elements.">
+  <properties
+      key="Process Identifier"
+      value="1.7.2.2.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

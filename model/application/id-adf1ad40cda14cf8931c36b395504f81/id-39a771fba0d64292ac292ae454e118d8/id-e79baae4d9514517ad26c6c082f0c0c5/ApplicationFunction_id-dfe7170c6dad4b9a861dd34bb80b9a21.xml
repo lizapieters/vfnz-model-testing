@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CSR Order administration"
+    id="id-dfe7170c6dad4b9a861dd34bb80b9a21"
+    documentation="View all outstanding orders, progress and history displays">
+  <properties
+      key="Function Identifier"
+      value="178"/>
+  <properties
+      key="TAM Application Name"
+      value="CSR fulfillment"/>
+  <properties
+      key="TAM Application Id"
+      value="5.6.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.6.1.178"/>
+</archimate:ApplicationFunction>

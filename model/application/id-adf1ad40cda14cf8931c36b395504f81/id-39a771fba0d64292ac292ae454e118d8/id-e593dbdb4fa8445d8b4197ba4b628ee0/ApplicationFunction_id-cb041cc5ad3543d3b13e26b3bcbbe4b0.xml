@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Location Change History Management"
+    id="id-cb041cc5ad3543d3b13e26b3bcbbe4b0"
+    documentation="Tracks all changes of location data, making available attributes according their historical values in certain periods.">
+  <properties
+      key="Function Identifier"
+      value="429"/>
+  <properties
+      key="TAM Application Name"
+      value="Location Management"/>
+  <properties
+      key="TAM Application Id"
+      value="7.15"/>
+  <properties
+      key="Constructed Id"
+      value="7.15.429"/>
+</archimate:ApplicationFunction>

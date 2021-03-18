@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Issue Work Order"
+    id="id-de4459ccbff14d4f92f2f0f6db1860d0"
+    documentation="The purpose of the Issue Work Order process is to issue correct and complete work orders. It can be called by other processes (as in Customer-Ops) to issue a new Work Order, to be handled further by WFM.">
+  <properties
+      key="Process Identifier"
+      value="1.5.5.5.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Issue Work Order scope includes the following: â€¢Issuing correct and complete work orders. The work orders may be required to complete pertinent manual work such as a fulfillment-based resource order or an assurance trouble report coming from third-party systems â€¢Initiating work order issuance through handheld devices by a technician from the field â€¢"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

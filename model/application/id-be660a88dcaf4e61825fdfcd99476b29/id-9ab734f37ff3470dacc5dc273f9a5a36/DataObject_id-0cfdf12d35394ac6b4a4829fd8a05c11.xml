@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BusinessInteraction"
+    id="id-0cfdf12d35394ac6b4a4829fd8a05c11"
+    documentation="A BusinessInteraction is an arrangement or a contract between one or more PartyRoles; ResourceRoles; or CustomerAccounts. A BusinessInteraction may consist of one or more BusinessInteractionItems. A BusinessInteractionItem may refer to a Product; Service; Resource; or one of their specifications. A BusinessInteraction is further defined by one or more Places. One BusinessInteraction may reference another BusinessInteraction and one BusinessInteractionItem may reference another BusinessInteractionItem on the same or different BusinessInteraction."/>

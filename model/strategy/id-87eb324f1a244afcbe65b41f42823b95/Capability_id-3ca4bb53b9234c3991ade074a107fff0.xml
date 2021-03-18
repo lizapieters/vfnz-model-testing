@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Number Portability Validation"
+    id="id-3ca4bb53b9234c3991ade074a107fff0"
+    documentation="Number Portability Validation can perform calculations that determine whether the information received is reliable, safe and contains the minimum information required during implementation, enabling with this the orders rejection for those who do not comply with the defined criteria.">
+  <properties
+      key="TMF Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="7.13.2.4"/>
+  <properties
+      key="TMF Function"
+      value="Number Portability Validation"/>
+  <properties
+      key="TMF Maturity"
+      value="Resource Domain"/>
+  <properties
+      key="TMF Status"
+      value="3"/>
+</archimate:Capability>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WorkforceEmployeePool"
+    id="id-fa68ecc672d448b99532db54176511c3"
+    documentation="Represents an employee pool; as a set or group of employees available for assignment to work tasks. A WorkforceOrganizationRole can have many workforce pools; and vice versa; a pool can contain employees from more than one organization. Examples of a Pool are Fiber installation team; service repair team; etc. A Pool contains people/resources with particular skills; availability; location; other restrictions; and preferences. Pool is associated with Capacity. For example; a WorkForceEmpolyeePool shows that on July 1; from 8 am to 12 pm there are 100 man hours available with the skill of fiber layout for the New York area. A detailed model of the capacity of the pool down to timeslot; skill/work level is a subject for a future SID release."/>

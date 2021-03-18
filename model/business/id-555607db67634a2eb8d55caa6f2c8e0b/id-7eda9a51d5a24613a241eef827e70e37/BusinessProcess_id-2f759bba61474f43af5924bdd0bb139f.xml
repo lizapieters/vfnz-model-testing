@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Mediation &amp; Reporting"
+    id="id-2f759bba61474f43af5924bdd0bb139f"
+    documentation="Manage resource events by correlating and formatting them into a useful format.">
+  <properties
+      key="Process Identifier"
+      value="1.5.10"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Resource Mediation &amp; Reporting processes manage resource events by correlating and formatting them into a useful format. These processes include the mediation and reporting of resource records. Investigation of resource related billing event problems is also part of these processes. These processes are often handled by appropriate network elements."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Assign Value to Configuration Parameter"
+    id="id-eb03f91cbae6469599a065c3f4ddc340"
+    documentation="Assign a value to a configuration parameter.">
+  <properties
+      key="Process Identifier"
+      value="1.8.3.2.1.2"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Assign Value to Configuration Parameter assigns a value to a configuration parameter as defined by parameters that are part of a selected configuration specification. Note that this process also uses a generalized set of processes to assign a value to the parameter and to create any inter-value relationships, called characteristic values. To date the generic processes have not yet been developed."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Work Type Management"
+    id="id-9e77a52792cb4cbebb56c84f4332a613"
+    documentation="The ability to determine, modify, and interpret the category or classification of a work item, work queue, time, submission, event, and decision.">
+  <properties
+      key="TMF_ID"
+      value="1.3.10.8.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

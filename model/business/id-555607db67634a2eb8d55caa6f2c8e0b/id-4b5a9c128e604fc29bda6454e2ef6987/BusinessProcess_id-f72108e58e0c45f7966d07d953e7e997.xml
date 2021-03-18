@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop Party Security Strategy"
+    id="id-f72108e58e0c45f7966d07d953e7e997"
+    documentation="Party security strategy processes are required to develop strategies that are consumable by automated governance systems. &#xA;Party security strategies are informed both by commercial and regulatory pressures.">
+  <properties
+      key="Process Identifier"
+      value="1.6.1.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Party security strategies are informed both by commercial and regulatory pressures and to handle threats. Note: Formal processes are required to develop strategy that is consumable by automated governance systems. Enterprises need to be able to create a suitable identity for all parties they interact with. The commercial aspects are derived from the value of trust, expectations and individual interests that partners and consumers place with the enterprise. An additional challenge would be when international relationship concerns exist, and may be either ethically or legislative in nature. Failures to meet trust and expectations results in disengagement, and depresses business activity. Regulatory pressures may include explicit consequences or corrective processes that can impact profitability. The strategy also has to be framed in such a way as to enable any process to consume the strategy. In addition any strategy should define what feedback it requires to continuously validate its implementation."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

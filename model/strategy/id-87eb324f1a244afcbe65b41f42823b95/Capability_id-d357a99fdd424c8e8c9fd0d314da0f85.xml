@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Corporate Training"
+    id="id-d357a99fdd424c8e8c9fd0d314da0f85"
+    documentation="Corporate Training has the responsibility to train the workforce to meet current and future skill demands.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.2.13"/>
+  <properties
+      key="TMF Function"
+      value="Corporate Training Analytics and Reporting Corporate Training Development Corporate Training Planning"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

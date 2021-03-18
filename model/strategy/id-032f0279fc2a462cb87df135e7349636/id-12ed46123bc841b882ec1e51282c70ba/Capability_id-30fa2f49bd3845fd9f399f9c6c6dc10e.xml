@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trip Risk Aggregation"
+    id="id-30fa2f49bd3845fd9f399f9c6c6dc10e"
+    documentation="The Ability to consider a collective set of risk factors and represent them from a rationalized perspective.">
+  <properties
+      key="TMF_ID"
+      value="1.1.6.3.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

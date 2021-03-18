@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Select Most Appropriate Party"
+    id="id-7600e7b69a934bfa9849a8bca1f710f0"
+    documentation="Select the most appropriate party from the range of party with whom a an appropriate agreement exists for particular product, service and/or resource requirements.">
+  <properties
+      key="Process Identifier"
+      value="1.6.8.1.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

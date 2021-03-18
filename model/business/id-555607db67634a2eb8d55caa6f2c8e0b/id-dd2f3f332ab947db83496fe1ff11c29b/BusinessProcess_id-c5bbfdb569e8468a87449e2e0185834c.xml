@@ -1,0 +1,20 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Report Financial Results"
+    id="id-c5bbfdb569e8468a87449e2e0185834c">
+  <properties
+      key="Process Identifier"
+      value="1.7.5.1.4"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Report financial results is the process which produces the major output of the company's financial information repository. This process includes the activities associated with gathering financial and non-financial data to produce financial reports required for financial markets. This includes income statements, balance sheets, annual reports, and other analysis reports. This process also includes transaction processing associated with finalizing the financial position within a designated calendar period (i.e. monthly, quarterly, annually). The guiding principles and strategy of Financial Reporting should be to minimizing the effort required to meet external reporting requirements since this function adds little or no value to the business. The time required to 'close the books' is a key indicator of the efficiency and effectiveness of the financial transactions and processes in place. The main activities within the process include: Collect business events and financial transactions, Collect business statistics, Execute common validation and error correction routines, Develop, and execute allocations, Prepare common adjustments. Summarize and adjust for GAAP and regulatory, Determine separations, Perform consolidations and eliminations, Prepare financial reports/information."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Payment Management"
+    id="id-debc8dd20c9c4fb0829860bf925510ce"
+    documentation="The Payment Management application provides a link between the payment channels (e.g. Post office, Retail shops, etc) and the service provider to allow many forms of payment to be accepted in a controlled manner. Payment Management interfaces with financial institutions to verify and accept or decline financial transactions.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="5.9.4"/>
+  <properties
+      key="Frameworx Domain"
+      value="Customer Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Self Empowered Assurance"
+    id="id-05b9b81b5b2546feaf99c26b8806a138"
+    documentation="Customer self empowered assurance applications provide an internet technology driven interface to the customer to undertake a variety of assurance functions directly for themselves. These applications interact to provide fully automated service or assisted service over customers touch points. These applications create enablement for customers to assure the service level that they benefit from their service provider.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.4.2"/>
+  <properties
+      key="TMF Function"
+      value="Access to call center agents"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inter-Carrier Port Notificaiton"
+    id="id-2f6008266343441d952fc224e9108ce4">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-41d5704966c8447abf8a36bfb957bd1c.xml#id-41d5704966c8447abf8a36bfb957bd1c"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-bba9dd0eb13d4c29abb9f9e6b24d283f.xml#id-bba9dd0eb13d4c29abb9f9e6b24d283f"/>
+</archimate:FlowRelationship>

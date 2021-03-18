@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Location Matching"
+    id="id-bff85935983242d7bec4143ffe1b9cfb"
+    documentation="The ability to associate a given location with other business objects, including policies, plans, customer, asset, facility, and other locations.">
+  <properties
+      key="TMF_ID"
+      value="1.3.3.8"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

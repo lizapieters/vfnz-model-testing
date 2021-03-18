@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Establish and Maintain Service Performance Threshold Standards"
+    id="id-dfbd0237c4dd4e7cab36e138341285c6"
+    documentation="Establishing and maintaining the rules and standards for performance threshold">
+  <properties
+      key="Process Identifier"
+      value="1.4.4.4.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="â€¢ Developing and maintaining a repository of acceptable performance threshold standards for resource instances to support the Service Quality Management processes;"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

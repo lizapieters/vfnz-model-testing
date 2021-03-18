@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer SLA Management"
+    id="id-da41176bcc6c4dfc8cbaa40c24914e3b"
+    documentation="Customer SLA Management applications include the required functionality to assure that SLA agreements made between operators and customers are met. This includes processing measurements made elsewhere and checking the measurements and taking appropriate actions when the specified agreements are not met. Note: Customers can include partners and 3rd party providers.">
+  <properties
+      key="TMF Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.18"/>
+  <properties
+      key="TMF Function"
+      value="0"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Inventory Management"
+    id="id-0887f846f04c43049208c3f3946b8db1"
+    documentation="Service Inventory Management represents the applications which contain and maintain information about the instances of services in a telecom organization.&#xA;A Service Inventory application may store and manage any or all of the following entities:&#xA;� Customer facing service (CFS) instances, and their attributes&#xA;� Resource facing service (RFS) instances, and their attributes&#xA;The Service Inventory may also store and manage service relationships:&#xA;� The mapping of services (RFSes or CFSes) to other services and/or service components, the components being either:&#xA;� Other child services&#xA;� Resources and the resource domain managers used to implement the service, or &#xA;� Services and resources in Supplier/Partner systems used to implement the service &#xA;This mapping is stored either intrinsically in the core Service Inventory, or discretely via Service-Supporting Resource Inventory applications.&#xA;Service Inventory may include the following relationship types between entity instances:&#xA;�         Realization by Composition � A mapping from a service to the child services and/or resources which specifically compose that service (e.g. the RFS instance or instances whose whole purpose is to implement a CFS, the assignable resources which realize an RFS). If a parent service is torn down, child objects with a Composition relationship are typically removed or reallocated (e.g. transitioned to spares inventory).&#xA;�         Realization by Aggregation � A mapping from a service to the services and/or resources which support this service in addition to other services. (e.g. a network access RFS which supports a number of different network CFSes). If a parent service is torn down, child objects with an Aggregation relationship are typically maintained as long as at least one other parent service still exists.&#xA;�         Dependency � A link between services and/or resources which is not strong enough to qualify as Composition or Aggregation, but where various Fulfillment, Assurance, and Change Management processes need to be aware of the relationship. Dependency relationships support the ability for change management processes to evaluate if a dependent service or resource may be impacted by changes to a specific service or resource.">
+  <properties
+      key="TAM Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="6.2"/>
+  <properties
+      key="Frameworx Domain"
+      value="Service Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

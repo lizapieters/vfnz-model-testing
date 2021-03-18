@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Work Queue Access Management"
+    id="id-681d1a62223744a88b81675813a71170"
+    documentation="The ability to allow or restrict access to a work queue.">
+  <properties
+      key="TMF_ID"
+      value="1.3.10.2.4"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

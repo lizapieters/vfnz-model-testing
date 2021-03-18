@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Billing event error cause identification"
+    id="id-4ea9570b518c493c83da55325ec56a9a"
+    documentation="The Billing Events Error Management features to identify the error cause">
+  <properties
+      key="Function Identifier"
+      value="79"/>
+  <properties
+      key="TAM Application Name"
+      value="Billing Event Error Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.20.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.20.2.79"/>
+</archimate:ApplicationFunction>

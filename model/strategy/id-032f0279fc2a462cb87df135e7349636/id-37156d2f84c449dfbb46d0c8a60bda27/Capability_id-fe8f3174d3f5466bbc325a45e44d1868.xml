@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Job Pairing"
+    id="id-fe8f3174d3f5466bbc325a45e44d1868"
+    documentation="The ability to associate a job with other aspects of the organization that are performed by, impacted by, or otherwise concerned with a job.">
+  <properties
+      key="TMF_ID"
+      value="1.3.7.8"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

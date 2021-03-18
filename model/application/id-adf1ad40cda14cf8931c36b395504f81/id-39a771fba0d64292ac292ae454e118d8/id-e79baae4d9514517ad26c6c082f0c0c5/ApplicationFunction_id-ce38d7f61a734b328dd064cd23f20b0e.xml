@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rate plan amendment Self Service"
+    id="id-ce38d7f61a734b328dd064cd23f20b0e"
+    documentation="customer self empowered Rate plans amendment function provide an internet technology driven interface to the customer to undertake an amendment of existing Rate plans (Products).">
+  <properties
+      key="Function Identifier"
+      value="275"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Self Empowered Fulfillment"/>
+  <properties
+      key="TAM Application Id"
+      value="5.4.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.4.1.275"/>
+</archimate:ApplicationFunction>

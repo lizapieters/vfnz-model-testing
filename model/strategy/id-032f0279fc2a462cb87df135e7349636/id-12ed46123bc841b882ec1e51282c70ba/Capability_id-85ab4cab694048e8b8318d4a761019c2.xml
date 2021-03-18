@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plan Access Enforcement"
+    id="id-85ab4cab694048e8b8318d4a761019c2"
+    documentation="The ability to ensure that access rights are granted where constraints are not appropriate and to prevent access where constraints are in place to prevent access.">
+  <properties
+      key="TMF_ID"
+      value="1.2.7.5.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

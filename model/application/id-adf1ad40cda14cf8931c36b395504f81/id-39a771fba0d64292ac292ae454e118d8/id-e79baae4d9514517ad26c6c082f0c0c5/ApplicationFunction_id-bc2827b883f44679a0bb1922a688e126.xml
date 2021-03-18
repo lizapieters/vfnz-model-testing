@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Case Tracking &amp; Management Update Capability"
+    id="id-bc2827b883f44679a0bb1922a688e126"
+    documentation="Updates the state of a case as defined by Case Definition and Configuration.">
+  <properties
+      key="Function Identifier"
+      value="109"/>
+  <properties
+      key="TAM Application Name"
+      value="Case Tracking &amp; Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.17.4"/>
+  <properties
+      key="Constructed Id"
+      value="5.17.4.109"/>
+</archimate:ApplicationFunction>

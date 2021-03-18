@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agreement/Decision Matching"
+    id="id-5485c0dc66754ace91d8da5f3963e798"
+    documentation="The ability to associate an agreement with each decision made related to that agreement at any point in its lifecycle.">
+  <properties
+      key="TMF_ID"
+      value="1.1.5.9.12"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

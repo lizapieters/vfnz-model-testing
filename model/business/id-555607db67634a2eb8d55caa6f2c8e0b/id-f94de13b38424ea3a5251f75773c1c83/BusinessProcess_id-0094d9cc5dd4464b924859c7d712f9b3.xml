@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Assess Revenue Assurance Trouble"
+    id="id-0094d9cc5dd4464b924859c7d712f9b3"
+    documentation="Analyze the information received to determine the nature and the root cause of the revenue assurance violation or degradation.">
+  <properties
+      key="Process Identifier"
+      value="1.7.2.6.2.3"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of the Assess Revenue Trouble processes is to analyze the information received to determine the nature and the root cause of the revenue assurance violation or degradation. The responsibilities of the processes include, but are not limited to: â€¢Undertaking analysis as required on specific revenue assurance violation/degradation information received; â€¢Developing and undertaking specific detailed analysis to discover the root cause. â€¢Comparing the data received to baseline and historical data, including data associated with other open or historical revenue assurance trouble tickets; â€¢Initiating, modifying and cancelling revenue assurance data collection as required to further analyze the revenue assurance degradation or violation; â€¢Determining the root causes of the revenue assurance degradations and violations; â€¢Recording the results of the analysis and intermediate updates for historical analysis and for use as required by other processes Updating the results of the analysis, together with any recommendations as to further action, in the revenue assurance trouble report."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

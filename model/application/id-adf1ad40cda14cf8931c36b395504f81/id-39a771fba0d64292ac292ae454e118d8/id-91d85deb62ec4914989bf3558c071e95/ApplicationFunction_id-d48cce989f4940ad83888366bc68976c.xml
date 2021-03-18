@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer information management"
+    id="id-d48cce989f4940ad83888366bc68976c"
+    documentation="A Virtual Network Operators online access function to make them self sufficient and avoid the need for them to call the call center for Customer creation and management. Including the use of VNO/Dealer data fencing.">
+  <properties
+      key="Function Identifier"
+      value="400"/>
+  <properties
+      key="TAM Application Name"
+      value="Virtual Network Operators (Dealers)"/>
+  <properties
+      key="TAM Application Id"
+      value="3.4.5"/>
+  <properties
+      key="Constructed Id"
+      value="3.4.5.400"/>
+</archimate:ApplicationFunction>

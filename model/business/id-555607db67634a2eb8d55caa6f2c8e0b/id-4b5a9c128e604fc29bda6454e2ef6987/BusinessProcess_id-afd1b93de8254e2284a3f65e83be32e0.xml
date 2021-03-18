@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop Catalog"
+    id="id-afd1b93de8254e2284a3f65e83be32e0"
+    documentation="Define, update, and remove a catalog.">
+  <properties
+      key="Process Identifier"
+      value="1.8.1.2"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Develop Catalog defines, updates, and removes a catalog. The catalog is associated with the party who provides it, such as the enterprise, one of its operating units, or an external party. It sets, updates, or removes a value or values for attributes which do not have a fixed value. Setting a value may entail selecting one or more from a list of permitted values or entering a value. For example, selecting web and electronic as values for the media via which a catalog will be published."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="InvolvementRole"
+    id="id-c80b510cb52e4d0ba5a1930bf6ec40d1"
+    documentation="An abstract base class for all more specific classes representing associations of involvement type such as ProductInvolvemenRole. ServiceInvolvementRole and ProductInvolvementRole. All the association from InvolvementRole to the classes above are mutually exclusive; and exactly one of them should exist for every instance of InvolvementRole"/>

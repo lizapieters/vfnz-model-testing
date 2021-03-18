@@ -1,0 +1,30 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tech Support (e.g. voucher basis or tech solutions)"
+    id="id-d1bfc587a96540baa4917dd9cdba85a8"
+    documentation="Integrating with Noel Leeming for example.">
+  <properties
+      key="Target Horizon"
+      value="2"/>
+  <properties
+      key="Segment"
+      value="Consumer/Business"/>
+  <properties
+      key="Access/Service Type"
+      value="N/A"/>
+  <properties
+      key="Comarch can support"
+      value="TBC"/>
+  <properties
+      key="Non-Comarch IT support needed"
+      value="TBC"/>
+  <properties
+      key="NaaS will support"
+      value="N/A"/>
+  <properties
+      key="Automated non-NaaS support"
+      value="N/A"/>
+  <properties
+      key="Unexpected"
+      value="true"/>
+</archimate:BusinessService>

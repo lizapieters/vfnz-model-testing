@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Privacy Data Exposure"
+    id="id-2b063e7f6bc04ede9d1b0003fc96388e"
+    documentation="Privacy Data Exposure (End-user): feature used to provide Data Subject Party the ability to  view the current privacy profile attributes for Parties: data concerned by the Privacy Profile, associated default values of rules defined, current values of rules. The dashboard also provides possibility for Party to alter this Privacy Profile, based on authorized values. It gives the end-user a 360� view of the usage authorized or possible of its PII">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.23.2"/>
+  <properties
+      key="TMF Function"
+      value="Privacy Data Party- Self-Service Updating Privacy Data Party-Self-Service Browsing"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0875"
+    id="id-3d97e5a85f8648a5bca769e1ff10ffa1"
+    documentation="As a Revenue Assurance Analyst, I want be able to access customer and related provisioned service information from our Network, Rating and Billing systems so that can reconcile the customers we have provisioned within our network to the customers we have provisioned within our rating and billing platforms and identify any mismatch">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0875"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Samuel Pachoud"/>
+  <properties
+      key="Tribe"
+      value="Finance / Revenue &amp; Network Assurance"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Reporting"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Network &amp; rating reconciliation"/>
+  <properties
+      key="Remarks"
+      value="Looks like a need to export service information? Kiri: Correct, plus access to systems for the team"/>
+  <properties
+      key="Module"
+      value="REP"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Handle Party Overpayment"
+    id="id-5b3dd9bd97324418b4282f36a75e9d2e"
+    documentation="Identify that an overpayment has been made by a party and determine what action to take when a payment made by a party satisfies all applications to bills/invoices/purchases and so forth, and there is an amount remaining.">
+  <properties
+      key="Process Identifier"
+      value="1.6.16.1.1.4"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Handle Party Overpayment identifies that an overpayment has been made by a party and determines what action to take when a payment made by a party satisfies all applications to bills/invoices/purchases and so forth, and there is an amount remaining. The action taken may be: - That the amount remains with the payment and it is applied at a later time - The amount is transferred to a credit balance retained for the party - The amount is refunded to the party In some cases the party may be contacted to determine which action to take."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

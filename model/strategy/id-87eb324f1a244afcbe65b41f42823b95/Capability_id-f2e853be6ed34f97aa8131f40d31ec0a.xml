@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Community Involvement"
+    id="id-f2e853be6ed34f97aa8131f40d31ec0a"
+    documentation="Community Involvement supports good corporate citizenship by lending and or supporting a company�s talent and resources for the good of a community. Community Involvement builds trust and a positive image between a corporation and its community.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.2.11"/>
+  <properties
+      key="TMF Function"
+      value="Community Involvement Interaction Management"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

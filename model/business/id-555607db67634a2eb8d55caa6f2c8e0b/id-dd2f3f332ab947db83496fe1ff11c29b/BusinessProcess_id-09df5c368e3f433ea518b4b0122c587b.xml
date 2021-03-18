@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trigger Defined Service Alarm Action"
+    id="id-09df5c368e3f433ea518b4b0122c587b"
+    documentation="This process triggers a well-defined action based on specific service alarm event notification information as well as the non-arrival of service alarm event notification information after a specific time interval has elapsed. This process is also responsible for monitoring and triggering the appropriate action when a service alarm event record is not cleared within a pre-defined period of time.">
+  <properties
+      key="Process Identifier"
+      value="1.4.6.7.5"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

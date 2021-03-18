@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Environmental Health &amp; Safety Monitoring and Compliance Management"
+    id="id-b69bb1bc392243039adbd4ffaca36332"
+    documentation="HSE (Healty, Safety &amp; Environmental) aspects of real estates, and equipment and services related to the real estates needs to be evaluated continuously to comply to applicable laws and relevant industry standards. To achieve a good HSE management there is a need for supporting applications to have knowledge about applicable laws and regulations, setting up policies and objectives with monitoring/followup up, and auditing and reviews.">
+  <properties
+      key="TAM Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="9.4.1.5"/>
+  <properties
+      key="Frameworx Domain"
+      value="Enterprise Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

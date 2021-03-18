@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Work Item/Human Resource Matching"
+    id="id-890f479c50344c4c9abadc2ada23ddb9"
+    documentation="The ability to associate a work item with a particular person or people.">
+  <properties
+      key="TMF_ID"
+      value="1.3.10.1.6.2"/>
+  <properties
+      key="Level"
+      value="4"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

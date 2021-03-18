@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Track &amp; Manage Resource Provisioning"
+    id="id-8128881edde84054be5d8756318282f6"
+    documentation="Ensure resource provisioning activities are assigned, managed and tracked efficiently">
+  <properties
+      key="Process Identifier"
+      value="1.5.6.4"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of the Track &amp; Manage Resource Provisioning process is to ensure resource provisioning activities are assigned, managed and tracked efficiently. Responsibilities of these processes include, but are not limited to: â€¢Scheduling, assigning and coordinating resource provisioning related activities; â€¢Escalating status of resource orders in accordance with local policy; â€¢Undertaking necessary tracking of the execution process; â€¢Adding additional information to an existing resource order;â€¢ â€¢Modifying information in an existing resource order; â€¢Modifying the resource order status;â€¢ â€¢Canceling a resource order when the initiating service order is cancelled; â€¢Monitoring the jeopardy status of resource orders, and escalating resource orders as necessary â€¢Indicating completion of a resource order by modifying the resource order status. These processes will co-ordinate all the actions necessary in order to guarantee that all tasks are finished at the appropriate time and in the appropriate sequence. The Track &amp; Manage Resource Provisioning processes are responsible for engaging external suppliers in provisioning activities when these have been outsourced or contracted to external parties. The Track &amp; Manage Resource Provisioning processes will also inform the Close Resource Order processes by modifying the resource order status to complete when the resource order has been fulfilled."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

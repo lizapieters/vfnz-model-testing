@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Procurement Order Monitoring and Payment"
+    id="id-f4314ad421fd4a6c99f6243481b3ea0c"
+    documentation="Requisition and order monitoring including Ensuring supplier payment">
+  <properties
+      key="Function Identifier"
+      value="751"/>
+  <properties
+      key="TAM Application Name"
+      value="Procurement"/>
+  <properties
+      key="TAM Application Id"
+      value="9.10.2"/>
+  <properties
+      key="Constructed Id"
+      value="9.10.2.751"/>
+</archimate:ApplicationFunction>

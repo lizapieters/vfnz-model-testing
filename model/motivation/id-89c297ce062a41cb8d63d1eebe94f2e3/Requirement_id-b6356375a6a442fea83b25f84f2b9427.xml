@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0121"
+    id="id-b6356375a6a442fea83b25f84f2b9427"
+    documentation="As a customer, I want to be able to add, remove, and change the 5 defined numbers for unlimited calls and texts on the kids plan, so that I can make sure it's fit for purpose for my child">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0121"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="2"/>
+  <properties
+      key="Base_Old"
+      value="2"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Use"/>
+  <properties
+      key="Topic"
+      value="Core proposition"/>
+  <properties
+      key="Remarks"
+      value="OOTB"/>
+  <properties
+      key="Module"
+      value="SC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Consumer only"/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="REQ_OSS_333 REQ_OSS_334 REQ_OSS_335 REQ_OSS_224"/>
+</archimate:Requirement>

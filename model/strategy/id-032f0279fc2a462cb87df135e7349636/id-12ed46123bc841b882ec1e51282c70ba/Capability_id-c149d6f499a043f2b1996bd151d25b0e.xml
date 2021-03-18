@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Shipment/Channel Matching"
+    id="id-c149d6f499a043f2b1996bd151d25b0e"
+    documentation="The Ability to associate a shipment with a channel.">
+  <properties
+      key="TMF_ID"
+      value="1.1.11.6.4"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

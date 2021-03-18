@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Order Orchestration"
+    id="id-3b6cef4a9c1e4ab99213f6903a4aee0a"
+    documentation="Sequences resource order provisioning if required.">
+  <properties
+      key="Function Identifier"
+      value="598"/>
+  <properties
+      key="TAM Application Name"
+      value="Service Order Tracking &amp; Management"/>
+  <properties
+      key="TAM Application Id"
+      value="6.3.2.2"/>
+  <properties
+      key="Constructed Id"
+      value="6.3.2.2.598"/>
+</archimate:ApplicationFunction>

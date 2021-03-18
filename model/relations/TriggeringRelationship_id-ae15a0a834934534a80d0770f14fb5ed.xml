@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="New Connect, Disconnect, Change, Port-in, Port-out"
+    id="id-ae15a0a834934534a80d0770f14fb5ed">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-77a13a64886e466dad1341d6a7c6a6ff.xml#id-77a13a64886e466dad1341d6a7c6a6ff"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-643ad1417307472a87feb6317aeb7204.xml#id-643ad1417307472a87feb6317aeb7204"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CompositeProdPrice"
+    id="id-34dbf81f57534d368614ce55f28d3b27"
+    documentation="A ProductPrice that is made up of parts. The parts may be other CompositeProdPrices or ComponentProdPrices."/>

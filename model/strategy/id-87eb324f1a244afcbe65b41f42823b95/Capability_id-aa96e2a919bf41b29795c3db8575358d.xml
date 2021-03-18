@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financial Reporting"
+    id="id-aa96e2a919bf41b29795c3db8575358d"
+    documentation="Financial Reporting applications provide customer financial data to downstream systems and processes.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.9.3"/>
+  <properties
+      key="TMF Function"
+      value="Account details to BI reporting Debt, Proof and Balance Reporting Tax information reporting"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

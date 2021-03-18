@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AggregateRevShareProdOfferItem"
+    id="id-a1e03c9fe30e42caa4031d31fe1091a8"
+    documentation="An aggregation of revenue; units acquired/used; or some other measure contained in other PartyRevenueShareProdOfferItems that is used to determine the revenue shared with another party or parties. For example; for a tiered based revenue sharing model the total number of acquisitions for a product offering may need to be calculated in order to determine the revenue share."/>

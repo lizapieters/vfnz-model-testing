@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Incident Risk Aggregation"
+    id="id-b9cf985d4d354a3ab295db05686dfd29"
+    documentation="The ability to consider a collective set of risk factors about an incident and represent them from a rationalized perspective.">
+  <properties
+      key="TMF_ID"
+      value="1.3.11.3.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

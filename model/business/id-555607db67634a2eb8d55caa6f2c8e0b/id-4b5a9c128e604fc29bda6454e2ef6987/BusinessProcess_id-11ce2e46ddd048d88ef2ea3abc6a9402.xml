@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Resource Inventory"
+    id="id-11ce2e46ddd048d88ef2ea3abc6a9402"
+    documentation="Establish, manage and administer the enterprise's resource inventory, as embodied in the Resource Inventory Database, and monitor and report on the usage and access to the resource inventory, and the quality of the data maintained in it">
+  <properties
+      key="Process Identifier"
+      value="1.5.4.5"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The responsibilities of the Manage Resource Inventory processes are twofold - establish, manage and administer the enterpriseâ€™s resource inventory, as embodied in the Resource Inventory Database, and monitor and report on the usage and access to the resource inventory, and the quality of the data maintained in it. The resource inventory maintains records of all resource infrastructure and resource instance configuration, version, and status details. It also records test and performance results and any other resource related- information, required to support Resource-Ops and other processes. The resource inventory is also responsible for maintaining the association between service instances and resource instances, created as a result of the Resource Provisioning Management processes. Responsibilities of these processes include, but are not limited to: â€¢ Identifying the inventory-relevant information requirements to be captured for resource infrastructure and resource instances; â€¢ Identifying, establishing and maintaining resource inventory repository facilities; â€¢ Establishing and managing the resource inventory management and information capture processes; â€¢ Managing the registration and access control processes that enable processes to create, modify, update, delete and/or download resource data to and from the resource inventory; â€¢ Ensuring the resource inventory repository accurately captures and records all identified resource infrastructure and resource instance details, through use of automated or manual audits; â€¢ Tracking and monitoring of the usage of, and access to, the resource inventory repository and associated costs, and reporting on the findings â€¢ Identifying any technical driven shortcomings of the resource inventory repository, and providing input to Resource Development &amp; Management processes to rectify these issues."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

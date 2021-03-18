@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0367"
+    id="id-83e0798a94344b37b8aaad8c6e6b3b0d"
+    documentation="As a customer, I want to be able to unlink (remove) another product to my account (which may be owned by me or someone else), so that I can no longer manage it">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0367"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Jared Mortlock"/>
+  <properties
+      key="Tribe"
+      value="Business"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Unlink account"/>
+  <properties
+      key="Remarks"
+      value="Its about the end user who does not want to use the service anymore. tbd Customer Hierarchy workshop"/>
+  <properties
+      key="Module"
+      value="PIM, EP"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

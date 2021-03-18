@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Accounts Payable Reconciliation"
+    id="id-05a083392bca40538c567154719df4fa"
+    documentation="General Ledger Account Reconciliation function for Accounts Payable">
+  <properties
+      key="Function Identifier"
+      value="865"/>
+  <properties
+      key="TAM Application Name"
+      value="General Ledger Account Reconciliation"/>
+  <properties
+      key="TAM Application Id"
+      value="9.3.9"/>
+  <properties
+      key="Constructed Id"
+      value="9.3.9.865"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Asset Assurance Policy Framework"
+    id="id-5733556c529e4275bd547a40f56076b7"
+    documentation="Establish a framework of policies and measurable controls that are used to manage the risks associated with asset assurance.">
+  <properties
+      key="Process Identifier"
+      value="1.7.9.4.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of the Manage Asset Assurance Framework process is to establish and manage a framework of policies and measurable controls that are used to manage the risk associated with asset assurance, and to optimize the enterpriseâ€™s appetite for asset related risks. Asset Assurance provides a framework to establish processes and data flows to enable DSPs to manage network assets across all dimensions of the asset life cycle to reduce stranded and underutilized assets. These processes are responsible for, but not limited to: â€¢Establishing and managing an asset assurance policy framework which is aligned with the overall enterprise goals and objectives â€¢Developing a framework of controls and KPIs which achieves the defined asset assurance goals and objectives â€¢Gaining enterprise-wide commitment to and knowledge of the framework â€¢Regularly reviewing the asset assurance framework to ensure that its outcomes remain aligned with the enterpriseâ€™s objectives The Manage Asset Assurance Framework process has a specific responsibility in developing and defining controls and Key Performance Indicators (KPIs) used for Asset Asurance, in conjunction with operational and other processes elsewhere in the enterprise."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

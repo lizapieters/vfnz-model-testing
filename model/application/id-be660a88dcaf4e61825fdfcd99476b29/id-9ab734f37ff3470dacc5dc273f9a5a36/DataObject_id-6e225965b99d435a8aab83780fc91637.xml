@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MonitoredMetricInstanceCriterion"
+    id="id-6e225965b99d435a8aab83780fc91637"
+    documentation="A MonitoredMetricInstanceCriteripn is a type of MonitoredMetricObjectCriterion. It defines the scope of monitored objects for which a MeasurementJob is executed by a list of instances through the relationship with one or several RootEntity instances."/>

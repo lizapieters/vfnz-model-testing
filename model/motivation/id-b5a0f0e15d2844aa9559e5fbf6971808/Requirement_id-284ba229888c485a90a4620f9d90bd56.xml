@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0051"
+    id="id-284ba229888c485a90a4620f9d90bd56"
+    documentation="As a product manager, I want 'pick up in store' orders to be fulfilled immediately after successful payment, so the customer can quickly collect their order in store">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0051"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="2"/>
+  <properties
+      key="Base_Old"
+      value="2"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Topic"
+      value="Order fulfilment - in store"/>
+  <properties
+      key="Remarks"
+      value="OOTB Is there anything special related to this BUC? What does immediately mean? Customer first orders in Digital Sales/Self Care, selects plan, etc. Then he selects a store and goes there to collect the sim card. Payment online, not in store. Details to be discussed on a separate workshop"/>
+  <properties
+      key="Module"
+      value="OM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="Not Applicable"/>
+</archimate:Requirement>

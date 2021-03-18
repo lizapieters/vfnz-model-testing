@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Specify Metric Monitoring Criteria"
+    id="id-b8def0a5d2c048d2b7def239d3ec1dad"
+    documentation="Define sets of objects selected to be measured using a given Metric.">
+  <properties
+      key="Process Identifier"
+      value="1.7.3.4.5.3.1"/>
+  <properties
+      key="Category"
+      value="(6) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Metric Monitoring Criteria Specification defines filters which are used to select a scope of objects to be measured according to a Metric."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

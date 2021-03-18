@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1398"
+    id="id-fdb6b75889494c888905736b72655a2e"
+    documentation="As a CSR I want a 360 view of the customer including the following information so that I can have targeted conversations and provide the best outcome for my customer: &#xA;- Accounts/Products/Services/Devices&#xA;- Party Relationships (including Status, Type, Products)&#xA;- AParty Relationships (including Status, Type, Products)&#xA;- All Open Case&#xA;- Notes&#xA;- Customer Status ( Migrated, Prospect, Lead, Customer …)&#xA;- Customer Segments&#xA;- Customer Addresses Past and Future (Localised warnings and faults)&#xA;- Orders (Booking and Scheduling)&#xA;- Debit and Credit Status&#xA;- Know Your Customer Level(e.g. unknown/weak, social/low, passport/facial/drivers licence/high)&#xA;- Authentication Level (e.g. none, social, basic, biometric/device, MFA)&#xA;-  Outbound Communication History sent via any channel (e.g. voice, Email, SMS …) &#xA;- Interactions Communication History received via any channel (e.g. Voice, Chat, Email, SMS, Social …)">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1398"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Kris Thornley"/>
+  <properties
+      key="Tribe"
+      value="CRM"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="y"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="CSR Desktop"/>
+  <properties
+      key="Remarks"
+      value="OOTB"/>
+  <properties
+      key="Module"
+      value="CRM, PIM, AIF"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

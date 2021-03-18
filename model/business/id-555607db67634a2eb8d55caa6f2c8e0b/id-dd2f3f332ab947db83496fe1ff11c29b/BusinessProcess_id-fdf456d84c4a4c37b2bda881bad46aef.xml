@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Capture Product Operational Support Shortfalls"
+    id="id-fdf456d84c4a4c37b2bda881bad46aef"
+    documentation="These processes identify specific or imminent product operational support shortfalls. These processes take information available from the Customer Relationship Management processes to establish detailed views of anticipated product operational support issues.">
+  <properties
+      key="Process Identifier"
+      value="1.2.2.2.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Building Access Management"
+    id="id-7171e41e6e69413896cab7dd4d747fcd"
+    documentation="Providing functions so only the right people have the right access, to premises, buildings and areas within buildings">
+  <properties
+      key="TMF Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.5.1.2"/>
+  <properties
+      key="TMF Function"
+      value="Building Access Control"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

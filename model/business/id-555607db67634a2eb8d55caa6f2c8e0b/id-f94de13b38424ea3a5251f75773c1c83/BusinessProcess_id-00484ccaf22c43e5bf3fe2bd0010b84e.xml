@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Add Configuration Specification Constraint"
+    id="id-00484ccaf22c43e5bf3fe2bd0010b84e"
+    documentation="Add a rule and the elements/members of the rule that is used to determine whether an configuration specification or a value for a configuration parameter should be applied when configuring an entity, such as a product, service, or resource.">
+  <properties
+      key="Process Identifier"
+      value="1.8.3.1.1.3"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Add Configuration Specification Constraint adds a rule that is used to determine whether a configuration specification or a value for a configuration attribute should be applied when configuring an entity, such as a product, service, or resource. The rule is comprised of elements/members that when taken together define the rule. For example, an member may include an operator, such as less than, and an attribute, such as key quality indicator, in a rule that defines how a service is configured based on various key quality indicators contained in a service level agreement. This rule may determine a configuration specification to use or the value of an configuration specification parameter that should be used."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API Gateway Policy Evaluation"
+    id="id-765d0a18998942fc95a5cdc53544faec"
+    documentation="Application Programming Interface Gateway Policy Evaluation function decision tasks makes it possible to have decision trees within a workflow or policy evaluation, at any nesting level. This is the basis for many possible micro-workflow related activities, making possible to configure a decision point structure where multiple option are present e.g. Charging, Application Management ( managing account information for recognizing applications and application developers)">
+  <properties
+      key="Function Identifier"
+      value="681"/>
+  <properties
+      key="TAM Application Name"
+      value="API Gateway API Management"/>
+  <properties
+      key="TAM Application Id"
+      value="#N/A"/>
+  <properties
+      key="Constructed Id"
+      value="#N/A"/>
+</archimate:ApplicationFunction>

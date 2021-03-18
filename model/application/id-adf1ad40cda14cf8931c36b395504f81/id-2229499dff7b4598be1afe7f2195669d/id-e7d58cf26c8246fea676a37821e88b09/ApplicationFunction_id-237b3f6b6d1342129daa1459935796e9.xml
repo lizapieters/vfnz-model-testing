@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CSR assurance"
+    id="id-237b3f6b6d1342129daa1459935796e9"
+    documentation="A CSR assurance application provides front end support for the application flows defined by the case management applications (cf. Case Management Applications).It is expected that future versions of Application Map will encompass the front end of the assurance applications: Customer QoS/SLA Management and Customer Service/Account Problem Resolution.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="5.6.2"/>
+  <properties
+      key="Frameworx Domain"
+      value="Customer Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop and Implement Service Infrastructure Capacity and Operational Rules and Procedures"
+    id="id-87e1eec063e94c7187b0bfc2f0bbfea2"
+    documentation="Developing and implementing the capacity deployment rules and administrating the infrastructure operational procedures.">
+  <properties
+      key="Process Identifier"
+      value="1.4.4.2.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="â€¢ Developing and promulgating service infrastructure capacity deployment rules and controls; â€¢ Authoring, reviewing and approving operational procedures developed by Service Development &amp; Management processes prior to service infrastructure deployment;"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

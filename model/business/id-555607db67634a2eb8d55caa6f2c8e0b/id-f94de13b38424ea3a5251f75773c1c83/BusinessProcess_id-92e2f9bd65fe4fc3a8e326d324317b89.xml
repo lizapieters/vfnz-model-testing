@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Remove Party Payment Plan"
+    id="id-92e2f9bd65fe4fc3a8e326d324317b89"
+    documentation="Remove a payment plan that may be one that represents a template that is no longer in use or a party specific plan that has been replaced before by another one.">
+  <properties
+      key="Process Identifier"
+      value="1.6.16.1.3.4"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Remove Party Payment Plan removes a payment plan that may be one that represents a template that is no longer in use or a party specific plan that has been replaced before by another one. In the case of a replaced party payment plan the new plan is linked to the previous plan."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

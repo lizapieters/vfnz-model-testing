@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gain Product Business Plans Stakeholders Approval"
+    id="id-61cde8b89b6b48aca09ae818e9bdbe5e"
+    documentation="Negotiate and gain stakeholders' approval for product business plans.">
+  <properties
+      key="Process Identifier"
+      value="1.2.1.4.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Gain Product Business Plans Stakeholders Approval negotiates and gains stakeholders' approval for product business plans. Typical questions that may be asked are: Is it necessary to introduce a new product? When will the product break even? If the answer to the first question is no, then the plan may be rejected. If the break even point is too far in the future the plan may be rejected or the plan may have to be revised so that the break even point is reached sooner."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Entity Accessing"
+    id="id-991c9c8fc7af40c5a591054b1c5b9376"
+    documentation="Data Entity Accessing: Read and Update Data including transformation and formatting from/to Data Store formats. The activities are logged according to the compliance and policies.">
+  <properties
+      key="Function Identifier"
+      value="1014"/>
+  <properties
+      key="TAM Application Name"
+      value="Data Storage and Archival"/>
+  <properties
+      key="TAM Application Id"
+      value="9.11.2"/>
+  <properties
+      key="Constructed Id"
+      value="9.11.2.1014"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Order Orchestration"
+    id="id-dce3aae078e94540bb5fe70dcaa38e80"
+    documentation="Customer Order Orchestration applications provide workflow and orchestration for the Customer Order Management area.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.3.3"/>
+  <properties
+      key="TMF Function"
+      value="Customer Order Orchestration Retro-active order orchestration"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

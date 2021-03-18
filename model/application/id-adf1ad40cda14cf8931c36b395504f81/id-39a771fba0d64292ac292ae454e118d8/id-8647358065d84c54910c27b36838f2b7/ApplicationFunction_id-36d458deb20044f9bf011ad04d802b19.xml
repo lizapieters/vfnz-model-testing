@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Compliance and Policy Management Access"
+    id="id-36d458deb20044f9bf011ad04d802b19"
+    documentation="Compliance and Policy Management Access: Access interfaces with authentication and authorization control for configuration, distribution and log reporting">
+  <properties
+      key="Function Identifier"
+      value="1021"/>
+  <properties
+      key="TAM Application Name"
+      value="Data Compliance and Policy Management"/>
+  <properties
+      key="TAM Application Id"
+      value="9.11.4"/>
+  <properties
+      key="Constructed Id"
+      value="9.11.4.1021"/>
+</archimate:ApplicationFunction>

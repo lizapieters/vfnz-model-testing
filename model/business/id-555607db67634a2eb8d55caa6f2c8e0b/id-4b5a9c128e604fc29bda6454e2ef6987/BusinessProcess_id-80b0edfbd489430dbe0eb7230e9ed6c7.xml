@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Work Order Lifecycle"
+    id="id-80b0edfbd489430dbe0eb7230e9ed6c7"
+    documentation="Responsibilities of these processes include, but are not limited to:&#xA;â€¢{T}Issuing correct and complete work orders&#xA;â€¢{T}Decomposing a work order into elementary work items&#xA;â€¢{T}Managing task assignments&#xA;â€¢{T}Tracking and managing dispatching&#xA;â€¢{T}Manually executing an order by an assignee&#xA;â€¢{T}Monitoring the execution of assigned activities, including the various states of dispatch, complete, suspend, cancel, etc. as well as requesting work reassignments&#xA;â€¢{T}Establishing and managing fast-track and jeopardy re-assignment capabilities to allow for modification of work assignments as required to meet jeopardy or other high priority conditions&#xA;â€¢{T}Closing a work order when the manual activities assigned to employees and/or third parties have been completed&#xA;â€¢{T}Supporting proactive and dynamic responses by executing and analyzing operational reports">
+  <properties
+      key="Process Identifier"
+      value="1.5.5.5"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="A Work Order is an aggregation of jobs that are to be completed to achieve some business goal: to provide a customer service, to fix a problem, etc. Work Order Lifecycle Management processes are responsible for processing and monitoring the execution of a work order through its entire lifecycle, from issuance to closing. This includes, among other steps, validation, analysis, and decomposing a work order into work items, aggregating them, and assigning them to employees and/or third parties. These processes also detect problems with completing the work, and requesting Work Order reassignment to reallocate manual activities to solve the issue. It should be noted that the Work Order execution sub process (by a field technician) is not explicitly covered here, but rather its monitoring is the responsibility of the Track and Manage work order sub process."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Route/Location Matching"
+    id="id-dbc132a6e9ca44d0b7a18d78730547f1"
+    documentation="The Ability to associate a route with a specific or generic location.">
+  <properties
+      key="TMF_ID"
+      value="1.1.10.5.6"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

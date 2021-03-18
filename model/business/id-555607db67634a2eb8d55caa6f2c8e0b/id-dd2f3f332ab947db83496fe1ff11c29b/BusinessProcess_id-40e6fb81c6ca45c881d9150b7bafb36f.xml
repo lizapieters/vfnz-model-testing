@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define Security Management Analysis"
+    id="id-40e6fb81c6ca45c881d9150b7bafb36f"
+    documentation="Policy-based assessment of collected/correlated data for events or trends of interest.  Analysis may apply correlation and other functions over the collected data to form a more complete and accurate picture of events and conditions â€“ for example, to detect patterns and trends that would not otherwise be visible.Â  Ideally, policy-based assessment methodologies are used in analysis, with those policies also being specified as an integral part of the Prevention process.">
+  <properties
+      key="Process Identifier"
+      value="1.7.2.2.10"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

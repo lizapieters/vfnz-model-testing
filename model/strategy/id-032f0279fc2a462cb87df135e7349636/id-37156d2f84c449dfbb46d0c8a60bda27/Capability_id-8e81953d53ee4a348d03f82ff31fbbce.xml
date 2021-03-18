@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Shipment Access Management"
+    id="id-8e81953d53ee4a348d03f82ff31fbbce"
+    documentation="The Ability to establish, control, restrict, and administer rights to view, use, or move a shipment in a variety of contexts.">
+  <properties
+      key="TMF_ID"
+      value="1.1.11.4"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

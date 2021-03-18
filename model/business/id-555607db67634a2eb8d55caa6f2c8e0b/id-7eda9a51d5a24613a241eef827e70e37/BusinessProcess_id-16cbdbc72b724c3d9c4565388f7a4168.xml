@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contact/Lead/Prospect Management"
+    id="id-16cbdbc72b724c3d9c4565388f7a4168"
+    documentation="Develop the appropriate relationships with contacts, leads, and prospects with the intent to convert them to consumers, such as customers, or providers, such as partners, of an enterprise's offerings.">
+  <properties
+      key="Process Identifier"
+      value="1.1.11"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Contact/Lead/Prospect Management develops the appropriate relationships with contacts, leads, and prospects with the intent to convert them to consumers, such as customers, or providers, such as partners, of an enterprise's offerings. Traditionally this process focuses on a future/existing customer perspective. However, these processes, particularly in todayâ€™s digital ecosystem, also do, or should, focus on these from a party, such as a partner, who may offer an enterpriseâ€™s offerings to the market and acquire them in some form, either by on-boarding the enterpriseâ€™s offerings and fulfilling orders for them directly, or offering them and passing orders on to the enterprise. These parties who represent â€œconsumersâ€� of an enterpriseâ€™s offerings and â€œprovidersâ€� of enterpriseâ€™s offerings move through a similar contact/lead/prospect lifecycle and are targets for an enterpriseâ€™s selling process. The parties may be those with whom the business already has a relationship, but represent possible new selling opportunities for an enterprise. This process interacts with the Party Relationship Development &amp; Retirement process to collect data about a party. Note: There is no strict rule that a party has to move from contact to lead to prospect and then to the Selling process. A contact could become a prospect."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Loyalty Program Operation"
+    id="id-64d99a2b03d544928901096e5737e2a7"
+    documentation="Manage all operational aspects of running a loyalty program. Enable parties to become a members of a program, earn currency and rewards, and redeem currency. Manage a loyalty program account, leave a program, and provide operational reports.">
+  <properties
+      key="Process Identifier"
+      value="1.1.19.2"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Loyalty Program Operation manages all operational aspects of running a loyalty program. It enables parties to become a members of a program, earn currency and rewards, and redeem currency. It also manages a loyalty program account, enables a participants to leave a program, and provides operational reports. For example, become a loyalty program participant includes providing an invitation to join a loyalty program, enables a party to join a program, and provides a loyalty program participant package; earning loyalty program currency enables a participant to earn loyalty program currency, either directly from an enterprise or via an enterprise's loyalty program partner."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

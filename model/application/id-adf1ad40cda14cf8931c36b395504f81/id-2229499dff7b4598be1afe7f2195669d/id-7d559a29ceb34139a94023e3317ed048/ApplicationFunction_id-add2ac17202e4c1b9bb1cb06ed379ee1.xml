@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Test Management"
+    id="id-add2ac17202e4c1b9bb1cb06ed379ee1"
+    documentation="Service Test Management applications are focused on ensuring that the various services are working properly. The service test applications are part of both the fulfillment and the assurance process. In the fulfillment process, the service test is responsible for ensuring that the assigned service works as designed, while on the assurance side the service testing applications are responsible for service trouble/problem isolation. As part of the testing process, these applications also interface with the trouble process, which can trigger an automatic test.">
+  <properties
+      key="TAM Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="6.8"/>
+  <properties
+      key="Frameworx Domain"
+      value="Service Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

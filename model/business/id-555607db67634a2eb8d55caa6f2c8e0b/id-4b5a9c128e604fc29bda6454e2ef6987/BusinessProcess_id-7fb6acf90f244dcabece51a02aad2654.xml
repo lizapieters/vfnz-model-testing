@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Select External Party for Party Order"
+    id="id-7fb6acf90f244dcabece51a02aad2654"
+    documentation="Identify the most appropriate party or parties amongst those with whom an appropriate agreement exists.">
+  <properties
+      key="Process Identifier"
+      value="1.6.8.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The responsibility of the Select External Party processes is to identify the most appropriate external party or parties amongst those with whom an appropriate agreement exists. Based on the particular product, service and/or resource requirements, select the most appropriate party from the range of parties with whom a agreement exists."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

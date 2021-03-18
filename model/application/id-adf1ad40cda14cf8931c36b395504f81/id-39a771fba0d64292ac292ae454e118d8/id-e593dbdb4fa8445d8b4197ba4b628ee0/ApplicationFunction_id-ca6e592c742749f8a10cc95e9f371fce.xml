@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource data gathering"
+    id="id-ca6e592c742749f8a10cc95e9f371fce"
+    documentation="Resource Order Data Collection function gather any needed resource data to aid in the verification and issuance of a complete and valid resource order.">
+  <properties
+      key="Function Identifier"
+      value="490"/>
+  <properties
+      key="TAM Application Name"
+      value="Resource Order Data Collection"/>
+  <properties
+      key="TAM Application Id"
+      value="7.3.2.1"/>
+  <properties
+      key="Constructed Id"
+      value="7.3.2.1.490"/>
+</archimate:ApplicationFunction>

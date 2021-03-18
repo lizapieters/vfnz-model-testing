@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Invoice Generation"
+    id="id-e3b477d63e684ab2bddc20574201be76"
+    documentation="Invoice Generation provides the means to calculate the balance due for an invoice/bill. In addition, it assembles charges, credits, taxes, fees and adjustments that affect the balance due. Subtotals and totals are also calculated at various levels.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="5.15.7"/>
+  <properties
+      key="Frameworx Domain"
+      value="Customer Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

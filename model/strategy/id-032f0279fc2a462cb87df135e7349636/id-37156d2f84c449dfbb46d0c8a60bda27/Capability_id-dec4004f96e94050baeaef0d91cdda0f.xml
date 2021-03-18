@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Authentication and Authorization"
+    id="id-dec4004f96e94050baeaef0d91cdda0f"
+    documentation="The ability to verify customer identity and access rights in context of a given business scenario and allow a customer to proceed based on those rights or otherwise prevent the customer from proceeding.">
+  <properties
+      key="TMF_ID"
+      value="1.1.2.4"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

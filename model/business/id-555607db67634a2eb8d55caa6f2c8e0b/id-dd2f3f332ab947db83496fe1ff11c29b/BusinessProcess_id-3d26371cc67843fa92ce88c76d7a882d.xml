@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Correlate the Performance Problem Reports &amp; Manage Inventory Repository"
+    id="id-3d26371cc67843fa92ce88c76d7a882d"
+    documentation="Correlating the Performance issues identified based on the performance report review and logging the results in inventory repository.">
+  <properties
+      key="Process Identifier"
+      value="1.5.4.2.5"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="â€¢ Sourcing details relating to resource instance performance and analysis from the resource inventory to assist in the development of trend analyses; â€¢ Logging the results of the analysis into the resource inventory repository;"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

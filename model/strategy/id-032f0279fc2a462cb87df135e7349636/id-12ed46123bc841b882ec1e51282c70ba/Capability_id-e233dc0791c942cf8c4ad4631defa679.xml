@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Job Performance Constraints Determination"
+    id="id-e233dc0791c942cf8c4ad4631defa679"
+    documentation="The ability to assess what is causing a job to underperform.">
+  <properties
+      key="TMF_ID"
+      value="1.3.7.6.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

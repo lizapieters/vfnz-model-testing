@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IPv4Variable"
+    id="id-676d87b69b10491c8d1a699cf6c1f58d"
+    documentation="This class represents using the value of IPv4 source and/or destination addresses as part of a condition expression. Thus; only IPv4AddressValue classes can be used in the value portion of the condition expression with this PolicyVariable."/>

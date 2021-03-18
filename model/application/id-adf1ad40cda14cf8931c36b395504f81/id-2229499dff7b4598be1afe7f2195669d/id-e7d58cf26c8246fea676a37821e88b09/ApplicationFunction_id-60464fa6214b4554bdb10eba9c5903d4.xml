@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Regulatory Accounting"
+    id="id-60464fa6214b4554bdb10eba9c5903d4"
+    documentation="Regulatory Accounting applications provide the required functionality to comply with federal regulations. In the US, it is specially Title 47, Part 64 (Telecommunication - Miscellaneous Rules Relating to Common Carriers).">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="9.3.11"/>
+  <properties
+      key="Frameworx Domain"
+      value="Enterprise Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicyEventBase"
+    id="id-fe2e5707679a4bd69decf7354fa0148b"
+    documentation="This class represents an aggregation of PolicyEvents; constrained according to the eventConstraint attribute of the EventDetails aggregation class. This set of PolicyEvents is then presented to one or more PolicyRules to trigger the evaluation of their condition clauses. This enables an external application; such as a Policy Server; to dynamically adjust the set of events that are being used to trigger the evaluation of a PolicyRule"/>

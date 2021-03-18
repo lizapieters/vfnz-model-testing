@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ServiceSpecificationRole"
+    id="id-126a3b36256f44b9bf901b9203608c96"
+    documentation="ServiceSpecificationRole is an abstract base class that defines a ServiceSpecification in terms of a set of roles. The roles are then used to characterize the shared functionality of the Service; regardless of whether it is a resource or a customer facing service. ServiceSpecificationRoles represent the shared functionality of a ServiceRole. Representing a Service in terms of ServiceSpecificationRoles enables the functionality of the Service to be defined independently of BusinessActor; PhysicalResource; LogicalResource; or other Services."/>

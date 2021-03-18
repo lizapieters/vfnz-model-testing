@@ -1,0 +1,39 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Lake and Events"
+    id="id-4e0173b0292c41e9a374cf40e81106b3"
+    documentation="For Data Lake and Events, the BSS solution will expose its data via Kafka streams and PostgreSQL staging database.">
+  <properties
+      key="Stereotype"
+      value="abstract_interface"/>
+  <properties
+      key="Southbound Required"
+      value="Y"/>
+  <properties
+      key="Importance"
+      value="1"/>
+  <properties
+      key="Area"
+      value="Data and AI"/>
+  <properties
+      key="Interface Type"
+      value="Data and Analytics"/>
+  <properties
+      key="Pattern"
+      value="Event/CDD/Batch"/>
+  <properties
+      key="FWA"
+      value="Y"/>
+  <properties
+      key="Mobile"
+      value="Y"/>
+  <properties
+      key="Broadband"
+      value="Y"/>
+  <properties
+      key="Common"
+      value="Y"/>
+  <properties
+      key="Unexpected"
+      value="true"/>
+</archimate:ApplicationInterface>

@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0744"
+    id="id-622ebb66dd2c4f608e01f4d8d4ccb7f5"
+    documentation="As provisioning specialist, when the customer needs to provice more information, I want the ability to request, via a digital channel and customer alert, further information from the customer in relation to a specific service  (e.g. consent required for fibre build, hardware returned/unable to be delivered, site contact required etc), so that I can complete the order without picking up the phone.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0744"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Jared Mortlock"/>
+  <properties
+      key="Tribe"
+      value="Business"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Tracking"/>
+  <properties
+      key="Remarks"
+      value="OOTB supported if all communication (by provisioning specialist also) in CRM. Let's discuss the flow of communication here (what does the provisioning specialist do, who provides/approves the consents ect)"/>
+  <properties
+      key="Module"
+      value="SC, EP, CNS, OM, CRM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="impacted"/>
+</archimate:Requirement>

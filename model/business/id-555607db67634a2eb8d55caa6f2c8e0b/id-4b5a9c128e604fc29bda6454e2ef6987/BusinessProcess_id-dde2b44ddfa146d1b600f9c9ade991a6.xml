@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage S/P Inventory Repository"
+    id="id-dde2b44ddfa146d1b600f9c9ade991a6"
+    documentation="Not used for this process element">
+  <properties
+      key="Process Identifier"
+      value="1.6.21.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="â€¢ Identifying the inventory-relevant information requirements to be captured to support the Party Relationship Management and other processes; â€¢ Identifying, establishing and maintaining party inventory repository facilities;"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

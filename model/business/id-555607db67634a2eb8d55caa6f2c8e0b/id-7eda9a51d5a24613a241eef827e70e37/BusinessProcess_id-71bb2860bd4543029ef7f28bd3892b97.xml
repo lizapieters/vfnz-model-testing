@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Party Interaction Management"
+    id="id-71bb2860bd4543029ef7f28bd3892b97"
+    documentation="Manage interactions between parties and the enterprise. Interactions can be triggered by the enterprise (as a result of a query or complaint) or by a party (for example sending bills or other notifications.)">
+  <properties
+      key="Process Identifier"
+      value="1.6.9"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The purpose of this process is to manage interactions between a party and the enterprise. Interactions can be triggered by the enterprise (as a result of a query or complaint) or by the party (for example sending bills or other notifications.) All interactions are logged by the enterprise in order to provide a full track record of the activity to the enterprise representatives. Interactions may be short lived (such as in the case of a query that is answered immediately) or may take long time to complete (such as in the case of complex orders or requests concerning back office intervention). When interactions are long the process is in charge of making sure the party and enterprise are notified in a timely manner about the progress of the request. Interaction history may be used by BI systems in order to gather information about party profile and satisfaction. Interactions can span over multiple channels (such as: phone calls, web self-service and devices.) each party involved in the interaction has a role that mandates its credentials. For some interactions users may need to login/authenticate themselves in order to get the appropriate role assigned to them."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Perform Capacity and Capacity Demand Trend Analysis"
+    id="id-2eaa5610ce90488aa7b0f0485f3f3016"
+    documentation="Undertake trend analysis on capacity and capacity demand to identify any issues that may exist in either or both.">
+  <properties
+      key="Process Identifier"
+      value="1.8.2.7"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Perform Capacity and Capacity Demand Trend Analysis undertakes trend analysis on capacity and capacity demand to identify any issues that may exist in either or both. For example, there could be an issue identified that indicates the technique used for estimating planned capacity or planned capacity demand may need to be changed. Advanced analytics tools and AI may help to analyze planned or actual capacity demands."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

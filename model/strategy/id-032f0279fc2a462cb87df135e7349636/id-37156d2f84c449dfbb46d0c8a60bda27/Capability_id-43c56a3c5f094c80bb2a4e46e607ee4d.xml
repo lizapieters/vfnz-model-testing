@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Location Information Management"
+    id="id-43c56a3c5f094c80bb2a4e46e607ee4d"
+    documentation="The ability to collect, organize, monitor, report on, or otherwise disseminate basic facts, statistics, attributes, and data about the location.">
+  <properties
+      key="TMF_ID"
+      value="1.3.3.9"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

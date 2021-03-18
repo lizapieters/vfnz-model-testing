@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identify National and International Security Interests"
+    id="id-cc61fb76bb82493e81c546348796371e"
+    documentation="Continuously validate and correct the Enterprise's understanding of any sovereign interests.&#xA;An additional challenge would be when international relationship concerns exist, and may be either ethically or legislative in nature.">
+  <properties
+      key="Process Identifier"
+      value="1.6.1.1.4"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Identify National and International Security Interests informs any strategy or intents adopted or executed by the enterprise. Note: An enterprise needs to continuously validate and correct its understanding of any sovereign interests. Most markets are subject to shifting concerns, and changes in how national entities view their exposures to those concerns. In particular national concerns may impose particular needs to be met with regards security. An additional challenge would be when international relationship concerns exist, and may be either ethically or legislative in nature. A partner's engagement with corrupt or belligerent third parties would result in a suitable policy response."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

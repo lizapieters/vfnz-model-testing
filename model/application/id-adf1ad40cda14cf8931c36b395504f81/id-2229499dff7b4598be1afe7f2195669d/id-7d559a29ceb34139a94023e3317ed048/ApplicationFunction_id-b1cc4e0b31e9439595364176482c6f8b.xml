@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bill Format / Render"
+    id="id-b1cc4e0b31e9439595364176482c6f8b"
+    documentation="Bill Format / Render formats the invoice and/or statement based on specified options, and then makes it available in appropriate media types. Example outputs can include paper, electronic, DVD, etc. See Transactional Document Production for more information.">
+  <properties
+      key="TAM Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="5.11"/>
+  <properties
+      key="Frameworx Domain"
+      value="Customer Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

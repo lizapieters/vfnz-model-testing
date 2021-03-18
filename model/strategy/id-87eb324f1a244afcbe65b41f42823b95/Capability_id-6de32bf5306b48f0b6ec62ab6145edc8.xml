@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Solution Design"
+    id="id-6de32bf5306b48f0b6ec62ab6145edc8"
+    documentation="The Solution Management's Design function is concerned with the translation of customer requirements into products &amp; services and the quantity of products and services at each location. Design obtains base product and services from the Common Product Catalog with existing and orders in the pipe and tailor them according the customer requirements into solution(s).">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="3.10.1"/>
+  <properties
+      key="TMF Function"
+      value="Automatic Solution Validation Solution Design Editor Solution Variations management"/>
+  <properties
+      key="TMF Maturity"
+      value="Market_Sales Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

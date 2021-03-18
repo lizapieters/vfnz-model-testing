@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enterprise Information and Collaboration Management"
+    id="id-0ef6056ee74141b38533ae43417b8452"
+    documentation="Enterprise Information and Collaboration Management application is responsible for managing the Information of insights related to enterprise processes and practices, market etc. It provides tools and technologies for the development and enhancements of enterprise operations through using/sharing the Information.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="9.6.2"/>
+  <properties
+      key="Frameworx Domain"
+      value="Enterprise Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financial Vulnerability Determination"
+    id="id-4ba949efc5c14e0c81d771698ea838f5"
+    documentation="The ability to assess and determine financial exposures associated with internal weaknesses or susceptibilities.">
+  <properties
+      key="TMF_ID"
+      value="1.3.6.3.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

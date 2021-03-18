@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provide New Product Offering Business Proposal Notification"
+    id="id-5bcca515798f452e85f9c64fa4091da3"
+    documentation="Issue a new product offering business proposal to parties involved in the approval of it or to other parties involved in some way with the approval process.">
+  <properties
+      key="Process Identifier"
+      value="1.2.7.2.1.2.6"/>
+  <properties
+      key="Category"
+      value="(6) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Provide New Product Offering Business Proposal Notification issues notifications to parties involved in the approval of it or to other parties involved in some way with the approval process. the parties may be those who approve the proposal or those that are informed about it, and so forth. It also identifies involved parties to whom notifications should be sent. These parties are specified by the Manage New Product Offering Notification Involved Party process."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

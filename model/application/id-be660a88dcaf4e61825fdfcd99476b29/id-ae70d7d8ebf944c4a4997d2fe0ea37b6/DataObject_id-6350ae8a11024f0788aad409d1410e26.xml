@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResourceRoleSpecification"
+    id="id-6350ae8a11024f0788aad409d1410e26"
+    documentation="This is the abstract base class for all ResourceRoleSpecification subclasses. It exists to enable relationships to be defined between it and other classes in the model. This helps prevent relationship explosion. It is used to define the invariant attributes; methods; relationships; and constraints of various types of roles associated with Resources (both physical and logical) in the model."/>

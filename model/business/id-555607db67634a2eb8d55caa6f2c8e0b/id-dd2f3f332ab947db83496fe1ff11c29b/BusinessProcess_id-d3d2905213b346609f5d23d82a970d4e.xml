@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Determine Service Parameter Availability"
+    id="id-d3d2905213b346609f5d23d82a970d4e"
+    documentation="Where the Allocate Specific Service Parameters to Services processes are requested by a pre-feasibility service order, or by the Design Services processes, these processes determine whether the requested service parameters are available.">
+  <properties
+      key="Process Identifier"
+      value="1.4.5.2.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

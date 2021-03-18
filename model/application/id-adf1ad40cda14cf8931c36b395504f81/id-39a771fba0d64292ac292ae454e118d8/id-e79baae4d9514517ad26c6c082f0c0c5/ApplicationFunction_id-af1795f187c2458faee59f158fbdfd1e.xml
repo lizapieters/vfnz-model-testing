@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generate customer problem lifecycle tracking reports"
+    id="id-af1795f187c2458faee59f158fbdfd1e"
+    documentation="Customer Problem Reporting function provide the necessary functionality to report on the status of open/ closed customer problems.  Customer problems can include: &#xA;� General questions on products purchased and being used by the customer &#xA;� Problems with products already purchased and being used by the customer either due to lack of education or service/network problems. &#xA;� Problems with a material purchase from the service provider, even if they do not have an account with the said service provider. &#xA;� General inquiries, complaints, and commendations.">
+  <properties
+      key="Function Identifier"
+      value="224"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Problem Reporting"/>
+  <properties
+      key="TAM Application Id"
+      value="5.8.6"/>
+  <properties
+      key="Constructed Id"
+      value="5.8.6.224"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Debt, Proof and Balance Reporting"
+    id="id-e9233a72700f4fdaa9cb99927c9eb0f7"
+    documentation="Financial Reporting function to  provide data presenting summaries of the financial activities of customer accounts. It includes a set of debt aging reports and proof &amp; balance reports.">
+  <properties
+      key="Function Identifier"
+      value="728"/>
+  <properties
+      key="TAM Application Name"
+      value="Financial Reporting"/>
+  <properties
+      key="TAM Application Id"
+      value="5.9.3"/>
+  <properties
+      key="Constructed Id"
+      value="5.9.3.728"/>
+</archimate:ApplicationFunction>

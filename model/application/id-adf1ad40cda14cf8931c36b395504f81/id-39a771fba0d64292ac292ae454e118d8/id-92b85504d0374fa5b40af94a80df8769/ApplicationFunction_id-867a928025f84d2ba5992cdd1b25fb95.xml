@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BI Metrics/KPIs Rules Evaluation"
+    id="id-867a928025f84d2ba5992cdd1b25fb95"
+    documentation="Business Intelligence performance Metrics/KPIs' business rules are applied in this function. Performance data is aggregated in the Analytics functions, but business rules for Metrics and KPIs are applied in this function.">
+  <properties
+      key="Function Identifier"
+      value="700"/>
+  <properties
+      key="TAM Application Name"
+      value="BI Performance Management(Deleted)"/>
+  <properties
+      key="TAM Application Id"
+      value="#N/A"/>
+  <properties
+      key="Constructed Id"
+      value="#N/A"/>
+</archimate:ApplicationFunction>

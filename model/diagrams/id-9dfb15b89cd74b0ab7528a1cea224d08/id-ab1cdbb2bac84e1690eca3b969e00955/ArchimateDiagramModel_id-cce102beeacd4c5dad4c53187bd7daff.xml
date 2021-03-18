@@ -1,0 +1,106 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Convergent Charging Billing &amp; Revenue Management"
+    id="id-cce102beeacd4c5dad4c53187bd7daff">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-12333747efa64db991ca5c34c93a1fe0"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      fillColor="#b5ffff">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-a34c7686499f49e0a7c71cf8b90f07f8"
+        source="id-12333747efa64db991ca5c34c93a1fe0"
+        target="id-fdec1440026945c1a668ff84b3d7e8a7">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_id-da43381e54474c92abe287501d81cdd0.xml#id-da43381e54474c92abe287501d81cdd0"/>
+    </sourceConnections>
+    <bounds
+        x="144"
+        y="264"
+        width="409"
+        height="121"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-fdec1440026945c1a668ff84b3d7e8a7"
+        targetConnections="id-a34c7686499f49e0a7c71cf8b90f07f8"
+        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        fillColor="#b5ffff">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-bd8002435a924adba071194db52aadb8"
+          font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+          fontColor="#000000"
+          lineColor="#000000"
+          source="id-fdec1440026945c1a668ff84b3d7e8a7"
+          target="id-a1386e45a74b4756848ddd15e58ec5a9">
+        <archimateRelationship
+            xsi:type="archimate:RealizationRelationship"
+            href="RealizationRelationship_id-bea14b47d43949779603da4e0057349b.xml#id-bea14b47d43949779603da4e0057349b"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-44a08f0dd2bb49dcb98a98184ccad378"
+          font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+          fontColor="#000000"
+          lineColor="#000000"
+          source="id-fdec1440026945c1a668ff84b3d7e8a7"
+          target="id-ea4c0e6a75de4959b99bb4348399f993">
+        <archimateRelationship
+            xsi:type="archimate:RealizationRelationship"
+            href="RealizationRelationship_id-2438e5b16a2e41aeb998904ad16af779.xml#id-2438e5b16a2e41aeb998904ad16af779"/>
+      </sourceConnections>
+      <bounds
+          x="24"
+          y="36"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationFunction"
+          href="ApplicationFunction_id-a91f77b0883a4057935e10b705ab974b.xml#id-a91f77b0883a4057935e10b705ab974b"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_f85c7154-f9ff-40aa-9590-69553bcaa213.xml#f85c7154-f9ff-40aa-9590-69553bcaa213"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-a1386e45a74b4756848ddd15e58ec5a9"
+      targetConnections="id-bd8002435a924adba071194db52aadb8"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      fillColor="#ccccff">
+    <bounds
+        x="176"
+        y="160"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Requirement"
+        href="Requirement_id-cc5580ce6a93416191b41129fa90b774.xml#id-cc5580ce6a93416191b41129fa90b774"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-ea4c0e6a75de4959b99bb4348399f993"
+      targetConnections="id-44a08f0dd2bb49dcb98a98184ccad378"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      fillColor="#ccccff">
+    <bounds
+        x="36"
+        y="160"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Requirement"
+        href="Requirement_id-723d7d7cb7664456b43b50ee9be2ca34.xml#id-723d7d7cb7664456b43b50ee9be2ca34"/>
+  </children>
+</archimate:ArchimateDiagramModel>

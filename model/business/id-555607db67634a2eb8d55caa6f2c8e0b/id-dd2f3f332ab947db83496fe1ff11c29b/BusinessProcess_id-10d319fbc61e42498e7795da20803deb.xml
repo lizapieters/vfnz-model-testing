@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Recommend Appropriate Product Offering(s)"
+    id="id-10d319fbc61e42498e7795da20803deb"
+    documentation="Recommend more appropriate product offering(s) to the customer or other party based on the results of Analyze Customer or Other Party Trends.">
+  <properties
+      key="Process Identifier"
+      value="1.1.9.4.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Recommend Appropriate Product Offering(s) recommends more appropriate or other product offering(s) to the customer or other party that may be based on the results of Analyze Customer or Other Party Trends or based on known other offerings that represent an upsell. For example, a potential new partner may be offered the opportunity to have there logo and contact information added to an enterprise's application that manages a IoT device."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

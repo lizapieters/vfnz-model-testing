@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Specification Development &amp; Retirement"
+    id="id-b8976f1e96444e84a497ceed2d7ddad5"
+    documentation="Develop and deliver new product specifications as well as enhancements and new features, ready for use by other processes, including Product Offering Development &amp; Retirement.  &#xA;&#xA;Product Specifications represent the types of services and resources made available as product offerings to the market by an enterprise.">
+  <properties
+      key="Process Identifier"
+      value="1.2.7.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Product Specification Development &amp; Retirement processes develop and deliver new product specifications as well as enhancements and new features, ready for use by other processes. Additionally they handle the removal of specifications no longer offered.Also, dynamic allocation of resources and services to deliver products to the market.they are resposible Product specifications represent the types of services and resources made available as product offerings to the market by an enterprise. The key measures of this process are how effectively the enterpriseâ€™s offerings are broadened by these specifications or new specification features. These processes also manage updates and enhancements to product specifications. Business case development tracking and commitment are key elements of this process. Note that this process is reused to support the development of product specifications on-boarded from other parties with whom an enterprises collaborates to deliver value to customers. This is done to remove the redundancy between this process and the Party Offering Development &amp; Retirement process. The focus of the Party Offering Development &amp; Retirement core process is the relationships that product specifications have with other parties. Also note that some of these processes, such as Gather &amp; Analyze New Product Specification Ideas and Develop New Product Specification Business Proposal, may be performed in conjunction with the equivalent process in Product Offering Development &amp; Retirement. For example, if ideas for a new specification or feature are being developed, ideas on how to offer it to the market may also be gathered; or if a new offering is being considered it may require new features defined for the specification or one or more new specifications to be developed for it."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

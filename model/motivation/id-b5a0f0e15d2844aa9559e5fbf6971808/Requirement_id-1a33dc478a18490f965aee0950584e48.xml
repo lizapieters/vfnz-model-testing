@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0191"
+    id="id-1a33dc478a18490f965aee0950584e48"
+    documentation="As a Finance Representative&#xA;I want access to a Reporting Dashbaord&#xA;So I can have access to a wide range of reports">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0191"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Tim Munnik"/>
+  <properties
+      key="Tribe"
+      value="OSS Squad"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Use"/>
+  <properties
+      key="Topic"
+      value="BSS | Finance | Reporting Dashboard"/>
+  <properties
+      key="Remarks"
+      value="As part of scope Comarch only feeds data, no reporting Dashboard"/>
+  <properties
+      key="Module"
+      value="REP"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="Maybe"/>
+</archimate:Requirement>

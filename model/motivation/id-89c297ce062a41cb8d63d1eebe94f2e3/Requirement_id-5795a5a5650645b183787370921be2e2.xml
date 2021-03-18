@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0286"
+    id="id-5795a5a5650645b183787370921be2e2"
+    documentation="As a prospective customer, I want to be able to purchase broadband services that suit my homes needs">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0286"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Diane Watson"/>
+  <properties
+      key="Tribe"
+      value="Consumer Home"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="2"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Broadband Subscription"/>
+  <properties
+      key="Remarks"
+      value="OOTB, a question not related directly to this requirement: discuss scenarios for the backup mobile connectivity and the onboarding activation Instant connect: customer is always eligible for backup mobile connectivity from the moment the device is plugged in Maybe it will needed to suspend sims in some scenarios. There may be some rules needed to avoid fraud (location lock for example). Location lock is based on a larger geographical area."/>
+  <properties
+      key="Module"
+      value="AIF?, DS, SC, OM, PC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Consumer only"/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

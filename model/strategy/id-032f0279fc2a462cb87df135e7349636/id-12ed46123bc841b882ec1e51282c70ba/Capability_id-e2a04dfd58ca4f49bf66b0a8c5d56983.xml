@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Policy Access Constraints Definition"
+    id="id-e2a04dfd58ca4f49bf66b0a8c5d56983"
+    documentation="The ability to define and impose limitations of access rights to a given policy or set of policies.">
+  <properties
+      key="TMF_ID"
+      value="1.2.3.5.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

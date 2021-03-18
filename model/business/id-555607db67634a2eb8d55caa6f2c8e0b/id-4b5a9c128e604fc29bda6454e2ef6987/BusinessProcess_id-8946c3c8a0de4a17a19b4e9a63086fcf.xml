@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Revenue and Cost Assurance"
+    id="id-8946c3c8a0de4a17a19b4e9a63086fcf"
+    documentation="Establish an enterprise-wide revenue and cost assurance policy framework, and an associated operational capability aimed at minimizing revenue  and cost leakage within the enterprise, without influencing demand.">
+  <properties
+      key="Process Identifier"
+      value="1.7.9.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of the Revenue and Cost Assurance processes is to establish an enterprise-wide revenue and cost assurance policy framework, and an associated operational capability to resolve any detected revenue and cost assurance degradations and violations. Revenue and Cost Assurance processes identify areas of revenue and cost leakage risk within the enterprise, and monitor industry trends and best practice approaches to ensure that the enterprise remains at the forefront of revenue leakage minimization and cost efficiency maximization. These processes support the categorization and prioritization of areas of revenue leakage and excessive costs risk. To achieve this, these processes define the policies, guidelines, practices and procedures to be followed and provide assistance to the enterprise operational areas to deploy appropriate procedures and monitoring capabilities. Revenue and Cost Assurance processes deal with the establishment of tools and data collection capabilities to capture details of operation activity, analysis of monitored activity to detect and correct actual revenue leakage or excessive costs. These processes work in conjunction with operational and other process elements to guide them in supporting the specific needs of Revenue and Cost Assurance . Where appropriate, Revenue and Cost Assurance processes supplement the capabilities of these other process elements, to control and analyze the enterprise behavior relevant to Revenue and Cost Assurance needs. The responsibilities of these processes include, but are not limited to: â€¢Establishing and managing a revenue assurance policy framework, including identification of controls and measures â€¢Implementing identified controls and measures, setting up the Data collection capabilities and tools needed to support operational processes â€¢Establishing and managing an operational process capability able to detect and resolve revenue and cost assurance degradations and violations â€¢Establishing and managing a capacity to regularly review the revenue assurance policy framework to ensure it meets the enterpriseâ€™s changing objectives The objectives of Revenue Assurance, mainly towards the end-customer, are to be enriched with the scope of Cost Assurance: â€¢to ensure that all the utilization/ consumption/ subscription to third partiesâ€™ services/resources are fully and correctly captured, and timely processed â€¢to ensure that all the payments and settlements to third parties are calculated correctly according to contracts and agreements and according to the real utilization of the third partiesâ€™ resources"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

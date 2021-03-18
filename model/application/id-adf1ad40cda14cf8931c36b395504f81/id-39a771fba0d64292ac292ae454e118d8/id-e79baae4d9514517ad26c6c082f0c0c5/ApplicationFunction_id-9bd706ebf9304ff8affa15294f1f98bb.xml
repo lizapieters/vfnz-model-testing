@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Debt Management Automatic Penalty charging"
+    id="id-9bd706ebf9304ff8affa15294f1f98bb"
+    documentation="The Debt Management function:&#xA;�Charges: Automatic and manual generation of the penalty charges (dunning charges, payment rejection fees) linked to dunning of the due amount, in order to bill the customer according to the details of his / her contract.">
+  <properties
+      key="Function Identifier"
+      value="146"/>
+  <properties
+      key="TAM Application Name"
+      value="Collection Policy Execution and Monitoring"/>
+  <properties
+      key="TAM Application Id"
+      value="5.14.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.14.2.146"/>
+</archimate:ApplicationFunction>

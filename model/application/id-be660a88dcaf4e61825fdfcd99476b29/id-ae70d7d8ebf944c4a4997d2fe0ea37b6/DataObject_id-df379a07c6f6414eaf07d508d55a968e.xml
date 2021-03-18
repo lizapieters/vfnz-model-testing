@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PhysicalComponent"
+    id="id-df379a07c6f6414eaf07d508d55a968e"
+    documentation="This is the base class for different types of PhysicalComponents that can reside either in an Equipment or an EquipmentHolder object. They can NOT be used as a stand-alone object. From a management point-of-view; this object either can not or does not need to be split into its constituent parts. For example; an ASIC (or Chip) can not ; and a tape for data storage does not; need to be split up into their constituent parts. Any piece of hardware that is not a PhysicalLink; PhysicalConnector; Equipment; or EquipmentHolder; is a subclass of this class."/>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analyze Potential Parties"
+    id="id-425a05a90ad440238e68eeea3746b49d"
+    documentation="These processes provide detailed analysis of potential parties, leveraging information available from the Gather &amp; Analyze Value Fabric Information processes...need to align this with the final name of this process - it was Supply Chain instead of VF, as well as other specific inputs available from within the enterprise, or from external party research organizations at the specific time the need arises.">
+  <properties
+      key="Process Identifier"
+      value="1.6.2.2.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

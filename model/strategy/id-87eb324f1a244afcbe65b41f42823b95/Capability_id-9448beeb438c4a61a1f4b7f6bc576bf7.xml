@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Problem Verification &amp; Closure"
+    id="id-9448beeb438c4a61a1f4b7f6bc576bf7"
+    documentation="Customer Problem Verification &amp; Closure applications provide the necessary functionality to verify if the problem has been resolved and to close the case when the problem is indeed resolved. As part of verification and closure, manual follow-up may be needed with customer service representatives, if a complaint (or commendation) was placed against the individual, which need to be tracked. Appropriate actions must be taken, especially if trends are discovered.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.8.5"/>
+  <properties
+      key="TMF Function"
+      value="0"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

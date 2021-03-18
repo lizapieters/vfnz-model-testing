@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define Default Privacy Information"
+    id="id-b1e34e29790b41e796d48edfacbe38a5"
+    documentation="Define what Information on the Data Subject Party from the SID can be considered PII and where Privacy Management applies.">
+  <properties
+      key="Process Identifier"
+      value="1.6.7.2.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Define Default Privacy Information process identifies the information contained in the SID that can be considered Personally Identifiable Information. That information can be : - information explicitly defined in the SID model, such as first or last name, address, email address - information about Service Usage, for example the Product Usage Record - information very specific to a service, such as Party Demographic"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

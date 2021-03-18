@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Self Service Order Status Enquiry"
+    id="id-b0ca5251de1b4fa1b5efbba0793933b6"
+    documentation="Order status customer self empowered fulfillment function provide an internet technology driven interface for the customer to undertake Order status enquiry.">
+  <properties
+      key="Function Identifier"
+      value="272"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Self Empowered Fulfillment"/>
+  <properties
+      key="TAM Application Id"
+      value="5.4.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.4.1.272"/>
+</archimate:ApplicationFunction>

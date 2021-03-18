@@ -1,0 +1,30 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fixed - Fixed Access"
+    id="id-cefd6e9ede3e4f76aa05eb8f378135e8"
+    documentation="layer 2 access dedicated to business, e.g. Fibre connections.&#xA;heavy lifting of automation">
+  <properties
+      key="Target Horizon"
+      value="2"/>
+  <properties
+      key="Segment"
+      value="Business"/>
+  <properties
+      key="Access/Service Type"
+      value="0"/>
+  <properties
+      key="Comarch can support"
+      value="Yes"/>
+  <properties
+      key="Non-Comarch IT support needed"
+      value="N/A"/>
+  <properties
+      key="NaaS will support"
+      value="No"/>
+  <properties
+      key="Automated non-NaaS support"
+      value="No"/>
+  <properties
+      key="Unexpected"
+      value="true"/>
+</archimate:BusinessService>

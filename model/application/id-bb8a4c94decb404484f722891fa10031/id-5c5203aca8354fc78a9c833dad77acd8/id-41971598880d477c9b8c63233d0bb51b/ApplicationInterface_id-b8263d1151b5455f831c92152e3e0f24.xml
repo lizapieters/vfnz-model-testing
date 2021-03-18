@@ -1,0 +1,39 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DXINT002: Identity Verification"
+    id="id-b8263d1151b5455f831c92152e3e0f24"
+    documentation="Verification of identity based on e.g. driver's license. Token-based authentication of device. Onboarding and logging. &#xA;FIDO standard.">
+  <properties
+      key="Stereotype"
+      value="abstract_interface"/>
+  <properties
+      key="Southbound Required"
+      value="Y"/>
+  <properties
+      key="Importance"
+      value="1"/>
+  <properties
+      key="Area"
+      value="BSS"/>
+  <properties
+      key="Interface Type"
+      value="Core"/>
+  <properties
+      key="Pattern"
+      value="REST/Event"/>
+  <properties
+      key="FWA"
+      value="Y"/>
+  <properties
+      key="Mobile"
+      value="Y"/>
+  <properties
+      key="Broadband"
+      value="Y"/>
+  <properties
+      key="Common"
+      value="Y"/>
+  <properties
+      key="Unexpected"
+      value="true"/>
+</archimate:ApplicationInterface>

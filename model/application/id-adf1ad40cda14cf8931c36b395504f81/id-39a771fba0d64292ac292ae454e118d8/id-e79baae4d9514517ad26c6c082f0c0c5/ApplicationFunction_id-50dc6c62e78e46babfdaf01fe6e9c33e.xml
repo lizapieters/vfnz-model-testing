@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Query Balance statement"
+    id="id-50dc6c62e78e46babfdaf01fe6e9c33e"
+    documentation="Query of Billing related Balances including un-billed balance">
+  <properties
+      key="Function Identifier"
+      value="64"/>
+  <properties
+      key="TAM Application Name"
+      value="Bill Inquiry"/>
+  <properties
+      key="TAM Application Id"
+      value="5.10.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.10.1.64"/>
+</archimate:ApplicationFunction>

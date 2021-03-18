@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0201"
+    id="id-8e725f96b78444e8962012cbea5bea74"
+    documentation="Create Voice with predefined Number">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0201"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Tim Munnik"/>
+  <properties
+      key="Tribe"
+      value="OSS Squad"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Setup"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Voice Service"/>
+  <properties
+      key="Remarks"
+      value="for OSS to discuss: From Tim: This use case is required where BSS has the ability to surface up to the customer a list of numbers which are available for a new connection. They should be allowed to select a number from that list or be given the ability to search for a preferred number. If the preferred number is available for them then they can select it for their new connection. BSS is the responsible system to have knowledge of available pool of numbers."/>
+  <properties
+      key="Module"
+      value="OSS?"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="REQ_OSS_127"/>
+</archimate:Requirement>

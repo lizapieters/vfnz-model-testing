@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Detect Potential Security Threats &amp; Violations"
+    id="id-b872b890e35c469ca89e52441252083b"
+    documentation="analysis of monitored activity to detect potential threats/security violations">
+  <properties
+      key="Process Identifier"
+      value="1.7.2.2.6"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

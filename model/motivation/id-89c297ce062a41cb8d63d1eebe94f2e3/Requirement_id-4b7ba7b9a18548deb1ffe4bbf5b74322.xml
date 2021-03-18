@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0601"
+    id="id-4b7ba7b9a18548deb1ffe4bbf5b74322"
+    documentation="As a customer, I want to ensure Vodafone confirms my identity before offering me an interest free agreement, so that I don't incur bad debt from someone pretending to me.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0601"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="buy"/>
+  <properties
+      key="Topic"
+      value="Confirm identity for IF"/>
+  <properties
+      key="Remarks"
+      value="OOTB, + integrations with systems like Qucksign or similar to confirm validity of documents, digital signature etc."/>
+  <properties
+      key="Module"
+      value="AIF, DS, SC, OM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

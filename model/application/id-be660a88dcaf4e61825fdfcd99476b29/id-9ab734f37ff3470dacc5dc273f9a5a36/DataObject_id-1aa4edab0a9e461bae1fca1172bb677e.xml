@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicyActionPerformedDetails"
+    id="id-1aa4edab0a9e461bae1fca1172bb677e"
+    documentation="This class implements the semantics of the PolicyActionPerformedOn association. This association defines the set of PolicyActions that are performed on a ManagedEntity. This association defines the set of PolicyActions that are performed on a ManagedEntity as a part of the policy management process. The semantics of this association are implemented by the PolicyActionPerformedDetails association class."/>

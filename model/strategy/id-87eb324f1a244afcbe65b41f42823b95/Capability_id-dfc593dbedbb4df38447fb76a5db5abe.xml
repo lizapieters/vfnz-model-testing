@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Test Command and Control"
+    id="id-dfc593dbedbb4df38447fb76a5db5abe"
+    documentation="The Resource Test Command and Control application provides the necessary functionality to access, command, and control the devices required for resource testing.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="7.11.3"/>
+  <properties
+      key="TMF Function"
+      value="Access the various�resource test devices Command and control"/>
+  <properties
+      key="TMF Maturity"
+      value="Resource Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

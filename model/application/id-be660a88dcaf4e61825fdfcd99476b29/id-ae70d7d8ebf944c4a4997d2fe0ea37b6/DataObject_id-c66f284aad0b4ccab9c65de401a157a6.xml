@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PhysicalResourceRoleSpec"
+    id="id-c66f284aad0b4ccab9c65de401a157a6"
+    documentation="This is a concrete base class for all PhysicalResourceRoleSpecification subclasses. It exists to enable relationships to be defined between it and other classes. This helps prevent relationship explosion. It is used to define the invariant attributes; methods; relationships; and constraints of various types of roles associated with PhysicalResources (whether they are subclasses of PhysicalDevice or Hardware)."/>

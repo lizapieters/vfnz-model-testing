@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Configure Work Catalog"
+    id="id-bd7f2f0d2da449ffae91e7ad6215cd90"
+    documentation="This process configures the specification of Work and Work Order, including description, relationships, and rules.">
+  <properties
+      key="Process Identifier"
+      value="1.5.5.3.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="â€¢{T}Classifying different types of manual activities (or Work Items), including association with required skill sets and job code descriptions â€¢{T}Managing work order specifications and their dependent work items â€¢{T}Establishing the conditions for work items to be instantiated while decomposing work orders â€¢{T}Managing standard durations of work items to be performed, depending on a variety of parameters"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

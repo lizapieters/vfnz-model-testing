@@ -1,0 +1,39 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Marketing Automation/Campaign Management"
+    id="id-bc4f575cb1ee4e0686921875ac0ecb9f"
+    documentation="Assuming Campaign Management is part of the scope, so no external module will be integrated.&#xA;&#xA;09/10: Marcus - CCM do standard marketing/campaign actions, i.e. sms, email, DM, push notification. Missing - In App messaging, Web Push, NBA/NBO, tracking customer journeys, ML/AI (Brace)">
+  <properties
+      key="Stereotype"
+      value="abstract_interface"/>
+  <properties
+      key="Southbound Required"
+      value="Y"/>
+  <properties
+      key="Importance"
+      value="1.x"/>
+  <properties
+      key="Area"
+      value="CCM"/>
+  <properties
+      key="Interface Type"
+      value="Marketing"/>
+  <properties
+      key="Pattern"
+      value="REST/Event/Batch"/>
+  <properties
+      key="FWA"
+      value="NA"/>
+  <properties
+      key="Mobile"
+      value="NA"/>
+  <properties
+      key="Broadband"
+      value="NA"/>
+  <properties
+      key="Common"
+      value="NA"/>
+  <properties
+      key="Unexpected"
+      value="true"/>
+</archimate:ApplicationInterface>

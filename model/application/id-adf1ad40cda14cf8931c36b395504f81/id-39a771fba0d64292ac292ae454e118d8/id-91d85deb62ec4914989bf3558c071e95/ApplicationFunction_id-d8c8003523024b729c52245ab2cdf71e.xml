@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mass transaction feed of new orders"
+    id="id-d8c8003523024b729c52245ab2cdf71e"
+    documentation="Mass transaction feed function of new orders. For bulk sales by affiliate.">
+  <properties
+      key="Function Identifier"
+      value="343"/>
+  <properties
+      key="TAM Application Name"
+      value="Affiliates"/>
+  <properties
+      key="TAM Application Id"
+      value="3.4.6"/>
+  <properties
+      key="Constructed Id"
+      value="3.4.6.343"/>
+</archimate:ApplicationFunction>

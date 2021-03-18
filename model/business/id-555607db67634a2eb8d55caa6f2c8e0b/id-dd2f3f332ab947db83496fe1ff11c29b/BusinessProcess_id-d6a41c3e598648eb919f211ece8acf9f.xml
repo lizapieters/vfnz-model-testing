@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cancel Resource Trouble"
+    id="id-d6a41c3e598648eb919f211ece8acf9f"
+    documentation="This process cancels a resource trouble report when the specific trouble was related to a false alarm event.">
+  <properties
+      key="Process Identifier"
+      value="1.5.8.4.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

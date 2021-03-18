@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Distribute Party Bill/Invoice"
+    id="id-01d6970c57354df3a33b211b1830a586"
+    documentation="Provide bills/invoices to one or more parties and ensure the delivery of bills/invoices to one or more parties .">
+  <properties
+      key="Process Identifier"
+      value="1.6.15.3.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Distribute Party Bill/Invoice provides bills/invoices to one or more parties in accordance with the specified billing cycle or as applicable, such as on demand or at the time of the purchase of a product offering. It also ensures the delivery of bills/invoices to one or more parties in some form, physically or electronically."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

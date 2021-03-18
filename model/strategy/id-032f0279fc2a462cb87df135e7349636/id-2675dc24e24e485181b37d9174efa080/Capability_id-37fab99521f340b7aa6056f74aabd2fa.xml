@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Information Obfuscation"
+    id="id-37fab99521f340b7aa6056f74aabd2fa"
+    documentation="The ability to conceal information content in a cipher using symmetric or public key encryption.">
+  <properties
+      key="TMF_ID"
+      value="1.2.2.4.1.2"/>
+  <properties
+      key="Level"
+      value="4"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

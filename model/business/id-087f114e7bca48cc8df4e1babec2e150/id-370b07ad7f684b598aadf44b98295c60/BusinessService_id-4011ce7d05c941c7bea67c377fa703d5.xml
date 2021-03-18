@@ -1,0 +1,30 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mobile - on/off Net Charging"
+    id="id-4011ce7d05c941c7bea67c377fa703d5"
+    documentation="No difference for on/off net charging. &#xA;INAP protocol in scope for IWF.&#xA;Network capability to determine on/off net usage - additional configuration&#xA;25-09-2020 - Kayne confirmed - MVNO, not for consumer.&#xA;Why MVNO Horizon 1?&#xA;23-10-2020 - not required discussed in Feature ownership meeting. Comfirmed by Kayne, Summer and James representing Consumer, Business and MVNO.">
+  <properties
+      key="Target Horizon"
+      value="N/A"/>
+  <properties
+      key="Segment"
+      value="MVNO"/>
+  <properties
+      key="Access/Service Type"
+      value="Mobile"/>
+  <properties
+      key="Comarch can support"
+      value="TBC"/>
+  <properties
+      key="Non-Comarch IT support needed"
+      value="N/A"/>
+  <properties
+      key="NaaS will support"
+      value="N/A"/>
+  <properties
+      key="Automated non-NaaS support"
+      value="TBC"/>
+  <properties
+      key="Unexpected"
+      value="true"/>
+</archimate:BusinessService>

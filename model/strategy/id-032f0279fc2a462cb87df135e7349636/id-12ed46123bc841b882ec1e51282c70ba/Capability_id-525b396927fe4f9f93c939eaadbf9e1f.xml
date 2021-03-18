@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Policy State Management"
+    id="id-525b396927fe4f9f93c939eaadbf9e1f"
+    documentation="The ability to determine, modify, and interpret the status or condition of a policy.">
+  <properties
+      key="TMF_ID"
+      value="1.2.3.9.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

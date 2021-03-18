@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service performance monitoring"
+    id="id-8e675cb98f904ab48f0b5a2dda4a6029"
+    documentation="Monitoring of Service performance data including notification and accumulation for e.g. Service Performance Dashboard.">
+  <properties
+      key="Function Identifier"
+      value="605"/>
+  <properties
+      key="TAM Application Name"
+      value="Service Performance Monitoring"/>
+  <properties
+      key="TAM Application Id"
+      value="6.7.1"/>
+  <properties
+      key="Constructed Id"
+      value="6.7.1.605"/>
+</archimate:ApplicationFunction>

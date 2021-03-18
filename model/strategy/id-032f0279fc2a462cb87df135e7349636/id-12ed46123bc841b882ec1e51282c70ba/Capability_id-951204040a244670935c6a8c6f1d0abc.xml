@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Order Type Management"
+    id="id-951204040a244670935c6a8c6f1d0abc"
+    documentation="The ability to define and maintain the classification and categories of an order.">
+  <properties
+      key="TMF_ID"
+      value="1.1.8.13.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

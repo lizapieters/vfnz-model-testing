@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monetary Amount State Management"
+    id="id-4f04b2ac48a449d0bbdc179640403f4d"
+    documentation="The ability to define and maintain the various conditions or state that apply to monetary amounts.">
+  <properties
+      key="TMF_ID"
+      value="1.3.6.9.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

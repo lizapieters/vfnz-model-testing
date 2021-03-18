@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define Party Product Specification Involvement"
+    id="id-f84d8462d3424d3a8144273aab23c2ed"
+    documentation="On-board a product specification from another party's catalog.  Also manage the enterprise's relationship with a product specification.">
+  <properties
+      key="Process Identifier"
+      value="1.6.4.1.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Define Party Product Specification Involvement on-boards a product specification from another party's catalog It also manages the enterprise's relationship with a product specification. It also manages the relationships between an enterprises product specification and that of another party. It also manages Product Specification Tests proposed by the enterprise. Until an on-boarding agreement is approved the product specification is marked as tentatively on-boarded. Once the agreement is approved the specification is marked as on-boarded. By using the on-boarded specifications, this process allows the enterprise to create new product offerings that leverage its own product offering as well as another party's offering. The specifications for the product offering made available by another party may be from a wholesalerâ€™s perspective, while the enterprise's specification may be from a retailerâ€™s perspective. Therefore this process also maintains the relationship between the enterprise's product specification and one provided by another party. It is also used to modify the involvement associated with a party's, including the enterprise, product specifications&quot;"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

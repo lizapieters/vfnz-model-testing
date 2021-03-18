@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Task Item Policy Control Configuration"
+    id="id-680dfe1846dd48939ffa92eff66456af"
+    documentation="Define and configure the policies which will be implemented during the Resource task item lifecycle.">
+  <properties
+      key="Function Identifier"
+      value="996"/>
+  <properties
+      key="TAM Application Name"
+      value="Resource Capability Orchestration"/>
+  <properties
+      key="TAM Application Id"
+      value="7.16"/>
+  <properties
+      key="Constructed Id"
+      value="7.16.996"/>
+</archimate:ApplicationFunction>

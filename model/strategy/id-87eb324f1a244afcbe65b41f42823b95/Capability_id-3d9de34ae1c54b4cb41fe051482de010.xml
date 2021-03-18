@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Supplier/Partner Data Collection"
+    id="id-3d9de34ae1c54b4cb41fe051482de010"
+    documentation="Supplier/Partner Data Collection provides the required functionality to gather substantiating data to support supplier/partner invoice reconciliation and partner settlements.">
+  <properties
+      key="TMF Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="8.2.5.2"/>
+  <properties
+      key="TMF Function"
+      value="Collection of adjustment and billed charge data Collection of statistics on supplier/partner activities Collection of Usage and/or supplier/partner charges Supplier/Partner�Settlements Supplier/Partner�Settlements reporting"/>
+  <properties
+      key="TMF Maturity"
+      value="Supplier_Partner Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

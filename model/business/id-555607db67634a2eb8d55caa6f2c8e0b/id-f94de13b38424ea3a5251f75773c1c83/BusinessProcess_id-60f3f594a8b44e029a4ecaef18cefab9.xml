@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collect Additional Party Attribute"
+    id="id-60f3f594a8b44e029a4ecaef18cefab9"
+    documentation="Collect additional attributes about a party and/or a role a party plays.">
+  <properties
+      key="Process Identifier"
+      value="1.6.3.1.5.5"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Collect Additional Party Attribute collects additional attributes about a party and/or a role a party plays. This is in addition to any other attributes collected for a party or role a party plays, including attributes collected by the Collect Party Data processes, and party and/or party role demographics and profiles. For example, for a party playing the role of &quot;lead&quot; an attribute that defines how the lead found out about an enterprise may be defined. This process also defines what attributes are to be collected for each type of party/party role."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sales Job Aids"
+    id="id-55c1843b6c9a46fc8e111174fd6ac06a"
+    documentation="The Job Aids Application provides access to needed job aids, methods and procedures to assist in performing various sales.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="3.2.1"/>
+  <properties
+      key="TMF Function"
+      value="Sales Job Aid Wizards Sales Job Quick Reference Guide Sales Product Support"/>
+  <properties
+      key="TMF Maturity"
+      value="Market_Sales Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Problem Diagnostics"
+    id="id-2c7c244f1b6a4ebd9967e076be520481"
+    documentation="Customer Problem Diagnostics applications provide the necessary functionality to perform the root cause analysis of a reported or affected customer problem.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.8.3"/>
+  <properties
+      key="TMF Function"
+      value="Customer Problem Diagnostics Resolving Customer Problem Support"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0084"
+    id="id-8764715f7b5147519754155ef59e9d82"
+    documentation="As a customer, I want to be able to return a device, so that I can give it back if I change my mind">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0084"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="2"/>
+  <properties
+      key="Base_Old"
+      value="2"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Help"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Help"/>
+  <properties
+      key="Topic"
+      value="Device return"/>
+  <properties
+      key="Remarks"
+      value="What are the details: how many days it is allowed? What about payment return? What in case of anonymous buy. 10 days both for consumer (regulatory) and business (VF free will). Only applies for online. 30 days in case a customer doesn't like the service. Applies both for online and in a shop. Any payments done need to be returned. This can happen only after a check of the condition of the device (at Brightpoint or in store). Currently the refunds are processed manually by backoffice. Maybe this could be automated for DX. Process can be started online (return courier is sent back)."/>
+  <properties
+      key="Module"
+      value="AIF, BS?, CRM, OM, SC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="REQ_OSS_39 REQ_OSS_391 REQ_OSS_395"/>
+</archimate:Requirement>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Self Heal Resource Trouble"
+    id="id-cd3877e38ad143fcbbc08d52a0a302e2"
+    documentation="Self Heal failed resource before identification of root cause of failure.">
+  <properties
+      key="Process Identifier"
+      value="1.5.8.3.8"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of Self heal Resource Trouble process is to promptly recover failed resource, especially software-based resource (e.g., virtual network function:VNF) before identification of the detailed root cause of failure, such as software bugs like memory leak, and hardware failure like fan fault and link down. The responsibilities of these processes include: - Isolate failed resource (e.g., failed VNF) from service. - Check available resource related to infrastructure (e.g., CPU, memory, Disk etc..) to create new network function for recovery. -Create new network function for recovery. -Perform testing in order to check normality of the created function. The objective of Recover Resource Trouble process is to promptly recover failed resource, especially software-based resource (e.g., virtual network function: VNF) before identification of the detailed root cause of failure, such as software bugs like memory leak, and hardware failure like fan fault and link down. The responsibilities of these processes include: - Decide healing option based on a healing policy/rule of operator. - Isolate failed resource (e.g., failed VNF) from service. - Check available resource related to infrastructure (e.g., CPU, memory, Disk etc..) to create new network function for recovery. -Create new network function for recovery. -Perform testing in order to check normality of the created function."/>
+  <properties
+      key="Maturity Level"
+      value="2"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Work Item Access Management"
+    id="id-3344b278a3d949fb9aa2b4a2d0ec119a"
+    documentation="The ability to allow or restrict access to a work item.">
+  <properties
+      key="TMF_ID"
+      value="1.3.10.1.5"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

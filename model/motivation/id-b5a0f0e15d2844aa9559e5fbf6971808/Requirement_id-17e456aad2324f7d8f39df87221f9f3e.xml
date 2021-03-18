@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1329"
+    id="id-17e456aad2324f7d8f39df87221f9f3e"
+    documentation="As a new or existing customer, I want to be able to purchase a post-paid connection and hardware on interest free online, so that I can join Vodafone">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1329"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Jared Mortlock"/>
+  <properties
+      key="Tribe"
+      value="Business"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Self Service"/>
+  <properties
+      key="Topic"
+      value="New connection"/>
+  <properties
+      key="Remarks"
+      value="EP: requirement clear"/>
+  <properties
+      key="Module"
+      value="DS, SC, EP, PC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Business only"/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

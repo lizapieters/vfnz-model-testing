@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Work"
+    id="id-82522cc808c04327b803062c1b13e2ff"
+    documentation="The Work entity is used to record actual executed work; i.e. an instance of that entity is created for the actual work described by the WorkSpecification. If there are characteristics defined for the WorkSpecification; the work instance has a distinct value assigned for those characteristics. Instances of Work are associated to the WorkOrderItem. The quantity attribute can be used if the same work has been done more than once identically (based on the similar attribute in WorkOrderItem)."/>

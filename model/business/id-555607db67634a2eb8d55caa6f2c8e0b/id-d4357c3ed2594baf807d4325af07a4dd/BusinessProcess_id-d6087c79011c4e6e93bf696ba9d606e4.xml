@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop Product Offering Pricing Plan"
+    id="id-d6087c79011c4e6e93bf696ba9d606e4"
+    documentation="Create and modify a group of product offering prices that represent a price plan for a product offering.  Other processes provide notifications and approve the creation and updates.">
+  <properties
+      key="Process Identifier"
+      value="1.2.7.2.2.1.2"/>
+  <properties
+      key="Category"
+      value="(6) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Develop Product Offering Price Plan creates and modifies a grouping of product offering prices that represent a price plan for a product offering. For example a plan may consist of a recurring charge for a data plan and a charge for excess data usage. Modification of the plan may include removing and adding product offering prices to the plan. These processes interact with the Provide Product Offering Price Notification and Obtain Product Offering Price Approval processes to provide notifications of suggested new and changed price plans to parties who approve or are involved in some way, obtain approval to make them, then create or update the price. Once created or changed, notifications are sent to all involved parties, such as approvers, those consulted, and other involved parties."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

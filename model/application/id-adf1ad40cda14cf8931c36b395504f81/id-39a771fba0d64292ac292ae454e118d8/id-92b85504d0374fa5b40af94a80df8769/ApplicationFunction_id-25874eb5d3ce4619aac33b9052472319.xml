@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Handle inter product dependency"
+    id="id-25874eb5d3ce4619aac33b9052472319"
+    documentation="Identifies product dependency, binds new order to purchased product or point to the dependent product required">
+  <properties
+      key="Function Identifier"
+      value="182"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer and Product Data Collection Offer Configuration"/>
+  <properties
+      key="TAM Application Id"
+      value="#N/A"/>
+  <properties
+      key="Constructed Id"
+      value="#N/A"/>
+</archimate:ApplicationFunction>

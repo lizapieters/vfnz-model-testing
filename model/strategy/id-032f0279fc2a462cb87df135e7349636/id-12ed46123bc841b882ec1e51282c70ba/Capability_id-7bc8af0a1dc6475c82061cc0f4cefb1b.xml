@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Route/Campaign Matching"
+    id="id-7bc8af0a1dc6475c82061cc0f4cefb1b"
+    documentation="The Ability to associate a route with a marketing campaign.">
+  <properties
+      key="TMF_ID"
+      value="1.1.10.5.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

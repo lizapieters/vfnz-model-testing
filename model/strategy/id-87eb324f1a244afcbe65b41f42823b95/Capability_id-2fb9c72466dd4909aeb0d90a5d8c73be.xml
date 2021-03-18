@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Payment Interface Management"
+    id="id-2fb9c72466dd4909aeb0d90a5d8c73be"
+    documentation="OverviewPayment Interface Management - retrieves and transmits payment information with payment channel organisations (financial institutions/clearing houses) in a secure manner according to agreements.">
+  <properties
+      key="TMF Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.9.4.1"/>
+  <properties
+      key="TMF Function"
+      value="Payment Interface Direct debit payment support Payment interface management Payment Interface Refunds Transaction Support"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

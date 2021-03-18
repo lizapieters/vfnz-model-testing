@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Update Network Function"
+    id="id-b18422aa7cdb46ea80f6fa0e16fca89c"
+    documentation="Update configuration of network function.">
+  <properties
+      key="Process Identifier"
+      value="1.5.8.3.8.7"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of &quot;Update Network Function&quot; process is to activate deployed network function instances by modifying a configuration. The result of configuration may corresponds to failed VNF configration or template."/>
+  <properties
+      key="Maturity Level"
+      value="2"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

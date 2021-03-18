@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Accounts Receivable Reconciliation"
+    id="id-d264be10af0a434587fb36aeb9e774cf"
+    documentation="General Ledger Account Reconciliation function for Accounts Receivable">
+  <properties
+      key="Function Identifier"
+      value="866"/>
+  <properties
+      key="TAM Application Name"
+      value="General Ledger Account Reconciliation"/>
+  <properties
+      key="TAM Application Id"
+      value="9.3.9"/>
+  <properties
+      key="Constructed Id"
+      value="9.3.9.866"/>
+</archimate:ApplicationFunction>

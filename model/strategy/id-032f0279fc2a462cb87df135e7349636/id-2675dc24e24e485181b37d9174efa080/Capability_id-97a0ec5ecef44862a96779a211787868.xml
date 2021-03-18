@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Submission/Message Matching"
+    id="id-97a0ec5ecef44862a96779a211787868"
+    documentation="The ability to associate a submission with an inbound communication.">
+  <properties
+      key="TMF_ID"
+      value="1.3.10.5.7.1"/>
+  <properties
+      key="Level"
+      value="4"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

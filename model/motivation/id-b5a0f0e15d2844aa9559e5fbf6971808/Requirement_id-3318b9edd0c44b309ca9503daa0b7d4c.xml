@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1042"
+    id="id-3318b9edd0c44b309ca9503daa0b7d4c"
+    documentation="As a Payments specialist, I want to be able to receive a remittance (e.g. .pdf, .xls via email ) allocate the payment and attach the remittance against the account so  that we have a view for future customer queries, reconciliation and auditing purposes">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1042"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Karen Lydon"/>
+  <properties
+      key="Tribe"
+      value="Finance &amp; Business / AR Payments"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Pay"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="AR/Payments"/>
+  <properties
+      key="Remarks"
+      value="Is it just GST receipt? Can you please elabore what kind of information should be presented on that document? B2B send info to FV how to allocate the payment. The allocation is made manually. Uploading it is also manual. Just to be stored in the system for reference. The remittance changes every month. Currently nto stored anywhere."/>
+  <properties
+      key="Module"
+      value="BS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

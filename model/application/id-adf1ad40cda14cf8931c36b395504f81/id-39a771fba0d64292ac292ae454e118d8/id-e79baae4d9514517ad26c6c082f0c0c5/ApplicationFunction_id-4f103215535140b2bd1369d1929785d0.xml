@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Outboud notification recommendation function"
+    id="id-4f103215535140b2bd1369d1929785d0"
+    documentation="For Outbound, it provides necessary hooks to reach out to the customer via preferred channel such as SMS, email or Social media &#xA;For Inbound, Self-Service or Call Center touch points can get recommendation and a guided action flow to complete the suitable customer treatment (ex. Credit Adjustment handled by agent, or bill dispute initiation via self-service)">
+  <properties
+      key="Function Identifier"
+      value="239"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Recommended Action"/>
+  <properties
+      key="TAM Application Id"
+      value="5.5.15"/>
+  <properties
+      key="Constructed Id"
+      value="5.5.15.239"/>
+</archimate:ApplicationFunction>

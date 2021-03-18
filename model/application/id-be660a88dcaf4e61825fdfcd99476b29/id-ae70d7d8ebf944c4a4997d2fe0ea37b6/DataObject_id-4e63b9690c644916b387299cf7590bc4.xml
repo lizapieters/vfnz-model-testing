@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResourceFunction"
+    id="id-4e63b9690c644916b387299cf7590bc4"
+    documentation="A ResourceFunction is described by a ResourceFunctionSpec specifying the possible configurations. A ResourceFunction is a function to transform inputs of any nature into outputs of any nature independently from the way it is provided. Each time a ResourceFunctionSpecification is provided whatever the way it is done (SoftwareSpecification; SoftBlackBoxSpec or PhysicalBlackBox); a ResourceFunction is created with its ConnectionPoints. The ResourceFunction is provided either by an InstalledSoftware; a SoftBlackBox; or a PhysicalBlackBox. These relationships are exclusive."/>

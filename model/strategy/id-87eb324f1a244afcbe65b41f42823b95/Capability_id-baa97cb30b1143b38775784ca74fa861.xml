@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Supplier/Partner Assurance Management"
+    id="id-baa97cb30b1143b38775784ca74fa861"
+    documentation="Supplier/Partner Assurance Management provides the necessary functionality to manage problems that are being passed on to the supplier/partner, originating with the supplier/partner and being passed to the service provider, as well as assuring that both the service provider and the supplier/partner are meeting the product and service obligations set out in the contract.Interactions between the service provider and the partner can be �bidirectional� while solving a mutual customer�s problem.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="8.2.3"/>
+  <properties
+      key="TMF Function"
+      value="Handling customer inquiries &amp; issues Passing/receiving inquires and issues Performance Management Receiving problems"/>
+  <properties
+      key="TMF Maturity"
+      value="Supplier_Partner Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

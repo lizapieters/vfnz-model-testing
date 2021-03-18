@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Network Decommissioning"
+    id="id-94fdd49d776144fcbc368307a94fbee4"
+    documentation="The ability to remove a network from active use.">
+  <properties
+      key="TMF_ID"
+      value="1.1.7.3.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

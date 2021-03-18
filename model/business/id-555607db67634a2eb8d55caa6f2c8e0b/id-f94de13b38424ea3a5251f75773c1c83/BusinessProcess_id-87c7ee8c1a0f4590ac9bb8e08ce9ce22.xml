@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aggregate/Combine Party Bill/Invoice"
+    id="id-87c7ee8c1a0f4590ac9bb8e08ce9ce22"
+    documentation="Aggregate and/or combine a number bills/invoices specific to a party for a specific period.">
+  <properties
+      key="Process Identifier"
+      value="1.6.15.3.2.2"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Aggregate/Combine Party Bill/Invoice aggregates and/or combines a number invoices for a specific period for a party. Aggregation entails a multiple number of invoices , corrections, revenue shares, memos, credit notes and adjustments received over a determined time, where the period are contractually determined (monthly cannot be assumed)."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

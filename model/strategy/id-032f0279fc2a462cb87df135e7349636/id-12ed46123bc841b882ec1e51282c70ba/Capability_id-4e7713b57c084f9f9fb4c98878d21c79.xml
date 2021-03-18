@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agreement Access Enforcement"
+    id="id-4e7713b57c084f9f9fb4c98878d21c79"
+    documentation="The ability to control, authorize, or grant access by permitted parties to the rights and privileges allowed by an agreement.">
+  <properties
+      key="TMF_ID"
+      value="1.1.5.7.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

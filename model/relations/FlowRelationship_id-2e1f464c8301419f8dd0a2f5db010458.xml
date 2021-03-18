@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voice Mail"
+    id="id-2e1f464c8301419f8dd0a2f5db010458">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-fde909776f86473980a683cfe834dc1e.xml#id-fde909776f86473980a683cfe834dc1e"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e57ed8066a6e4fea9202c6775c233c2b.xml#id-e57ed8066a6e4fea9202c6775c233c2b"/>
+</archimate:FlowRelationship>

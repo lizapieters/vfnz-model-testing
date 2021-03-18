@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Access Restriction"
+    id="id-274b2766ad854ccc8e1a2ddaef096bb4"
+    documentation="The ability to prevent a customer from proceeding with a given task or point of entry based on not having authorization to do so.">
+  <properties
+      key="TMF_ID"
+      value="1.1.2.4.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

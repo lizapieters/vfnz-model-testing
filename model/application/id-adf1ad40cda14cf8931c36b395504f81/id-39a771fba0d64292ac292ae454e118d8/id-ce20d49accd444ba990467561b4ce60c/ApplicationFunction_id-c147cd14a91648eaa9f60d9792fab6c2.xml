@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Catalog Entity Versioning"
+    id="id-c147cd14a91648eaa9f60d9792fab6c2"
+    documentation="Manage multi-versions of the same entity is a very important aspect in a catalog. &#xA;The complexity starts with the ability to manage multiple versions for single entities, however in real life it is required to support much more complex scenarios where entities relate to other entities that have a different lifecycle and a different versions map, however the validity and maintenance of the versions needs to be maintained">
+  <properties
+      key="Function Identifier"
+      value="14"/>
+  <properties
+      key="TAM Application Name"
+      value="Catalog Management"/>
+  <properties
+      key="TAM Application Id"
+      value="11.1"/>
+  <properties
+      key="Constructed Id"
+      value="11.1.14"/>
+</archimate:ApplicationFunction>

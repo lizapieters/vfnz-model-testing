@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource topology verification"
+    id="id-78050db8012942208317f0f0ba209960"
+    documentation="Resource Topology Verification in Inventory Mgmt. Systems - Work with the Inventory Management applications to ensure that the topology reflected in its database is in sync with that in the Inventory Management Systems">
+  <properties
+      key="Function Identifier"
+      value="456"/>
+  <properties
+      key="TAM Application Name"
+      value="Resource Commissioning &amp; Configuration Management"/>
+  <properties
+      key="TAM Application Id"
+      value="7.1.1"/>
+  <properties
+      key="Constructed Id"
+      value="7.1.1.456"/>
+</archimate:ApplicationFunction>

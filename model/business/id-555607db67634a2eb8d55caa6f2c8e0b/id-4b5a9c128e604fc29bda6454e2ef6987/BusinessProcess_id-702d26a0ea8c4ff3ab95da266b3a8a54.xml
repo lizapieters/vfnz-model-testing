@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Party Bill/Invoice Control"
+    id="id-702d26a0ea8c4ff3ab95da266b3a8a54"
+    documentation="Establish and maintain party bill invoice formats,  maintain lists of parties who are eligible for receiving bills/invoices, and define the billing cycles.">
+  <properties
+      key="Process Identifier"
+      value="1.6.15.2"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Party Bill/Invoice Control establishes and maintains party bill invoice formats, and any interaction with specific parties to modify the format. It maintains lists of parties who are eligible for receiving bills/invoices. It also defines the billing cycles and respective dates according to cash flow needs as established by financial management processes."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

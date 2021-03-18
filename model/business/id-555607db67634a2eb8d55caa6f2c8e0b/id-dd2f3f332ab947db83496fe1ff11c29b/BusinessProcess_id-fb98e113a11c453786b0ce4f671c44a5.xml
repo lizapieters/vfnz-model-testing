@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Report Constraints to Other Processes"
+    id="id-fb98e113a11c453786b0ce4f671c44a5"
+    documentation="This process reports any identified constraints that can affect service quality standards to other processes.  These constraints may include specific resource failures, capacity shortages due to unexpected demand peaks, etc.">
+  <properties
+      key="Process Identifier"
+      value="1.4.7.4.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

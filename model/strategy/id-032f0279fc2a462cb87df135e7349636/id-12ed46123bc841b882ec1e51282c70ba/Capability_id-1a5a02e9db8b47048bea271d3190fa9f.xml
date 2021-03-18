@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Network Specification"
+    id="id-1a5a02e9db8b47048bea271d3190fa9f"
+    documentation="The ability to define the network’s features and configuration, which may include drawings, blueprints, and other representations.">
+  <properties
+      key="TMF_ID"
+      value="1.1.7.2.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

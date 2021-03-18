@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Channel Customer registration"
+    id="id-204d7b6062c54af9a3aad5a5e4a6163d"
+    documentation="Customer registration � register a new customer if this is a new customer (using Customer Information Management).">
+  <properties
+      key="Function Identifier"
+      value="121"/>
+  <properties
+      key="TAM Application Name"
+      value="Channel Guidance and Data Capture"/>
+  <properties
+      key="TAM Application Id"
+      value="5.3.1.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.3.1.1.121"/>
+</archimate:ApplicationFunction>

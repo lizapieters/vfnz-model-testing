@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Update Loyalty Program Account"
+    id="id-8b32b8ff93a14975a54c43a99be4b50d"
+    documentation="Update a loyalty program account and make changes to loyalty program participant information.">
+  <properties
+      key="Process Identifier"
+      value="1.1.19.2.5.1"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Update Loyalty Program Account makes updates to a loyalty program account, such as changing a pin/password or the name of the account. The Party Relationship Development &amp; Retirement process is used to make changes to loyalty program participant information, such as name, contact information, profile, demographics, and bill/ship to."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

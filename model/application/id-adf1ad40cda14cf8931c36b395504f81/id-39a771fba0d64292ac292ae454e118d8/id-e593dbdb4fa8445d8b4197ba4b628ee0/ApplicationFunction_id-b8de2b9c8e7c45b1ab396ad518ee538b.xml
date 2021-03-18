@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Location Replenishment Function"
+    id="id-b8de2b9c8e7c45b1ab396ad518ee538b"
+    documentation="Provides means to update the repository with new/updated location information  from external sources.">
+  <properties
+      key="Function Identifier"
+      value="431"/>
+  <properties
+      key="TAM Application Name"
+      value="Location Management"/>
+  <properties
+      key="TAM Application Id"
+      value="7.15"/>
+  <properties
+      key="Constructed Id"
+      value="7.15.431"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Account Receivable Debit/Credit matching"
+    id="id-f64a5793259f42e289dd8839b88f08fc"
+    documentation="Accounts Receivable (A/R) Management function of Allocate/assign receivables within customers account: Match credit and debit entries related to a same process. The most common example is matching payment(s) to corresponding invoices or invoice items. The matching does not affect the global balance but eases the clerical tasks.">
+  <properties
+      key="Function Identifier"
+      value="26"/>
+  <properties
+      key="TAM Application Name"
+      value="A/R Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.9.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.9.1.26"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Remit Party Payment"
+    id="id-a5b72c91bdaf4900aa72d437141f55af"
+    documentation="Prepare, verify, authorize, and make a payment to a party including the method of payment, and optionally the application of the payment to one or more  bills/purchases/charges.">
+  <properties
+      key="Process Identifier"
+      value="1.6.16.1.1.2"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Remit Party Payment prepares, verifies, authorizes, and makes a payment to a party including the method of payment, and optionally the application of the payment to one or more bills, purchases, charges, settlements or some other form of revenue sharing where a payment is due to another party. A payment could also be made to another party based on an overpayment made by the party or some other credit, such as a refund check for a deposit. A payment could also be made for which no invoice is received, such an enterprise may accept payment on behalf of another party, takes a percent as a fee, and forwards the remainder to other party; the party does not invoice the enterprise. A receipt may also be requested from the party to whom a payment is remitted."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

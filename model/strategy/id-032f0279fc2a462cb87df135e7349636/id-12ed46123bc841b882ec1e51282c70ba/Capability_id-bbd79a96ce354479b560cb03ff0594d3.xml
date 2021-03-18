@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Partner/Investment Matching"
+    id="id-bbd79a96ce354479b560cb03ff0594d3"
+    documentation="The ability to associate a partner with an investment or investments that the organization may be seeking or with which a partner is otherwise involved.">
+  <properties
+      key="TMF_ID"
+      value="1.1.9.7.8"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

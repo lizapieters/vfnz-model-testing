@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Asset Management"
+    id="id-23931cd0de084e88b97dfbf1c52dadc2"
+    documentation="Manage all financial and policy aspects of the physical assets of the enterprise">
+  <properties
+      key="Process Identifier"
+      value="1.7.5.2"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Asset Management processes manage all financial and policy aspects of the physical assets of the enterprise (corporate real-estate, fleets, infrastructure, stocks, consumables, etc.); they set asset management policies, track assets using physical asset recording systems and manage the overall corporate balance sheet. For each managed corporate asset, these processes plan for future needs and coordinate with the Supply Chain Development &amp; Management processes for all aspects related to purchasing."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

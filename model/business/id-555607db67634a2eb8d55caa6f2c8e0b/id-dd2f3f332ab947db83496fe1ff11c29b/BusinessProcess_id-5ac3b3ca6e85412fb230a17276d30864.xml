@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Engage External Service Suppliers"
+    id="id-5ac3b3ca6e85412fb230a17276d30864"
+    documentation="If some specific resource components are owned and managed by suppliers/partners, this process is responsible for initiating requests, through S/P Performance Management, for resolution by the supplier/partner of the specific resource components. This process will co-ordinate all the actions necessary in order to guarantee that all tasks are finished at the appropriate time and in the appropriate sequence.">
+  <properties
+      key="Process Identifier"
+      value="1.4.7.6.7"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

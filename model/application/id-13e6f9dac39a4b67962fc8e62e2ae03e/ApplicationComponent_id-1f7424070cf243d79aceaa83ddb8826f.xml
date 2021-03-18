@@ -1,0 +1,66 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API Gateway"
+    id="id-1f7424070cf243d79aceaa83ddb8826f"
+    documentation="DXL; Digital Experience Layer">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="10.3.1"/>
+  <properties
+      key="TMF Function"
+      value="API Authentication API Diagnostics &amp; Notification API Gateway Caching API Gateway Log Reporting API Gateway Logging API Gateway Policy Evaluation API Gateway Routing API Gateway Web protocol data transforming API Gateway Web protocol header transforming"/>
+  <properties
+      key="TMF Maturity"
+      value="Integration Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+  <properties
+      key="StatusForLookUp"
+      value="Active"/>
+  <properties
+      key="Owner"
+      value="AndrewH"/>
+  <properties
+      key="Level of Service"
+      value="Mission Critical"/>
+  <properties
+      key="Annual Support Cost"
+      value="$886,099.00"/>
+  <properties
+      key="Product / Service"
+      value="Common"/>
+  <properties
+      key="Segment"
+      value="Common"/>
+  <properties
+      key="DX Association"
+      value="Replaced Fully"/>
+  <properties
+      key="Existing Retained or Replaced"
+      value="Replace"/>
+  <properties
+      key="ComArch / Other"
+      value="Comarch"/>
+  <properties
+      key="Dig Future Module"
+      value="Application Integration Framework (AIF)"/>
+  <properties
+      key="Legacy BSS Stack Served"
+      value="C3"/>
+  <properties
+      key="TAM App ID"
+      value="10.3.1"/>
+  <properties
+      key="TAM Domain"
+      value="Integration Domain"/>
+  <properties
+      key="TAM Application"
+      value="API Gateway"/>
+</archimate:ApplicationComponent>

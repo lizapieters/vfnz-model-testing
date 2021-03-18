@@ -1,0 +1,33 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Campaign Management"
+    id="id-a7d2deda15d141d5b4d32330812394e9"
+    documentation="The Campaign Management applications are responsible for managing the lifecycle of marketing campaigns, sometimes referred to as &quot;closed loop marketing&quot;. Service Provider marketers need to respond to changing market environments with marketing initiatives that push highly targeted messages to increasingly focused segments. &#xA;Marketers need an adaptable and flexible campaign management application that can adjust to evolving customer lifecycles with corresponding targeted marketing strategies. Marketers need to deliver coordinated outbound and inbound campaigns across all points of interaction- focusing marketing resources where the greatest potential value exists. The campaign management application needs to:&#xA;&#xA;  �Leverage a single, consistent view   of customer data. &#xA;  �Be highly usable, which increases marketing productivity and effectiveness. &#xA;  �Provide valuable insight into marketing performance through analytics that enable marketers to continually adjust and improve marketing investments.">
+  <properties
+      key="TMF_ID"
+      value="1.2.12"/>
+  <properties
+      key="Level"
+      value="1"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="3.9.1"/>
+  <properties
+      key="TMF Function"
+      value="0"/>
+  <properties
+      key="TMF Maturity"
+      value="Market_Sales Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

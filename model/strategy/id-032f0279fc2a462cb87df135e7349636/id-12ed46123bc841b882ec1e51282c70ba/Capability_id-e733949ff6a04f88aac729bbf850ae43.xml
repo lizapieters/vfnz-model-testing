@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agreement Risk Level Determination"
+    id="id-e733949ff6a04f88aac729bbf850ae43"
+    documentation="The ability to identify and define the level of risk associated with an agreement.">
+  <properties
+      key="TMF_ID"
+      value="1.1.5.6.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

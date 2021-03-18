@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0694"
+    id="id-fbc36c8ca44c4b249932082e6cd0dfdb"
+    documentation="As a product manager, I want to be able to discount the delivery cost for selected customers, so I can keep them happy.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0694"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="buy"/>
+  <properties
+      key="Topic"
+      value="Discounted/free delivery"/>
+  <properties
+      key="Remarks"
+      value="OOTB we can discount delivery cost based on some premises like geographical area, customer type etc."/>
+  <properties
+      key="Module"
+      value="CRM, SC, PC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

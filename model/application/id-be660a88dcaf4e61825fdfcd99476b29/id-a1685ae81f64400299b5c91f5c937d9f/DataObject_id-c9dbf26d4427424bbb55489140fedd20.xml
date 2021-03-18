@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AnomalySecurityEvent"
+    id="id-c9dbf26d4427424bbb55489140fedd20"
+    documentation="Several event types are set aside; primarily as placeholders; pending development of better standards and guidance on how the data elements they may contain are defined. The anomaly event type is one of these types. The elements that are used to extend the base event type for anomalies consist of a text field to describe the anomaly and a text field to contain log data."/>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitoring Product Offering Performance Analyses"
+    id="id-b8e9eb4fc13349fa9e986d67253e4dce"
+    documentation="Not used for this process element">
+  <properties
+      key="Process Identifier"
+      value="1.2.6.2"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Monitoring and analyzing the purchased product offering performance analyses produced by the Customer QoS/SLA Management processes to identify problems that may be applicable to purchased product offerings as a whole;"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

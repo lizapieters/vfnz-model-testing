@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Establish Loyalty Program Participant"
+    id="id-d1a23ff80847489695223ec3d1a392f8"
+    documentation="Create a loyalty program participant and establish a loyalty program account.">
+  <properties
+      key="Process Identifier"
+      value="1.1.19.2.1.2.1"/>
+  <properties
+      key="Category"
+      value="(6) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Establish Loyalty Program Participant creates a loyalty program participant and establish a loyalty program account. A loyalty program ID may be issued by an enterprise, or a party may be able to create their own ID. Existing information about a party can be used to establish the participant. The loyalty program account is associated with applicable loyalty program reward catalog(s). There may be requirements that limit which program(s) a participant may join. These are checked to ensure that a participant can join a loyalty program."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

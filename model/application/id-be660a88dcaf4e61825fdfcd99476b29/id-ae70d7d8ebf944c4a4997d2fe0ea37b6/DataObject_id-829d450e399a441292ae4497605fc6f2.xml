@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PhysicalDevice"
+    id="id-829d450e399a441292ae4497605fc6f2"
+    documentation="This is an abstract base class for representing hardware devices that can be managed. This class represents a convenient aggregation point for combining different aspects of a device (e.g.; the cables; connectors; cards; power supplies; and other objects that together make up the device). Thus; it enables the device itself to have a physical manifestation (e.g.; the Internet Gateway Router can be identified as a PhysicalDevice). Examples of this class include routers and switches; computers; and other end-devices that are managed."/>

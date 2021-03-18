@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Determine Resource Availability"
+    id="id-2649ae18d1a749d7a8830bea3c8cf20c"
+    documentation="This process investigates the ability to be able to satisfy specific service orders as a part of a feasibility check.  Where the Allocate &amp; Install Resource processes are requested by a pre-feasibility resource order, or by the Design Resources processes, these processes determine whether the requested resources are available.">
+  <properties
+      key="Process Identifier"
+      value="1.5.6.1.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

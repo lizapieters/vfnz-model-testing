@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Number Portability Requests"
+    id="id-f75d1a4a8e224015b65568debe0a3fb2"
+    documentation="The Manage Number Portability Requests process ensures that the portability activities are assigned and managed efficiently and effectively.">
+  <properties
+      key="Process Identifier"
+      value="1.5.4.7.5.2"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Manage Number Portability Requests process ensures that the portability activities are assigned and managed efficiently and effectively. Responsibilities of these processes include, but are not limited to: â€¢Â Â Â Â Â Â  Modifying or canceling open number portability requests â€¢Â Â Â Â Â Â  Modifying the number portability request status â€¢Â Â Â Â Â Â  Scheduling number portability request â€¢Â Â Â Â Â Â  Adding additional information to number portability request â€¢Â Â Â Â Â Â  Reporting the completion status of number portability request â€¢Â Â Â Â Â Â  Managing communication flow with Number Portability Clearinghouse"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

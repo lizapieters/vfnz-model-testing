@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitor Actual Available Capacity"
+    id="id-044fb53476fc4877bf4d6747466893ac"
+    documentation="Monitor available actual capacity and provide results to the Suggest Available Capacity Adjustment process.">
+  <properties
+      key="Process Identifier"
+      value="1.8.2.5.1.2"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Monitor Actual Available Capacity monitors available actual capacity and provides results to the Suggest Available Capacity Adjustment process. Monitoring includes comparing actual capacity with what has been allocated to actual capacity demand. It may result in identifying the need for an increase or decrease in planned capacity. It may also include looking at actual sales to see if available capacity should be increased or decreased."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

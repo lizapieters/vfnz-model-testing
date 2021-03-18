@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer and Product Data Collection"
+    id="id-aa7fee84f50740d88c4f7e99ee6ec2c3"
+    documentation="Customer and Product Data Collection applications provide the means to gather additional customer and product data needed as part of Customer Order Establishment">
+  <properties
+      key="TMF Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.3.1.2"/>
+  <properties
+      key="TMF Function"
+      value="Customer and Product data Collection Handle inter product dependency"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

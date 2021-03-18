@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CompositeSecVulScoringMetricDefn"
+    id="id-56df3d8a480b41b7b402a01f2f19c946"
+    documentation="A type of SecurityVulnerabilityMetricDefn that is formed by aggregating other SecurityVulnerabilityMetricDefns; which may be Composite or Atomic SecurityVulnerabilityMetricDefns. Notes: A Base Score Metric which is made up of Base Exploitability and Base Impact; Base Exploitability made up of Acess Vector; Authentication; and so forth."/>

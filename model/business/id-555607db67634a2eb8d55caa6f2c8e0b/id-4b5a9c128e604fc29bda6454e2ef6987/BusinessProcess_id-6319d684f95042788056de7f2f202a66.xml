@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prepare Party Agreement"
+    id="id-6319d684f95042788056de7f2f202a66"
+    documentation="Prepare an agreement between the enterprise and a party or a template agreement that can be used as the basis for party-specific agreements.">
+  <properties
+      key="Process Identifier"
+      value="1.6.5.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Prepare Party Agreement prepares an agreement between the enterprise and a party or a template agreement that can be used as the basis for party-specific agreements. After approval of agreement between the enterprise and the party, the party can be on-boarded. Party or parties involved in an agreement make information available to the enterprise, including contact information, bank information, account information, service integration information, and so forth available to Party Engagement Development &amp; Retirement process. For a product, service, or resource related agreement the party or parties make these available to the enterprise as products in the party catalog. It also defines the commercial terms and conditions and requirements for the product to comply with the technical / operational specifications defined in the party catalog. It can be applied with other similar processes, for example, Party Order Handling, where the process to manage the implementation of the established agreement is addressed."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

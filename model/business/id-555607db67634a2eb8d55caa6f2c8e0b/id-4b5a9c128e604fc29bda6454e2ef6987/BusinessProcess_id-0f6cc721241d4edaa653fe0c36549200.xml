@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Track &amp; Manage Resource Performance Resolution"
+    id="id-0f6cc721241d4edaa653fe0c36549200"
+    documentation="Ensure testing, repair and restoration activities are assigned, coordinated and tracked efficiently, and that escalation is invoked as required for any open resource performance degradation reports in jeopardy">
+  <properties
+      key="Process Identifier"
+      value="1.5.9.6"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of the Track &amp; Manage Resource Performance Resolution processes is to efficiently assign, coordinate and track specific resource performance analysis and control activities, and escalate any open resource performance degradation reports in jeopardy. Responsibilities of these processes include, but are not limited to: â€¢ Adding additional information to an open resource performance degradation report based on the first-in and on-going analysis; â€¢ Scheduling, assigning and coordinating analysis and specific resource performance restoration activities and/or repair activities delegated to other processes; â€¢ Generating the respective other parties problem report creation request(s) to Initiate other parties Problem Report processes based on specific resource performance degradation reports where analysis the root cause is related to other parties products; â€¢ Modifying information in an existing resource performance degradation report based on assignments; â€¢ Modifying the resource performance degradation report status; â€¢ Canceling a resource performance degradation report when the specific request was related to a false resource failure event â€¢ Monitoring the jeopardy status of open resource performance degradation reports, and escalating resource performance degradation reports as necessary. These processes will co-ordinate all the actions necessary in order to guarantee that all tasks are finished at the appropriate time and in the appropriate sequence. The Track &amp; Manage Resource Performance Resolution processes will also inform the Close Resource Performance Degradation Report processes by modifying the resource performance degradation report status to cleared when the specific resource performance issues have been resolved."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

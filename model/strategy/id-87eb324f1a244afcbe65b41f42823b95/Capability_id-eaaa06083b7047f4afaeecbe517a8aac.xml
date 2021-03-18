@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collection Management"
+    id="id-eaaa06083b7047f4afaeecbe517a8aac"
+    documentation="The Collections Management application provides necessary functionality to manage customer accounts where there is an outstanding balance. It allows handling of each account individually, based on customer value and financial history using configurable policies. The collection management application supports the collection lifecycle activities including: collection decision making, selection of collection policy, collection execution - automating the collection treatment flow, monitoring the collection process and collection settlement negotiation. The collection application keeps track of collection status and history. The collections treatment flow can perform a number of activities including issuance of treatment notices and collection letters.">
+  <properties
+      key="TMF Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.14"/>
+  <properties
+      key="TMF Function"
+      value="0"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

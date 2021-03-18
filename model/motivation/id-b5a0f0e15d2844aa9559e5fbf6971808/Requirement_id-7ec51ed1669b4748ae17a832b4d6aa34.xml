@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0135"
+    id="id-7ec51ed1669b4748ae17a832b4d6aa34"
+    documentation="As a product owner, I want to create a set of rules for when a customer needs to be credit checked in order to purchase a device on interest free, so that I can reduce bad debt">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0135"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1?"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Topic"
+      value="Credit check"/>
+  <properties
+      key="Remarks"
+      value="Could you explain what type of rules would you like to create? In general rules are configured by Comarch team. A sample rule could be: if we've checked you in last x days and you are a customer with a good repayment history (not involved in collections process)"/>
+  <properties
+      key="Module"
+      value="OM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="Not Applicable"/>
+</archimate:Requirement>

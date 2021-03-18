@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Product Offering Exit"
+    id="id-0d52de6be10543a0a2277b2c76b5fc1f"
+    documentation="Identify an existing product offering which is unviable and manage the processes to exit it from the market.">
+  <properties
+      key="Process Identifier"
+      value="1.2.7.2.1.6"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Manage Product Offering Exit identifies an existing product offering which is unviable and manages the process to exit it from the market. It analyzes an existing product offering to identify if it is economically or strategically, identify customers impacted by any exit, develop customer specific or market segment exit or migration strategies, develop infrastructure transition and/or replacement strategies, and manage the operational aspects of the exit process. A business proposal identifying the competitive threats, risks and costs may be required as part of developing the exit strategy. It includes any interaction with cross-enterprise co-ordination and management functions to ensure that the needs of all stakeholders are identified and managed."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

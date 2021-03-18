@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financial Transaction Matching"
+    id="id-de7905e21ab846f38328359cbdbd2e69"
+    documentation="The ability to associate financial transactions with other business objects, including financial accounts, investments, channels, customers, and partners.">
+  <properties
+      key="TMF_ID"
+      value="1.3.6.7.6"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

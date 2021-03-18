@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bill preparation"
+    id="id-f3edb1e9d8364eaca7b56e979a6eb3ef"
+    documentation="AR calculates and sends to the Bill Calculation application the required information for accounts that are going to be processed.">
+  <properties
+      key="Function Identifier"
+      value="32"/>
+  <properties
+      key="TAM Application Name"
+      value="A/R Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.9.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.9.1.32"/>
+</archimate:ApplicationFunction>

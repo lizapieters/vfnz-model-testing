@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Invoice and payment status support"
+    id="id-79113c307e414ae18ecfc20531b79934"
+    documentation="Accounts Payable Invoice and payment status inquiries support.">
+  <properties
+      key="Function Identifier"
+      value="814"/>
+  <properties
+      key="TAM Application Name"
+      value="Accounts Payable"/>
+  <properties
+      key="TAM Application Id"
+      value="9.3.1.3"/>
+  <properties
+      key="Constructed Id"
+      value="9.3.1.3.814"/>
+</archimate:ApplicationFunction>

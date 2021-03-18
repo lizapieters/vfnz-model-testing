@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prepare Outbound Party Payment"
+    id="id-cc87271b97ab4611b928403f98fc550d"
+    documentation="Prepare a party payment including the method of payment, and optionally the application of the payment to one or more  bills/invoices, purchases, charges, settlements or some other form of revenue sharing where a payment is due to another party.">
+  <properties
+      key="Process Identifier"
+      value="1.6.16.1.1.2.1"/>
+  <properties
+      key="Category"
+      value="(6) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Sales Inventory"
+    id="id-84f9d0111c594b4cb2f806701add9826"
+    documentation="Establish, manage and administer the enterprise's inventory of sales prospects, actual sales, channel management and sales commissions, as embodied in the Sales Inventory Database, and monitor and report on the usage and access to the sales inventory, and the quality of the data maintained in it.">
+  <properties
+      key="Process Identifier"
+      value="1.1.7.4"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The purpose of the Manage Sales Inventory processes are twofold - establish, manage and administer the enterprise's inventory of sales prospects, actual sales, channel management and sales commissions, as embodied in the Sales Inventory Database, and monitor and report on the usage and access to the sales inventory, and the quality of the data maintained in it. The sales inventory maintains records of all sales, sales prospects and sales leads, sales channel activity, marketing campaign targets and performance, sales commissions and any other sales related- information, required to support both the Support Selling and the Selling processes. The sales inventory is also responsible for maintaining the association between customers and sales instances, created as a result of the Selling processes. Responsibilities of these processes include, but are not limited to: â€¢ Identifying and storing the inventory-relevant information requirements to be captured for sales processes and sales commission management ; â€¢ Identifying, establishing and maintaining sales inventory repository facilities; â€¢ Establishing and managing the sales inventory management and information capture processes; â€¢ Managing the registration and access control processes that enable processes to create, modify, update, delete and/or download sales data to and from the sales inventory; â€¢ Ensuring the sales inventory repository accurately captures and records all identified sales details, through use of automated or manual audits; â€¢ Tracking and monitoring of the usage of, and access to, the sales inventory repository and associated costs, and reporting on the findings â€¢ Identifying any technical driven shortcomings of the sales inventory repository, and providing input to Resource Development &amp; Management processes to rectify these issues."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

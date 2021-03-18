@@ -1,0 +1,30 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Device Leasing"
+    id="id-4d4336a7328a47bcac4f7ce5c95f5e2e"
+    documentation="05-10-2020 - Kayne update: Lease to return, ownership stays device VF. Potentially ready for 1.3 unless out of the box capability for 1.0">
+  <properties
+      key="Target Horizon"
+      value="1.x"/>
+  <properties
+      key="Segment"
+      value="Consumer"/>
+  <properties
+      key="Access/Service Type"
+      value="0"/>
+  <properties
+      key="Comarch can support"
+      value="TBC"/>
+  <properties
+      key="Non-Comarch IT support needed"
+      value="TBC"/>
+  <properties
+      key="NaaS will support"
+      value="N/A"/>
+  <properties
+      key="Automated non-NaaS support"
+      value="N/A"/>
+  <properties
+      key="Unexpected"
+      value="true"/>
+</archimate:BusinessService>

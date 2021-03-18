@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop Product Capacity"
+    id="id-ec9dc858c939447fb3927f9dfeff655c"
+    documentation="Perform all  applicable generalized  capacity management processes associated with product capacity.">
+  <properties
+      key="Process Identifier"
+      value="1.2.8.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Develop Product Capacity performs all generalized capacity management processes associated with product capacity, such as specifying available capacity, monitoring, and adjusting capacity. Specific to product capacity is defining its associations with product specifications, product offerings, and products."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

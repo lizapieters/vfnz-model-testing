@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Policy Finalization"
+    id="id-4a42933fffec4587860fbff6e281e6ab"
+    documentation="The ability to ensure that a policy is ready for distribution.">
+  <properties
+      key="TMF_ID"
+      value="1.2.3.6.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

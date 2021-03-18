@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UsageVolumeBalanceCredit"
+    id="id-d79898f358a9464e9a4f81baf4bf7d3c"
+    documentation="The UsageVolumeBalanceCredit represents an amount in a certain unit that credits the UsageVolumeBalance. The UsageVolumeBalanceCredit is the result of applying a particular UsageVolumeChargingRule specifying the way to credit the balance (it can be a on-time or recurrent credit) and increments the balance of the UsageVolumeProduct (UsageVolumeBalance)."/>

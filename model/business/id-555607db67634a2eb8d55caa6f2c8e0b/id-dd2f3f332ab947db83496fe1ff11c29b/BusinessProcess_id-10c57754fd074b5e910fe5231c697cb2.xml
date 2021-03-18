@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Capture &amp; Record Sales Prospect Data"
+    id="id-10c57754fd074b5e910fe5231c697cb2"
+    documentation="Captures and record all pertinent sales prospect data required for qualifying an opportunity and for the initiation, realization and deployment of the agreed sales proposal.">
+  <properties
+      key="Process Identifier"
+      value="1.1.9.3.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Capture &amp; Record Sales Prospect Data captures and records all pertinent sales prospect data required for qualifying an opportunity and for the initiation, realization and deployment of the agreed sales proposal. In most standard offerings the necessary sales prospect data is often captured by Contact/Lead/Prospect Management. For non-standard and/or complex sales agreements associated, for instance, with a customer RFP, extensive customer information may be required to plan and roll-out the agreed solution. For example, a smart city may require extensive capture of details surrounding deployment of IoT devices and applications to manage them."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voucher Life Cycle Management"
+    id="id-3a049289d8164640a5255cb1f4944c74"
+    documentation="Voucher Life Cycle Management including activation, locking, expiration and maintenance of purchased vouchers">
+  <properties
+      key="Function Identifier"
+      value="564"/>
+  <properties
+      key="TAM Application Name"
+      value="Voucher Management"/>
+  <properties
+      key="TAM Application Id"
+      value="7.6"/>
+  <properties
+      key="Constructed Id"
+      value="7.6.564"/>
+</archimate:ApplicationFunction>

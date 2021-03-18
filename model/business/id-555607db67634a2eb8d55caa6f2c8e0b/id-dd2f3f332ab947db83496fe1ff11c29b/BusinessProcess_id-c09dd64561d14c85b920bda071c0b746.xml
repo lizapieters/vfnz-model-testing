@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Assess and Report Resource Performance Management Processes"
+    id="id-c09dd64561d14c85b920bda071c0b746"
+    documentation="Track, monitor and assess the resource performance management processes and associated costs and report.">
+  <properties
+      key="Process Identifier"
+      value="1.5.4.2.8"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="â€¢ Tracking and monitoring of the Resource Performance Management processes and associated costs (including where resource infrastructure is deployed and managed by third parties), and reporting on the capability of the Resource Performance Management processes; In order to improve efficiency and accuracy of tracking &amp; monitoring process, this process may monitor and report the resource performance in a automated way through a single monitoring platform."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

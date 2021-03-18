@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Order Tracking &amp; Management"
+    id="id-3acd15525eb24d1a86b66dccb6c2d13a"
+    documentation="Service Order Tracking &amp; Management applications provide the functionality necessary to track and manage the distributed requests decomposed by Product/Service Order Decomposition.">
+  <properties
+      key="TMF Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="6.3.2.2"/>
+  <properties
+      key="TMF Function"
+      value="Service Order Completion Service Order Enquiry Service Order Orchestration Service Order Tracking Service Order Transfer Supervision"/>
+  <properties
+      key="TMF Maturity"
+      value="Service Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

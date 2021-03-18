@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Channel Retirement Determination"
+    id="id-25223d1446a44beb98948a7eea95e59c"
+    documentation="The ability to make decision(s) on when a channel should be retired from use by the business.">
+  <properties
+      key="TMF_ID"
+      value="1.1.1.9.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

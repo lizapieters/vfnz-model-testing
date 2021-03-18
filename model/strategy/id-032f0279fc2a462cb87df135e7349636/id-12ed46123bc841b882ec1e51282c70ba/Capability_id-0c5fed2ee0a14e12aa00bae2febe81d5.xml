@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agreement/Asset Matching"
+    id="id-0c5fed2ee0a14e12aa00bae2febe81d5"
+    documentation="The ability to associate an agreement with one or more assets.">
+  <properties
+      key="TMF_ID"
+      value="1.1.5.9.11"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

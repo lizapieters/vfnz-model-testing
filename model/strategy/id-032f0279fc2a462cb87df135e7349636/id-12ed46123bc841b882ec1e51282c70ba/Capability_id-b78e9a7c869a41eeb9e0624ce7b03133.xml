@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Policy Profile Management"
+    id="id-b78e9a7c869a41eeb9e0624ce7b03133"
+    documentation="The ability to articulate, organize, identify, track, validate, or otherwise administer descriptive, identifying information about a policy and its relationships.">
+  <properties
+      key="TMF_ID"
+      value="1.2.3.9.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

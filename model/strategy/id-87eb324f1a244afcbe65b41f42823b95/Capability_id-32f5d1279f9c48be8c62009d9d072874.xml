@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lawful Interception"
+    id="id-32f5d1279f9c48be8c62009d9d072874"
+    documentation="Providing the interception technologies that meet statutory obligations for lawful interception for any service that requires it">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.5.5"/>
+  <properties
+      key="TMF Function"
+      value="Lawful Interception"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

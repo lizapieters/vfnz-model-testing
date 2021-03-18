@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Information Encryption Management"
+    id="id-dd06c28637c54a7aa05fe797f177811a"
+    documentation="The ability to encode information in a cipher to prevent or limit its unauthorized access, change, or claim of provenance.">
+  <properties
+      key="TMF_ID"
+      value="1.2.2.4.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

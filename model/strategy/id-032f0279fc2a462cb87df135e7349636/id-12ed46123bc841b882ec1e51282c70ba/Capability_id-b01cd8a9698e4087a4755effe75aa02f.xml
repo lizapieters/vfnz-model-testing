@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer/Channel Matching"
+    id="id-b01cd8a9698e4087a4755effe75aa02f"
+    documentation="The ability to associate a customer with one or more channels by which the customer is choosing to communicate with, or is allocated to communicate with, the organization.">
+  <properties
+      key="TMF_ID"
+      value="1.1.2.6.10"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

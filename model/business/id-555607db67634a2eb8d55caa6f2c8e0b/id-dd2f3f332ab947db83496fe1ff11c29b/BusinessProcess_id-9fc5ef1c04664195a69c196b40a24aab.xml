@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Categorize Resource Alarm Event"
+    id="id-9fc5ef1c04664195a69c196b40a24aab"
+    documentation="This process is responsible for categorizing the resource alarm events in order to support the management, filtering and correlation of events at Resource-Ops level.">
+  <properties
+      key="Process Identifier"
+      value="1.5.8.1.7"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="This process is responsible for categorizing the resource alarm events in order to support the management, filtering and correlation of events at Resource-Ops level."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

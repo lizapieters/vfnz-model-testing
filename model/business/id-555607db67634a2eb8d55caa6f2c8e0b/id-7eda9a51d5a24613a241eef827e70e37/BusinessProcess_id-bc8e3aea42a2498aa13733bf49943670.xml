@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Party Inventory Management"
+    id="id-bc8e3aea42a2498aa13733bf49943670"
+    documentation="Manage the administration of the enterprise's party inventory.">
+  <properties
+      key="Process Identifier"
+      value="1.6.21"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The purpose of the Party Inventory Management processes are twofold - establish, manage and administer the enterprise's party inventory, as embodied in the Party Inventory Database, and monitor and report on the usage and access to the party inventory, and the quality of the data maintained in it. The supplier/partner inventory maintains records of all commercial arrangements with parties, and any modifications to them. It also records all details of contacts with parties as well as commercial information, including details of party products and services, required to support Party Requisition Management and other processes. The party inventory is also responsible for maintaining the association between product instances, service instances, resource instances and party product instances, created as a result of the Party Requisition Management processes. Responsibilities of these processes include, but are not limited to: â€¢Identifying the inventory-relevant information requirements to be captured to support the Party Relationship Management and other processes; â€¢Identifying, establishing and maintaining party inventory repository facilities; â€¢Establishing and managing the party inventory management and information capture processes; â€¢Managing the registration and access control processes that enable processes to create, modify, update, delete and/or download party data to and from the party inventory; â€¢Ensuring the inventories related to other parties repository accurately captures and records all identified supplier/partner details, through use of automated or manual audits; â€¢Tracking and monitoring of the usage of, and access to, the supplier/partner inventory repository and associated costs, and reporting on the findings â€¢Identifying any technical driven shortcomings of the supplier/partner inventory repository, and providing input to Resource Development &amp; Management processes to rectify these issues. â€¢"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

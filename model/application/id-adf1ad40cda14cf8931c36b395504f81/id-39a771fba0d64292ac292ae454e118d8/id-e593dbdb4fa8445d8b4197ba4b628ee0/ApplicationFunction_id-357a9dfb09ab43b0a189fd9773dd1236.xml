@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Location Structure Data Management"
+    id="id-357a9dfb09ab43b0a189fd9773dd1236"
+    documentation="Provides facilities for creating, modifying and deleting data structures according to business rules of Service Providers or national and international location regulations. Also  utilities for defining sets of location attributes, levels and hierarchies should be available.">
+  <properties
+      key="Function Identifier"
+      value="433"/>
+  <properties
+      key="TAM Application Name"
+      value="Location Management"/>
+  <properties
+      key="TAM Application Id"
+      value="7.15"/>
+  <properties
+      key="Constructed Id"
+      value="7.15.433"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Order Orchestration Plan Creation."
+    id="id-9024d0c7479540acb7cd8f7ff02c8373"
+    documentation="Customer Order Orchestration Plan Creation makes an orchestration plan out of the set of customer order work items.">
+  <properties
+      key="Function Identifier"
+      value="725"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Order Orchestration Plan Creation"/>
+  <properties
+      key="TAM Application Id"
+      value="5.3.11.3"/>
+  <properties
+      key="Constructed Id"
+      value="5.3.11.3.725"/>
+</archimate:ApplicationFunction>

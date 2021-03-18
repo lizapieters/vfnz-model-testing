@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Perform Fraud Actions"
+    id="id-b41c53153d274ebc8a28ad9bda9fbcaa"
+    documentation="This process contains all possible actions necessary to manage an issue following determination as fraud or not fraud.">
+  <properties
+      key="Process Identifier"
+      value="1.7.2.3.2.3"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Fraud Actions is comprised of a series of sub processes that act as guidelines for activities to be performed based on the issue being determined as fraud or not fraud. Each sub process is capable of being a stand-alone process (not dependent on other Actions sub processes), however more than one of these Actions may be used to help bring any given issue to appropriate closure. 1. No Action: If an issue is determined to not be fraud, the issue is closed and archived as part of this process. Concurrent flows to Support and Reporting have also occurred to adjust rules, etc., as a result. No further action is required. Note: A feedback to the System Configuration Management process should be considered in this case, for possible alarm threshold adjustment, whitelist updates, etc. This process path is denoted in Figure 5: â€œOverall Processâ€�. 2. Adjust Customer Billing: Certain fraud instances result in customers being the victim in addition to the operator. In these cases, extent of customer damage needs to be quickly ascertained and corrected in the customerâ€™s billing and/or services. While the determination of the damage is typically performed by the fraud team, the actual Customer Billing corrective action is usually performed by a Customer Care Team, based on information forwarded by the Fraud Team. 3. Legal or LEA (Law Enforcement Agency) Action: If an issue is determined to be fraud and significant financial loss, contract breach, or other illegal activities have occurred, the operator may seek recourse via the legal system. This may be via civil reparations and/or criminal charges. This sub process will utilize the operatorâ€™s policies (1.1.5) to determine whether attorney, law enforcement, or other assistance is needed. This sub process will also use the same policies to determine and collect supporting information that will be necessary for those external agencies to properly pursue their activities. 4. Terminate Customer: If an issue is determined to be fraud and the operator deems the issue to be of enough magnitude to warrant termination, this process will conduct the termination of the customer (e.g., initiate the disconnect order). 5. Dismiss Staff: If an issue is determined to be fraud and/or a substantial violation of internal operator policies and internal staff have been found responsible, termination of the staff may be initiated at this step. Fraud team findings for ethics policy violations, fraud investigative results, etc., should be forwarded to Human Resources, where appropriate actions will be initiated. Of important note: Staff negligence resulting in fraud is sometimes inappropriately diagnosed as intentional when, in fact, accidental actions may have exposed the operator to the fraud. Care should be taken to fully understand the circumstances around which the internal employeeâ€™s actions caused or help cause the fraud. 6. Process Change: If an issue is determined to be fraud, future preventative steps may include business process change in addition to fraud detection rule enhancements. Business process may have, in fact, allowed the fraud to occur, therefore the first step in prevention should happen well before a rule should capture the condition. This process will need to interface with the business to identify candidates for process change and present those to the appropriate business stakeholders."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

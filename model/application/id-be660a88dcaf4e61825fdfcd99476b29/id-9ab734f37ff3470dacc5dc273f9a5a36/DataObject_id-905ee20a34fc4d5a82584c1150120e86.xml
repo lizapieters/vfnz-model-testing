@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicyActionVendor"
+    id="id-905ee20a34fc4d5a82584c1150120e86"
+    documentation="The PolicyActionVendor class is a concrete base class that provides a general extension mechanism for representing PolicyActions that have not been modeled with the attributes specified in this model. This class uses two of its properties (Constraint and ConstraintEncoding) for defining the content and format of a vendor-specific condition. Its third property (actionResponse) to provide a standard result; so that this object can be placed with other PolicyAction objects in a PolicyRule object. Standardized extensions are not expected to use this class."/>

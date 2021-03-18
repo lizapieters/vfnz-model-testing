@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DHCPSecurityEvent"
+    id="id-aa5fd6f17cb342d09891485b0eab30fd"
+    documentation="DHCP events are structured to allow network defenders to track a given machine; by Media Access Control (MAC) address to an Internet Protocol (IP) address. Noting that DHCP IP addresses assign an IP address to a given MAC address for a specified lease period; the DHCP event tracks these elements."/>

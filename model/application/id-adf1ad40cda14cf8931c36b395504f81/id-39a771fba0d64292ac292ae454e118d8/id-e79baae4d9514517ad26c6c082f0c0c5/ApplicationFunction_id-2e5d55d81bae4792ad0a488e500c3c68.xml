@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Payment interface management"
+    id="id-2e5d55d81bae4792ad0a488e500c3c68"
+    documentation="Manages interfaces between the service provider and payment channel organisations where payment">
+  <properties
+      key="Function Identifier"
+      value="323"/>
+  <properties
+      key="TAM Application Name"
+      value="Payment Interface Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.9.4.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.9.4.1.323"/>
+</archimate:ApplicationFunction>

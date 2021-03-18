@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voice Channel Contact"
+    id="id-a560e0a5233f4f67af8d655634077e07"
+    documentation="Voice Channel Contact  provides the means for a customer to speak to a service representative, including the mechanism to query the customer (e.g. � IVR) on the nature of their request, and routing of the contact to the best available agent and presentation to the agent of select call information.">
+  <properties
+      key="TAM Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="5.22.3.2"/>
+  <properties
+      key="Frameworx Domain"
+      value="Customer Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Supplier/Partner Workflow"
+    id="id-78cc1db762324901be6634a64c6b2f0a"
+    documentation="Supplier/Partner Workflow applications provide workflow and orchestration for supplier/partner management activities.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="8.2.4"/>
+  <properties
+      key="TMF Function"
+      value="Supplier/Partner Workflow Management"/>
+  <properties
+      key="TMF Maturity"
+      value="Supplier_Partner Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

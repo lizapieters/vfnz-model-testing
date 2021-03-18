@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MonitoredMetricObjectCriterion"
+    id="id-4039e7a8c3ad4f3e820dea09ac04e246"
+    documentation="A MonitoredMetricObjectCriterion defines the scope of monitored objects for which a MeasurementJob is executed. The scope is either defined: â€¢ by a filter on a Class (sub-class MonitoredMetricClassCriterion) â€¢ or by a list of instances (sub-class MonitoredMetricInstanceCriterion)."/>

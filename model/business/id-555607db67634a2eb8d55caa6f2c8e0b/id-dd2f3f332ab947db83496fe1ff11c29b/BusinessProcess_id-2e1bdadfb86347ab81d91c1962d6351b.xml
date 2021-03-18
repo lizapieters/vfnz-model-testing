@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Categorize Service Problem"
+    id="id-2e1bdadfb86347ab81d91c1962d6351b"
+    documentation="This process is responsible for categorizing the service problem according to the type of the problem, impact, and standardized criteria at SM&amp;O level. Moreover, this activity will be carried out with appropriate diligence, in order to provide inputs to the &quot;Track &amp; Manage Service Problem&quot; process.">
+  <properties
+      key="Process Identifier"
+      value="1.4.6.2.7"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="This process is responsible for categorizing the service problem according to the type of the problem, impact, and standardized criteria at SM&amp;O level. Moreover, this activity will be carried out with appropriate diligence, in order to provide inputs to the &quot;Track &amp; Manage Service Problem&quot; process."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Order/Channel Matching"
+    id="id-32ef9ff24ea14ef787ad6d8c6e138783"
+    documentation="The ability to match an order with a channel.">
+  <properties
+      key="TMF_ID"
+      value="1.1.8.12.4"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

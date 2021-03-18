@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Launch Marketing Campaign"
+    id="id-99026ff3bb0d4e359c278c7859c320d9"
+    documentation="Manage and co-ordinate the delivery of the marketing campaign to the selected channel(s).">
+  <properties
+      key="Process Identifier"
+      value="1.1.15.4"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Launch Marketing Campaign executes the marketing campaign by managing and coordinating the delivery of the marketing campaign to the selected channel(s). It ensures that the channel(s) (owned and/or contracted) are adequately trained and/or informed to manage the campaign launch, and that sufficient resources are available in the selected channel(s) to support the launch. An initial launch of the marketing campaign may be made to limited audiences in order to validate the campaign before it is formally launched. In this case the Monitor Marketing Campaign Effectiveness process may also be executed during the initial launch."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

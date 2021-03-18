@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trigger Self Healing Operation"
+    id="id-15450eb9bb074b329f7629c5ed430b7a"
+    documentation="Trigger lifecycle operation processes for executing network function self healing.">
+  <properties
+      key="Process Identifier"
+      value="1.5.8.3.8.3"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of &quot;Trigger Self Healing Operation&quot; process is to call healing operation processes with lifecycle management tasks. In case of success, complete or partial healing has been executed. In case of failure, appropriate error information is returned."/>
+  <properties
+      key="Maturity Level"
+      value="2"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

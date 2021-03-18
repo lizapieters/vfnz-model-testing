@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Margin Assurance"
+    id="id-fb65fc24871c494eb64b3fa2a47e936b"
+    documentation="Establish an enterprise-wide Margin assurance policy framework and operational capabilities to monitor direct and indirect costs of the related revenues and ensure the detection of deliberate or involuntary financial leakages leading to negative or low margin customers, partners, channels, etc.">
+  <properties
+      key="Process Identifier"
+      value="1.7.9.3"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Margin Assurance helps the stakeholders in the company to gain a competitive advantage by obtaining valuable insights about their operations and customers, allowing them to transform from a business focused on average revenue per user (ARPU) to one based on average margin per user (AMPU). The objectives of Margin Assurance process are: -Identification of the margin related risks and creating a framework including controls, mitigation measures and KPIs -Assurance of visibility and correct identification of the real margins associated with different products, services, bundles, customer segments, customers, subscribers, and partners through regular monitoring of respective data sources -Ensuring a correct and timely calculation of all the margins associated with products, services, bundles, customer segments, customers, subscribers, and partners -Assurance of the profitability of the customers/tariffs , verifying that negative or low margins on customers/tariffs are not caused by wrong product definition, network problems or high usage -Assurance that the margins are aligned with the revenues and the costs associated with the products, services, bundles, customer segments, customers, subscribers, and partners."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

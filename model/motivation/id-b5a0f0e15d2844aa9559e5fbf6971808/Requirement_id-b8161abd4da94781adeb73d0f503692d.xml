@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0695"
+    id="id-b8161abd4da94781adeb73d0f503692d"
+    documentation="As a customer, I want a specialised self service screen displayed to me when I'm roaming, so I only see information relevant for me.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0695"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="2"/>
+  <properties
+      key="Base_Old"
+      value="2"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="use"/>
+  <properties
+      key="Topic"
+      value="Roaming Self Service Screen"/>
+  <properties
+      key="Remarks"
+      value="OCS could respond to the network with an url for redirection (if the network allows for that - can you check at VFNZ?). The link could redirect to online selfcare screen where after logging the Customer could buy roaming add-ons only. Is such a dedicated roaming screen needed? Note: starting Self Care webpage means downloading several MB of data already. A dedicated page &quot;Welcome to USA&quot; which presents additional information and relevant roaming bundles available. Should apply both to app and webpage (both free of charge when roaming) Parked for architecture discussion on how to support this from the network side. Also to be discussed internally at Comarch."/>
+  <properties
+      key="Module"
+      value="SC, OCS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

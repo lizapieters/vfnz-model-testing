@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0973"
+    id="id-cbd730c326694dc1bcd970adeae94ac0"
+    documentation="As a Billing Specialist, I require the flexibility to apply/amend/remove a one-off charges/credits against 1 or many accounts in bulk and include either a backdated date or a future date. In the event of a future date the one-off charge should not bill until the date is reached aso that we can onbill any charges that come via various external billing sources (e.g. ERemedy, known fixed billing amounts)">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0973"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Kurt Harniss"/>
+  <properties
+      key="Tribe"
+      value="Finance &amp; Business / Billing"/>
+  <properties
+      key="Target Horizon"
+      value="2"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Manage"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Billing"/>
+  <properties
+      key="Remarks"
+      value="Which currency should be presented during selling process? Horizon 2 requirement. Requirement need to be discussed in dedicated workshop session"/>
+  <properties
+      key="Module"
+      value="BS?"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

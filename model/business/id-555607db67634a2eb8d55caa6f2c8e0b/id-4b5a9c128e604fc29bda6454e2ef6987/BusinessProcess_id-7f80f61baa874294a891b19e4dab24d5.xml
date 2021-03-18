@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enable Retention &amp; Loyalty"
+    id="id-7f80f61baa874294a891b19e4dab24d5"
+    documentation="Manage all functionalities related to the retention of acquired customers, and the use of loyalty schemes in the potential acquisition of customers.">
+  <properties
+      key="Process Identifier"
+      value="1.3.4.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Retention &amp; Loyalty processes deal with all functionalities related to the retention of acquired customers, and the use of loyalty schemes in the potential acquisition of customers. They establish a complete understanding of the needs of the customer, a determination of the value of the customer to the enterprise, determination of opportunities and risks for specific customers, etc. These processes collect and analyze data from all enterprise and customer contact."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

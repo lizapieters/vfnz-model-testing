@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Validate Product Infrastructure Design"
+    id="id-eb90e8cc7b904ce8a05ecd90990ccb13"
+    documentation="These processes ensure that all performance and operational design requirements have been met by the installed product infrastructure.">
+  <properties
+      key="Process Identifier"
+      value="1.2.2.5.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

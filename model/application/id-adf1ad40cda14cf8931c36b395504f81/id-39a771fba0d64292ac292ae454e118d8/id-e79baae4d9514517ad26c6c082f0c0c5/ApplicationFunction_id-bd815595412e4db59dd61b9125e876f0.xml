@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Accounting Event Creation"
+    id="id-bd815595412e4db59dd61b9125e876f0"
+    documentation="The Accounting Event Creation function has to send to the accounting functionality information produced by rating and/or invoicing functions,  including the period end (a.k.a. �cut-off�) accounting entries.&#xA;Period end adjustments, that concern deferred revenue and accrued assets, become a legal obligation.&#xA;For pre-paid, the paid amounts (top-ups) are initially considered as deferred revenue; deferred revenue is turned into revenue through the actual usage (credit consumption).&#xA;After the use-by date, the remaining credit is written off as a profit.">
+  <properties
+      key="Function Identifier"
+      value="29"/>
+  <properties
+      key="TAM Application Name"
+      value="A/R Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.9.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.9.1.29"/>
+</archimate:ApplicationFunction>

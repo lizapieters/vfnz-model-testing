@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1114"
+    id="id-642e6d0766b9499e9caa53bc90381e81"
+    documentation="As a customer I want to see a history of how many payments I have made on time and potentially be rewarded for this, so that I am motivated to continue paying on time">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1114"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="y"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Self Service"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Self Service"/>
+  <properties
+      key="Topic"
+      value="Account/User Management"/>
+  <properties
+      key="Remarks"
+      value="SC: As far as I understood all the payments are going to be automatic, and service would be stopped in case of failure in payment (subscription failed to renew) - what do you mean by paying on time? Currently no loyalty cababilities related wth number of on-time payments."/>
+  <properties
+      key="Module"
+      value="SC, BS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

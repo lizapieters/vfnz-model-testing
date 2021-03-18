@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Survey &amp; Analyze Resource Trouble"
+    id="id-a7d44d9114d545fc83e1ce8b6d92e04a"
+    documentation="Monitor resource alarm event notifications and manage resource alarm event records in real-time.  Resource alarm event notifications include those alarms related to security events.">
+  <properties
+      key="Process Identifier"
+      value="1.5.8.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of the Survey &amp; Analyze Resource Trouble processes is to monitor resource alarm event notifications and manage resource alarm event records in real-time. Responsibilities of the Survey &amp; Analyze Resource Trouble processes include, but are not limited to: â€¢ Detecting and collecting resource alarm event notifications; â€¢ Initiating and managing resource alarm event records; â€¢ Performing resource alarm event notification localization analysis; â€¢ Correlating and filtering resource alarm event records; â€¢ Reporting resource alarm event record status changes to other processes â€¢ Managing resource alarm event record jeopardy conditions. Resource alarm event notification analysis encompasses the identification of the resource alarm event in terms of reporting entity and nature of the resource alarm event. It will then analyze the resource alarm events based on a number of criteria and then suppress redundant, transient or implied resource alarm events by means of filtering and correlation. It includes the notification of new resource alarm event records, or status changes of previously reported resource alarm event records, as well as abatement messages when resource alarm event records have been cleared. The analysis will correlate resource alarm event notifications to planned outage notifications to remove false resource alarm event notifications arising as a result of the planned outage activity. These processes may determine that a resource alarm event notification may represent a service impacting condition. In these circumstances this process is responsible for indicating a potential service problem to the Service Problem Management processes. As a part of this indication this process is responsible for identifying the impacted service instances associated with the resource instances presenting alarm event notifications and passing this information to the Service Problem Management processes. Resource alarm event record correlation and filtering encompasses the correlation of redundant, transient or implied resource alarm event notifications with a specific â€œroot causeâ€� resource alarm event notification and associated resource alarm event record. The Survey &amp; Analyze Resource Trouble processes might trigger a well-defined action based on specific resource alarm event notification information as well as the non-arrival of resource alarm event notification information after a specific time interval has elapsed. These processes are also responsible for monitoring and triggering the appropriate action when a resource alarm event record is not cleared within a pre-defined period of time."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Finance History Management"
+    id="id-c2955aabf4354eab90bd30599921503e"
+    documentation="The ability to identify, record, and represent a chronological order of events and actions associated with a business's finances.">
+  <properties
+      key="TMF_ID"
+      value="1.3.6.11.4"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Perform Reconciliation Post-settlement"
+    id="id-360f1ac1755f4a99b8d3ffea9a112dbe"
+    documentation="This process handles those delayed invoices that was delayed beyond the agreed processing period. Handling of Late Traffic beyond the agreed Settlement period.">
+  <properties
+      key="Process Identifier"
+      value="1.6.18.4.6"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="This process handles those delayed invoices that was delayed beyond the agreed processing period. Handling of Late Traffic. A closed Billing Period might be reopened, to include late arrived traffic that occurred within the billing period. In this case, reprocessing would occur and invoiced accordingly. Since Business Partners are using Invoices and not Bills to communicate balances, this procedure is possible. (Else a memo would've been needed for the next billing cycle, making it even more complex)."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

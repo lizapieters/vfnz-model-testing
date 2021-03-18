@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Privacy Dashboard"
+    id="id-6f7da1584caf4a10812dd3187458c88f"
+    documentation="The Privacy Manager application is used to manage all aspects of the privacy of Data Subjects(End users), from the creation of Privacy Profile Types, their management, to the display of Privacy Profiles and provide functionalities for their modification and evolution. The Privacy Manager provides features depending on authorization and consequently roles of users :&#xA;-Administrators : the administrators are in charge of the definition of the Privacy policy and consequently the creation of the Privacy Profile Type, the maintenance, evolution, depending on the ability of underlying components that handles Personally Identifiable Information (PII). &#xA;-Customer support : the customer support is in charge of the performing some operation on Privacy Profile on behalf of end-user.&#xA;-End-user (Data Subject Party) : the end-user is able to view its Privacy Profile, the value of Privacy Profile attributes, and manage it.">
+  <properties
+      key="TAM Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="5.23"/>
+  <properties
+      key="Frameworx Domain"
+      value="Customer Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

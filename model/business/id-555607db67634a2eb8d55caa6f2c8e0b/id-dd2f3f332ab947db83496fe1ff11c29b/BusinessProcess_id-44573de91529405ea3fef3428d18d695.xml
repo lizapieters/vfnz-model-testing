@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define Service Support performance standards"
+    id="id-44573de91529405ea3fef3428d18d695"
+    documentation="Define service support performance standards for the operational organization providing service support.">
+  <properties
+      key="Process Identifier"
+      value="1.4.1.4.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="These processes define the targets, and operational requirements, in this changing environment. The required performance standards are driven by community expectations, internal process and technology capabilities and competitive offerings. These processes also provide the feedback point from analyses undertaken in the Service Management &amp; Operations process to determine bottlenecks and problems associated with existing service support activities. A major input to these processes arises from the Gather &amp; Analyze Service Information processes, and from the product portfolio, resource strategy and market strategy processes."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define Product Capability Requirements"
+    id="id-75742491fdda4a918b3f325a2591b201"
+    documentation="Define and obtain agreement to the detailed infrastructure requirements to support the product portfolio and individual product plans">
+  <properties
+      key="Process Identifier"
+      value="1.2.2.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Define Product Capability Requirements processes define and obtain agreement to the detailed infrastructure requirements to support the product portfolio and individual product plans. Product infrastructure requirements to support new product initiatives for the product lifecycle management are captured in this process, as well as any product infrastructure requirements needed to support the specific offers being made to customers through the sales channels. These processes also identify the service infrastructure capabilities required to deliver the product infrastructure. The processes include any interaction with cross-enterprise co-ordination and management functions to ensure that the requirements capture the needs of all stakeholders. These processes provide input into the requirements capture processes in the Service and Party Offering Development &amp; Retirement processes, and potentially the Resource, horizontal process groupings."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

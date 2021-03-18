@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Handle Party Underpayment"
+    id="id-61fdb94c7b9743d287470b933f4c6fb9"
+    documentation="Identify that an underpayment has been made by a party and determine what action to take when a payment made by a party does not satisfy all applications to bills/invoices/purchases and so forth, and there is an amount still to be paid.">
+  <properties
+      key="Process Identifier"
+      value="1.6.16.1.1.5"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Handle Party Underpayment identifies that an underpayment has been made by a party and determines what action to take when a payment made by a party does not satisfy all applications to bills/invoices/purchases and so forth, and there is an amount still to be paid. The action taken may be: - That the amount remains with expectation that a future payment may compensate for the underpayment - The amount reduces any credit balance retained for the party - That a request is made to the party to remit the underpayment as soon as possible - That a payment plan may be negotiated for the underpayment In some cases the party may be contacted to determine which action to take."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

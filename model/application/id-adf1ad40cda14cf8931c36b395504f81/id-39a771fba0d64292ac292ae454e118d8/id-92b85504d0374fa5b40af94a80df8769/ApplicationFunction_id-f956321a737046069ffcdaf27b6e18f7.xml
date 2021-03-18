@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API Gateway Routing"
+    id="id-f956321a737046069ffcdaf27b6e18f7"
+    documentation="Application Programming Interface Gateway Routing function performes content-based routing, fail-over, load balancing, and broadcasting of requests. &#xA;The gateway can also validate to ensures that only valid messages (according to their contract�s schema) are routed to the remote host (Inbound and Outbound flow control). This capability lowers dramatically the number of malformed messages that are presented to a given service enabler, and by doing so contributes to maximize the performance and scalability of that service enabler.">
+  <properties
+      key="Function Identifier"
+      value="679"/>
+  <properties
+      key="TAM Application Name"
+      value="API Gateway API Management"/>
+  <properties
+      key="TAM Application Id"
+      value="#N/A"/>
+  <properties
+      key="Constructed Id"
+      value="#N/A"/>
+</archimate:ApplicationFunction>

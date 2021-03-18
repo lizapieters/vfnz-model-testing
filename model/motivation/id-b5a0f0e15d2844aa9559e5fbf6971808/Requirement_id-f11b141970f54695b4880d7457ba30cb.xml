@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0150"
+    id="id-f11b141970f54695b4880d7457ba30cb"
+    documentation="As a customer, I want charges on my registered card to have meaningful transaction names, so I can relate them back to what the purchase was within Vodafone">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0150"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="y"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Topic"
+      value="Charge on card"/>
+  <properties
+      key="Remarks"
+      value="Could be a name of payment type finantial document. In case of multiple subsriptions are alligned, does it mean one transaction? Depends on the payment interface. Most likely it would be individual payments even if the subscriptions are alligned. On the other hand for bigger customers it might be better to roll the payments up. Details to be defined, how payments should be grouped customers if there are more then one service on account with various periods?"/>
+  <properties
+      key="Module"
+      value="AIF, SC, CRM, BS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="Not Applicable"/>
+</archimate:Requirement>

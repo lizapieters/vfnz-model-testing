@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop Product Offering Price Variable"
+    id="id-4fec5c39a1314b7e9c27b84d4cba1d1f"
+    documentation="Develop a product offering price variable that represents a product offering, product offering price, or product specification type.">
+  <properties
+      key="Process Identifier"
+      value="1.2.7.2.2.2.3"/>
+  <properties
+      key="Category"
+      value="(6) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Develop Product Offering Price Variable develops (creates, updates, and removes)a product offering price variable that represents a product offering, product offering price, or product specification type. A variable is part of a policy that can be used to form a policy statement. The variable specifies an attribute or concept that should either be matched or in some way compared to a value when a condition is evaluated or set to some value when an action is taken. For example, &quot;get two of five software packages&quot;. If some cases the variables value is determined via the use of a derivation algorithm."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

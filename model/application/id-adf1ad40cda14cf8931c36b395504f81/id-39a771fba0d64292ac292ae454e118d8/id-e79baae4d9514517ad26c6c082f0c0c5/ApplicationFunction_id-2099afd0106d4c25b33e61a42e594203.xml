@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reception of problems from Customers"
+    id="id-2099afd0106d4c25b33e61a42e594203"
+    documentation="Reception of problems from Customers, Southbound internal systems (service problem management, service performance management, service quality management) or Outside northbound systems, including social networks/third parties.">
+  <properties
+      key="Function Identifier"
+      value="221"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Problem Qualification &amp; Reception"/>
+  <properties
+      key="TAM Application Id"
+      value="5.8.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.8.1.221"/>
+</archimate:ApplicationFunction>

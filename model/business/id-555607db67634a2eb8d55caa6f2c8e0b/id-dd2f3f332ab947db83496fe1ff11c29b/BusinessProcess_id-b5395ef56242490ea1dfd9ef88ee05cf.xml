@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Activate Service"
+    id="id-b5395ef56242490ea1dfd9ef88ee05cf"
+    documentation="Assess and plan the approach to be undertaken for activation. &#xA;Re-used standard activation processes applicable to specific services. &#xA;Provide notifications as required if the activation activity requires a planned outage or is likely to initiate false specific service alarm event notifications. &#xA;At the successful conclusion of this activity, the status of the specific services will be changed from allocated to activated, which means they are in-use.">
+  <properties
+      key="Process Identifier"
+      value="1.4.5.4.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

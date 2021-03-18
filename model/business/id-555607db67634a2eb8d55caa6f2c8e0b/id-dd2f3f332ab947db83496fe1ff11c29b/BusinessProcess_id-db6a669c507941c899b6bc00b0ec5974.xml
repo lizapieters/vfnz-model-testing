@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop Marketing Communication Message"
+    id="id-db6a669c507941c899b6bc00b0ec5974"
+    documentation="Develop and agree on a marketing communication message.">
+  <properties
+      key="Process Identifier"
+      value="1.1.14.3.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Develop Marketing Communication Message develops, including agreement of, a specific communication message, such as a general enterprise, marketing campaign or promotion message. Any particular message may require the coordination of multiple stakeholders to develop and agree a specific message. These stakeholders could include media management, all impacted product managers, brand management, marketing management, owners of the potential channels, and so forth."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

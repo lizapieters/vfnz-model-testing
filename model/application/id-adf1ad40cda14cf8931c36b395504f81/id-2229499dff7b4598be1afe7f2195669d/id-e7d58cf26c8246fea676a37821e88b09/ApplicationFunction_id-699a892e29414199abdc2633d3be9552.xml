@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collection Settlement"
+    id="id-699a892e29414199abdc2633d3be9552"
+    documentation="The application provides the mechanism that allows the CSR to negotiate with customers and offer them acceptable plans to pay their debts. These plans might be based on multiple installments over a defined period of time, including the milestones at which the customer is re-evaluated for fulfilling the arrangement.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="5.14.3"/>
+  <properties
+      key="Frameworx Domain"
+      value="Customer Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

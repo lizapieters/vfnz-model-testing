@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Finance Access Management"
+    id="id-f66e8a31d8db4d9db8858b0d4abb2371"
+    documentation="The ability to establish, control, restrict, and administer rights to view, use, or change finances in a variety of contexts.">
+  <properties
+      key="TMF_ID"
+      value="1.3.6.8"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

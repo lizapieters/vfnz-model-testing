@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Knowledge Acquisition &amp; Documentation"
+    id="id-dcb7fd445cfd4e1c9c1d512771768462"
+    documentation="Knowledge Acquisition and Documentation application enable identifying the enterprise vital knowledge, labelling the identified knowledge item and documenting it in the knowledge base.">
+  <properties
+      key="TAM Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="9.6.5.2"/>
+  <properties
+      key="Frameworx Domain"
+      value="Enterprise Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

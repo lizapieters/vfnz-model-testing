@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Recommended Action"
+    id="id-fd4ea019e8704c55a0792ad2b381ad29"
+    documentation="Customer Recommended Action (�Apply�) provides the recommendation for customer treatment based on the customer observation and context. It provides the necessary notification framework (outbound &amp; inbound) to execute suitable action/treatment for the customer across the relevant channel, such as SMS, self-service, email, call center. It also integrates with existing business function/services and processes for action. For ex. integrate with existing credit adjustment process if the decision is to provide credit adjustment to the customer or invoke offer management for X/Up Sell or invoke Knowledge Management for Customer Service issues.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.5.15"/>
+  <properties
+      key="TMF Function"
+      value="Inboud notification recommendation function Outboud notification recommendation function Recommendation Action Function integration Recommended Action Closed loop followup"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

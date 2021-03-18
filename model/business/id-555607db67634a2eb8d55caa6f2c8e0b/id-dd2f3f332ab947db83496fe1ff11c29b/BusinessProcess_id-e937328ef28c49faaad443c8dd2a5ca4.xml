@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gain Sales Proposals Approval"
+    id="id-e937328ef28c49faaad443c8dd2a5ca4"
+    documentation="These processes gain approval for proposals for sales processes and sales channels.">
+  <properties
+      key="Process Identifier"
+      value="1.1.5.2.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

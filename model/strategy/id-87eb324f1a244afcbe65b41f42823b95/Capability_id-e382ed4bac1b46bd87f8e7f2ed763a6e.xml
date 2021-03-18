@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fault Reporting &amp; Analytics"
+    id="id-e382ed4bac1b46bd87f8e7f2ed763a6e"
+    documentation="Fault Reporting &amp; Analytics applications provide the necessary functionality to provide reports about the various faults within the service provider's network.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="7.10.4"/>
+  <properties
+      key="TMF Function"
+      value="Fault Assurance Metrics Generation Network Fault Reporting"/>
+  <properties
+      key="TMF Maturity"
+      value="Resource Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

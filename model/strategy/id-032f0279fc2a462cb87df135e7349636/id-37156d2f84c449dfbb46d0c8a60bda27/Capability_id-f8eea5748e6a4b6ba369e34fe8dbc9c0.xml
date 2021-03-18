@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Asset Information Management"
+    id="id-f8eea5748e6a4b6ba369e34fe8dbc9c0"
+    documentation="The ability to collect, organize, monitor, report on or otherwise distribute basic facts, statistics, attributes and data about the asset.">
+  <properties
+      key="TMF_ID"
+      value="1.3.5.10"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

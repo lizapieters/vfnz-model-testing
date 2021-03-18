@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verify Customer services and entitlement"
+    id="id-b7076096d39545a0bc6ccb1c430305d6"
+    documentation="This refers to service validation to see what service(s) the customer has subscribed to;, and what service/support to which they are entitled. Such as: &#xA;� Products purchased and being used by the customer &#xA;� Material purchase from the service provider, even if they do not have an account with the said service provider.">
+  <properties
+      key="Function Identifier"
+      value="222"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Problem Qualification &amp; Reception"/>
+  <properties
+      key="TAM Application Id"
+      value="5.8.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.8.1.222"/>
+</archimate:ApplicationFunction>

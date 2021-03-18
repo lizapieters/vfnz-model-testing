@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Problem Lifecycle Management"
+    id="id-b4289bd1baf74e1da4a4cff31a123e4c"
+    documentation="Customer Problem Lifecycle Management applications provides the necessary functionality to manage the end-to-end lifecycle of the customer problem as defined and configured by the service provider.Note: All customer incidents/cases may be tracked, if so determined by the service provider.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.8.2"/>
+  <properties
+      key="TMF Function"
+      value="Case Tracking &amp; Management Tracking Capability"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

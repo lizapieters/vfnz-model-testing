@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Assurance Control"
+    id="id-d5eecac515ad4a4cb2f43edd2325fc50"
+    documentation="Service Assurance Control is responsible for the execution of proactive and reactiverule based activities to ensure that services provided to customers are continuously available and performing according to set values for performance and quality. In cooperation with monitoring and orchestration applications the Service Assurance Control will create an autonomic closed loop control of the performance and quality as well as mitigation of service problems and fall-outs.">
+  <properties
+      key="TMF Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="6.10"/>
+  <properties
+      key="TMF Function"
+      value="Service Assurance Control Calculation Service Assurance Deviation Monitoring Service Assurance Trouble Mitigation"/>
+  <properties
+      key="TMF Maturity"
+      value="Service Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

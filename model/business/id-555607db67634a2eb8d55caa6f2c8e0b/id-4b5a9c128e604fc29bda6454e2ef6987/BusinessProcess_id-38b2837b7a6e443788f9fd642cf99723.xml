@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Party Problem"
+    id="id-38b2837b7a6e443788f9fd642cf99723"
+    documentation="Modify or cancel a party problem.">
+  <properties
+      key="Process Identifier"
+      value="1.6.10.6"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Manage Party Problem modifies any information about a party problem and cancels an inquiry if necessary."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

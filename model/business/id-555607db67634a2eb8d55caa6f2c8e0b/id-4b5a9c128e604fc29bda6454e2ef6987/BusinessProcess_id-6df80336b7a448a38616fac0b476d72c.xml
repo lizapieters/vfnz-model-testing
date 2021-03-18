@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Apply Party Rate Level Discounts"
+    id="id-6df80336b7a448a38616fac0b476d72c"
+    documentation="Applies one or more discounts to a product price.">
+  <properties
+      key="Process Identifier"
+      value="1.6.17.2"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Apply Party Rate Level Discounts applies one or more discounts to a product price at an individual product level. A discount may be expressed as a monetary amount or percentage, and modifies a price for a product. When a discount is expressed as a percentage, the process determines the discount calculated in relation to the price for the product. The discount may be displayed as a separate entry on the bill or may be combined with the rate for the product to only show as one entry. Discounts may be a one-time event or may have some duration (days, months, life of product, etc.). Discounts may apply to a specific party or be generally available based on selection of products (for example - bundles). Discounting structures may involve tiers, tapers, time scheme or thresholds."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

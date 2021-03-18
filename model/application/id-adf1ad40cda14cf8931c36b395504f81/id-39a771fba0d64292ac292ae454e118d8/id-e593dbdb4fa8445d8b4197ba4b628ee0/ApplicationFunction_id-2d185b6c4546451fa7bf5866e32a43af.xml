@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Radio Planning"
+    id="id-2d185b6c4546451fa7bf5866e32a43af"
+    documentation="Provides Radio Planning for cell site coverage and quality and for cell-to-cell coverage is a specialist function used in Implementation Planning.">
+  <properties
+      key="Function Identifier"
+      value="428"/>
+  <properties
+      key="TAM Application Name"
+      value="Implementation Planning"/>
+  <properties
+      key="TAM Application Id"
+      value="7.1.2"/>
+  <properties
+      key="Constructed Id"
+      value="7.1.2.428"/>
+</archimate:ApplicationFunction>

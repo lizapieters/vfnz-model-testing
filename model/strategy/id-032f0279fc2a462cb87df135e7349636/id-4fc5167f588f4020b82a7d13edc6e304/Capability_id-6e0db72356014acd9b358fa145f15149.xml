@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trip Management"
+    id="id-6e0db72356014acd9b358fa145f15149"
+    documentation="The Ability to plan, track, prepare for, depart, arrive, and adjust a journey between a starting point location and one or more targeted locations, until a final destination is reached.">
+  <properties
+      key="TMF_ID"
+      value="1.1.6"/>
+  <properties
+      key="Level"
+      value="1"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

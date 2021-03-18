@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Update Product Price"
+    id="id-6857b399c925425a903ae73f241117e7"
+    documentation="Make changes to the price of a product.">
+  <properties
+      key="Process Identifier"
+      value="1.2.11.7.2.2"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Update Product Price makes changes to the price of a product. The update may include changes to associations with a policy that influences the price. This is typically triggered by changes to the price of a product offering in an enterprise's product catalog."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

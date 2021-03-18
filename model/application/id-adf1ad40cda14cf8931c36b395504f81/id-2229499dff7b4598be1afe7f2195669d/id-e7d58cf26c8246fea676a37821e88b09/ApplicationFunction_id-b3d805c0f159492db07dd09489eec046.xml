@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Corporate Security"
+    id="id-b3d805c0f159492db07dd09489eec046"
+    documentation="Corporate security identifies and effectively mitigates or manages, at an early stage, any developments that may threaten the resilience and continued survival of a corporation. It is a corporate function that oversees and manages the close coordination of all functions within the company that are concerned with security, continuity and safety. (Source Wikipedia)">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="9.5.1"/>
+  <properties
+      key="Frameworx Domain"
+      value="Enterprise Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0567"
+    id="id-05b9358eac134768afcb5d88d872ff08"
+    documentation="As a product owner, I want hardware collected instore to be automatically linked and preconfigured to the customers subscription, so that the customer can easily setup and manage their hardware.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0567"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Diane Watson"/>
+  <properties
+      key="Tribe"
+      value="Consumer Home"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="prio2"/>
+  <properties
+      key="Base"
+      value="1?"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Setup"/>
+  <properties
+      key="Topic"
+      value="Manage hardware"/>
+  <properties
+      key="Remarks"
+      value="to be discussed what it means for the process in Comarch For example when a device is dispatched (moment when a device leaves the warehouse or when a technicial installs a modem in customer's house), the serial number of the device is passed back to OSS for voice activation and BSS to store serial number. 2 different device management systems (Nokia HTM, TP-Link Cloud?) potentially need to be connected"/>
+  <properties
+      key="Module"
+      value="PC, OM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

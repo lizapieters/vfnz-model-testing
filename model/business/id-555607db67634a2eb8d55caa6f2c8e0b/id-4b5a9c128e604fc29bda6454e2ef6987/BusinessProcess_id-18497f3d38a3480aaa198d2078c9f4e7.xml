@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Knowledge Management"
+    id="id-18497f3d38a3480aaa198d2078c9f4e7"
+    documentation="Manage the tacit and explicit knowledge contained with the enterprise.">
+  <properties
+      key="Process Identifier"
+      value="1.7.4.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Knowledge Management processes are responsible for managing the tacit and explicit knowledge contained with the enterprise. This includes establishing processes and capabilities to ensure that all staff have the necessary knowledge available to them to be effective in their work, and to ensure that knowledge captured through work activities is retained and made available as required across the enterprise. Some examples of knowledge management processes include processes associated with patent management, Intellectual Property Rights management, standards for information and information capture and storage, assigning and providing direction for data stewardship, minimizing instances of the same data, etc. Other processes examples include establishment of policies and managing establishment of enterprise portals and intranet capabilities."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OSS Inventory/Data Synchronization Management"
+    id="id-497163af9b704928a95b2588bcc3f3a4"
+    documentation="OSS Inventory/Data Synchronization application provide a common inventory view across the applications in Resource Management. This may be a virtual common inventory produced by synchronization of federated inventories, a single inventory system, or some combination of the two.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="7.4.4"/>
+  <properties
+      key="Frameworx Domain"
+      value="Resource Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

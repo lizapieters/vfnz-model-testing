@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Route Risk Threshold Determination"
+    id="id-2fdb5f9134b445b9af08c043e697f202"
+    documentation="The Ability to identify and define the level of acceptable risk associated with a route.">
+  <properties
+      key="TMF_ID"
+      value="1.1.10.4.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage and Administer Party Inventory"
+    id="id-c07d76a9df64432fbbae2f87cd6f33f9"
+    documentation="Not used for this process element">
+  <properties
+      key="Process Identifier"
+      value="1.6.21.2"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="â€¢ Establishing and managing the party inventory management and information capture processes; â€¢ Managing the registration and access control processes that enable processes to create, modify, update, delete and/or download external party data to and from the party inventory;"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

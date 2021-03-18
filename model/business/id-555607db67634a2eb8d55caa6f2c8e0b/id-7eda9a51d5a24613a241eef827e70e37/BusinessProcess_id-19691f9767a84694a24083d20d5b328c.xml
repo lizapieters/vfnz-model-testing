@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Test Strategy"
+    id="id-19691f9767a84694a24083d20d5b328c"
+    documentation="Service Test Strategy develops the strategies of the enterprise for Service Test.">
+  <properties
+      key="Process Identifier"
+      value="1.4.12"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Service Test Strategy develops the strategies of the enterprise for Service Test. This process is in charge of identifying types of Service Test to be conducted according to different context (i.e. business activities) for types of Services. The different context for Service Test are: - Service Development &amp; Retirement to qualify the capacity to deliver Services before validating a new ServiceSpecification - Service Configuration &amp; Activation to test the Service before closing the ServiceOrderItem - Service Quality Management to test Service Quality - Service Problem Management to test Service functioning - Service Test Management to conduct tests not specific to a customerâ€™s product"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Points of Sales Management"
+    id="id-7535c566345f4a8a99ce63f622e1e9e3"
+    documentation="The Points of Sales Management function manages points of sales data (points of sales organisation , outdoor marketing campaigns�), cash registers� The following functions are out of scope: stock management, replenishment management.">
+  <properties
+      key="Function Identifier"
+      value="386"/>
+  <properties
+      key="TAM Application Name"
+      value="Retail Outlets"/>
+  <properties
+      key="TAM Application Id"
+      value="3.4.3"/>
+  <properties
+      key="Constructed Id"
+      value="3.4.3.386"/>
+</archimate:ApplicationFunction>

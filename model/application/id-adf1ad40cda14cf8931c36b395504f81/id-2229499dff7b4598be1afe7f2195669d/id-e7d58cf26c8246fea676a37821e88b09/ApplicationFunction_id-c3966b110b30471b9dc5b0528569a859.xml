@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contract Tracking &amp; Storage"
+    id="id-c3966b110b30471b9dc5b0528569a859"
+    documentation="Contract Tracking and Storage provides the ability to view customer's existing contracts, search for customer contracts based on meta-data and to search text strings within contracts. There is a central repository for contract storage as well as the associated contract meta-data. This data can be mined for Campaigns and Lead Generation.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="3.8.3"/>
+  <properties
+      key="Frameworx Domain"
+      value="Market Sales Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

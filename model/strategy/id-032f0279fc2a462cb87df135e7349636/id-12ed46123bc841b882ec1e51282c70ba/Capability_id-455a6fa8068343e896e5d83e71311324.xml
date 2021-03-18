@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Order/Order Matching"
+    id="id-455a6fa8068343e896e5d83e71311324"
+    documentation="The ability to match buyers to sellers (or buy orders to sell orders) of market trades.">
+  <properties
+      key="TMF_ID"
+      value="1.1.8.12.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CSR Jeopardy notifications handling"
+    id="id-3e7d8b6bc8394e7581059fed6c32eedf"
+    documentation="View jeopardy notificationsqueue and enable the CSR to act accordingly (e.g. notify customer on due date delay)">
+  <properties
+      key="Function Identifier"
+      value="175"/>
+  <properties
+      key="TAM Application Name"
+      value="CSR fulfillment"/>
+  <properties
+      key="TAM Application Id"
+      value="5.6.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.6.1.175"/>
+</archimate:ApplicationFunction>

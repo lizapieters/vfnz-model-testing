@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Risk Resolution"
+    id="id-8fb7bd06dd7244139c53bde281b11e6c"
+    documentation="The ability to resolve a risk that is experienced within the organization.">
+  <properties
+      key="TMF_ID"
+      value="1.2.2.9.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

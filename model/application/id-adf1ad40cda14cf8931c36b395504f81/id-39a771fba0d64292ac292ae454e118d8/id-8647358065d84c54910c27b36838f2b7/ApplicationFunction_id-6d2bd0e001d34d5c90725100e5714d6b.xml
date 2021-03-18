@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bank Statement Reconciliation"
+    id="id-6d2bd0e001d34d5c90725100e5714d6b"
+    documentation="Cash Reconciliation &amp; Escheatment function for Bank Statement Reconciliations">
+  <properties
+      key="Function Identifier"
+      value="859"/>
+  <properties
+      key="TAM Application Name"
+      value="Cash Reconciliation &amp; Escheatment"/>
+  <properties
+      key="TAM Application Id"
+      value="9.3.8"/>
+  <properties
+      key="Constructed Id"
+      value="9.3.8.859"/>
+</archimate:ApplicationFunction>

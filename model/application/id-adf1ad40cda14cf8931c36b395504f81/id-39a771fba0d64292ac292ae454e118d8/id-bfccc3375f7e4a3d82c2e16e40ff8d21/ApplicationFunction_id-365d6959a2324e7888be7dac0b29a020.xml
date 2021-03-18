@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Task Item Sequence Carry Through Configuration"
+    id="id-365d6959a2324e7888be7dac0b29a020"
+    documentation="Service Task Item Sequence Carry Through Configuration: The �Service Task Item Sequence Carry Through� function controls so that the sequence is fulfilled, or rolled back. The rules for the sequence execution will set the conditions for the fulfillment, or roll-back, and for the reporting and notification. The �Service Task Item Sequence Carry Through configuration� is a management of the application function that defines how the execution of the orchestration sequence will be done.">
+  <properties
+      key="Function Identifier"
+      value="969"/>
+  <properties
+      key="TAM Application Name"
+      value="Service Capability Orchestration"/>
+  <properties
+      key="TAM Application Id"
+      value="6.11"/>
+  <properties
+      key="Constructed Id"
+      value="6.11.969"/>
+</archimate:ApplicationFunction>

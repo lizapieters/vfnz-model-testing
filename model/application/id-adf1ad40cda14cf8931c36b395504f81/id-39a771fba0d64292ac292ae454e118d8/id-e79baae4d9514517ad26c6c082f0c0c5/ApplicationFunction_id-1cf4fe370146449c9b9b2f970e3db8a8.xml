@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Case Tracking &amp; Management Tracking Capability"
+    id="id-1cf4fe370146449c9b9b2f970e3db8a8"
+    documentation="Track Case, including the related activities (dispatches, tier-II tickets, etc.) until closed.">
+  <properties
+      key="Function Identifier"
+      value="110"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Problem Lifecycle Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.8.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.8.2.110"/>
+</archimate:ApplicationFunction>

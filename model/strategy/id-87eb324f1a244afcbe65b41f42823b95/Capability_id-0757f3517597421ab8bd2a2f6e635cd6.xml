@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Catalog Management"
+    id="id-0757f3517597421ab8bd2a2f6e635cd6"
+    documentation="Product Catalog Management is a realization of the Cross domain Catalog Management application in the Customer Domain. The applications are repositories of product listing within a service provider and include the ability to design, create, augment and map new entities and supporting data. The type of catalog management application is an implementation choice of the enterprise. See: Cross Domain- Catalog Management for more information.">
+  <properties
+      key="TMF Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="4.2"/>
+  <properties
+      key="TMF Function"
+      value="Product creation and maintenance"/>
+  <properties
+      key="TMF Maturity"
+      value="Product Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

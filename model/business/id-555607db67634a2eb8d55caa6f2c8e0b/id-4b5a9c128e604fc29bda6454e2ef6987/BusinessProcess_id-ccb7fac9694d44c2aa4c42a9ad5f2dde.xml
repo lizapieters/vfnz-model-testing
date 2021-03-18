@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Design Solution"
+    id="id-ccb7fac9694d44c2aa4c42a9ad5f2dde"
+    documentation="Develop an end-end specific service design which complies with a particular customer's requirement">
+  <properties
+      key="Process Identifier"
+      value="1.4.5.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The purpose of the Design Solution processes is to develop an end-end specific service design which complies with a particular customer's requirement. These processes are invoked when a customer order requires special or unusual end-end service arrangements, which are not able to be satisfied using standard service arrangements. These processes may be invoked as part of a service feasibility assessment, or as a result of a confirmed customer order. The responsibilities of these processes include, but are not limited to: â€¢Developing an overall service solution design for a particular customer, including customer premises equipment, operational methods, resource assignments and pre-order feasibility; â€¢Developing an implementation plan considering training and operational support measures and needs, such as the proper parameter information for the Service Quality Management process; â€¢Consideration of current and future service and underlying resources infrastructure, as well as expected solution results, budget, duration and risks; â€¢Consideration of the time schedule according with customer requirements; â€¢Ensure service and provisioning efficiency; â€¢Undertaking a business assessment, ensuring an appropriate time-to-revenue as a result of the service and underlying resource investment â€¢Developing a detailed design identifying the relevant service orders to be issued to the Implement, Configure &amp; Activate Service process and the Allocate Specific Service Parameters to Services processes. A specific service design may require inclusion of some or all of the above aspects depending on whether the service design is being undertaken as part of a feasibility assessment, or is being developed as a result of a committed customer order. These processes invoke requests to Resource Domain provisioning processes to determine the availability of suitable specific resources, or parties though the Service Domain process in the event that the service design requires either the inclusion of outsourced or partner provided specific services."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

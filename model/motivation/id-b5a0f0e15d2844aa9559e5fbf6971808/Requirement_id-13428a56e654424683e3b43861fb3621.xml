@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0719"
+    id="id-13428a56e654424683e3b43861fb3621"
+    documentation="As a customer, when there are offers relevent to me, I want to receive notifications about them, so that I don't have to spend time researching the best deals, and my time is used efficiently in optimising my business">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0719"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Jared Mortlock"/>
+  <properties
+      key="Tribe"
+      value="Business"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Get offers"/>
+  <properties
+      key="Remarks"
+      value="How to distinguish relevant for business offer? Based on simple rules or recommendation engine?"/>
+  <properties
+      key="Module"
+      value="CCM, SC, EP, CNS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

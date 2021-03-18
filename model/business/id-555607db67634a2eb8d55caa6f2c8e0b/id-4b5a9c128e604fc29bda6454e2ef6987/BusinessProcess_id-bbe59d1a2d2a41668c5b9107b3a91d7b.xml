@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Qualify Selling Opportunity"
+    id="id-bbe59d1a2d2a41668c5b9107b3a91d7b"
+    documentation="Ensure that a sales prospect is qualified in terms of any associated risk and the amount of effort required to achieve a sale.">
+  <properties
+      key="Process Identifier"
+      value="1.1.9.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Qualify Selling Opportunity process ensures that a sales prospect is qualified in terms of any associated risk, and the amount of effort required, such as to prepare a response to a Request for Proposal [RFP]) to achieve a sale. The opportunity is explored with a sales prospect to ensure the offer meets a prospectâ€™s expectations, and to ensure that the breadth of a prospect's requirements is understood. Extended interactions with a prospect may be required to achieve mutual understanding and agreement. The opportunity may require the development of alternative solutions or customization to the specific prospectâ€™s requirements. The Qualify Opportunity process is responsible for assessing the size of the potential development and its risk. The resources, financing and potential on-going prospect commitment to the developed solution are all factors that must be assessed. This process also assesses the strategic importance of the opportunity, the potential for wider application, and the importance of the specific prospect to the enterprise. The solution alternatives must be available, such as capacity, or scheduled on a product offering roadmap."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

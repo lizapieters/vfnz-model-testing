@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Test Quality Analysis Management"
+    id="id-e86b212646d24a86b4419d0ddff90a5b"
+    documentation="Product Test  Quality Analysis Management manages a quality Analysis on Tests to continually tweak and improve it.">
+  <properties
+      key="Process Identifier"
+      value="1.2.13"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Product Test Quality Analysis Management manages a quality Analysis on Tests to continually tweak and improve it. Product Test Quality Analysis Management provides an offline analysis of the usage of the tests to determine its relevance and provide modifications proposal concerning all the Test specification (including: test method, quota, authorized users, consequences according to resultsâ€¦). This analysis is done using statistical test usage data to evaluate the tests relevance and the needed updates. Following the analysis, it can be decided to - Do nothing, - Propose the creation of additional product tests, - Propose the update of existing product tests, - Remove product tests that are considered irrelevant."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

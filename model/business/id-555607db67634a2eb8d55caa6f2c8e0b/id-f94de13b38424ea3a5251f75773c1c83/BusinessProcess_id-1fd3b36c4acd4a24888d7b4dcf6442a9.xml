@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define Product Offering Agreement Terms/Conditions"
+    id="id-1fd3b36c4acd4a24888d7b4dcf6442a9"
+    documentation="Define terms/conditions for a product offering agreement.">
+  <properties
+      key="Process Identifier"
+      value="1.2.7.2.4.1"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Define Product Offering Agreement Terms/Conditions defines product offering terms/conditions, such as financial terms (which includes such things as acceptable methods of payment), shipment terms, and service term (which includes early termination fees). The terms/conditions are accepted by a party when the offering is acquired."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

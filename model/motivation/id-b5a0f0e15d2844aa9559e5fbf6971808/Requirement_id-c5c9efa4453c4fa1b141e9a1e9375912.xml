@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0910"
+    id="id-c5c9efa4453c4fa1b141e9a1e9375912"
+    documentation="As a customer, when I am cancelling a service, I want my payments to reflect only the period I have the service, so that I am not over charged or charged for services I am no longer using.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0910"/>
+  <properties
+      key="Status"
+      value="Parked for workshop"/>
+  <properties
+      key="Created by"
+      value="Rudolf Arada"/>
+  <properties
+      key="Tribe"
+      value="Business"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="y"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Stop"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Part refund"/>
+  <properties
+      key="Remarks"
+      value="In what situations in subscription model partial payment should be refunded, how it should be calculated?"/>
+  <properties
+      key="Module"
+      value="BS, SC, PC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

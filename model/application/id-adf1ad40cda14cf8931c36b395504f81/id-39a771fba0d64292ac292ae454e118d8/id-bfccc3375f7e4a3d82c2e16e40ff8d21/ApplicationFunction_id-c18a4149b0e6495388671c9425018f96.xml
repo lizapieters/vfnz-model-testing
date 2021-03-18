@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service parameters reservation"
+    id="id-c18a4149b0e6495388671c9425018f96"
+    documentation="Reserve the right service parameters based on service specification and service inventory for a service order">
+  <properties
+      key="Function Identifier"
+      value="592"/>
+  <properties
+      key="TAM Application Name"
+      value="Service Configuration Management"/>
+  <properties
+      key="TAM Application Id"
+      value="6.3.6"/>
+  <properties
+      key="Constructed Id"
+      value="6.3.6.592"/>
+</archimate:ApplicationFunction>

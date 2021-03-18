@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0857"
+    id="id-8399e754d61e469fa98b9f016d101c55"
+    documentation="As a Disclosure Manager/Analyst, I want access to real time data on all employee actions on all systems containing customer or employee data by way of any identifier given by NZ Law Enforcement Agencies under statutory orders served, to ensure that we are able to provide evidential records which assist NZ Law Enforcement Agencies in either proving the criminal offending or innocence of customers who are using our services or staff who may be administering the services.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0857"/>
+  <properties
+      key="Status"
+      value="Not Comarch BSS Solution"/>
+  <properties
+      key="Created by"
+      value="Caroline Carver"/>
+  <properties
+      key="Tribe"
+      value="Privacy, Fraud and Compliance"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Reporting"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="LEA (Law Enforcement Agencies) Disclosures"/>
+  <properties
+      key="Remarks"
+      value="screen mirroring is not part of Comarch solution. External options to be investigated by VF"/>
+  <properties
+      key="Module"
+      value="0"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="REQ_OSS_245"/>
+</archimate:Requirement>

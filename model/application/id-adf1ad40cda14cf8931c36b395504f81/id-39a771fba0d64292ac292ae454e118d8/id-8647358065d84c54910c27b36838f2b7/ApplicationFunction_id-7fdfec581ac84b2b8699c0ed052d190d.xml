@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Staffing"
+    id="id-7fdfec581ac84b2b8699c0ed052d190d"
+    documentation="Staffing provides the following functionality:&#xA;� Tracking of candidate through process. &#xA;� Interviewing candidates by recruiter. &#xA;� Ranking of candidates for hiring manager interview. &#xA;� Background checks.&#xA;� Organizational Management">
+  <properties
+      key="Function Identifier"
+      value="781"/>
+  <properties
+      key="TAM Application Name"
+      value="Recruitment &amp; Staffing"/>
+  <properties
+      key="TAM Application Id"
+      value="9.2.5"/>
+  <properties
+      key="Constructed Id"
+      value="9.2.5.781"/>
+</archimate:ApplicationFunction>

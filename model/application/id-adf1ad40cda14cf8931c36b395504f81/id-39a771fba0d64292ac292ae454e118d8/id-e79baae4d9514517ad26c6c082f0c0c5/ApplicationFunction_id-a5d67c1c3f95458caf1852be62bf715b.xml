@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Details Management"
+    id="id-a5d67c1c3f95458caf1852be62bf715b"
+    documentation="Managing customer details - E.g. name, contact persons for this customer, account managers for this customer, addresses (residence, billing, service address, etc.), contact phone numbers (landline, mobile, fax, etc.)">
+  <properties
+      key="Function Identifier"
+      value="225"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Profile Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.1.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.1.2.225"/>
+</archimate:ApplicationFunction>

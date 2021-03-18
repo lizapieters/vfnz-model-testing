@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Close Service Performance Degradation Report"
+    id="id-1ccff62e129647a390f7c7f780f0e58d"
+    documentation="Close a service performance degradation report when the service performance has been resolved">
+  <properties
+      key="Process Identifier"
+      value="1.4.7.7"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of the Close Service Performance Degradation Report processes is to close a service performance degradation report when the service performance has been resolved. These processes monitor the status of all open service performance degradation reports, and recognize that a service performance degradation report is ready to be closed when the status is changed to cleared."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

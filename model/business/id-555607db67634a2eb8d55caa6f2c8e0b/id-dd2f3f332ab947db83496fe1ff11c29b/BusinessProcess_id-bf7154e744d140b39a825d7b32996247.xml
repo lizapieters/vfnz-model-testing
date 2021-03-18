@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Specify Available Capacity Location"
+    id="id-bf7154e744d140b39a825d7b32996247"
+    documentation="Associate available planned or actual capacity with a location such as a city, suburb, or geographic area or in a more granular dimension such as Cell Level for mobile networks.">
+  <properties
+      key="Process Identifier"
+      value="1.8.2.2.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

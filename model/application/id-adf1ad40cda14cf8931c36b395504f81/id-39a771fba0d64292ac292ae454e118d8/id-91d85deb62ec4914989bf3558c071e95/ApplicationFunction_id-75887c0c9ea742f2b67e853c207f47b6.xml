@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sales Negotiation"
+    id="id-75887c0c9ea742f2b67e853c207f47b6"
+    documentation="Sales Negotiation provides support for negotiating the sale by providing multiple quotations as needed, taking into account the customer data, customer qualification, and offers made. Functionality includes access to products, product pricing, scheduling of appointments if a dispatch is necessary, etc.&#xA;Sales Negotiation generates an order or service request.&#xA;&#xA;Customer order request generation � send solution design details to update proposal product order in Customer Order Management systems &#xA;&#xA;Service order request generation � send solution design details to update service order in Service Order Management systems (after customer agreement � part of handoff to fulfillment)">
+  <properties
+      key="Function Identifier"
+      value="934"/>
+  <properties
+      key="TAM Application Name"
+      value="Sales Negotiation"/>
+  <properties
+      key="TAM Application Id"
+      value="3.10.6"/>
+  <properties
+      key="Constructed Id"
+      value="3.10.6.934"/>
+</archimate:ApplicationFunction>

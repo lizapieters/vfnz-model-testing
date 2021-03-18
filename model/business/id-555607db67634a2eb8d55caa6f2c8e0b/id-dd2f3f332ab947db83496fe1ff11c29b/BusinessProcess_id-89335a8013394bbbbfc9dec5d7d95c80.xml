@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dispatch Task"
+    id="id-89335a8013394bbbbfc9dec5d7d95c80"
+    documentation="This process dispatches technicians and/or third parties to perform manual activities.">
+  <properties
+      key="Process Identifier"
+      value="1.5.5.5.4"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Dispatch Task scope includes the following: â€¢{T}Dispatching assigned tasks to the appropriate performer (e.g. a single technician or a crew) from the companyâ€™s workforce or from a third-party workforce to perform manual activities â€¢{T}Managing the dispatching process via various channels â€¢{T}Monitoring various dispatch states â€¢{T}Managing the delivery of reassignments and changes to all affected performers â€¢{T}Managing notification profiles and rules â€¢{T}Managing settings required for proper task dispatching"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

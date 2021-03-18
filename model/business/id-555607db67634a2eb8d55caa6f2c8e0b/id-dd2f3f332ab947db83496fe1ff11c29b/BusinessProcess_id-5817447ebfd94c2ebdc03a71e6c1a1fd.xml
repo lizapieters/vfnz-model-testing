@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Assess Party Delivery Capabilities"
+    id="id-5817447ebfd94c2ebdc03a71e6c1a1fd"
+    documentation="Query a set of candidate parties to check for party specific resource, service or product availability and ability to meet delivery volumes, delivery time-scales and schedules, locations, specific technical and other requirements (including relevant standards).">
+  <properties
+      key="Process Identifier"
+      value="1.6.8.2.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

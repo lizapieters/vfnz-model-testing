@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SecVulnerabilityMetricValueDefn"
+    id="id-47ecc95a267f44c7b5493537ae262635"
+    documentation="A standard value for a defined scoring metric (SecVulnerabilityScoringMetricDefn). Each metric has multiple instances which represent multiple values. Notes: For example; Base Metric Access Vector has three pre-defined values - L/Local; A/Adjacent Network; and N/Network."/>

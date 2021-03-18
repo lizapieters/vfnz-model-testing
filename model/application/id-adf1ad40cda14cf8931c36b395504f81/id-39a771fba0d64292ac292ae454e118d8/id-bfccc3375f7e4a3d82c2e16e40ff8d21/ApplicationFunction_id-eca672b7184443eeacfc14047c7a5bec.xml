@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Order Tracking"
+    id="id-eca672b7184443eeacfc14047c7a5bec"
+    documentation="Tracks the various resource orders until completed.">
+  <properties
+      key="Function Identifier"
+      value="599"/>
+  <properties
+      key="TAM Application Name"
+      value="Service Order Tracking &amp; Management"/>
+  <properties
+      key="TAM Application Id"
+      value="6.3.2.2"/>
+  <properties
+      key="Constructed Id"
+      value="6.3.2.2.599"/>
+</archimate:ApplicationFunction>

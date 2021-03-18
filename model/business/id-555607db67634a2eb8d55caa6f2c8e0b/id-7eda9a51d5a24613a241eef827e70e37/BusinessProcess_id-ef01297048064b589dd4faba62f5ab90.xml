@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Configuration &amp; Activation"
+    id="id-ef01297048064b589dd4faba62f5ab90"
+    documentation="Allocation, implementation, configuration, activation and testing of specific services to meet customer requirements.">
+  <properties
+      key="Process Identifier"
+      value="1.4.5"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Service Configuration &amp; Activation processes encompass allocation, implementation, configuration, activation and testing of specific services to meet customer requirements, or in response to requests from other processes to alleviate specific service capacity shortfalls, availability concerns or failure conditions. Where included in the service provider offering, these processes extend to cover customer premises equipment. Responsibilities of the Service Configuration &amp; Activation processes include, but are not limited to: â€¢ Verifying whether specific service designs sought by customers are feasible as part of pre-order feasibility checks; â€¢ Allocating the appropriate specific service parameters to support service orders or requests from other processes; â€¢ Reserving specific service parameters (if required by the business rules) for a given period of time until the initiating customer order is confirmed, or until the reservation period expires (if applicable); â€¢ Implementing, configuring and activating specific services, as appropriate; â€¢ Testing the specific services to ensure the service is working correctly; â€¢ Recovery of specific services; â€¢ Updating of the Service Inventory Database to reflect that the specific service has been allocated, modified or recovered; â€¢ Assigning and tracking service provisioning activities; â€¢ Managing service provisioning jeopardy conditions â€¢ Reporting progress on service orders to other processes."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

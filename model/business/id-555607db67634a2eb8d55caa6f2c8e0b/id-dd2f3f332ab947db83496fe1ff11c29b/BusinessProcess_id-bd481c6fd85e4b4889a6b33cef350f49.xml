@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Support Party Billing Event Related Processes"
+    id="id-bd481c6fd85e4b4889a6b33cef350f49"
+    documentation="Support other processes, such as party review of billing events (pre-billing and post-billing).">
+  <properties
+      key="Process Identifier"
+      value="1.6.20.4.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

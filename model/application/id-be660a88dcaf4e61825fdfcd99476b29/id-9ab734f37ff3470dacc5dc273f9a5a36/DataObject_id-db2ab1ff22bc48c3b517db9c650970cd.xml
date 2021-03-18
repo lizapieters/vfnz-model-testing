@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MetricDefMeasureThresholdRule"
+    id="id-db2ab1ff22bc48c3b517db9c650970cd"
+    documentation="A MetricDefMeasureThresholdRule is a rule that defines the condition (raise or clear) to achieve to apply consequences when a threshold (MetricDefMeasureThreshold) is crossed or ceased to be crossed. It also defines the severity of the raise or clear of the threshold."/>

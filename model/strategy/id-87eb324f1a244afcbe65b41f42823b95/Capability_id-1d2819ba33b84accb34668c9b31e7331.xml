@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Program Management"
+    id="id-1d2819ba33b84accb34668c9b31e7331"
+    documentation="Customer Loyalty Program Management is responsible for administration of the customer loyalty programs. This includes program rules and registration, management of customer loyalty profiles within the loyalty program, and all communication with the customer regarding the loyalty program.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.21.1"/>
+  <properties
+      key="TMF Function"
+      value="Loyalty Communications Management Loyalty Program Rules Administration Loyalty Subscription Management"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

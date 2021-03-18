@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Usage Management"
+    id="id-78c6488ff054469695442198f0db3bb5"
+    documentation="Usage Management is the conduit for usage events of various types and formats from the different event generating functions like networks, applications, infrastructures, �Management and Control� etc. to various processes such as billing, legal compliance, and service assurance. Usage Event records are collected/processed, edited, correlated, enriched, formatted and distributed to upstream systems. It is not necessary that all usage events are always charged but might be used for enrichment of other usage events.&#xA;&#xA;The Usage Management function supports various types of charging for sessions and events, for example, application instance, Max/Min usage based on flexible time intervals or active users of the application in both batch and real-time.">
+  <properties
+      key="TMF Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="7.14"/>
+  <properties
+      key="TMF Function"
+      value="0"/>
+  <properties
+      key="TMF Maturity"
+      value="Resource Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

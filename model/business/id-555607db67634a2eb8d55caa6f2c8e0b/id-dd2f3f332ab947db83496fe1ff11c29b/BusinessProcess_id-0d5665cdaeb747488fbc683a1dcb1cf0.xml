@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Handle MVNO&amp;MVNE Billing"
+    id="id-0d5665cdaeb747488fbc683a1dcb1cf0"
+    documentation="Handle MVNO&amp;MVNE Billing process handle billing chain of MVNO (Mobile Virtual Network Operator) and/or MVNE (Mobile Virtual Network Enabler) for voice, data, VAS or Content for local, international services.">
+  <properties
+      key="Process Identifier"
+      value="1.6.15.4.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Handle MVNO&amp;MVNE Billing process handle billing chain of MVNO (Mobile Virtual Network Operator) and/or MVNE (Mobile Virtual Network Enabler) for voice, data, VAS or Content for local, international services. This process include the ability to rerate events. This ability is often as required to ensure accurate revenue from parties based on the latest rates. This includes configurable settlement periods to ensure settlement according to individual MVNO contract or agreement. Legal and contractual requirement for events in case of extended settlement periods and disputes. The MVNO tax and G/L(General Ledger) are applied . It means to apply and receive tax details from MVNO and apply against records according to applicable billing policy. For example, depending on the size of the operations, there might be slight variations to the common process. Business Party maturity, culture, operational limitations, competitive climate causes minor variations on the actual implemented process. This evolving process(es) require deviations from the norm."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

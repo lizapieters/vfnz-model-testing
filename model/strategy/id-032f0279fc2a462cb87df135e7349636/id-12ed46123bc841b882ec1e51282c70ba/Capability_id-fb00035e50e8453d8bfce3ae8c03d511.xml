@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Campaign/Training Matching"
+    id="id-fb00035e50e8453d8bfce3ae8c03d511"
+    documentation="The ability to associate a campaign with training.">
+  <properties
+      key="TMF_ID"
+      value="1.2.12.7.14"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

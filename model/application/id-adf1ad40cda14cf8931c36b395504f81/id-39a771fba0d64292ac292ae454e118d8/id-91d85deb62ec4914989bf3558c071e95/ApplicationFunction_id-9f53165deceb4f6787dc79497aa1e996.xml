@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sales Account Assignment"
+    id="id-9f53165deceb4f6787dc79497aa1e996"
+    documentation="Sales Account Assignment provides the necessary functionality to assign customers to a service provider�s sellers (either third party or internal). Ownership might further be differentiated based on various products with the same customer. Sales Account Assignment also maintains the sales hierarchy (different than HR reporting hierarchy) for sales compensation, sales forecasting, and sales results.">
+  <properties
+      key="Function Identifier"
+      value="390"/>
+  <properties
+      key="TAM Application Name"
+      value="Sales Account Assignment"/>
+  <properties
+      key="TAM Application Id"
+      value="3.11.2"/>
+  <properties
+      key="Constructed Id"
+      value="3.11.2.390"/>
+</archimate:ApplicationFunction>

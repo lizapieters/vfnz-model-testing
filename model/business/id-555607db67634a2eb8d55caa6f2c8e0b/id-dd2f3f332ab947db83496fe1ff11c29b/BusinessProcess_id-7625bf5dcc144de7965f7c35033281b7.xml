@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Service Process &amp; Procedure Implementation"
+    id="id-7625bf5dcc144de7965f7c35033281b7"
+    documentation="These processes ensure that all operational processes and procedures, IT systems changes, network changes, channel changes, operational procedures, testing tools and procedures, etc. required to support the new service class/component have been implemented.">
+  <properties
+      key="Process Identifier"
+      value="1.4.3.6.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

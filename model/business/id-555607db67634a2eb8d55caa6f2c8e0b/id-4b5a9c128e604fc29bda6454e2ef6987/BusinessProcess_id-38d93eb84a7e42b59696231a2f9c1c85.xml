@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitor Marketing Campaign Effectiveness"
+    id="id-38d93eb84a7e42b59696231a2f9c1c85"
+    documentation="Establish metrics, monitor metrics, and analyze metrics to gauge the effectiveness of a marketing campaign or campaigns.">
+  <properties
+      key="Process Identifier"
+      value="1.1.15.5"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Monitor Marketing Campaign Effectiveness establishes metrics, monitors metrics, and analyzes metrics to gauge the effectiveness of a marketing campaign or campaigns. Based on analysis these processes feedback suggested changes to adapt the campaign or campaigns to become more effective now or in the future. Note that this process' sub-processes reuse a generalized set of metric processes to develop, gather, and analyze (to some degree) marketing campaign metrics."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

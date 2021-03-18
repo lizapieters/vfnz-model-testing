@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Order Management"
+    id="id-f58b88bed4914d7a9f65ebb632de668a"
+    documentation="Customer Order Management applications manage the end to end lifecycle of a customer request for products. This includes order establishment (step guiding, data collection and validation), order publication as well as order orchestration and overall lifecycle management. A customer request may also pertain to already purchased product(s). Thus the Customer Order Management application handles order requests to suspend, resume, change ownership, amend, add, change and discontinue existing ordered products. Customer Order Management application should support repackaging of the purchased offers into alternate product offering (may require sales/contract negotiation). Customer Order Management applications typically serve all the customer touch points / channels, including call center, retail, self-service, dealers, affiliates, etc. The order may be initiated by any channel and visible to the other channels if needed.">
+  <properties
+      key="TMF Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.3"/>
+  <properties
+      key="TMF Function"
+      value="0"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

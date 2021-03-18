@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProjectElementSuccession"
+    id="id-5d31e0a30a2945ed9f6641626eacbee9"
+    documentation="Is a type of ProjectElement relationship where one or more ProjectElements are succeeded by one or more ProjectElements. This is an abstract entity used to hold common attributes and associations for the concrete relationship types Substitution; Division &amp; Fusion"/>

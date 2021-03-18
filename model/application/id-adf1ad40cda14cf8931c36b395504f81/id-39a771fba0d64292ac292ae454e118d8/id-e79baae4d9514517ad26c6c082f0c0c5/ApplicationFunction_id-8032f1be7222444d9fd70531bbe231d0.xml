@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Personalize Customer Profile"
+    id="id-8032f1be7222444d9fd70531bbe231d0"
+    documentation="The Personalize Customer Profile function creates a personalized profile signature based on combined segment, interest and behavior for the individual �customer�  (ex. Soccer Mom, Gold/Silver/Bronze customer, Golfer, Early adopter), and around �content� (ex. Content sharing - College kids + Field Sales). This also includes continuous learning and update of individual �Profile Signature�">
+  <properties
+      key="Function Identifier"
+      value="234"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Profiling"/>
+  <properties
+      key="TAM Application Id"
+      value="5.5.11"/>
+  <properties
+      key="Constructed Id"
+      value="5.5.11.234"/>
+</archimate:ApplicationFunction>

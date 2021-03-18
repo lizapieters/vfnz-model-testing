@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Work Item Workload Balancing"
+    id="id-5e2ef45faf3a40d580747c49b1ad8b98"
+    documentation="The ability to allocate work against available resources in accordance with a schedule.">
+  <properties
+      key="TMF_ID"
+      value="1.3.10.1.4.3"/>
+  <properties
+      key="Level"
+      value="4"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

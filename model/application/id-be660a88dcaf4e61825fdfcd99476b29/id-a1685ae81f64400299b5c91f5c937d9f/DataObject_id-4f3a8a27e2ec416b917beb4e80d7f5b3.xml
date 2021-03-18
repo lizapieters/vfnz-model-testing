@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FinancialAccount"
+    id="id-4f3a8a27e2ec416b917beb4e80d7f5b3"
+    documentation="A FinancialAccount is part of the sub-ledger accounting that aggregates the amounts of one or more party accounts owned by a given party. Itâ€™s an internal view of the CSP to manage incomes and outcomes. It is only an internal accounting which does not need to follow the GeneralLedger accounting regulation. Each accounting event from a PartyAccount is logged to a FinancialAccount according to the assignment rules specified by PartyAccountAssignment."/>

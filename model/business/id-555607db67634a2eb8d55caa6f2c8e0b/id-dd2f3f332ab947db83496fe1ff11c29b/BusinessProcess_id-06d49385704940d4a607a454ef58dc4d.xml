@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Configure Schedules"
+    id="id-06d49385704940d4a607a454ef58dc4d"
+    documentation="This process creates the schedules for the organization, which show work requests and employee capabilities and availabilities. The process also manages rules for appointment, reservation, and assignment.">
+  <properties
+      key="Process Identifier"
+      value="1.5.5.3.6"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="â€¢{T}Establishing and managing the information transfer through which other parties report on their workforce parameters and schedules â€¢{T}Establishing a workforce schedule which provides a single view of their capabilities and availabilities, taking into account both their own company's workforces and workforces provided by other parties â€¢{T}Identifying a resource plan, which is the time frame-based association of workforce with types of work. This means that associated workforce units are supposed to perform particular types of work in a specified timeframe. This schedule provides a view of the workforce in terms of work availability. It may be used for limiting and balancing work and appointments between several workforce sources and for optimizing the use of the total workforce. â€¢{T}Managing assignment/re-assignment rules, prioritization criteria, based on the organizational settings, type of location, type of jobs, and minimizing the cost of reassignments â€¢{T}Defining restriction rules for appointment scheduling, such as the number of appointments allowed within a certain block of time, etc. â€¢{T}Defining restriction rules for workforce reservations such as number of concurrent reservations for a particular workforce source, etc."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

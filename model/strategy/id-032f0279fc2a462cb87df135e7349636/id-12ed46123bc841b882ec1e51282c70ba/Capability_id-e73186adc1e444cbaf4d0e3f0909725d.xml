@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Content Profile Management"
+    id="id-e73186adc1e444cbaf4d0e3f0909725d"
+    documentation="The ability to articulate, organize, identify, track, validate, distribute or otherwise administer descriptive, identifying information about an item of content.">
+  <properties
+      key="TMF_ID"
+      value="1.1.4.1.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

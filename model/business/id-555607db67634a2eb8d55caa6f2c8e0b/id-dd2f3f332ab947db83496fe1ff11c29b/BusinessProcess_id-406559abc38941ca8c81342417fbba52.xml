@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analyze Marketing Campaign Metrics"
+    id="id-406559abc38941ca8c81342417fbba52"
+    documentation="Analyze gathered marketing campaign(s) metrics to identify any issues with the campaign(s).">
+  <properties
+      key="Process Identifier"
+      value="1.1.15.5.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Analyze Marketing Campaign Metrics analyzes gathered marketing campaign(s) metrics to identify any issues with the campaign(s). The analysis includes identifying any established thresholds that have been crossed and the associated consequence (good or bad). A report is produced that reflects the effectiveness of the marketing campaign(s)."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

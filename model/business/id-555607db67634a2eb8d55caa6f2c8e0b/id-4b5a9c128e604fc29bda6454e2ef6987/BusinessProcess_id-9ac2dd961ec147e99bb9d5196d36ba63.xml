@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="End Marketing Campaign"
+    id="id-9ac2dd961ec147e99bb9d5196d36ba63"
+    documentation="End a marketing campaign when its useful life is reached. It may also include an assessment of the campaign by reusing Monitor Marketing Campaign Effectiveness and add comments about the campaign's success.">
+  <properties
+      key="Process Identifier"
+      value="1.1.15.7"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

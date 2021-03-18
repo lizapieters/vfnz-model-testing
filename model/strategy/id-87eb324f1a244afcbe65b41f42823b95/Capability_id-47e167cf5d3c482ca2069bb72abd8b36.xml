@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Self Empowered Billing"
+    id="id-47e167cf5d3c482ca2069bb72abd8b36"
+    documentation="Customer self empowered billing applications provide an internet technology driven interface to the customer to undertake a variety of billing functions directly for themselves. These applications interact to provide fully automated service or assisted service over customers touch points. Customer self empowered billing applications enable the service providers cost reduction through the following operational efficiencies: &#xA;� Replacing paper bills with paperless bills&#xA;� Converging the multi- disciplinary billing operations      &#xA;� Deflecting bill queries calls from the contact center to   the web &#xA;� Automating the dispute resolution process &#xA;� Reducing days sales outstanding (DSO)    &#xA;� Reducing requests for bill prints  &#xA;� Reduction in professional personnel providing analytics   for business customers&#xA;� Reduction in interest loss due to delayed   payments">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.4.3"/>
+  <properties
+      key="TMF Function"
+      value="Corporate Customer Billing approval process Corporate Customer Cost center self service analysis Corporate Customer hierarchies driven billing self service Corporate Customers Organizational reports on usage and charges Self Service Bill view Self Service Calls assignment for classification of usage Self Service Dispute capture and resolution Self Service Payment Self Service Penalties view Self Service Reports on usage and charges Self Service Split statement Self Service Unbilled charges view Self Service Usage and charges comparison Self Service Usage view"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

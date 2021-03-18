@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Procurement"
+    id="id-d10a6756d31a4217b78e119f6526be6d"
+    documentation="Procurement Management provides the necessary functionality to manage the requisitions for material and placing the orders with the contracted supplier/partner. This includes orders placed in conjunction with a customer order as well as orders placed as part of service provider expansions of product, service, or network.A Supplier/Partner Order can also include a simple transaction with a supplier/partner concerning an application purchased via a product catalog, and the app is delivered.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="9.10.2"/>
+  <properties
+      key="Frameworx Domain"
+      value="Enterprise Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

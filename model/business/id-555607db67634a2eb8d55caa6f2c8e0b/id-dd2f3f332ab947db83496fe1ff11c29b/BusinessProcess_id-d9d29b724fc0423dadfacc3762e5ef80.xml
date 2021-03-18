@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Distribute Service Problem Management Reports &amp; Summaries"
+    id="id-d9d29b724fc0423dadfacc3762e5ef80"
+    documentation="This process records, analyzes and assesses the Service Performance Degradation Report status changes to provide management reports and any specialized summaries of the efficiency and effectiveness of the overall Service Quality Management process.  These specialized summaries could be specific reports required by specific audiences.">
+  <properties
+      key="Process Identifier"
+      value="1.4.6.5.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

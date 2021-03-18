@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Channel Lifecycle Management"
+    id="id-61b80b61b02c422db998d3cfbfb67be1"
+    documentation="The ability to make decisions concerning a channel over time, between the time they are created until they are closed down.">
+  <properties
+      key="TMF_ID"
+      value="1.1.1.9"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

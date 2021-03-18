@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Billing Event Error Management"
+    id="id-d8889d826149466b963f80494f2c6e2e"
+    documentation="The Billing Events Error Management function accepts events which have been identified as being non-processable. Examples could include the inability to identify the owner of the usage (customer), and inability to apply a valid rate, etc. The function provides users with these capabilities:&#xA;� The ability to categorize unbilled events&#xA;� Features to identify the error cause&#xA;� Correction capabilities (via mechanized script or manual correction) &#xA;� Re-distribution features to send the usage to the proper destination(s)">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="5.20.2"/>
+  <properties
+      key="Frameworx Domain"
+      value="Customer Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

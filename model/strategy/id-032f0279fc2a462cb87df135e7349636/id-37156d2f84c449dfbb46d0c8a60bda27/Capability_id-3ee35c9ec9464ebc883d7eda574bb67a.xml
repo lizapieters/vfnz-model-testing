@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Message Validation"
+    id="id-3ee35c9ec9464ebc883d7eda574bb67a"
+    documentation="The ability to determine if a message is of high integrity and accuracy, appropriate to a given target, and generally a fit for its intended purpose.">
+  <properties
+      key="TMF_ID"
+      value="1.2.1.3"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

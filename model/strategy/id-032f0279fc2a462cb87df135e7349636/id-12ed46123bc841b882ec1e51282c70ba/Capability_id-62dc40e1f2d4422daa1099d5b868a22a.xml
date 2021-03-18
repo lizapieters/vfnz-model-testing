@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financial Account Type Management"
+    id="id-62dc40e1f2d4422daa1099d5b868a22a"
+    documentation="The ability to set and recognize the particular category of an account.">
+  <properties
+      key="TMF_ID"
+      value="1.3.6.2.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WorkforcePoolAssignment"
+    id="id-35b7741122384824bd8abfefe2fc0c14"
+    documentation="An abstract class representing assignment of an employee or other resource to a pool. An employee can be assigned to more than one pool. The attribute poolAssignmentRestriction is a place holder that represents any limitation of the assignment other than time period. Pool assignment will update available capacity WorkSchedule of some organization."/>

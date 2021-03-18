@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Confirm Distribution and Clean-up"
+    id="id-b7b1ca303e40455f904378c0bd20561f"
+    documentation="Inform the original sending process or instance upon successful delivery that the information has been successfully distributed (if required), and  delete the locally stored information from any local repositories.">
+  <properties
+      key="Process Identifier"
+      value="1.5.7.3.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

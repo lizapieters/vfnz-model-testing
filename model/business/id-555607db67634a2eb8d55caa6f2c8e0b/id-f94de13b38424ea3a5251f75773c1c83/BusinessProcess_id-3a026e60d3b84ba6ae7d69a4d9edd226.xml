@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Report Revenue Assurance"
+    id="id-3a026e60d3b84ba6ae7d69a4d9edd226"
+    documentation="Monitor and report on the status of continuous monitoring of revenue assurance control point performance, of revenue assurance trouble reports, to provide notifications of any changes and provide management reports.">
+  <properties
+      key="Process Identifier"
+      value="1.7.2.6.2.6"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of the Report Revenue Assurance processes is to monitor and report on the status of continuous monitoring of revenue assurance control point performance, of revenue assurance trouble reports, to provide notifications of any changes and provide management reports. These processes are responsible for continuously monitoring the status of revenue assurance trouble reports and managing notifications to other processes and to other parties registered to receive notifications of any status changes. Notification lists are managed and maintained by the Support Revenue Assurance Operations processes. These processes record, analyze and assess the revenue assurance trouble report status changes to provide management reports and any specialized summaries of the efficiency and effectiveness of the overall Manage Revenue Assurance Operations processes. These specialized summaries could be specific reports required by specific audiences and/or customers."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

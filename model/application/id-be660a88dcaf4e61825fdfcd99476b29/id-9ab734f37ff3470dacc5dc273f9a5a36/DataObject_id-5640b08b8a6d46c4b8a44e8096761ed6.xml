@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DecisionRequestedDetails"
+    id="id-5640b08b8a6d46c4b8a44e8096761ed6"
+    documentation="This class implements the semantics of the PolicyDecisionRequestedBy association. This association defines the set of PolicyDecisions that are requested by a ManagedEntity.The PolicyDecisionRequestedBy association defines the set of PolicyDecisions that are requested by a ManagedEntity. The semantics of this association are implemented by the DecisionRequestedDetails association class. This starts the management closed loop system by a request for a policy decision. Note that the full model allows for events and other entities to request policy decisions; not just ManagedEntities."/>

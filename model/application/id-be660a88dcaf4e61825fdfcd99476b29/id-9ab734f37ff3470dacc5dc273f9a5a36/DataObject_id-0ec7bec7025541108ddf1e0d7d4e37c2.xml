@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Notification"
+    id="id-0ec7bec7025541108ddf1e0d7d4e37c2"
+    documentation="A communication that informs about something that has or will happen. A Notification is typically one-sided; in that no Response is expected. A Notification can be created as the result of a Request; for example; a Trouble Report may result in Notifications being sent to affected Parties. A Notification is a type of Business Interaction."/>

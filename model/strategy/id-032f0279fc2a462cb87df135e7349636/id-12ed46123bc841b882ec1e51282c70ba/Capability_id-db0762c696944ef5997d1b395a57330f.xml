@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Partner/Market Matching"
+    id="id-db0762c696944ef5997d1b395a57330f"
+    documentation="The ability to associate a partner with a market.">
+  <properties
+      key="TMF_ID"
+      value="1.1.9.7.9"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

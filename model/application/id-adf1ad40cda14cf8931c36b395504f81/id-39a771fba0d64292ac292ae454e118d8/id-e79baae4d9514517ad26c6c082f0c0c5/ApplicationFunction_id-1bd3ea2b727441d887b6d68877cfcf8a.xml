@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Loyalty Program Prize Administration"
+    id="id-1bd3ea2b727441d887b6d68877cfcf8a"
+    documentation="The Loyalty Prize Administration component configures and maintains the prizes and holds description of their characteristics. Allows for prize differentiation policies on geographical criteria.">
+  <properties
+      key="Function Identifier"
+      value="199"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Loyalty Prize Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.21.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.21.2.199"/>
+</archimate:ApplicationFunction>

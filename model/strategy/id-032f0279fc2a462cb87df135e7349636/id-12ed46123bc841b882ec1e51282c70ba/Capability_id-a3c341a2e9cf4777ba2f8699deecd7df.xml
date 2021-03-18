@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Network Needs Determination"
+    id="id-a3c341a2e9cf4777ba2f8699deecd7df"
+    documentation="The ability to identify and describe the appropriate needs for network changes.">
+  <properties
+      key="TMF_ID"
+      value="1.1.7.2.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

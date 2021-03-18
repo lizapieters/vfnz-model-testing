@@ -1,0 +1,17 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Domain"
+    id="id-34a0a67463cd42a7a118bf68164c93ea"
+    documentation="The Service Domain is concerned with the definition, development, and operational aspects of Services used to realize offerings to the market.">
+  <properties
+      key="Process Identifier"/>
+  <properties
+      key="Category"/>
+  <properties
+      key="Extended Description"
+      value="The Service Domain is concerned with the definition, development, and operational aspects of Services used to realize offerings to the market. This includes agreement on Service levels to be offered, deployment and configuration of Services, management of problems in Service installation, deployment, usage, or performance, quality analysis, and rating. Finally, this domain also includes planning for future services, service enhancement or retirement, and capacity."/>
+  <properties
+      key="Maturity Level"/>
+  <properties
+      key="Frameworx Status"/>
+</archimate:BusinessProcess>

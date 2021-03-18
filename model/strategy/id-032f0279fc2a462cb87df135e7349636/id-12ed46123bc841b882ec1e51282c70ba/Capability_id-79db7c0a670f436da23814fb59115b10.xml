@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Shipment/Trip Matching"
+    id="id-79db7c0a670f436da23814fb59115b10"
+    documentation="The Ability to associate a shipment with a trip.">
+  <properties
+      key="TMF_ID"
+      value="1.1.11.6.7"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

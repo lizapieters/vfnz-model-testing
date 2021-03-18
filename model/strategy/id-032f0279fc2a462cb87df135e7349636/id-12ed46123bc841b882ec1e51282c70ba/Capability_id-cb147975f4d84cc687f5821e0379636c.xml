@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tax State Management"
+    id="id-cb147975f4d84cc687f5821e0379636c"
+    documentation="The ability to set and recognize tax status, including being a past, present, or future tax.">
+  <properties
+      key="TMF_ID"
+      value="1.3.6.5.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

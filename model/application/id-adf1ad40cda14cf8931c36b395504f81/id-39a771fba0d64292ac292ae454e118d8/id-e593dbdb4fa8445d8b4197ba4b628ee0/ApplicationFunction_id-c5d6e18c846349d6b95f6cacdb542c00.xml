@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource end to end test execution"
+    id="id-c5d6e18c846349d6b95f6cacdb542c00"
+    documentation="Test execution of the end to end resource testing">
+  <properties
+      key="Function Identifier"
+      value="514"/>
+  <properties
+      key="TAM Application Name"
+      value="Resource Test Lifecycle Management"/>
+  <properties
+      key="TAM Application Id"
+      value="7.11.2"/>
+  <properties
+      key="Constructed Id"
+      value="7.11.2.514"/>
+</archimate:ApplicationFunction>

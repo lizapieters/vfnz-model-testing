@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ServiceStateInfo"
+    id="id-f383b3f4e5c64f56bc88d6a917cc391c"
+    documentation="ServiceStateInfo is an abstract base class for representing different types of management information that describes the state of a particular Service. This can be a CustomerFacingService or a ResourceFacingService. Subclasses of this class include classes to represent Faults; Outages; Alarms; the usage of this Resource; and its current operational state."/>

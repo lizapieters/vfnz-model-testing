@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop Sales Proposal"
+    id="id-78552a2caa524450b4dc0979836c4e81"
+    documentation="Develop a sales proposal to respond to the customerâ€™s requirements&#xA;Develop a sales proposal to respond to a sales prospect's requirements.">
+  <properties
+      key="Process Identifier"
+      value="1.1.9.2"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The purpose of this process is to develop a sales proposal to respond to the customerâ€™s requirements. This process commences following approval by the Qualify Customer process. The development of a sales proposal may require the selection of a standard product offering, may require the development of a non-standard offering, or may require the creation of a project team to construct an offering in response to a customerâ€™s Request For Proposal. In all cases, the processes are responsible for ascertaining the customerâ€™s requirements, determining the ability of the enterprise to support the customer requirements, and developing a proposal (or proposals) for the customer which meets the stated requirements. These processes assess the extent of enterprise support required to develop the sales proposal, marshal the necessary support across the enterprise and administer the sales proposal development activity to ensure that any timing constraints associated with eth customer requirements are achieved. Note that development of a non-standard sales proposal or the response to a customerâ€™s RFP may require the development of unique solution designs. The development of unique solutions, within the context of current deployed capabilities, uses the Design Solutions process within Service Management &amp; Operations to undertake the necessary feasibility studies. Where current capabilities are not able to support customerâ€™s requirements, the Product &amp; Offer Capability Delivery processes are invoked to undertake any necessary assessment and business case development. Develop Sales Proposal develops a sales proposal to respond to a sales prospect's requirements. It commences following approval by the Qualify Opportunity process if this process is applicable. The development of a sales proposal may require the selection of a standard product offering, may require the development of a non-standard offering, or may require the creation of a project team to construct an offering in response to a sales prospect's Request For Proposal. In all cases, the processes are responsible for ascertaining a prospect's requirements, determining the ability of the enterprise to support the requirements, and developing a proposal (or proposals) which meets the stated requirements. This process assesses the extent of enterprise support required to develop the sales proposal, marshal the necessary support across the enterprise and administer the sales proposal development activity to ensure that any timing constraints associated with eth customer requirements are achieved. Note that development of a non-standard sales proposal or the response to a customerâ€™s RFP may require the development of unique solution designs. The development of unique solutions, within the context of current deployed capabilities, uses the Design Solutions process within Service Management &amp; Operations to undertake the necessary feasibility studies. Where current capabilities are not able to support customerâ€™s requirements, the Product &amp; Offer Capability Delivery processes are invoked to undertake any necessary assessment and business case development."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

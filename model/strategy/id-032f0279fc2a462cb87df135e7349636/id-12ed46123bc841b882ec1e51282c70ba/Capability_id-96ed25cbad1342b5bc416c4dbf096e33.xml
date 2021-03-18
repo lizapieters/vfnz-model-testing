@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Shipment Risk Aggregation"
+    id="id-96ed25cbad1342b5bc416c4dbf096e33"
+    documentation="The Ability to consider a collective set of risk factors and represent them from a rationalized perspective.">
+  <properties
+      key="TMF_ID"
+      value="1.1.11.3.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Order capture and negotiation"
+    id="id-5967692464334ece91e8792fc50db174"
+    documentation="A Virtual Network Operators online access function to make them self sufficient for Order capture and negotiation. Including the use of VNO/Dealer data fencing.">
+  <properties
+      key="Function Identifier"
+      value="401"/>
+  <properties
+      key="TAM Application Name"
+      value="Virtual Network Operators (Dealers)"/>
+  <properties
+      key="TAM Application Id"
+      value="3.4.5"/>
+  <properties
+      key="Constructed Id"
+      value="3.4.5.401"/>
+</archimate:ApplicationFunction>

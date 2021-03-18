@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0166"
+    id="id-f7b99a87bdc84852b068cb02c1044a04"
+    documentation="As a product owner, I want customers who activate a SIM card without a preprovisioned plan to be taken through a plan purchase journey to setup subscription billing &amp; get a plan">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0166"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Setup"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Topic"
+      value="Smart plan setup"/>
+  <properties
+      key="Remarks"
+      value="OLD: After a customer buys a blank sim, he should be able to activate it without selecting any plan (via IVR or webpage) - then the subscription becomes a &quot;no plan&quot; subscription in which he is able to make free calls and answer calls. When in this state he is able to select a proper plan. The plan is to allow the customer in no plan state for max of 12 months. After that the SIM should be deactivated. Agreed during workshop: Blank SIM cannot be used by the customer, when he tries to make voice or data connection he will be redirected to IVR or website. &quot;No plan&quot; status will be available only after &quot;grace period&quot;."/>
+  <properties
+      key="Module"
+      value="DS, OM, RM, PC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="REQ_OSS_166"/>
+</archimate:Requirement>

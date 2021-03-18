@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Order Tracking &amp; Management"
+    id="id-264c0477e5cf42478e166fd5003e430c"
+    documentation="Customer Order Tracking &amp; Management provides the functionality necessary to track and manage the distributed requests decomposed by Customer Order Distribution. This capability needs to be provided in both an ability to query in real time as well as a publish/subscribe mechanism to enable the use of the information wherever required.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="5.3.5"/>
+  <properties
+      key="Frameworx Domain"
+      value="Customer Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

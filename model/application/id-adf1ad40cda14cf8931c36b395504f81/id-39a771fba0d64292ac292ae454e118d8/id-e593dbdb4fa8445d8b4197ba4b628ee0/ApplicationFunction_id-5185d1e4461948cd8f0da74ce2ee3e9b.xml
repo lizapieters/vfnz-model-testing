@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Task Item Sequence Control Configuration"
+    id="id-5185d1e4461948cd8f0da74ce2ee3e9b"
+    documentation="Resource Task Item Sequence Control Configuration: Each task item (action) in a Resource Task Item Sequence will perform according to a pre-configured configuration. The �Resource Task Item Sequence Control Configuration� is a management of the application function that defines that the execution of each resource task item (action) will be done as part of an orchestration.">
+  <properties
+      key="Function Identifier"
+      value="960"/>
+  <properties
+      key="TAM Application Name"
+      value="Resource Capability Orchestration"/>
+  <properties
+      key="TAM Application Id"
+      value="7.16"/>
+  <properties
+      key="Constructed Id"
+      value="7.16.960"/>
+</archimate:ApplicationFunction>

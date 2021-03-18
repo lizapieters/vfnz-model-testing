@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Work Order Tracking &amp; Management"
+    id="id-70d530a30502469d98917dc780dc0939"
+    documentation="Work order Tracking &amp; Management applications provide the necessary functionality to manage and monitor the execution of the various manual activities via dispatchable staff.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="7.12.4"/>
+  <properties
+      key="TMF Function"
+      value="Close Work orders Issue work orders Work and work orders coordination Work Order Escalation function Work order Information Transfering Work Order Re-assigning Work Order State Management Work Order Status Monitoring Work Order updating"/>
+  <properties
+      key="TMF Maturity"
+      value="Resource Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

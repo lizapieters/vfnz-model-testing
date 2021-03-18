@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1112"
+    id="id-2b0d84ff1622449886984c59afb2c85b"
+    documentation="As a customer I want refunds/credits to be returned to the registered card that the payments were taken from (if this card no longer exists then to the 'primary credit card'), so that I have a simple method of receiving funds back">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1112"/>
+  <properties
+      key="Status"
+      value="Parked for workshop"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="y"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Use"/>
+  <properties
+      key="Topic"
+      value="Payments"/>
+  <properties
+      key="Remarks"
+      value="What type of refunds should be given to the customer i what situations, in general in subscription model there i sno refunds if a customer terminate th econtract before end of a period, correct?"/>
+  <properties
+      key="Module"
+      value="BR, BS, AIF"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

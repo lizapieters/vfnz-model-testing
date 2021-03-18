@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ManagementMethodEntity"
+    id="id-61c370f079a34525afc405a56042dac8"
+    documentation="This is an abstract base class for representing the different types of management methods that can be used to gather a particular type of management information. For example; this enables configuration setting classes to be defined as using CLI; while configuration monitoring classes could be defined as using a different method; such as SNMP. The design of how management information is obtained uses this class to gather specific type of information; and the ManagementMethodEntity class to obtain the desired data using an appropriate method. This combination of class hierarchies enables different management methods (e.g.; CLI vs. SNMP) to be used to gather different types of management data; and is unique to the SID information model."/>

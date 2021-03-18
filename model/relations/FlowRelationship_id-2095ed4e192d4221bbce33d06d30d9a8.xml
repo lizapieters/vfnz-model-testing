@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Port-in, port-out, Relinquishments"
+    id="id-2095ed4e192d4221bbce33d06d30d9a8">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-35f8035d45784996a3976f99064324db.xml#id-35f8035d45784996a3976f99064324db"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-77a13a64886e466dad1341d6a7c6a6ff.xml#id-77a13a64886e466dad1341d6a7c6a6ff"/>
+</archimate:FlowRelationship>

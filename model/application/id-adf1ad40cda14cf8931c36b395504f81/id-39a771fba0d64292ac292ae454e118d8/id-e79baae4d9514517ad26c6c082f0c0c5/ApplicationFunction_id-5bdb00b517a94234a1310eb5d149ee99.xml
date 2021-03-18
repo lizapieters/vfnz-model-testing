@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Billing Account Price plan determination"
+    id="id-5bdb00b517a94234a1310eb5d149ee99"
+    documentation="Associate a charge record with the appropriate price plan.">
+  <properties
+      key="Function Identifier"
+      value="72"/>
+  <properties
+      key="TAM Application Name"
+      value="Billing Account Associations Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.13.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.13.2.72"/>
+</archimate:ApplicationFunction>

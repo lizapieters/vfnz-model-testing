@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitor &amp; Manage Regulatory Issues"
+    id="id-d9134b04c04441f3885c7ce34a18bf49"
+    documentation="Proactively monitoring and dealing regulatory issues to ensure the ongoing performance of  resource infrastructure.">
+  <properties
+      key="Process Identifier"
+      value="1.5.4.2.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="â€¢ Undertaking proactive monitoring regimes of resource infrastructure as required to ensure ongoing performance within agreed parameters over time;"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

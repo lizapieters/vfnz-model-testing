@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CSR Order Error resolution"
+    id="id-68b82ab557414bf99f4ba117abbbfa25"
+    documentation="View pool of orders resulted in error / stuck orders and enable the CSR to act accordingly (e.g. resend the request, notify the user with recommended action)">
+  <properties
+      key="Function Identifier"
+      value="174"/>
+  <properties
+      key="TAM Application Name"
+      value="CSR fulfillment"/>
+  <properties
+      key="TAM Application Id"
+      value="5.6.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.6.1.174"/>
+</archimate:ApplicationFunction>

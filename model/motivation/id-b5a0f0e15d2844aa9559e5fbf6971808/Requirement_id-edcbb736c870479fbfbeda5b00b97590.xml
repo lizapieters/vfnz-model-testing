@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0716"
+    id="id-edcbb736c870479fbfbeda5b00b97590"
+    documentation="As a collections manager, I want customers in collections to have their interest free device blocked after a certain timeframe, so that they can't use it if they leave us and don't pay.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0716"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Diane Watson"/>
+  <properties
+      key="Tribe"
+      value="Consumer Home"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="prio2"/>
+  <properties
+      key="Base"
+      value="1?"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Block device"/>
+  <properties
+      key="Remarks"
+      value="Part of collection process, dedicated workshop collection. VFNZ AP: Please check what kind of actions are legal for interest free devices."/>
+  <properties
+      key="Module"
+      value="BS, OM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ServiceManagementPolicy"
+    id="id-4f56cd89d8894e9aa6210669fdd1f107"
+    documentation="The ServiceManagementPolicy class defines the particular policies that are used to define how different aspects of the Service are managed and maintained. For example; assume that a Service is made up of several sub-Services. One of these sub-Services might require multiple PartyRoles to approve changes to its configuration; whereas another sub-Service might not require any approvals to change its configuration."/>

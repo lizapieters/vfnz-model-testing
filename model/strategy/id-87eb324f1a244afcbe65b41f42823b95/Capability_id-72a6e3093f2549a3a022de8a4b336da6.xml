@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Order Data Collection"
+    id="id-72a6e3093f2549a3a022de8a4b336da6"
+    documentation="Resource Order Data Collection applications gather any needed resource data to aid in the verification and issuance of a complete and valid resource order.">
+  <properties
+      key="TMF Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="7.3.2.1"/>
+  <properties
+      key="TMF Function"
+      value="Resource data gathering"/>
+  <properties
+      key="TMF Maturity"
+      value="Resource Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

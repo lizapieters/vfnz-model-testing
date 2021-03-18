@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Select Product Offering Promotion Delivery Channels"
+    id="id-cb311ad818b44eb18af43b6ed3b624b1"
+    documentation="Select the appropriate channel or channels to support delivery of a product offering promotion.">
+  <properties
+      key="Process Identifier"
+      value="1.2.7.2.6.3.2"/>
+  <properties
+      key="Category"
+      value="(6) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Select Product Offering Promotion Delivery Channels selects the appropriate channel or channels to support delivery of a product offering promotion. A particular promotion may require selection of one or several delivery channels."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

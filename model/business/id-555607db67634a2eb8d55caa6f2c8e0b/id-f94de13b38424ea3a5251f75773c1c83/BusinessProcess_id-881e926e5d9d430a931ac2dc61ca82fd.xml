@@ -1,0 +1,18 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Determine Automated Party Bill/Invoice Adjustment"
+    id="id-881e926e5d9d430a931ac2dc61ca82fd"
+    documentation="Determination of whether policy allows for automated adjustment of a party bill/invoice, and approving any resultant adjustments.">
+  <properties
+      key="Process Identifier"
+      value="1.6.20.3.1.1"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

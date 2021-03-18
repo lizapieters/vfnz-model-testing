@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Problem Resolution"
+    id="id-5c6952685ead4ee89a21a8d267d19f38"
+    documentation="Customer Problem Resolution applications provide the necessary functionality to automatically resolve a customer reported or affected problem back to the original state (ie, restore service). This maybe done through fault resolution or implementing a bypass to the problem.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="5.8.4"/>
+  <properties
+      key="Frameworx Domain"
+      value="Customer Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

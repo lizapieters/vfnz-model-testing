@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0605"
+    id="id-cb117d8b5d2c4398b56ea3c9768d7806"
+    documentation="As a customer I want to be able to query an incorrect charge (raise a service request online/inApp?), so that I can ensure I'm being charged fairly">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0605"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="2"/>
+  <properties
+      key="Base_Old"
+      value="2"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Help"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="help"/>
+  <properties
+      key="Topic"
+      value="Query charge"/>
+  <properties
+      key="Remarks"
+      value="by registering a ticket"/>
+  <properties
+      key="Module"
+      value="SC, EP, BR"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Partner/Partner Matching"
+    id="id-e252e6fcc2a24c72bf3f1fd0d68d23f2"
+    documentation="The ability to associate a partner with another partner of the organization to determine if conflicts, dependencies, synergies, or opportunities may exist for collaboration.">
+  <properties
+      key="TMF_ID"
+      value="1.1.9.7.4"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

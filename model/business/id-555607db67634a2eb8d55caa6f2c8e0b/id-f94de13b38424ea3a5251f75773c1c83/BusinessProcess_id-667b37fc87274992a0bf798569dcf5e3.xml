@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Relate Product Offering Purchases"
+    id="id-667b37fc87274992a0bf798569dcf5e3"
+    documentation="Relate the product offering purchase to other entities. For example, the purchase may also relate to the cancellation of previous purchase, to an initiating sales request, or to an initiating purchase/order if the product offering purchase will be fulfilled in part or whole by another party.">
+  <properties
+      key="Process Identifier"
+      value="1.2.9.1.2.4"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Benefits Management"
+    id="id-0bdb34c5e6c246e7804a1f409121d68f"
+    documentation="Benefits Management has the responsibility of developing and administering a company�s benefit program that is cost effective, competitive and sustainable. Primary benefit areas include Healthcare and Pensions.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.2.14"/>
+  <properties
+      key="TMF Function"
+      value="Benefits Development and Administration Benefits Management Analytics and Reporting"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

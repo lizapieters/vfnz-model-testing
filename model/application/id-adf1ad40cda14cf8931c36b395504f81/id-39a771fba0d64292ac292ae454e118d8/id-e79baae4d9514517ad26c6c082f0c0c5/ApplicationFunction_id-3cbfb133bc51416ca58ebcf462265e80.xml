@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer's Account Adjustment"
+    id="id-3cbfb133bc51416ca58ebcf462265e80"
+    documentation="Customer's Account Adjustment adjust customer's account balance based on the result of a detailed assessment or dispute. Possible &#xA;adjustments may include tax adjustments, account/invoice/charge level adjustment, good will adjustment as well as refund or credits.&#xA;All adjustments are made based on schedule of authorization polices. The customer service representative (CSR) can also consider the history &#xA;and nature of previous dispute &amp;amp; adjustment requests made by the customer.">
+  <properties
+      key="Function Identifier"
+      value="36"/>
+  <properties
+      key="TAM Application Name"
+      value="Adjustments"/>
+  <properties
+      key="TAM Application Id"
+      value="5.10.3"/>
+  <properties
+      key="Constructed Id"
+      value="5.10.3.36"/>
+</archimate:ApplicationFunction>

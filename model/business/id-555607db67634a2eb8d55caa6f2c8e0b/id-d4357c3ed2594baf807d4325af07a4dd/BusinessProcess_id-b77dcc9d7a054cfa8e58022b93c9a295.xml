@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Escalate Carrier Cramming Content Partner"
+    id="id-b77dcc9d7a054cfa8e58022b93c9a295"
+    documentation="Financial Escalation procedure and corrective financial actions if cramming is not rectified over a longer period of time.">
+  <properties
+      key="Process Identifier"
+      value="1.6.15.4.6.1.1"/>
+  <properties
+      key="Category"
+      value="(6) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Financial Escalation procedure and corrective financial actions if cramming is not rectified over a longer period of time."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

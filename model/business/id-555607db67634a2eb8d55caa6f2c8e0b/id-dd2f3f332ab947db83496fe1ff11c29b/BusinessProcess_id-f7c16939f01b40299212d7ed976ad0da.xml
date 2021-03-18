@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Issue Party Performance Degradation Report"
+    id="id-f7c16939f01b40299212d7ed976ad0da"
+    documentation="Not used for this process element">
+  <properties
+      key="Process Identifier"
+      value="1.6.11.5.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Report specific issues to a party."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

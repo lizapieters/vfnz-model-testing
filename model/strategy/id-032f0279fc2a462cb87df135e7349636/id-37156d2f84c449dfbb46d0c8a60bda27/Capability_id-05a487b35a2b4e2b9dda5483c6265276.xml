@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Order Definition"
+    id="id-05a487b35a2b4e2b9dda5483c6265276"
+    documentation="The ability to establish and identify an order.">
+  <properties
+      key="TMF_ID"
+      value="1.1.8.1"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bill Dispute notification"
+    id="id-2b41b27b1f2946c693fad45dd5b64b4d"
+    documentation="Bill dispute consists of handling the customer inquiries received through customer service, self care or any other channel about their bills that have not been solved by simple actions (e.g walk customer through their invoice or grant the request when disputed amount is inferior to a threshold).&#xA;&#xA;�The dispute settlement results in customer notification of the results, dispute granted (for the whole disputed amount or part of it) or customer request denied.">
+  <properties
+      key="Function Identifier"
+      value="39"/>
+  <properties
+      key="TAM Application Name"
+      value="Adjustments"/>
+  <properties
+      key="TAM Application Id"
+      value="5.10.3"/>
+  <properties
+      key="Constructed Id"
+      value="5.10.3.39"/>
+</archimate:ApplicationFunction>

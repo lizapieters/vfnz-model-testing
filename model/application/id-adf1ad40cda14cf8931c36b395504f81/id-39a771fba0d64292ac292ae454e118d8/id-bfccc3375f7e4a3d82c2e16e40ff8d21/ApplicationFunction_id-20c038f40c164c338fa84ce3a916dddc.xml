@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Quality Comparison"
+    id="id-20c038f40c164c338fa84ce3a916dddc"
+    documentation="Comparison of the collected service quality data to the KQIs and SLOs established by SQM Establishment.">
+  <properties
+      key="Function Identifier"
+      value="633"/>
+  <properties
+      key="TAM Application Name"
+      value="Service Quality Analysis"/>
+  <properties
+      key="TAM Application Id"
+      value="6.9.3"/>
+  <properties
+      key="Constructed Id"
+      value="6.9.3.633"/>
+</archimate:ApplicationFunction>

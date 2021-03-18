@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Order Access Management"
+    id="id-e3665d81f1684cfbae6868a511228094"
+    documentation="The ability to establish, control, restrict, and administer rights to view, use, or change an order.">
+  <properties
+      key="TMF_ID"
+      value="1.1.8.11"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

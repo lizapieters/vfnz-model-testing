@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PKI and Digital Certificates"
+    id="id-8df39bfedd924b4cae25f07d81d7bc4b"
+    documentation="Enabling users to securely and privately exchange data using digital certificates that are obtained and shared through a trusted authority, and enabling secure authentication of devices equipped with digital certificates. This is achieved by Public Key Infrastructure systems that provides digital certificates that can identify an individual, an organization or a device&amp; and include directory services that can store and, when necessary, revoke the certificates">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.5.6"/>
+  <properties
+      key="TMF Function"
+      value="PKI and Digital Certificates Support"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

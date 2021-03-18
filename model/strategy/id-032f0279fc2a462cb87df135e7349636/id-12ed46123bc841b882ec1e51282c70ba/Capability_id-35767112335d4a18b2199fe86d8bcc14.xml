@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Channel/Location Matching"
+    id="id-35767112335d4a18b2199fe86d8bcc14"
+    documentation="The ability to associate a channel with the location where it is valid or enabled.">
+  <properties
+      key="TMF_ID"
+      value="1.1.1.7.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

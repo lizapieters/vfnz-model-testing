@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitor Capacity Demand"
+    id="id-3f1f8ba426bc4c1c9390037450e6a41c"
+    documentation="Monitor available planned and actual capacity demand and provide results to the Suggest Capacity Demand Adjustment process.">
+  <properties
+      key="Process Identifier"
+      value="1.8.2.5.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Monitor Capacity Demand monitors planned and actual capacity demand and provide results to the Suggest Capacity Demand Adjustment process. Factors that are monitored include planned and actual capacity availability changes caused by events such as unexpected reductions or unexpected increases in planned or actual product sales. Capacity demand can also be influenced by changes to the underlying planned or actual infrastructure, such as resource availability, which affects all types of planned or actual capacity demand (Product, Service, Resource). For example, if sales forecasts for an offering increases then planned demand for the offering should be increased as a result."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

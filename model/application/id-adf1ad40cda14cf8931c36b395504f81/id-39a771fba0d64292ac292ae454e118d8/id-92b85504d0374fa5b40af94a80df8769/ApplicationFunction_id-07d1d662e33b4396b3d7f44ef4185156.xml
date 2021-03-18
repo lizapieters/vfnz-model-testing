@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Supplier/Partner Invoice Reconciliation"
+    id="id-07d1d662e33b4396b3d7f44ef4185156"
+    documentation="Supplier/Partner Invoice Reconciliation uses the charges (and e.g. adjustments) from the supplier/partner along with substantiating information available to the service provider to reconcile the invoice presented by the supplier/partner.">
+  <properties
+      key="Function Identifier"
+      value="652"/>
+  <properties
+      key="TAM Application Name"
+      value="Supplier/Partner Invoice Reconciliation (Deleted)"/>
+  <properties
+      key="TAM Application Id"
+      value="#N/A"/>
+  <properties
+      key="Constructed Id"
+      value="#N/A"/>
+</archimate:ApplicationFunction>

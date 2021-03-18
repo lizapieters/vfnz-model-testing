@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Channel Guidance and Data Capture"
+    id="id-6660c6f3c53540709469a03f6076e872"
+    documentation="Channel Guidance and Data Capture leads the specific channel front ending application with the captured information required. For each information element it can provide a list of valid options to select from (e.g. list of products available for the customer, list of options to select from a product). Finally it receives the captured information and publishes it.">
+  <properties
+      key="TMF Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.3.1.1"/>
+  <properties
+      key="TMF Function"
+      value="Channel Captured Order reception Channel Customer registration Channel Customer search Channel Guided Data Collection Product catalog browsing"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

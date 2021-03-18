@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1094"
+    id="id-caebe5a0f9ef4ee6be25dc8e72fba5a4"
+    documentation="As a product owner I want to send customers specific offers based of feedback results (e.g said 10/10 would recommend to friends and family sent a referral code/credit), so that I can give them and their families more of the things they love">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1094"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1?"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="use"/>
+  <properties
+      key="Topic"
+      value="Marketing and Campaign Management"/>
+  <properties
+      key="Remarks"
+      value="[CCM] Survey results can be stored as dynamic attr and used in the process of segmentation, to be clarified with BSS how the process for offer will be handled VM:who generats codes,Comarch or VF system? What tyope of codes should be created?"/>
+  <properties
+      key="Module"
+      value="CCM, CNS, PC, VM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Information Security Level Setting"
+    id="id-2c4e298128f8444f9c9423176aa7952e"
+    documentation="The ability to establish authorization levels for particular information for types of persons or organizations.">
+  <properties
+      key="TMF_ID"
+      value="1.3.1.6.2.1"/>
+  <properties
+      key="Level"
+      value="4"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

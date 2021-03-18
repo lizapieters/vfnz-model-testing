@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Incident/Incident Matching"
+    id="id-50d930c02d944996bdf619c72a5679a7"
+    documentation="The ability to associate incidents with other incidents.">
+  <properties
+      key="TMF_ID"
+      value="1.3.11.5.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

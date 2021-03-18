@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Migration Assurance Framework"
+    id="id-859ef93e4ea5481483a71c6119f527a4"
+    documentation="This process aims to define the controls and measures when implementing dedicated auditing tools that can ensure service continuity and the customer experience for Communication Services Provider (CSPs) customers during multi-technology migration processes.">
+  <properties
+      key="Process Identifier"
+      value="1.7.9.5.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Migration Assurance Framework (MAF) establishes principles that guide the migration process and sets out controls and metrics recommendations for Communication Service Providers (CSPs) that look for a seamless transition for the technology that supports the services provided to consumers and businesses. The primary goal the migration assurance framework is to guarantee an accurate, timely and consistent information between the legacy and the new system in place, in order to avoid revenue assurance or customer experience issues. As part of the implementation of Migration Assurance Processes a set of KPIs are defined based on potential risks associated with the revenue leakage and customer experience of provisioning and billing errors before, during the testing and after the technology migration. The revenue assurance tool should be able to use automated control-monitoring mechanisms to ensure that the KPIs meet the defined objectives as well as whenever deviations are detected; the cases are escalated for an immediate resolution to achieve operational control objectives. The responsibilities of the processes include, but are not limited to: â€¢ Definition of the key risks associated with technology migration form the revenue and customer experience perspective â€¢ Definition of the Business Assurance automated auditing indicators by defining KPIs, controls, and metrics to feed into the Business Assurance tools â€¢ Define the data sources and the data integration procedures in the business assurance tool to monitor risks, if possible in real-time, to feed business assurance KPIs â€¢ Definition of segregation of duties and responsibilities for case escalation and resolution â€¢ Allow the ad hoc analysis of low-level investigations driven by request of stakeholders based on triggered alarms and developed by expert judgment outside of the designed KPIs â€¢ Testing and fine-tuning of the controls in place â€¢ Measure and quantify the impacts of the controls in place during the detection, prevention, and recovery for business â€¢ Implement automatic reporting capabilities for business and operational items previously mentioned â€¢ Documentation (control / metric attributes, dataflow) â€¢ Updated repositories"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

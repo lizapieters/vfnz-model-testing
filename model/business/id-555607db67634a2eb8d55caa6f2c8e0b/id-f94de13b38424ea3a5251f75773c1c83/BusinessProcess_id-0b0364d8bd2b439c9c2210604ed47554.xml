@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Standard Product Offering Pricing"
+    id="id-0b0364d8bd2b439c9c2210604ed47554"
+    documentation="Set the price, develop pricing plans, update prices, obtain price approval, provide notifications of price changes, and remove prices.">
+  <properties
+      key="Process Identifier"
+      value="1.2.7.2.2.1"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Standard Product Offering Pricing sets the price, develops pricing plans, updates prices, obtains price approval, provides notifications of price changes, and removes prices. Prices are set for a variety of prices such as recurring, non-recurring, discounts, allowances. Pricing plans represent groupings of product offering prices, such as a plan composed of a recurring charge and a number of usage based charges. New, updated, and discontinued prices can go through an approval process if needed and notifications of them can be provided to internal and/or external parties such as customers and/or partners. Once a price lives its useful life it can be removed. Note that the notification and approval processes can be reused by the other pricing related core processes for any additions, modifications, or removals associated with other types of prices whose lifecycles are managed by the other core processes into which the Product Offering Pricing process decomposes."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

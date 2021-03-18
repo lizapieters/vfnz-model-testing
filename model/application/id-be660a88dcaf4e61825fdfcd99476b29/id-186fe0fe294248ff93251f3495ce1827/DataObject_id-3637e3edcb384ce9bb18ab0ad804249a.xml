@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyRevShareReconDiscrepancy"
+    id="id-3637e3edcb384ce9bb18ab0ad804249a"
+    documentation="A difference between information received from another party with the revenue share determined by an enterprise that is to be resolved. For example; an enterprises calculated revenue share for a product offering may be missing a product that has been acquired that appears on an bill/invoice from another party. Note: This entity is related to two of any combination of PartyPayment; PartyPaymentItem; ComponentShareProdOfferItem; AppliedPartyBillingRate."/>

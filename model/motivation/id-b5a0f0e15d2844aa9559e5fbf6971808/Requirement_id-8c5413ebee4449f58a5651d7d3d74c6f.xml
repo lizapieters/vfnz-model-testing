@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0164"
+    id="id-8c5413ebee4449f58a5651d7d3d74c6f"
+    documentation="As a customer, I want to be able to use a self service IVR for selected self service actions, so that I can self serve that way if I want to">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0164"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="2"/>
+  <properties
+      key="Base_Old"
+      value="2"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Use"/>
+  <properties
+      key="Topic"
+      value="Self service IVR"/>
+  <properties
+      key="Remarks"
+      value="Is there impact on Comarch? Should Comarch expose API for IVR in this case? Suggestion: to discuss this during the architecture workshop"/>
+  <properties
+      key="Module"
+      value="none"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="Not Applicable"/>
+</archimate:Requirement>

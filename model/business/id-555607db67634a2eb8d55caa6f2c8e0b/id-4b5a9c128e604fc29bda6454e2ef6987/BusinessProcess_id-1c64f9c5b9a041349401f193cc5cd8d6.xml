@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Sales Accounts"
+    id="id-1c64f9c5b9a041349401f193cc5cd8d6"
+    documentation="Manage the sales accounts assigned to the sales channel on a day-day basis&#xA;Manage the sales accounts assigned to the sales channel on a day-day basis">
+  <properties
+      key="Process Identifier"
+      value="1.1.9.6"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The purpose of the Manage Sales Accounts processes is to manage the sales accounts assigned to the sales channel and/or sales manager on a day-day basis. These processes are responsible for contacting the customers associated with each sales account on a regular basis appropriate for the type of account, to develop the appropriate relationships and contacts, to prospect for leads, to promote the enterpriseâ€™s product offerings, etc. The purpose of the Manage Sales Accounts processes is to manage the sales accounts assigned to the sales channel and/or sales manager on a day-day basis. These processes are responsible for contacting the customers associated with each sales account on a regular basis appropriate for the type of account, to develop the appropriate relationships and contacts, to prospect for leads, to promote the enterpriseâ€™s product offerings, etc."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Network Prototyping"
+    id="id-ac466e794b234eab885a53fe2194ca9a"
+    documentation="The ability to create mock-ups of a network in order to determine feasibility and/or applicability of the network.">
+  <properties
+      key="TMF_ID"
+      value="1.1.7.2.4"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

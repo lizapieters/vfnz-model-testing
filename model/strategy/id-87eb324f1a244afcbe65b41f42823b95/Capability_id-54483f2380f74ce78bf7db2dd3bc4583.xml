@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Payroll Management"
+    id="id-54483f2380f74ce78bf7db2dd3bc4583"
+    documentation="Payroll Management provides the necessary functionality to accurately pay employees for time worked, plus other compensation less applicable withholdings and deductions while meeting legal and regulatory reporting requirements.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.2.1"/>
+  <properties
+      key="TMF Function"
+      value="Paycheck Generation Payroll Reporting Payroll Salary Calculation Payroll Wage Calculation Payroll Withholdings and Deductions Calculation"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

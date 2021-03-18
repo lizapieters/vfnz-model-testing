@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Map &amp; Analyze Service Requirements"
+    id="id-940fc469946941eeab03d2405f3624e0"
+    documentation="Define the detailed service infrastructure requirements to support the product capabilities required by the enterprise.">
+  <properties
+      key="Process Identifier"
+      value="1.4.2.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Map &amp; Analyze Service Requirements processes define the detailed service infrastructure requirements to support the product capabilities required by the enterprise. The processes provide detailed analysis of new service demand forecasts linked to service relevant geographic distributions. The processes also establish the detailed performance requirements. These processes take the forecast information available from the Produce Service Business Plans and requirements information from the Define Product Capability Requirements processes, as well as service infrastructure requirements developed by the Develop Detailed Service Specifications processes, to establish detailed views of anticipated service demand and performance requirements. The processes include any interaction with cross-enterprise coordination and management functions to ensure that the demand distributions capture the needs of all stakeholders. These processes provide input into the requirements capture processes in the Resource and Engaged party domains"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

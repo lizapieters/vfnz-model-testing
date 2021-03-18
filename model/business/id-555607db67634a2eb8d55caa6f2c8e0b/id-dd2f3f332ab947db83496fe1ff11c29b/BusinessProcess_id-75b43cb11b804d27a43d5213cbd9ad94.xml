@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Optimize Existing Resource Infrastructure Utilization"
+    id="id-75b43cb11b804d27a43d5213cbd9ad94"
+    documentation="Optimizing the infrastructure capacity utilization.">
+  <properties
+      key="Process Identifier"
+      value="1.5.4.1.7"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="â€¢ Reconfiguring and re-arranging under-utilized deployed resource infrastructure"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

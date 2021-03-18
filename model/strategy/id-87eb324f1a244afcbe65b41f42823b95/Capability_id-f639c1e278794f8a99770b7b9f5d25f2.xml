@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Distribution Management"
+    id="id-f639c1e278794f8a99770b7b9f5d25f2"
+    documentation="Data distribution management application provides functionalities to control the access to the data on request or according to configuration or subscription. The distribution of data is done in accordance to Compliance and Policies.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.11.3"/>
+  <properties
+      key="TMF Function"
+      value="Data Access Interface Data Distribution Data Distribution Configuration"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

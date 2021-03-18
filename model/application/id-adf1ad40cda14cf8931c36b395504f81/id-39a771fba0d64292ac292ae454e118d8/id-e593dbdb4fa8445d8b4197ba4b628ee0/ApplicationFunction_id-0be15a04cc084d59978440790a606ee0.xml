@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Configuration and Onboarding"
+    id="id-0be15a04cc084d59978440790a606ee0"
+    documentation="Resource Configuration and Onboarding: When a resource is added (on boarded), this onboarding may be automated. There are several systems in the infrastructure that needs to be aware and integrated with the new resource. The �Resource Configuration and Onboarding� function will configure the on boarded Resources and the relevant systems to establish integration automatically, when requested.">
+  <properties
+      key="Function Identifier"
+      value="956"/>
+  <properties
+      key="TAM Application Name"
+      value="Resource Capability Orchestration"/>
+  <properties
+      key="TAM Application Id"
+      value="7.16"/>
+  <properties
+      key="Constructed Id"
+      value="7.16.956"/>
+</archimate:ApplicationFunction>

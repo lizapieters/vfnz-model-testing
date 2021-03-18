@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Risk Threshold Determination"
+    id="id-97d34075101645d1bf50e2e3cd3bca13"
+    documentation="The ability to identify and define the level of acceptable risk associated with a customer.">
+  <properties
+      key="TMF_ID"
+      value="1.1.2.3.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

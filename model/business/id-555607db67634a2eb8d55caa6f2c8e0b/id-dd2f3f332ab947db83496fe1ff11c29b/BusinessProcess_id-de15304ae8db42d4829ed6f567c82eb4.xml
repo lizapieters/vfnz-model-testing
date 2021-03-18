@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Determine Support for Sales Prospect Requirements"
+    id="id-de15304ae8db42d4829ed6f567c82eb4"
+    documentation="Determine the ability of the enterprise to support a sales prospect's requirements.">
+  <properties
+      key="Process Identifier"
+      value="1.1.9.2.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Determine Support for Sales Prospect Requirements determines the ability of the enterprise to support a sales prospect's requirements. These processes assess the extent of enterprise support required to develop the sales proposal, marshal the necessary support across the enterprise and administer the sales proposal development activity to ensure that any timing constraints associated with the prospect's requirements are achieved."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

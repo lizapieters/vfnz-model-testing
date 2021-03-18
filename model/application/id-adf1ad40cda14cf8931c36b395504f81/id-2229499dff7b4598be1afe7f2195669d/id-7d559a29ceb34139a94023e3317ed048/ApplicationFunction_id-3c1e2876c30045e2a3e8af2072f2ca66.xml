@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer &amp; Network Care"
+    id="id-3c1e2876c30045e2a3e8af2072f2ca66"
+    documentation="The Customer and Network Care domain supports all tools, technology and services that enable a Service Provider and affiliate Care organizations to support customer inquiries and requests. The domain encompasses Billing, Assurance, Ordering and Provisioning domains related inquiries/issues. &#xA;&#xA;This domain supports voice, chat, email, postal mail, and faxes. eService is noted but is addressed in a separate domain.The domain supports all operational tools used by the customer service / work center community including desktops and associated user interfaces.  The domain also supports back-office operations as well as center management.">
+  <properties
+      key="TAM Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="5.22"/>
+  <properties
+      key="Frameworx Domain"
+      value="Customer Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

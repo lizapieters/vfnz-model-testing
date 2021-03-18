@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SignalingProtocol"
+    id="id-69ef3904fd564abf81b080f74a624cc1"
+    documentation="This is an abstract base class for representing different types of signaling protocols that can be managed. Signaling protocols are used to convey information along a specific path. This class represents a convenient aggregation point for defining how signaling protocols are managed and used. The SID model defines COPS and RSVP as examples of subclasses of this class."/>

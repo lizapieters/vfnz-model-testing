@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Inventory Update"
+    id="id-f8285a3dc7cc4631937ce0d7a09ffaa7"
+    documentation="This function entails requesting that another inventory (referred to as the target OSS) update the inventory based on a provided collection of updates. The expectation is that the target inventory is updated as requested, but no other side-effects are expected (e.g., creating an Sub Network Connection (SNC) in the network). This is a key point concerning this capability. The inventory update request can involve addition (new object), modification (change to an existing object) or deletion (removal of an object).">
+  <properties
+      key="Function Identifier"
+      value="471"/>
+  <properties
+      key="TAM Application Name"
+      value="Resource Inventory Management"/>
+  <properties
+      key="TAM Application Id"
+      value="7.2"/>
+  <properties
+      key="Constructed Id"
+      value="7.2.471"/>
+</archimate:ApplicationFunction>

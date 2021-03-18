@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BitStringVariable"
+    id="id-cb066d94685c41dfb6022111aaf3e74b"
+    documentation="This class is used to represent a single or set of bit string variable. Thus; only BitStringValue classes can be used in the value portion of the condition expression with this PolicyVariable."/>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ServiceSpecVersion"
+    id="id-34951204b30843b78fc13a2575bd2259"
+    documentation="This class represents the ability to distinguish between different instances of ServiceSpecifications. It represents a particular form or variety of a ServiceSpecification that is different from others or from the original. The form represents differences in attributes; methods; relationships; and/or constraints that characterize this particular ServiceSpecification; but which are not enough to warrant creating a new ServiceSpecification."/>

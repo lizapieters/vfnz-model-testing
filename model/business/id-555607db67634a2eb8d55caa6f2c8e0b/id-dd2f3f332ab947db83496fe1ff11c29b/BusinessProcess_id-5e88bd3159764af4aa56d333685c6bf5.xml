@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fraud Operations Management"
+    id="id-5e88bd3159764af4aa56d333685c6bf5"
+    documentation="Fraud Operations is the core functional team tasked with the detection, investigation, resolution, quantification, and prevention actions to deal with suspicious and fraudulent activities and entities.">
+  <properties
+      key="Process Identifier"
+      value="1.7.2.3.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="While fraud operations is responsible for the 24x7 actions associated with protecting the business from existing and future fraud threats, the team also will provide communications to additional audiences of fraud activities, including: 1. Internal audiences: Other departments as necessary to support fraud investigations and corrective actions, and senior business owners, stakeholders, and executives to illustrate progress, risks, and needs to increase effective protection around the business 2. External audiences: Other operators through the course of information sharing (e.g., fraud types and tactics to protect, investigative needs, etc.), and LEAs for purposes of managing more significant threats and fraud generating individuals and syndicates. Fraud Operations is divided into 3 primary functional groups: Information and Data Processing, Fraud Analysis, and Fraud Actions. Each functional group will be defined further in the following process sections."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

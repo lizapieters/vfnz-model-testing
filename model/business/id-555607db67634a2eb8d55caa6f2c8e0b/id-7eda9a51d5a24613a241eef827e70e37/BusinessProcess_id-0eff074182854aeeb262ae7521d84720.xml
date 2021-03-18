@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Party Agreement Management"
+    id="id-0eff074182854aeeb262ae7521d84720"
+    documentation="Manage the evaluation of agreements with parties, including customers. Initiate and complete business agreements when one or more other parties are involved.">
+  <properties
+      key="Process Identifier"
+      value="1.6.5"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Party Agreement Management manages all aspects of agreements with parties, including customers. Agreements include: Â· Purchasing agreements for products, services, and resources that meet the enterpriseâ€™s needs Â· On-boarding agreements for a party's offerings Â· Service Level Agreements with one or more other parties Â· Agreements to use a party as a sales channel Â· Reusable template agreements that can be used to create any of the above. Note: Applicable sub-processes are also used by other processes, such as Product Offering Agreement Management and Party Privacy Agreement Management to manage these types of agreements to avoid duplication of the sub-processes. Initiate and complete business agreements with a party or parties, to allow the delivery of business and technical capabilities required by the enterprise. For example, through these processes, the enterprise might contract with a supplier of a third-generation mobile network and put in place links between the IT Systems of the party and the enterprise, ready to allow specific processes and product offerings to be developed. Another example might be contracts for the supply of personal computers or office supplies for the enterprise. This process is also responsible for the establishment of commercial agreements between the enterprise and external parties/providers on B2B frameworks and interactions. Party Agreement Management also manages the on-going arrangements and processes between the enterprise and the selected party, and manage the periodic agreement on specifications for deliverables within the context of the negotiated agreement. This process particularly applies when the commercial arrangements between parties exist over an extended period, and the commercial agreement allows for the on-going specification of deliverables within the period of the commercial agreement. Shorter-term commercial agreements are unlikely to require the comprehensive level of commercial administration that these processes bring (but note that Party Support &amp; Readiness processes may have a role in this case)."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

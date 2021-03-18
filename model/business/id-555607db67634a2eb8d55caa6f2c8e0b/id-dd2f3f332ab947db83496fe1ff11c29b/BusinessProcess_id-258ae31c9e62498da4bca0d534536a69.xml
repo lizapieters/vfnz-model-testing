@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Select Service Capability At Parties"
+    id="id-258ae31c9e62498da4bca0d534536a69"
+    documentation="These processes select the most appropriate service infrastructure at other parties to support the  identified service capability requirements.">
+  <properties
+      key="Process Identifier"
+      value="1.4.2.4.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

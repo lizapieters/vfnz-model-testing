@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provide Loyalty Program Status"
+    id="id-f588b724efc049b393d9b0bbb847e555"
+    documentation="Produce a variety of loyalty program status reports, such as churn and uptake.">
+  <properties
+      key="Process Identifier"
+      value="1.1.19.2.7.1"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Provide Loyalty Program Status produces a variety of loyalty program status reports, including, but not limited to, churn and uptake, currency earned and redeemed, rewards made and redeemed, and breakage. Breakage is the difference between points issued and points redeemed. It is the biggest driver of profit for a loyalty program. Some reports, such as churn, uptake, and breakage, may use data analytics to generate them."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

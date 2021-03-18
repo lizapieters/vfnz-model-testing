@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Complete Leaving Loyalty Program"
+    id="id-235011de886b4d29ac2897c57a746521"
+    documentation="Complete the process for a loyalty program participant to leave the program.">
+  <properties
+      key="Process Identifier"
+      value="1.1.19.2.6.2"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Complete Leaving Loyalty Program completes the process for a loyalty program participant to leave the program. A participant's status may be changed to reflect they are no longer a member, or the participant may be removed (deleted) from the program. Information is provided to the Provide Loyalty Account Communication process so that a notification of termination in the program can be prepared and send to a participant."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

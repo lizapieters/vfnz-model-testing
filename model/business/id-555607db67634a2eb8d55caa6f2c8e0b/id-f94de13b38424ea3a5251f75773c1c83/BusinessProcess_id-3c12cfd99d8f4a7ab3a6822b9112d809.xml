@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Specify Revenue Sharing Model Party Involvement"
+    id="id-3c12cfd99d8f4a7ab3a6822b9112d809"
+    documentation="Specify a party, including an enterprise, who participates in revenue sharing, their type of involvement, and their involved offerings.">
+  <properties
+      key="Process Identifier"
+      value="1.6.18.1.2.2"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Specify Revenue Sharing Model Party Involvement specifies a party, including an enterprise, who participates in revenue sharing, their type of involvement, and their involved offering(s). This process is also responsible for adding an additional party to the model or removing a party from the model. The type of involvement specifies whether revenue is retained by an enterprise and whether a party participates in revenue sharing. For example, an enterprise may charge a listing fee for a party's offering or offerings as part of an agreement between a party and an enterprise, and an enterprise passes all revenue on to the party for sales of the party's offering. The party is invoiced separately for the listing fee. Multiple parties may be specified if the enterprise offers a bundle that is composed of offerings by two or more parties or if multiple party's offerings are used to create a single offering for an enterprise."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

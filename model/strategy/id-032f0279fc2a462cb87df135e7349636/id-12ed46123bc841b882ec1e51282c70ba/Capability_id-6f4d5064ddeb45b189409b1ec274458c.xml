@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Partner/Policy Matching"
+    id="id-6f4d5064ddeb45b189409b1ec274458c"
+    documentation="The ability to associate a partner with a policy.">
+  <properties
+      key="TMF_ID"
+      value="1.1.9.7.10"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

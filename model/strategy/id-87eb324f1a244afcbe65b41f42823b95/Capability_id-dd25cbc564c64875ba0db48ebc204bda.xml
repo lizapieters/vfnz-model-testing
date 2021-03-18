@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Center Activity Management"
+    id="id-dd25cbc564c64875ba0db48ebc204bda"
+    documentation="Center Activity Management includes the necessary functionality to track activities performed within a work center. These activities range from orders placed, sales closed, problems resolved, ticket closed, etc. Most work centers incorporate a detailed activity tracking mechanism with associated reporting for individual agent performance and is typically rolled up to support center-level performance as well.">
+  <properties
+      key="TMF Category"
+      value="(4) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.22.2.1.1"/>
+  <properties
+      key="TMF Function"
+      value="Center Activity Management"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

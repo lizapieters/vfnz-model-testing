@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AccountingInfo"
+    id="id-8bb61846f4444319b30abf436ff30cf1"
+    documentation="AccountingInfo is the base class for defining how accounting is performed for a particular ManagedEntity. AccountingInfo keeps track of how a Resource or Service is being used (both quantity as well as by which PartyRole). AccountingInfo is associated with a particular Resource or Service using the DescribedByMgmtInfo aggregation. Subclasses of the Accounting class define the detailed characteristics and behavior of how accounting is performed. Accounting is implemented by associating the parent of this class; ManagementInfo; with the appropriate ManagementMethodEntity class through a combination of the DescribedByMgmtInfo and the MgmtInfoObtainedBy aggregation."/>

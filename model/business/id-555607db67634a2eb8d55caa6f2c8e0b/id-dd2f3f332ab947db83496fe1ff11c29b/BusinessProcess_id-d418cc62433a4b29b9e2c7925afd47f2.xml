@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identifying and Analyzing Maturity Level Gaps"
+    id="id-d418cc62433a4b29b9e2c7925afd47f2"
+    documentation="Gap analysis and gap closing planning and recommendations">
+  <properties
+      key="Process Identifier"
+      value="1.7.8.2.5"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Identifying and Analyzing Maturity Level Gaps process is utilized to identify the existing gaps between where the organization is at currently and what it requires to be at the next maturity level per dimension. The recommendations for closing these gaps can be linked to a timeframe whereby each recommendation has an short , medium and long term implementation time for assisting in closing the gap."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

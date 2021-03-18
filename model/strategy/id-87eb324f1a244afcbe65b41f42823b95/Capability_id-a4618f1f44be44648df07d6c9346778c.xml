@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Application Security"
+    id="id-a4618f1f44be44648df07d6c9346778c"
+    documentation="Providing functions so only the right people and systems have the right access, according to authentication and authority.&#xA;This may call for e.g.&#xA;> User Management through a central user repository&#xA;> User - Role Management&#xA;> Authentication with Single Sign-On&#xA;> Authentication with &quot;Strong Authentication&quot; if needed &#xA;> Authorization that is Role and Rule based, and Central Authentication based">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.5.2"/>
+  <properties
+      key="TMF Function"
+      value="Application Security Management Authorization Control and Management Single Sign-On Access Control"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

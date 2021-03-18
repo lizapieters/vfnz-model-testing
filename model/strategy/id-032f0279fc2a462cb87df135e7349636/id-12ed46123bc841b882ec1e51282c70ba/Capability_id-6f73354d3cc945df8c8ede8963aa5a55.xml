@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legal Matter State Management"
+    id="id-6f73354d3cc945df8c8ede8963aa5a55"
+    documentation="The ability to determine, modify and interpret the status or condition of a legal proceeding.">
+  <properties
+      key="TMF_ID"
+      value="1.3.2.6.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

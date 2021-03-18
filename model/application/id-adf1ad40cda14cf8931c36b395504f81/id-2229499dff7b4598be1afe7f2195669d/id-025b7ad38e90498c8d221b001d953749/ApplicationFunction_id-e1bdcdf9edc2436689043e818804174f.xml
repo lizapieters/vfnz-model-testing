@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Data Collection"
+    id="id-e1bdcdf9edc2436689043e818804174f"
+    documentation="The Service Data Collection gathers any needed service data to aid in the verification and issuance of a complete and valid service order as well as data necessary to address dependencies between service and/or resource orders.">
+  <properties
+      key="TAM Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="6.3.9.1"/>
+  <properties
+      key="Frameworx Domain"
+      value="Service Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

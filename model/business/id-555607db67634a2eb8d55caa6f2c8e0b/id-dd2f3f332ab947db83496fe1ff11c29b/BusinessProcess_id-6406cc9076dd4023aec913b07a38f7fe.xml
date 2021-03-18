@@ -1,0 +1,20 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Financial Resources"
+    id="id-6406cc9076dd4023aec913b07a38f7fe">
+  <properties
+      key="Process Identifier"
+      value="1.7.5.1.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="This process focuses on managing the financial resources of the organization. Financial resources represent the bottom line in terms of the success or failure of the organization. The financial management process manages capital, maintains financial records and creates reports for internal, financial market and regulatory purposes"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

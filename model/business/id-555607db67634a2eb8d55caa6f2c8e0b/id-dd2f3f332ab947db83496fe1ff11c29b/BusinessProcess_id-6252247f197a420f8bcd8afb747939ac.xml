@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analyze Service Classes"
+    id="id-6252247f197a420f8bcd8afb747939ac"
+    documentation="These processes undertake the necessary analysis to identify potential service classes, compare current service classes with the identified required service classes.">
+  <properties
+      key="Process Identifier"
+      value="1.4.3.1.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

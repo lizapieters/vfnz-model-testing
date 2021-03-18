@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CSR assignment collection treatment"
+    id="id-ec486f6c2b4345f8ad023d6af3116af9"
+    documentation="Assign a CSR or a CSR group to manually handle the collection.">
+  <properties
+      key="Function Identifier"
+      value="143"/>
+  <properties
+      key="TAM Application Name"
+      value="Collection Policy Execution and Monitoring"/>
+  <properties
+      key="TAM Application Id"
+      value="5.14.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.14.2.143"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legal Matter/Human Resource Matching"
+    id="id-2fa46f73ce8f45ef869aaeaf37dd4a98"
+    documentation="The ability to associate a legal proceeding with a human resource.">
+  <properties
+      key="TMF_ID"
+      value="1.3.2.5.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

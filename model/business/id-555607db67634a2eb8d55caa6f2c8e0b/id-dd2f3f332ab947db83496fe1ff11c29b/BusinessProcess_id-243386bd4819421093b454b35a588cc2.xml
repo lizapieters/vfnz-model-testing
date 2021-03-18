@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provide Party Revenue Share Notification"
+    id="id-243386bd4819421093b454b35a588cc2"
+    documentation="Communicate the revenue to be shared to processes and/or one or more parties with whom revenue will be shared.">
+  <properties
+      key="Process Identifier"
+      value="1.6.18.3.6"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Provide Party Revenue Share Notification communicates the revenue to be shared to processes and/or a party with whom revenue will be shared. The notification would include the revenue to be shared for all product offerings. For example, to Party Revenue Sharing Reconciliation for reconciliation with a received bill/invoice, to Party Payment Management to make a payment to another party, or to a party so that they can reconcile what is to be shared before sending or receiving an bill/invoice, or before sending a payment. The notification could serve as an alternate to a bill/invoice if agreed by the parties involved, including an enterprise who sends/receives the notification."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

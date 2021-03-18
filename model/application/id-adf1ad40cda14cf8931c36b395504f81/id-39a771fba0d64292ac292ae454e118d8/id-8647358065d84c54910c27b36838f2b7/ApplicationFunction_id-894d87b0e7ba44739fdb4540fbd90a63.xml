@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anomaly Monitoring"
+    id="id-894d87b0e7ba44739fdb4540fbd90a63"
+    documentation="System and network monitoring activity, determining whether it is normal or anomalous, based on rules, signatures or heuristics.">
+  <properties
+      key="Function Identifier"
+      value="903"/>
+  <properties
+      key="TAM Application Name"
+      value="Anomaly Management"/>
+  <properties
+      key="TAM Application Id"
+      value="9.5.4"/>
+  <properties
+      key="Constructed Id"
+      value="9.5.4.903"/>
+</archimate:ApplicationFunction>

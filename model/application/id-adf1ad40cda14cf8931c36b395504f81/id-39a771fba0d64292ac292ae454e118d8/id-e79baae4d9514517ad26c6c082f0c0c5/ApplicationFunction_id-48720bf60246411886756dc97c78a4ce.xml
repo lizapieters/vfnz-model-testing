@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bill Dispute Investigation"
+    id="id-48720bf60246411886756dc97c78a4ce"
+    documentation="Bill dispute consists of handling the customer inquiries received through customer service, self care or any other channel about their bills that have not been solved by simple actions (e.g walk customer through their invoice or grant the request when disputed amount is inferior to a threshold).&#xA;&#xA;�The case is investigated using billing data (invoice images, billed items, usage history) A/R data (e.g search of unmatched payment) and others (e.g installed products, network databases�).">
+  <properties
+      key="Function Identifier"
+      value="38"/>
+  <properties
+      key="TAM Application Name"
+      value="Adjustments"/>
+  <properties
+      key="TAM Application Id"
+      value="5.10.3"/>
+  <properties
+      key="Constructed Id"
+      value="5.10.3.38"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ServicePackageBundleDetails"
+    id="id-0d312d027308406eb703fe2afcef2253"
+    documentation="This class is used to implement the semantics of the ServicePackageSpecUsesServiceBundleSpecs aggregation. Note that the decision of which ServiceBundleSpecs to use to implement a particular ServicePackageSpec is a function of many factors; and is best modeled as a type of policy."/>

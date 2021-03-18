@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CSR Order Capture and Negotiation"
+    id="id-edaed9c2586a48e4aa8c9fed6b7b5484"
+    documentation="Order Capture and Negotiation provides front end support for the application flows defined by the order management applications.">
+  <properties
+      key="Function Identifier"
+      value="176"/>
+  <properties
+      key="TAM Application Name"
+      value="CSR fulfillment"/>
+  <properties
+      key="TAM Application Id"
+      value="5.6.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.6.1.176"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ecosystem Assurance"
+    id="id-8d513ce7845a429cadfcc7beccc04433"
+    documentation="Establish an enterprise-wide ecosystem assurance policy framework, and an associated operational capability aimed at assuring continual trust for customers and ecosystem partners through application of â€œassurance by designâ€� principles ensuring that new and digital services work from day one and create value.">
+  <properties
+      key="Process Identifier"
+      value="1.7.9.7"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of the Ecosystem Assurance process is to establish an enterprise-wide ecosystem assurance policy framework, and an associated operational capability aimed at assuring continual trust for customers and ecosystem partners through application of â€œassurance by designâ€� principles, ensuring that new and digital services work from day one and create value. Ecosystem Assurance process focusses on providing visibility and traceability of end-to-end digital services, across the partner ecosystem value-chain via enabling and assuring a standardized Open API connectivity, Plug &amp; Play assurance models, multi-way anomaly detection and accurate multi-partner settlement process."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

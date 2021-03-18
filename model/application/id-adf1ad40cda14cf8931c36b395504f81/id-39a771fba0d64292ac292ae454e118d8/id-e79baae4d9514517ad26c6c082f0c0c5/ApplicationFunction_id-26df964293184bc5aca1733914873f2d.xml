@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer SLA monitoring"
+    id="id-26df964293184bc5aca1733914873f2d"
+    documentation="Monitoring �pending� SLA violations before they occur (�Jeopardy�) by measuring current performance/commitment activity compared to SLA thresholds">
+  <properties
+      key="Function Identifier"
+      value="289"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer SLA Analysis"/>
+  <properties
+      key="TAM Application Id"
+      value="5.18.3"/>
+  <properties
+      key="Constructed Id"
+      value="5.18.3.289"/>
+</archimate:ApplicationFunction>

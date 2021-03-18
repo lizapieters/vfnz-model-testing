@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Off-Line Contact Channel Management"
+    id="id-6074a012cb864c68a2b4c0cd11eb39e1"
+    documentation="Off-Line Contact Channel Management function provides the means to capture and manage activities that cannot or were not completed via an online channel contact. It also provides the means to place an activity on the �off line� queue that originated from an off-line channel such as email, postal mail, fax, etc.&#xA;Note: An activity can be completed on a different channel from which the request originated.">
+  <properties
+      key="Function Identifier"
+      value="167"/>
+  <properties
+      key="TAM Application Name"
+      value="Off-Line Contact Channel Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.22.3.3"/>
+  <properties
+      key="Constructed Id"
+      value="5.22.3.3.167"/>
+</archimate:ApplicationFunction>

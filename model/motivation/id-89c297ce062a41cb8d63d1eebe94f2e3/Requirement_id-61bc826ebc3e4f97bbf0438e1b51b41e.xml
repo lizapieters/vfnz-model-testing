@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0181"
+    id="id-61bc826ebc3e4f97bbf0438e1b51b41e"
+    documentation="As a customer, I want to be able to call satellite &amp; premium numbers, so that I connect with the people they need">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0181"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Use"/>
+  <properties
+      key="Topic"
+      value="Satellite &amp; premium numbers"/>
+  <properties
+      key="Remarks"
+      value="OOTB Assumed for the Horizon 1 that Premium numbers will be blocked because of unknown call cost and satteline numbers will be handled in the same way as the calls to International numbers"/>
+  <properties
+      key="Module"
+      value="BS, OCS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="Yes"/>
+</archimate:Requirement>

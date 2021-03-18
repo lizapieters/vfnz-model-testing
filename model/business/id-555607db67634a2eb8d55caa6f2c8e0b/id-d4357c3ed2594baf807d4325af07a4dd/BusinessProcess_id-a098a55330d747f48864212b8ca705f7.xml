@@ -1,0 +1,20 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enforce Infrastructure Policy"
+    id="id-a098a55330d747f48864212b8ca705f7">
+  <properties
+      key="Process Identifier"
+      value="1.2.7.1.3.6.2"/>
+  <properties
+      key="Category"
+      value="(6) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Enforce Infrastructure Policy us responsible for the action of applying every identified applicable policy upon the operation of a resource. If the resources are persistent this can be arranged at build time, by if the resources are intermittent then a continuous process needs to guarantee policy adherence."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

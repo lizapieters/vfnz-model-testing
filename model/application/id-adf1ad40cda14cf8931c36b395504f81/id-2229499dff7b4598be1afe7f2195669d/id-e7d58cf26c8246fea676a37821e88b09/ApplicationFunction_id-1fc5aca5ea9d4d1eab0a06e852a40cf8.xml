@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Advertising"
+    id="id-1fc5aca5ea9d4d1eab0a06e852a40cf8"
+    documentation="Advertising Administrative Services are primarily dealing with the enterprise's common advertising needs like Corporate advertising (that is more public relations than sales promotion) and Recruitment advertising.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="9.9.3"/>
+  <properties
+      key="Frameworx Domain"
+      value="Enterprise Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

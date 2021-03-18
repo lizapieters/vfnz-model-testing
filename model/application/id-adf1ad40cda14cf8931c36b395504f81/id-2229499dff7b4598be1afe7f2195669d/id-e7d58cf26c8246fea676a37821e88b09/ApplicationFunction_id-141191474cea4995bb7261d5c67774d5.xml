@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Loyalty Balance Management"
+    id="id-141191474cea4995bb7261d5c67774d5"
+    documentation="Loyalty Score Management calculates the customer loyalty score according the accumulation/decrease rules. Loyalty Score Management must manage accumulation of points from more than one product source into one or more balance profiles. Loyalty score could decrease due to prize purchase, point expiration, etc. Score details can be accessed via various contact channels.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="5.21.3"/>
+  <properties
+      key="Frameworx Domain"
+      value="Customer Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

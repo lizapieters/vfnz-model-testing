@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fallout Orchestration"
+    id="id-9a20d72f854d4dcdaef9664eedb1fc7a"
+    documentation="Fallout Management Orchestration applications provide workflow and orchestration for the Fallout Management area.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="11.2.8"/>
+  <properties
+      key="TMF Function"
+      value="Fallout Orchestration"/>
+  <properties
+      key="TMF Maturity"
+      value="Cross Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

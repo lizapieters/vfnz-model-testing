@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Order Rules search and presentation"
+    id="id-b9795d5b6872493f8e1fd9e9ea65fdd5"
+    documentation="Customer Order Rules Search and Presentation function makes the Customer Order Rules available to customer order related applications.">
+  <properties
+      key="Function Identifier"
+      value="722"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Order Rules Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.3.10"/>
+  <properties
+      key="Constructed Id"
+      value="5.3.10.722"/>
+</archimate:ApplicationFunction>

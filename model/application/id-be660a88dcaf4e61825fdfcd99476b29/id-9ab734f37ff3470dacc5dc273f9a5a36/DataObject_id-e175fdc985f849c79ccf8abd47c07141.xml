@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CompositeEntityIdentificationSpec"
+    id="id-e175fdc985f849c79ccf8abd47c07141"
+    documentation="A type of EntityIdentificationSpec that is formed by aggregating other EntityIdentificationsSpecs; which may be Composite or Atomic EntityIdentificationSpecs."/>

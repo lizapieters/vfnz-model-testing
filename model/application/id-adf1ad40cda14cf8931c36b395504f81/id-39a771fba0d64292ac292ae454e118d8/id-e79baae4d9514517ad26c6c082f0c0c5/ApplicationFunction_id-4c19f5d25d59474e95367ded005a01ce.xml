@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Level performance reporting"
+    id="id-4c19f5d25d59474e95367ded005a01ce"
+    documentation="Customer SLA Reporting function provide the necessary functionality to report the service providers performance per specified service level">
+  <properties
+      key="Function Identifier"
+      value="294"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer SLA Reporting"/>
+  <properties
+      key="TAM Application Id"
+      value="5.18.5"/>
+  <properties
+      key="Constructed Id"
+      value="5.18.5.294"/>
+</archimate:ApplicationFunction>

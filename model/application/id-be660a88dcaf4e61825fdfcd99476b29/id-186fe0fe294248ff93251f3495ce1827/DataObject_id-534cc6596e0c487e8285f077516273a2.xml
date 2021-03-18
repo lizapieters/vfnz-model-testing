@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ComponentRevShareProdOfferItem"
+    id="id-534cc6596e0c487e8285f077516273a2"
+    documentation="An item that is used to determine revenue shared with another party for a ProductOffering. The item may be a ProductPrice paid to acquire an offering if a bill/invoice charge is not created for it or an AppliedParty/CustomerBillingRate; which could be a charge; discount; usage charge; and so forth."/>

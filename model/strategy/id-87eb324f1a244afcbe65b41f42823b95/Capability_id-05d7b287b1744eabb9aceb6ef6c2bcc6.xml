@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Problem Analysis"
+    id="id-05d7b287b1744eabb9aceb6ef6c2bcc6"
+    documentation="Service Problem Analysis applications provide necessary functionality to diagnose the service problem.  The application will also correlate customer problems with resource troubles, and prioritize the problem appropriately. Service problems impacting the availability of customer services will notify operations applications for immediate manual or automatic mitigation or correction.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="6.5.3"/>
+  <properties
+      key="TMF Function"
+      value="Service Problem Configuration Verification Service Problem Prioritization Service Problem Test Analysis Service Problem Test Issuing Service Root Problem Analysis"/>
+  <properties
+      key="TMF Maturity"
+      value="Service Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

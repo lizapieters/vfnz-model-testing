@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Care-center work queuing"
+    id="id-d3567ff1154144758c7e52da907a9486"
+    documentation="Center Force &amp; Work Queue Management also addresses work queuing and work assignment received from various channels including incoming calls, email, and back-office/front-office work distribution and queuing.  Work Queuing can be on-line (active customer contact) or off line (no customer &quot;on the line&quot;).">
+  <properties
+      key="Function Identifier"
+      value="114"/>
+  <properties
+      key="TAM Application Name"
+      value="Center Force &amp; Queue Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.22.2.3"/>
+  <properties
+      key="Constructed Id"
+      value="5.22.2.3.114"/>
+</archimate:ApplicationFunction>

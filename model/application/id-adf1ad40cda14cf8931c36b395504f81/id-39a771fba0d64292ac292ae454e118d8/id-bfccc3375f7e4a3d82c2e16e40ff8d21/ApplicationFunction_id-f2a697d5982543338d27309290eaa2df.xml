@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Task Item Sequence Control"
+    id="id-f2a697d5982543338d27309290eaa2df"
+    documentation="Service Task Item Sequence Control: Because of the �Service Task Item Decomposition� of an orchestration request the result may be several actions that need to take place in a specific sequence. Each action is an item in the �Service Task Item Sequence� and will perform according to a pre-configured configuration. The �Service Task Item Sequence Control� controls the execution of each Item�s action.">
+  <properties
+      key="Function Identifier"
+      value="966"/>
+  <properties
+      key="TAM Application Name"
+      value="Service Capability Orchestration"/>
+  <properties
+      key="TAM Application Id"
+      value="6.11"/>
+  <properties
+      key="Constructed Id"
+      value="6.11.966"/>
+</archimate:ApplicationFunction>

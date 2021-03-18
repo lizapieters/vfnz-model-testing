@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1255"
+    id="id-36df364ca0b94dbeb038cc5128a08200"
+    documentation="As a customer, I want to understand what happens to my existing subscriptions on Netflix, Spotify etc if I signup with VF, so that I can decide if I want to purchase it.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1255"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Diane Watson"/>
+  <properties
+      key="Tribe"
+      value="Consumer Home"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="prio2"/>
+  <properties
+      key="Base"
+      value="1?"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Get"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Use"/>
+  <properties
+      key="Topic"
+      value="Product information"/>
+  <properties
+      key="Remarks"
+      value="which part is 4 COmarch? Static offering descriptions in PC? CMS CONTENT"/>
+  <properties
+      key="Module"
+      value="DS, PC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Number Portability Orchestration"
+    id="id-90055c1e31514f8e9fc0eb6adfb7c497"
+    documentation="Number Portability Orchestration communication mechanism that ensures the orders activation according to a criteria set, allowing in this way the correct execution of orders">
+  <properties
+      key="Function Identifier"
+      value="743"/>
+  <properties
+      key="TAM Application Name"
+      value="Number Portability Orchestration"/>
+  <properties
+      key="TAM Application Id"
+      value="7.13.2.2"/>
+  <properties
+      key="Constructed Id"
+      value="7.13.2.2.743"/>
+</archimate:ApplicationFunction>

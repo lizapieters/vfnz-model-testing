@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Test Management"
+    id="id-0b84ae9e43544b29b51c9822c4d91066"
+    documentation="Service Test Management provides the manages the end-to-end execution of a test or test scenario for Services not related to a specific customerâ€™s product.">
+  <properties
+      key="Process Identifier"
+      value="1.4.10"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Service Test Management provides the manages the end-to-end execution of a test or test scenario for Services not related to a specific customerâ€™s product. These tests might be either manual or automate. The Service Test process will rely on the Service Test Management and Resource Test Management processes according to relationships between Service Test and Service / Resource Tests and depending on the association between the Service and the underlying Service or Resource. Service Test Management includes: - Identifying Service Tests need - According to fulfilment and assurance issues, Service Tests might be triggered - Conducting Service Tests - Verifying test authorization (role and context) and quota management - Identifying and carrying out test prioritization - Setting up the test context and configuration - Test execution, triggering appropriate Resource Tests. Tests might be on-demand or planned according to their specification. - Reporting Test results by enrichment of Service &amp; Resource Tests results according to Service Test rules"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

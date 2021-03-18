@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Strategic Business Planning"
+    id="id-1d2f096d01314207babfa4b4a6037824"
+    documentation="Provide strategic business direction to the enterprise.">
+  <properties
+      key="Process Identifier"
+      value="1.7.1.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Strategic Business Planning processes provide strategic business direction to the enterprise. These processes encompass all of the functions required to provide strategic business direction to the enterprise, to create actionable plans based on the business strategy and to provide high-level program management of their implementation."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

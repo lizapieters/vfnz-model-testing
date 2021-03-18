@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResourceFacingServiceAtomic"
+    id="id-6f5e31c3e325452bbec4d99b7a579420"
+    documentation="This is an abstract base class that defines a stand-alone ResourceFacingService that meets the needs of a particular CustomerFacingService. Stand-alone ResourceFacingServices may be linked directly to a CustomerFacingService or aggregated by a ResourceFacingServiceComposite."/>

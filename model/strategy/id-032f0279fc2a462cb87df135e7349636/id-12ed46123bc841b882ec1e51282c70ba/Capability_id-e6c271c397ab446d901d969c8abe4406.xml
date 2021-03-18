@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Supplier Access Management"
+    id="id-e6c271c397ab446d901d969c8abe4406"
+    documentation="The ability to determine if a supplier may enter, view, modify or otherwise proceed with a given task or point of entry, based on their authorization to proceed.">
+  <properties
+      key="TMF_ID"
+      value="1.2.2.7.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

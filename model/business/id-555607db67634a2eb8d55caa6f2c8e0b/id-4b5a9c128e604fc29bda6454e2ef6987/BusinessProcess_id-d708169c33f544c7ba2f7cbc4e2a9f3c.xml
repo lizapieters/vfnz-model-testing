@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Party Payment Management"
+    id="id-d708169c33f544c7ba2f7cbc4e2a9f3c"
+    documentation="Manage methods used by parties to make payments, administer payment plans, handle payments, and collect debt.">
+  <properties
+      key="Process Identifier"
+      value="1.6.16.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Party Payment Management manages methods used by parties to make payments, administers payment plans, handles payments, and collects debt. Party Payment Method Management defines and manages the various types of payment methods and the methods by which an individual party may make an inbound and/or outbound payment. Party Payment Plan Administration develops and manages payment plans that specify how a party will pay over a specified period of time for a product that has been acquired. Party Payment Handling receives payments from parties, remits payments to parties, and applies payments to any form of request for payment, such as bills, settlements or other forms of revenue sharing, purchases, charges, or payment plans as needed. Party Debt Collection collects past due payments from parties with whom an enterprise does business. It monitors the amount due from parties, for example check whether the payments are made on time, and implements necessary activities and policies to recover amounts overdue."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

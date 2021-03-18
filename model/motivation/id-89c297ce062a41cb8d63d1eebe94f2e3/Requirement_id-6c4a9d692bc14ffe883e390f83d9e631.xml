@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0734"
+    id="id-6c4a9d692bc14ffe883e390f83d9e631"
+    documentation="As a simple business customer when I provide my staff members with devices, I want them to be able to purchase products and services that sit outside of my business contract themselves, so that they can buy their own things and I don't have to pay.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0734"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Jared Mortlock"/>
+  <properties
+      key="Tribe"
+      value="Business"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Billing"/>
+  <properties
+      key="Remarks"
+      value="OOTB. Employees will have their own accounts with personal payment methods (credit card, debit card) so they can buy addons on their own"/>
+  <properties
+      key="Module"
+      value="BS, PC, OM, SC, DS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Business only"/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Specify Party Product Involvement"
+    id="id-005e9aa925944930927a1fb291d41e48"
+    documentation="Specify the involvement one or more parties have with a product, the parties' types of involvement, as well as identity specific information for users.">
+  <properties
+      key="Process Identifier"
+      value="1.2.11.7.1.2"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Specify Party Product Involvement specifies the involvement one or more parties have with it and the party account that will pay for the product. If the product is paid for when it is purchased and there are no recurring or other types of charges due at some point in the future, then the party account may not be specified. Involved parties type of involvement is also specified, such as user, owner, payer. Additionally identity specific information, such as rights and restrictions, are specified for users (parties) of the product. This process also updates and removes the involvement and identity specific information."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

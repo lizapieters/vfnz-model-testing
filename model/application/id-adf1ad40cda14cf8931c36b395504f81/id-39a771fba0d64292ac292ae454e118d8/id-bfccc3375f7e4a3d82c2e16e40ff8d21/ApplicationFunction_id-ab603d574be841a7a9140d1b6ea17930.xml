@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Performance Root Cause analysis"
+    id="id-ab603d574be841a7a9140d1b6ea17930"
+    documentation="Support for analyzing performance data received from Service Performance Monitoring, considering service topology to support determining the root causes of service performance degradations">
+  <properties
+      key="Function Identifier"
+      value="601"/>
+  <properties
+      key="TAM Application Name"
+      value="Service Performance Analysis"/>
+  <properties
+      key="TAM Application Id"
+      value="6.7.2"/>
+  <properties
+      key="Constructed Id"
+      value="6.7.2.601"/>
+</archimate:ApplicationFunction>

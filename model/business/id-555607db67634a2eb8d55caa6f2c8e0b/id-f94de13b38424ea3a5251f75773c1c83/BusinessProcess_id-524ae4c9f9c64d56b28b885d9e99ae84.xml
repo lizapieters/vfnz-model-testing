@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Perform National Roaming Party Billing"
+    id="id-524ae4c9f9c64d56b28b885d9e99ae84"
+    documentation="Perform National Party Roaming Billing process generate roaming billing which are within national borders.">
+  <properties
+      key="Process Identifier"
+      value="1.6.15.4.1.1"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Perform National Party Roaming Billing process generate roaming billing which are within national borders. Roaming within national borders where CSP coverage is not available and an agreement is reached with another National CSP to provide service. Includes inbound and outbound roaming billing. National roaming are usually transparent to the own customer and cost neutral. Legally, this type of roaming is not allowed unless under very specific circumstances and under regulatory scrutiny. It requires specific business scenario considerations in mediation, business party billing as well as the dynamic nature of network coverage (customer temporarily on-net off-net)."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

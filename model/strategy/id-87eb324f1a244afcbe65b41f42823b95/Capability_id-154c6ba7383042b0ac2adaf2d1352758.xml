@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Employee Records Management"
+    id="id-154c6ba7383042b0ac2adaf2d1352758"
+    documentation="Employee Records Management provides the necessary processes, guidelines and solutions for managing and retaining employee records.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.2.7"/>
+  <properties
+      key="TMF Function"
+      value="Employee Records Administration Employee Records Support"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Capability Orchestration"
+    id="id-3ca4cfb42803458987d0b2d4342b4a25"
+    documentation="Service Capability Orchestration application will perform automated service decomposition, service/serices integration, coordination, and management in service deployment, service or connected activation and service element updating. The application function fulfills the needs of orchestration for Operation Support &amp; Readiness, Fulfilment and Assurance and Billing domains applications with regards to Hybrid ecosystem.">
+  <properties
+      key="TAM Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="6.11"/>
+  <properties
+      key="Frameworx Domain"
+      value="Service Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="0"/>
+</archimate:ApplicationFunction>

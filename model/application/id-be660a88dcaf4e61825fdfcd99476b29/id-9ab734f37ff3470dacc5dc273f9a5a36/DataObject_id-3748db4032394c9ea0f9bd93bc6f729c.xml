@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicyConditionTimePeriod"
+    id="id-3748db4032394c9ea0f9bd93bc6f729c"
+    documentation="This is a concrete class that provides the capability of enabling or disabling a PolicyCondition according to a pre-determined time schedule. This enables this class to effectively enable or disable evaluation of the entire condition clause. The simplest way to do this is to specify a value for the TimePeriod class attribute; this may of course be modified by other class attributes as necessary."/>

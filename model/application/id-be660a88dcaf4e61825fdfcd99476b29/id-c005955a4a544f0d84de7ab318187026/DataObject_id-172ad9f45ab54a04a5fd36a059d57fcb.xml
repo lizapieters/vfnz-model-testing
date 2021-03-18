@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TariffUsageProdOfferPriceCharge"
+    id="id-172ad9f45ab54a04a5fd36a059d57fcb"
+    documentation="A specific rate that applies to ProductUsages aggregated during a certain period. For example; all evening minutes are aggregated during one month before being globally rated by a TarifUsageProdOfferPriceCharge 1. And all daytime minutes are aggregated during one month before being globally rated by a TarifUsageProdOfferPriceCharge 2."/>

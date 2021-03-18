@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Human Resource Authentication and Authorization"
+    id="id-4c9c8882ec244c4bb2137906a2ddd82f"
+    documentation="The ability to determine, assign, and enforce access of a human resource to a particular item such as a facility, locations, or information.">
+  <properties
+      key="TMF_ID"
+      value="1.3.8.2"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

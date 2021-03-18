@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Report Party Problem"
+    id="id-968baff66f0145b2867591ffd3845aff"
+    documentation="Monitor the status of on or more party problems, provide notifications of any changes and provide management reports.">
+  <properties
+      key="Process Identifier"
+      value="1.6.10.7"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Report Party Problem monitors the status of party problems, provides notifications of any changes, and provides management reports. Note that the jeopardy status is monitored by the Track Party Problem process. These processes are responsible for continuously monitoring the status of party problems and managing notifications to other processes and to other parties, including partners, registered to receive notifications of any status changes. Note that lists of contacts related to a process such as this can be maintained by a generalized process such as Process Management &amp; Support that is part of Enterprise Effectiveness Management in the Enterprise domain. These processes record, analyze and assess party problem status changes to provide management reports and any specialized summaries of the efficiency and effectiveness of the overall Party Problem Handling processes. These specialized summaries could be specific reports required by specific audiences, such as partners.."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

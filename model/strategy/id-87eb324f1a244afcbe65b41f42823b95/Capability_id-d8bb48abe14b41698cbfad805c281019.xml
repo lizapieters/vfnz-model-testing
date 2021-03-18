@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bill Calculation"
+    id="id-d8bb48abe14b41698cbfad805c281019"
+    documentation="The Bill Calculation application processes all charges against an account during bill cycles. Bill Calculation can be executed both on a cyclic basis and on demand. It performs bill invoicing, dealing with bill compilation of charges, credits, payments, adjustments, fees &amp; taxes at various levels, such as product and/or account level that have been generated since the last run for that account. It could apply discounts. Finally, Bill Calculation Management calculates bill totals and subtotals as appropriate. The pricing plans and discounts are determined based on the agreements for the invoiced customer or account.">
+  <properties
+      key="TMF Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.15"/>
+  <properties
+      key="TMF Function"
+      value="0"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

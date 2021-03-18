@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Change Product Offering Purchase Selection"
+    id="id-bc9ed357b67f46a2be0c2e7d197a0613"
+    documentation="Change any information about a product offering chosen for purchase.">
+  <properties
+      key="Process Identifier"
+      value="1.2.9.2.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Change Product Offering Purchase Selection changes any information about a product offering chosen for purchase. Information can include the quantity selected, the price, or the components of a customized product offering."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OrderedOnlySalesProdSpec"
+    id="id-76e9873236e4459a8db8215508779137"
+    documentation="A SalesProductSpecification specifies the role of CSP for a ProductSpecification sold or rented by the Service Provider. OrderedOnlySalesProdSpec is a SalesProductSpecification for which the Service Provider only take the order on behalf of another Party."/>

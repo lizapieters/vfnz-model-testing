@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Task Item Sequence Carry Through"
+    id="id-af6ca42c680143beb18d9eb8f8535762"
+    documentation="Resource Task Item Sequence Carry Through: Because of the �Resource Task Item Decomposition� of an orchestration request the result may be several actions that needs to take place in a specific sequence. The �Resource Task Item Sequence Carry Through� function executes each individual item in sequence to fulfill, or roll back according to a pre-defined configuration, and reports the sequence carry through result.">
+  <properties
+      key="Function Identifier"
+      value="961"/>
+  <properties
+      key="TAM Application Name"
+      value="Resource Capability Orchestration"/>
+  <properties
+      key="TAM Application Id"
+      value="7.16"/>
+  <properties
+      key="Constructed Id"
+      value="7.16.961"/>
+</archimate:ApplicationFunction>

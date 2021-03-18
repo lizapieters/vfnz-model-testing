@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Message/Market Matching"
+    id="id-bcdd4d76dd2f4ec1a6f31bdbe9199e1c"
+    documentation="The ability to associate a message with a given market or market segment.">
+  <properties
+      key="TMF_ID"
+      value="1.2.1.6.19"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Recommend Resource partnership"
+    id="id-f6beede0945e45be919f76caec3d11c8"
+    documentation="Scan external availability for resource capabilities and recommend external partners/Suppliers">
+  <properties
+      key="Process Identifier"
+      value="1.5.1.6.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Recommend Resource partnership processes focus on scanning external availability of sourcing resource capabilities and make recommendations about specific external partners/suppliers who should be used to provide the resource capabilities"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

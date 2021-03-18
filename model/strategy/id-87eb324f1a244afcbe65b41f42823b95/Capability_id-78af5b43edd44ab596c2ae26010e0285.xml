@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Performance Reporting"
+    id="id-78af5b43edd44ab596c2ae26010e0285"
+    documentation="Resource Performance Reporting provides the functionality requiredto generate reports about the performance of the service provider's resources.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="7.9.3"/>
+  <properties
+      key="TMF Function"
+      value="Resource Performance Reporting"/>
+  <properties
+      key="TMF Maturity"
+      value="Resource Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

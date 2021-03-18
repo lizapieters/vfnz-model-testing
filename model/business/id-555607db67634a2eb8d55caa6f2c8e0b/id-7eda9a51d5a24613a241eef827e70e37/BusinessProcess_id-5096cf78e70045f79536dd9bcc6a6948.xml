@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Catalogs Management"
+    id="id-5096cf78e70045f79536dd9bcc6a6948"
+    documentation="Develop catalog specifications  (definitions), catalogs, and exchange catalogs among parties.">
+  <properties
+      key="Process Identifier"
+      value="1.8.1"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Catalog Management is a set of generalized processes that can be used in the creation of product, service, and resource catalogs, their specifications (definitions), and exchange catalogs among parties engaged in the value fabric. Domain specific cataloging processes, such as Product Offering Cataloging contain only the processes specific to them. For example, associating product offering prices with product offers in a product catalog. Generalized processes such as this eliminate redundant processes used to create domain specific catalogs."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1qCoSVariable"
+    id="id-1156413711a2411cba773da41334319e"
+    documentation="This class represents using the IEEE 802.1q Class of Service value (which is three bits) as part of a condition expression. Thus; only BitStringValue and IntegerValue classes can be used in the value portion of the condition expression with this PolicyVariable."/>

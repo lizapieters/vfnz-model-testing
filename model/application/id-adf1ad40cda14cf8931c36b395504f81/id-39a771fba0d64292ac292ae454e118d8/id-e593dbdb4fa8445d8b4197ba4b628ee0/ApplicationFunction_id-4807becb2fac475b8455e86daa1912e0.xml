@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Usage Event Error Categorization"
+    id="id-4807becb2fac475b8455e86daa1912e0"
+    documentation="Categorize unbilled usage events for usage records which have been identified as being non-processable due to edit, rate, guide, routing, etc. Failures">
+  <properties
+      key="Function Identifier"
+      value="530"/>
+  <properties
+      key="TAM Application Name"
+      value="Usage Event Error Management"/>
+  <properties
+      key="TAM Application Id"
+      value="7.14.2"/>
+  <properties
+      key="Constructed Id"
+      value="7.14.2.530"/>
+</archimate:ApplicationFunction>

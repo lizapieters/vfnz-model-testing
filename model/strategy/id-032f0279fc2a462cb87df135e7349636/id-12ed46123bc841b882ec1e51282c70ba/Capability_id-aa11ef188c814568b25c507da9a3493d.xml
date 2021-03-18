@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agreement Preference Interpretation"
+    id="id-aa11ef188c814568b25c507da9a3493d"
+    documentation="The ability to derive the meaning of one or a combination of preferences within an agreement or across multiple related agreements.">
+  <properties
+      key="TMF_ID"
+      value="1.1.5.3.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

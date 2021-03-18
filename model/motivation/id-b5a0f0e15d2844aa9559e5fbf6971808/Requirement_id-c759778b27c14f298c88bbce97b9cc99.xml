@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1454"
+    id="id-c759778b27c14f298c88bbce97b9cc99"
+    documentation="As a customer, I want to be able to share my rewards and benefits with my friends/family - such as sending a free movie ticket to a friend or paying forward my credit">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1454"/>
+  <properties
+      key="Status"
+      value="Potential gap"/>
+  <properties
+      key="Created by"
+      value="Gabrielle Paul"/>
+  <properties
+      key="Tribe"
+      value="Loyalty"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Marketing and Campaign Management"/>
+  <properties
+      key="Remarks"
+      value="[CLM] To be clarified, depending on channel rewards can be provided externally eg. over e-mail or for non-electronic rewards by providing custom dipatch address however this depend mostly on the local law of processing information, for example can we send mail to someone who is not in our DB and not agreed T&amp;C? What is the form of rewards sending?"/>
+  <properties
+      key="Module"
+      value="CLM, PC, OM, SC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

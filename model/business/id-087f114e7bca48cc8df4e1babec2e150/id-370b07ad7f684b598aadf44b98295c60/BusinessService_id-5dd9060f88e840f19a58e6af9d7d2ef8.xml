@@ -1,0 +1,30 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OTT - Spark Sport"
+    id="id-5dd9060f88e840f19a58e6af9d7d2ef8"
+    documentation="0">
+  <properties
+      key="Target Horizon"
+      value="2"/>
+  <properties
+      key="Segment"
+      value="0"/>
+  <properties
+      key="Access/Service Type"
+      value="0"/>
+  <properties
+      key="Comarch can support"
+      value="0"/>
+  <properties
+      key="Non-Comarch IT support needed"
+      value="0"/>
+  <properties
+      key="NaaS will support"
+      value="0"/>
+  <properties
+      key="Automated non-NaaS support"
+      value="0"/>
+  <properties
+      key="Unexpected"
+      value="true"/>
+</archimate:BusinessService>

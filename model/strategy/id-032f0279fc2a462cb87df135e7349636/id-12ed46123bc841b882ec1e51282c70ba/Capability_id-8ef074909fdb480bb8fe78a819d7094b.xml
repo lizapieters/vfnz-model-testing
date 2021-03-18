@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Network Risk Level Determination"
+    id="id-8ef074909fdb480bb8fe78a819d7094b"
+    documentation="The ability to identify and define the level of risk associated with a network.">
+  <properties
+      key="TMF_ID"
+      value="1.1.7.6.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

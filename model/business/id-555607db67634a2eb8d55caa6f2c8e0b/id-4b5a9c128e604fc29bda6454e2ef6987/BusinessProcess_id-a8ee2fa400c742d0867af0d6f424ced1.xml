@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Service Inventory"
+    id="id-a8ee2fa400c742d0867af0d6f424ced1"
+    documentation="Establish, manage and administer the enterprise's service inventory, as embodied in the Service Inventory Database, and monitor and report on the usage and access to the service inventory, and the quality of the data maintained in it.">
+  <properties
+      key="Process Identifier"
+      value="1.4.4.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The responsibilities of the Manage Service Inventory processes are twofold - establish, manage and administer the enterprise's service inventory, as embodied in the Service Inventory Database, and monitor and report on the usage and access to the service inventory, and the quality of the data maintained in it. The service inventory maintains records of all service infrastructure and service instance configuration, version, and status details. It also records test and performance results and any other service related- information, required to support SM&amp;O and other processes. The service inventory is also responsible for maintaining the association between customer purchased product offering instances and service instances, created as a result of the Service Configuration &amp; Activation processes. Responsibilities of these processes include, but are not limited to: â€¢ Identifying the inventory-relevant information requirements to be captured for service infrastructure and service instances ; â€¢ Identifying, establishing and maintaining service inventory repository facilities; â€¢ Establishing and managing the service inventory management and information capture processes; â€¢ Managing the registration and access control processes that enable processes to create, modify, update, delete and/or download service data to and from the service inventory; â€¢ Ensuring the service inventory repository accurately captures and records all identified service infrastructure and service instance details, through use of automated or manual audits; â€¢ Tracking and monitoring of the usage of, and access to, the service inventory repository and associated costs, and reporting on the findings â€¢ Identifying any technical driven shortcomings of the service inventory repository, and providing input to Resource Development &amp; Management processes to rectify these issues."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Order Storage"
+    id="id-ddf5597f03e042f2a397c00c0622eeb8"
+    documentation="The Customer Order Storage function stores the valid and complete customer orders into an appropriate data storage.">
+  <properties
+      key="Function Identifier"
+      value="719"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Order Acceptance"/>
+  <properties
+      key="TAM Application Id"
+      value="5.3.9"/>
+  <properties
+      key="Constructed Id"
+      value="5.3.9.719"/>
+</archimate:ApplicationFunction>

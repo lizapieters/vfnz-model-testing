@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fallout Orchestration"
+    id="id-4032dd081c8c475f980120745c8d72bd"
+    documentation="The Fallout Orchestration function provides workflow and orchestration capability across Fallout Management.">
+  <properties
+      key="Function Identifier"
+      value="21"/>
+  <properties
+      key="TAM Application Name"
+      value="Fallout Orchestration"/>
+  <properties
+      key="TAM Application Id"
+      value="11.2.8"/>
+  <properties
+      key="Constructed Id"
+      value="11.2.8.21"/>
+</archimate:ApplicationFunction>

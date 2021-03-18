@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicyConditionRuleDetails"
+    id="id-be3efcbfbc034a20aa39ef9accbe9412"
+    documentation="This is a class that implements the semantics needed for the PolicyConditionInPolicyRule aggregation. This aggregation defines the set of PolicyConditions that are contained in this PolicyRule. Note that the ContainedPolicyConditionDetails class and the PolicyConditionRuleDetails class have conceptually the same attributes. This is because they both provide semantics to form a condition expression. The difference lies in their placement relative to the PolicyRule class. That is; the ContainedPolicyConditionDetails class is used to combine individual expressions within a condition clause; whereas the PolicyConditionRuleDetails class is used to describe how the completed condition clause appears to the PolicyRule. These attributes are described in the Data Dictionary section of this Addendum."/>

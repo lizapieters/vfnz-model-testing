@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Write Off Overdue Party Bill/Invoice"
+    id="id-0fd835a8c6874611ae66615e4638b75b"
+    documentation="Write off a party bad debt and notify the applicable Financial Management process that this has been done.">
+  <properties
+      key="Process Identifier"
+      value="1.6.16.1.4.3.2.2"/>
+  <properties
+      key="Category"
+      value="(7) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

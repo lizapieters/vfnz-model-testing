@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Facility Risk Threshold Determination"
+    id="id-0738c655276b46239a01ef0afc7b9273"
+    documentation="The ability to identify and define the level of acceptable risk associated with a facility.">
+  <properties
+      key="TMF_ID"
+      value="1.3.14.6.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

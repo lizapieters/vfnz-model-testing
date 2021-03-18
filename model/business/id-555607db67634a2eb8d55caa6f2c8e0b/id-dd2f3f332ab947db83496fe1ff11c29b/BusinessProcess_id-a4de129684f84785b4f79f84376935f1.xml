@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Create Party Bill/Invoice"
+    id="id-a4de129684f84785b4f79f84376935f1"
+    documentation="Produce a timely and accurate bill/invoice in accordance with a specific billing cycle, on demand after the purchase of an offering, on request by a party, and so forth. Ensure that a bill/invoice is reflective of the final charges for products, together with any adjustments, delivered to a party by an enterprise.">
+  <properties
+      key="Process Identifier"
+      value="1.6.15.3.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Create Party Bill Invoice produces a timely and accurate bill/invoice in accordance with a specific billing cycle, on demand after the purchase of an offering, on request by a party, and so forth. It ensures that a bill/invoice is reflective of the final charges for products, together with any adjustments, delivered to a party by an enterprise. It renders/formats a bill/invoice and verifies a bill/invoice quality prior to distribution to the process responsible for invoice production and distribution. The flow of this process can be viewed as an extension of an enterprise's e-business strategy. In this case, an enterprise would render an invoice electronically, via the Internet for example. Furthermore, this process uses a specification, defined by Establish &amp; Maintain Party Bill Invoice Format, for formatting a bill/invoices in different ways and to achieve different publishing possibilities. The specification supports the creation of different bill/invoice formats for different publication media. The process is further responsible for splitting and re-arranging a bill/invoice for a party (particularly a party with a complex account structures) according to agreements made with a party."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

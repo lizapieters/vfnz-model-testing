@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gain Tender Decision Approval"
+    id="id-6a435e6026534d44b89d69c9fbcbddc0"
+    documentation="Capture all activities required to develop and gain necessary approval for investment proposals to develop and deliver the required resource capabilities.">
+  <properties
+      key="Process Identifier"
+      value="1.6.2.4"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Gain Tender Decision Approval processes capture all activities required to provide management oversight on the tender process and gain approval for the sourcing decision and party selection. These processes cover the establishment of any tender selection boards, the reporting processes and timetables, and the final approval of the tender decisions. The processes include any interaction with cross-enterprise coordination and management functions to ensure that the tender decisions are supported by all stakeholders"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

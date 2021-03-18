@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Issue Resource Orders"
+    id="id-b41614df2b284c8e9b40c7325b6cb96b"
+    documentation="Issue correct and complete resource orders">
+  <properties
+      key="Process Identifier"
+      value="1.5.6.7"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The purpose of the Issue Resource Orders processes is to issue correct and complete resource orders. The resource orders may be required to satisfy pertinent service order information received, may arise as a result of requests for resource provisioning to satisfy resource trouble recovery activities, may arise to alleviate resource performance issues, or may arise as a result of information received from other parties in relations to specific resources. These processes assess the information contained in the service order, through a resource order request, initiating resource process request or other parties initiated request, to determine the associated resource orders that need to be issued. The issued resource order may require a feasibility assessment to be undertaken, may require new provisioning activities for specific resources, may require a change to a previously issued resource order or may require the deletion/recovery of previously delivered specific resources. Where the initiating request or service order has a standard set of associated resource orders, this process is responsible for issuing the resource orders, and for creating a record of the relevant initiating request or service order information and the associated resource orders. Where the initiating request or service order has special or unusual requirements, and a specific feasibility assessment has not been previously undertaken, this process marks the issued resource order as requiring special handling, and passes management for further processing to the Track &amp; Manage Resource Provisioning process. Where the initiating request or service order has special or unusual requirements, and a specific feasibility assessment has been previously undertaken, this process issues the previously determined resource orders. The orchestration, if required, and tracking of the progress of a resource order is the responsibility of the Track &amp; Manage Resource Provisioning processes."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

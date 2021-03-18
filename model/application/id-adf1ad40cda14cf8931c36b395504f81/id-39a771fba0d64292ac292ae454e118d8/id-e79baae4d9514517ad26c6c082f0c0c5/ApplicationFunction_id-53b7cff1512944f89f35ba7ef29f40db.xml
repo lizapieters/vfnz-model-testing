@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Govern Ordering Activity"
+    id="id-53b7cff1512944f89f35ba7ef29f40db"
+    documentation="Govern the control of the order amongst the ordering channels. This allows keeping the order data consistency, sharing the order data among order application channels and alternating the control between them.">
+  <properties
+      key="Function Identifier"
+      value="211"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Order Lifecycle Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.3.6"/>
+  <properties
+      key="Constructed Id"
+      value="5.3.6.211"/>
+</archimate:ApplicationFunction>

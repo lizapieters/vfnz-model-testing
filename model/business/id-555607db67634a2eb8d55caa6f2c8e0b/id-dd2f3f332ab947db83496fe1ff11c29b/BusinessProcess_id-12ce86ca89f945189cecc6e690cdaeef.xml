@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onboard Party Identity"
+    id="id-12ce86ca89f945189cecc6e690cdaeef"
+    documentation="Onboard Party Identity creates a suitable identity for all parties, and ensure that the identity they carry is valid for the business purpose intended">
+  <properties
+      key="Process Identifier"
+      value="1.6.3.1.7"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Onboard Party Identity creates a suitable identity for all parties, and ensure that the identity they carry is valid for the business purpose intended Note: Enterprises need to be able to create a suitable identity for all parties they interact with. Every organization's trust capital is based on their knowledge of parties they interact with. If interactions are to be managed, the organization needs to be clear as to who other parties are, and ensure that the identity they carry is valid for the business purpose intended. Authentication and assigning of privileges are key interactions between the organization and the party, and are logged in for security control purpose."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

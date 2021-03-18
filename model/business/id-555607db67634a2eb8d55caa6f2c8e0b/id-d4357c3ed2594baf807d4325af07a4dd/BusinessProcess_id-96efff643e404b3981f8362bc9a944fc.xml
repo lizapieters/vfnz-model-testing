@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Establish &amp; Manage Commercial Debt Recovery Arrangement"
+    id="id-96efff643e404b3981f8362bc9a944fc"
+    documentation="Establish and manage commercial arrangements with third parties for the recovery of aged party debt, and/or selling of parts of the debt portfolio to one or more third parties.">
+  <properties
+      key="Process Identifier"
+      value="1.6.16.1.4.3.3"/>
+  <properties
+      key="Category"
+      value="(6) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Establish &amp; Manage Commercial Debt Recovery Arrangement establishes and manages commercial arrangements with third parties for the recovery of aged party debt, and/or selling of parts of the debt portfolio to third parties. These process interacts with Party Tender Management and/or Party Agreement Management to establish and manage commercial arrangements with one or more third parties."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Physical Implementation Information handling"
+    id="id-2ec63c75ed794d87b3a13e66a62f7452"
+    documentation="Provide levels of implementation details that tactical planning does not need to specify, such as duct routes and the frame appearances of device ports.">
+  <properties
+      key="Function Identifier"
+      value="426"/>
+  <properties
+      key="TAM Application Name"
+      value="Implementation Planning"/>
+  <properties
+      key="TAM Application Id"
+      value="7.1.2"/>
+  <properties
+      key="Constructed Id"
+      value="7.1.2.426"/>
+</archimate:ApplicationFunction>

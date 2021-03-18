@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResourceFacingServiceSpecComposite"
+    id="id-99fd0c71864a4e00ba65aa76536e8c5f"
+    documentation="This is an abstract base class that defines an integrated set of ResourceFacingServices that collectively meets the needs of a CustomerFacingService. For example; the Customer may have requested GoldService; which is a ServicePackage that defines a set of ServiceBundles; each of which has its own QoS. Each individual ResourceFacingService that is part of the ServicePackage can be derived from a ResourceFacingServiceSpecification. In this case; a ResourceFacingServiceSpecComposite will aggregate all of the individual ResourceFacingServiceSpecifications into a single named object. This object is a stand-alone object. However; it consists of other ResourceFacingServiceSpecComposite and/or ResourceFacingServiceSpecAtomic entities. That is the primary difference between this entity and the ResourceFacingServiceSpecAtomic entity."/>

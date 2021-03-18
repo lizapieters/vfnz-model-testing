@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financial Transaction State Management"
+    id="id-6922318922d3447ab0a1b8d599849d57"
+    documentation="The ability to define and maintain the various conditions or state that apply to financial transactions.">
+  <properties
+      key="TMF_ID"
+      value="1.3.6.7.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

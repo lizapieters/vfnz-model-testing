@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HR Policies &amp; Practices"
+    id="id-c668cfe356e941f3bd7c5edc9a95fd86"
+    documentation="Support people management throughout the enterprise.">
+  <properties
+      key="Process Identifier"
+      value="1.7.7.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="HR Policies &amp; Practices include the processes that support people management throughout the enterprise, e.g., performance appraisal, remuneration policies, remuneration levels, allowances, benefits, occupational health and safety, equal employment opportunity, compensation guidelines, code of conduct, hiring and termination guidelines, employee satisfaction measurement and management, etc."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

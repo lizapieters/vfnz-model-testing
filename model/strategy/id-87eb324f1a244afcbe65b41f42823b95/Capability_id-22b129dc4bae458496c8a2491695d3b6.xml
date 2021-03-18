@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Center Quality Management"
+    id="id-22b129dc4bae458496c8a2491695d3b6"
+    documentation="Center Quality Management supports the tracking of all quality components of a support (ordering, outage, provisioning, etc) project for completeness, accuracy, and customer satisfaction.">
+  <properties
+      key="TMF Category"
+      value="(4) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.22.2.1.4"/>
+  <properties
+      key="TMF Function"
+      value="Center Quality Management"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Salary Planning"
+    id="id-7f1c91ffe8a94a649a7e26004810de6d"
+    documentation="Salary Planning provides the following functionality:&#xA;� Compensation Comparison (internal/external) &#xA;� Salary Grades and Ranges &#xA;� Job Descriptions &#xA;� Merit Increases &#xA;&#xA;� Application of Compensation &#xA;� Salary Updates &#xA;&#xA;� Reporting and Analytics">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="9.2.9"/>
+  <properties
+      key="Frameworx Domain"
+      value="Enterprise Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

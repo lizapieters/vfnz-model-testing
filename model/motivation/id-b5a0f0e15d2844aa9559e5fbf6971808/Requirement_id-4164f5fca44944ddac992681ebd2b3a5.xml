@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0019"
+    id="id-4164f5fca44944ddac992681ebd2b3a5"
+    documentation="As a new or existing customer, I want to be able to purchase hardware outright online as a guest, so that I can make my purchase quickly and easily">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0019"/>
+  <properties
+      key="Status"
+      value="Parked for workshop"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="y"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Topic"
+      value="Guest customer, online, hardware only"/>
+  <properties
+      key="Remarks"
+      value="Purchasing in BSS is realized in context of an existing customer or with onboarding of a new customer. More details needed. A seperate session to be planned."/>
+  <properties
+      key="Module"
+      value="DS, SC, OM, PC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="Not Applicable"/>
+</archimate:Requirement>

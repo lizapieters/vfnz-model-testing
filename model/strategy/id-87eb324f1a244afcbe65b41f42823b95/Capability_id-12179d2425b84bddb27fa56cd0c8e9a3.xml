@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Commitment Tracking"
+    id="id-12179d2425b84bddb27fa56cd0c8e9a3"
+    documentation="The Commitment Tracking application provides commitment governance between the customer and provider.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.15.4"/>
+  <properties
+      key="TMF Function"
+      value="Commitment Tracking Data Collection Commitment Tracking Settlements Commitment Tracking Terms &amp; Conditions Evaluation"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

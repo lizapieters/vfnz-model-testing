@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Validate Service Infrastructure Design"
+    id="id-fd06a5362e684baa83f44aa69ffe13ad"
+    documentation="These processes ensure that all operational and process performance design requirements have been met by the installed service infrastructure.">
+  <properties
+      key="Process Identifier"
+      value="1.4.2.7.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

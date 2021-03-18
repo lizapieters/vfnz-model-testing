@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitor Service Order Status"
+    id="id-2ea845b3b1cc43a2a2bd5e03da3e210b"
+    documentation="responsible for continuously monitoring the status of service orders; record, analyze and assess the service order status changes">
+  <properties
+      key="Process Identifier"
+      value="1.4.5.7.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Partner Access Restriction"
+    id="id-0a837c0b4f9a4706ac91c34fb5d91ae7"
+    documentation="The ability to prevent a partner from proceeding with a given task or point of entry based on not having authorization to do so.">
+  <properties
+      key="TMF_ID"
+      value="1.1.9.5.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

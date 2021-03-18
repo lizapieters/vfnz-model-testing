@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Become Loyalty Program Participant"
+    id="id-7c549beece0649debe5cdbddb1575fb1"
+    documentation="Provide an invitation to join a loyalty program, enable a party to join a program, and provide a loyalty program participant package.">
+  <properties
+      key="Process Identifier"
+      value="1.1.19.2.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Become Loyalty Program Participant provides an invitation to join a loyalty program, enables a party to join a program, and provides a loyalty program participant package. An invitation to a party suggests they join a loyalty program. The invitation can be made when a party, such as a customer or partner, initially engages with an enterprise. A party is established as a loyalty program participant and provided with a loyalty program account. A loyalty program ID may be issued by an enterprise, or a party may be able to create their own ID. A participant may also be required to accept a standard loyalty program agreement's terms &amp; conditions. A loyalty program package for a program participant is created and provided it to them. A package is typically provided when a participant initial joins a loyalty program, achieves a new tier, or when participation is renewed, such as yearly."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

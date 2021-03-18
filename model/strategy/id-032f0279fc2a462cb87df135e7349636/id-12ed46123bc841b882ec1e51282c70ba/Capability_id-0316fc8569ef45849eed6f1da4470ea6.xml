@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Partner Risk Level Determination"
+    id="id-0316fc8569ef45849eed6f1da4470ea6"
+    documentation="The ability to identify and define the level of risk associated with a partner.">
+  <properties
+      key="TMF_ID"
+      value="1.1.9.4.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

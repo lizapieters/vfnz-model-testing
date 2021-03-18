@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0485"
+    id="id-bb86d72212fc4e339ce78c6c66260d07"
+    documentation="As a transitioning customer, I want to place a single order for all my services while transitioning base migrating service and all upgrades; I want the system to sequence them and workout accordingly">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0485"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Steve Bird"/>
+  <properties
+      key="Tribe"
+      value="Transition"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Transition"/>
+  <properties
+      key="Remarks"
+      value="This relates to a possible speed change for a customer when moving to the new DX plan eg fibre 50/100 to fibre 100/100. What if upgrade requires technology/CPE change? Not allowed. Is the orchestration done as part of transition app (starting separate orders: activation + upgrade)? To be checked if it is possible within BSS. Open point for Comarch to discuss internally: how can we create the first order without configuring all the legacy offerings (there is a lot more in legacy than will be in DX)."/>
+  <properties
+      key="Module"
+      value="OM, PC, TA"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

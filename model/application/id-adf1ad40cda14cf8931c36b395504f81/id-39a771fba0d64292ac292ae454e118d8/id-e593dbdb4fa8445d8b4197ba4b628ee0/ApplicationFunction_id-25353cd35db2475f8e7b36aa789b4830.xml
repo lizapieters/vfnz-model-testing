@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Number Portability Validation"
+    id="id-25353cd35db2475f8e7b36aa789b4830"
+    documentation="Number Portability Validation function can perform calculations that determine whether the information received is reliable, safe and contains the minimum information required during implementation, enabling with this the orders rejection for those who do not comply with the defined criteria.">
+  <properties
+      key="Function Identifier"
+      value="745"/>
+  <properties
+      key="TAM Application Name"
+      value="Number Portability Validation"/>
+  <properties
+      key="TAM Application Id"
+      value="7.13.2.4"/>
+  <properties
+      key="Constructed Id"
+      value="7.13.2.4.745"/>
+</archimate:ApplicationFunction>

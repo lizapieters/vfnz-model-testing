@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Balance Management"
+    id="id-93d381b1b974495e8c0c4e68b3785843"
+    documentation="The Balance Management applications are responsible for activities related to the creation and maintenance of the balances of a customer and/or a subscriber. Balances may be shared (e.g. between subscribers in a hierarchy). Balance can be managed at most granule level for example at the level of subscription. These processes will be required to support both batch and real-time processing.Types of balances include:&#xA;� Monetary balances &#xA;   o Prepaid balances &#xA;   o Postpaid balances &#xA;�Non-monetary balances (e.g. free minutes, WAP-only quota, tokens, etc.)">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.19.2"/>
+  <properties
+      key="TMF Function"
+      value="Balance expiration dates setting Balance information to the financial systems reporting Balance inquiry. Balance Management- Spending-limits enforcement Balance Managemnt Activites log Balance Payment Balance Replenishment Balance thresholds actions and notifications. Charge Calculation Balance updating Minimum Allowable Balance Setting Roll-over and cyclic Balance Management policies. Splitting charges between multiple balances. Support for multiple simultaneous sessions Unit reservation creation"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

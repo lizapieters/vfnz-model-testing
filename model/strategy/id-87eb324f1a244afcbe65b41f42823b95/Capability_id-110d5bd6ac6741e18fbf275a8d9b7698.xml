@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Performance Management"
+    id="id-110d5bd6ac6741e18fbf275a8d9b7698"
+    documentation="Service Performance Management Applications monitor, analyze, and report on the end-end service performance. This can include a real-time, end-to-end view to ensure that each service is functioning correctly as well as a historical view. These applications build on the Resource Performance data and active end-end service performance test data to provide a view of a service.These applications provide a key input to determine the Quality of Service.">
+  <properties
+      key="TMF Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="6.7"/>
+  <properties
+      key="TMF Function"
+      value="0"/>
+  <properties
+      key="TMF Maturity"
+      value="Service Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

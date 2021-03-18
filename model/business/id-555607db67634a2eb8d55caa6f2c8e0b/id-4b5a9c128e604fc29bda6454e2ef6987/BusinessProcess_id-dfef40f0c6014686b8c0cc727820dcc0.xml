@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Report Party Billing Events"
+    id="id-dfef40f0c6014686b8c0cc727820dcc0"
+    documentation="Generate reports for party billing events based on requests from other processes.">
+  <properties
+      key="Process Identifier"
+      value="1.6.19.4"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Report Party Billing Events provides raw data(e.g. rated CDR/error CDR) for party billing events based on requests from other processes. These processes produce reports that may identify abnormalities, which may be caused by fraudulent activity or related to party complaints. Investigation of problems related to these events is also part of this process. These processes also support other processes such as the party review of billing events (pre-billing and post-billing)."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

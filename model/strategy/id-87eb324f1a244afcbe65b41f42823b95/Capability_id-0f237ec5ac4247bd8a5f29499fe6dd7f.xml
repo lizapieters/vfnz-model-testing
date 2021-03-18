@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fallout Rules Engine"
+    id="id-0f237ec5ac4247bd8a5f29499fe6dd7f"
+    documentation="The Fallout Rules Engine provides the capability to handling various errors or error types based on built rules.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="11.2.7"/>
+  <properties
+      key="TMF Function"
+      value="Fallout Rules Engine"/>
+  <properties
+      key="TMF Maturity"
+      value="Cross Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

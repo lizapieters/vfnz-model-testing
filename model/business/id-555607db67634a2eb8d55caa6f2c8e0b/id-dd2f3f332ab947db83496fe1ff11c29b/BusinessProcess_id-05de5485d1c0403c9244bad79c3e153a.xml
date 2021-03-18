@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gather Service Information"
+    id="id-05de5485d1c0403c9244bad79c3e153a"
+    documentation="Establish and Management of  external Providers and internal  resources for providing service information">
+  <properties
+      key="Process Identifier"
+      value="1.4.1.1.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Gather Service information processes focus on establishment and Management of relationships with external providers of service information, and management of internal resources used for providing service information."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

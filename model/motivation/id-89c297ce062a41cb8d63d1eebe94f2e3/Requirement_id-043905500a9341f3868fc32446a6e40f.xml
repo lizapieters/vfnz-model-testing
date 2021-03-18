@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0598"
+    id="id-043905500a9341f3868fc32446a6e40f"
+    documentation="As an existing customer, I want to be able to purchase international calling minutes, so that I can make international calls to a country of my choice when I need it.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0598"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Diane Watson"/>
+  <properties
+      key="Tribe"
+      value="Consumer Home"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="prio2"/>
+  <properties
+      key="Base"
+      value="1?"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Home Phone international calling minutes"/>
+  <properties
+      key="Remarks"
+      value="OOTB. Assumption: this is a simple pre-paid bucket of minutes; not the micropayments Confirmed. Dayly or monthly. (for business there will be a need of a common bucket for mobile and fixed)"/>
+  <properties
+      key="Module"
+      value="SC, PC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Order data enrichment from internal systems"
+    id="id-709b2cadafc24caa902ab714212ffd3a"
+    documentation="Application function to acquire missing order data from surrounding systems (often values taken from catalogs and inventories, billing, fraud, etc.)">
+  <properties
+      key="Function Identifier"
+      value="715"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Order Enrichment"/>
+  <properties
+      key="TAM Application Id"
+      value="5.3.7"/>
+  <properties
+      key="Constructed Id"
+      value="5.3.7.715"/>
+</archimate:ApplicationFunction>

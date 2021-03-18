@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Assurance Control Calculation"
+    id="id-02c08dfbe15a4ccfbb83bbf667de0a4a"
+    documentation="Service Assurance Control Calculation calculates corrective actions to prevent or restore performance and quality. The calculations are rule based and takes the service�s dynamics into account to perform a closed loop control to hold the performance and quality at a decided level.">
+  <properties
+      key="Function Identifier"
+      value="979"/>
+  <properties
+      key="TAM Application Name"
+      value="Service Assurance Control"/>
+  <properties
+      key="TAM Application Id"
+      value="6.10"/>
+  <properties
+      key="Constructed Id"
+      value="6.10.979"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Compliance and Policy Management"
+    id="id-7f9723b17745475492e6eeb6b431edae"
+    documentation="Data Compliance and Policy management application provides functionalities to define and manage the data compliance policies and rules e.g. the data privacy, data security and policies for trust management etc. It makes the policies and rules available for use by other Data Management applications.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="9.11.4"/>
+  <properties
+      key="Frameworx Domain"
+      value="Enterprise Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

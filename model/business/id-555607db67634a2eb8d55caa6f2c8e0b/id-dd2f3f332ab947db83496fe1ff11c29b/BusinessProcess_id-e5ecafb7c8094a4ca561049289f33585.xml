@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Receive Port Out Request"
+    id="id-e5ecafb7c8094a4ca561049289f33585"
+    documentation="The Receive Port Out Request is responsible for receiving and process Port Out requests issued by a third CSP.">
+  <properties
+      key="Process Identifier"
+      value="1.5.4.7.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Receive Port Out Request is responsible for receiving and process Port Out requests issued by a third CSP through the Number Portability Clearinghouse. The process allows a customer to port his/her number to a third CSP. Responsibilities of these processes include, but are not limited to: â€¢Â Â Â Â  Receiving Port Out request â€¢Â Â Â Â  Accepting or Rejecting Port Out request â€¢Â Â Â Â  Adding additional information toÂ Port Out request â€¢Â Â Â Â  ManagingÂ Port Out communication flow with Number Portability Clearinghouse"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

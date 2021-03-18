@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Performance Threshold Measurement"
+    id="id-12c62ca9bfd541ac92cd7d3bf3074c6d"
+    documentation="The ability to determine if a product is exceeding or falling short of an acceptable threshold of performance.">
+  <properties
+      key="TMF_ID"
+      value="1.1.3.13.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

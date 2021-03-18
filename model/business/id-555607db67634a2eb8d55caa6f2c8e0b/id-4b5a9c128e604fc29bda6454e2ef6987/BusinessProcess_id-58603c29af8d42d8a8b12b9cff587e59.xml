@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Track and Manage Party Interaction"
+    id="id-58603c29af8d42d8a8b12b9cff587e59"
+    documentation="Ensure that Party Interactions are managed and tracked efficiently to meet the Party interaction policies and SLA requirements.">
+  <properties
+      key="Process Identifier"
+      value="1.6.9.3"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The purpose of this process is to ensure that Party Interactions are managed and tracked efficiently across all interaction channels in order to meet the agreed SLA with the Party. Responsibilities of these process include but are not limited to: Â· Ensure interactions are completed and closed in a timely manner Â· Monitor the interaction and Notify the Party when SLA or deadlines can not be met Â· Track Party responses when these are required Â· Measure KPIs in order to improve the Interactions efficiency"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

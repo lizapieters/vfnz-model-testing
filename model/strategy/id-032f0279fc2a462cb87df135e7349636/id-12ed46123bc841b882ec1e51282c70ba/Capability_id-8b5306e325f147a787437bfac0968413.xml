@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Finance State Management"
+    id="id-8b5306e325f147a787437bfac0968413"
+    documentation="The ability to define and maintain the various conditions or state that apply to finance.">
+  <properties
+      key="TMF_ID"
+      value="1.3.6.11.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

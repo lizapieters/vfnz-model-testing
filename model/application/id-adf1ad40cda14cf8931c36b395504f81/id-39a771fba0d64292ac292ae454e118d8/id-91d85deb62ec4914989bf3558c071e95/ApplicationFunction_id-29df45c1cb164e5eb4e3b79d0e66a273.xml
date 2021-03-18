@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dealer customer information management"
+    id="id-29df45c1cb164e5eb4e3b79d0e66a273"
+    documentation="A dealers online access function to make them self-sufficient and avoid the need for them to call the call center for Customer creation and new order for products and services for the newly created customer. Including the use of dealer data fencing.">
+  <properties
+      key="Function Identifier"
+      value="365"/>
+  <properties
+      key="TAM Application Name"
+      value="Dealers"/>
+  <properties
+      key="TAM Application Id"
+      value="3.4.4"/>
+  <properties
+      key="Constructed Id"
+      value="3.4.4.365"/>
+</archimate:ApplicationFunction>

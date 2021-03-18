@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Direct Sales Force"
+    id="id-8ad93ab7b04e406692878500ccae50c6"
+    documentation="The Direct Sales Force application is used by CSR�s, Field Sales, Sales Administrators, Analysts and Managers to generate/qualify sales opportunities, generate revenue, maintain and optimize the sales process, territories, quotas, view forecasts.&#xA;As a Customer Service Representative (CSR), you have first contact with potential customers. Incoming telephone calls and emails enable you to capture customer information and qualify leads according to the guidelines set by your company (cf Customer Information Management). If the lead satisfies your criteria, you can promote that lead to the status of a contact, and an opportunity. Sales opportunities are dispatched to sales representatives in the field to pursue if the size of the sale has the potential to exceed agreed monetary thresholds. If not, you can respond directly to customer inquiries by creating and dispatching literature requests and/or sales quotations. Orders are submitted for processing when you receive acceptance for the contract that has been negotiated with the customer (cf. Order Management).&#xA;A user of the Direct Sales application can have one of the following roles:&#xA;� Customer Service Representative (CSR). As a CSR or agent, you generate and qualify sales opportunities and dispatch leads to field sales representatives. Your primary method of communication with the customer is by phone and email. &#xA;� Field Sales Representative. As a field sales representative, you create and manage customer accounts, develop sales opportunities, and generate revenue. &#xA;� Sales Administrator. As a Sales Administrator, you manage the design and maintenance of the overall sales process and stages in the sales cycle according to business requirements. &#xA;� Sales Analyst. As a Sales Analyst, you manage sales territories and quotas and generate sales forecasts and pipeline analyses. &#xA;� Sales Manager. As a Sales Manager, you define sales territories, and manage the sales process and forecasting.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="3.4.1"/>
+  <properties
+      key="TMF Function"
+      value="Direct Sales Force Management Opportunities Dispatching Opportunity &amp; Quote Management Sales Forecast Analysis"/>
+  <properties
+      key="TMF Maturity"
+      value="Market_Sales Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

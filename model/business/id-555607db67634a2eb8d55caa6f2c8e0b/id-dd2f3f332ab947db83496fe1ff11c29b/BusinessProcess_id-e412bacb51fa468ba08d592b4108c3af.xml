@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Orders"
+    id="id-e412bacb51fa468ba08d592b4108c3af"
+    documentation="Initiating orders for consumable goods, spare parts and for monitoring and reporting on progress of consumable goods orders. The actual order placed is managed through the appropriate party management processes.">
+  <properties
+      key="Process Identifier"
+      value="1.5.4.6.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="These processes are responsible for initiating orders for consumable goods, spare parts and for monitoring and reporting on progress of consumable goods orders. The actual order placed is managed through the appropriate party management processes."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

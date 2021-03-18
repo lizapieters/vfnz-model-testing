@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LocalLocation"
+    id="id-c5f541519555408383155a1a83802f19"
+    documentation="A defined place defined by a local coordinate system. It is an abstract modeling concept that provides a linking point to other parts of the SID model. It holds attributes common to all Local Location subclasses."/>

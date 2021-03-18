@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Initiate dunning strategy"
+    id="id-39188946957246cd8e5f6380512e77f7"
+    documentation="Implementation of the company�s dunning strategy within its information system. A payment schedule is assigned according to a variety of customer criteria, such as customer type, payment means, payment behavior, etc.">
+  <properties
+      key="Function Identifier"
+      value="149"/>
+  <properties
+      key="TAM Application Name"
+      value="Collection Policy Execution and Monitoring"/>
+  <properties
+      key="TAM Application Id"
+      value="5.14.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.14.2.149"/>
+</archimate:ApplicationFunction>

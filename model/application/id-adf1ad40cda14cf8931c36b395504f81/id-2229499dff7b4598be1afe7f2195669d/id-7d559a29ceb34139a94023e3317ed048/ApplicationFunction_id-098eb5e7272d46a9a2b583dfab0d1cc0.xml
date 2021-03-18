@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Assurance Control"
+    id="id-098eb5e7272d46a9a2b583dfab0d1cc0"
+    documentation="Service Assurance Control is responsible for the execution of proactive and reactiverule based activities to ensure that services provided to customers are continuously available and performing according to set values for performance and quality. In cooperation with monitoring and orchestration applications the Service Assurance Control will create an autonomic closed loop control of the performance and quality as well as mitigation of service problems and fall-outs.">
+  <properties
+      key="TAM Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="6.10"/>
+  <properties
+      key="Frameworx Domain"
+      value="Service Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="0"/>
+</archimate:ApplicationFunction>

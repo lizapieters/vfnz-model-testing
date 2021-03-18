@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Order Quote Management"
+    id="id-b5d36514d8a341328666ae0da67479e1"
+    documentation="The ability to obtain and provide offers for exchange of a payment in response to an order.">
+  <properties
+      key="TMF_ID"
+      value="1.1.8.2"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

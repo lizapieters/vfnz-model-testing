@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fallout Correction Assistance"
+    id="id-0b03e4e4ab404dedb4222075811b09f9"
+    documentation="Fallout Correction Assistance applications collects relevant information for errors or situations that cannot be handled via Auto Correction.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="11.2.2"/>
+  <properties
+      key="TMF Function"
+      value="Fallout Correction Assistance"/>
+  <properties
+      key="TMF Maturity"
+      value="Cross Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

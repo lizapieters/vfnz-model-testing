@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Guide Party Billing Event"
+    id="id-bc84fbf73dad4f1ab520c8d4f78414b7"
+    documentation="Ensure an event used in the billing processes are related to the correct party billing account and subscribed products.">
+  <properties
+      key="Process Identifier"
+      value="1.6.19.2"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Guide Party Billing Event ensure that an event used in the billing process relate to the correct party billing account and products. An event may be related to multiple party billing accounts and subscribed products. Distribution of the billing event to other processes may also occur."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

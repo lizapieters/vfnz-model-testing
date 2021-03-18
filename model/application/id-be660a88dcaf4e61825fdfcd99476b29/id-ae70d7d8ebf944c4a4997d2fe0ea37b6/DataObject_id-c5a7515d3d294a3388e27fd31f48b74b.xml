@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hardware"
+    id="id-c5a7515d3d294a3388e27fd31f48b74b"
+    documentation="This class represents any type of hardware entity that exists as an atomic unit that is not a PhysicalLink or a PhysicalConnector. Hardware is defined as any component that has a distinct physical identity and can be a component of a PhysicalDevice. An object has a physical identity if it has a physical manifestation that enables it to be held and have a label attached to it. Thus; software; files; protocols; and policies are not physical objects."/>

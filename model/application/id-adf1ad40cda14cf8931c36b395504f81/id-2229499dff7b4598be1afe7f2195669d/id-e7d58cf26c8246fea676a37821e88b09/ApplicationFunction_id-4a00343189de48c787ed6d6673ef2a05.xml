@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Operational Decisioning"
+    id="id-4a00343189de48c787ed6d6673ef2a05"
+    documentation="Customer Operational Decisioning (�Decide�) provides the functionality to drive decisions re: Customer treatment and action for each specific situation based on observing what the customer is immediately experiencing. For example if a customer�s bill is unusually high, and if the customer is a premium customer, the business can decide to waive certain portion of the bill for the 1st time. This action can be taken either proactively by reaching out to the customer, or reactively when the customer contacts the Service Provider. These decisions can be deterministic (i.e. business rules based), statistical (i.e. based on what treatment or recommendation has worked in the past)">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="5.5.14"/>
+  <properties
+      key="Frameworx Domain"
+      value="Customer Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

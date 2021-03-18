@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Asset Valuation"
+    id="id-b1c189176ea94ce3839467b1ea51361e"
+    documentation="The ability to assess an asset to assign a monetary value to it.">
+  <properties
+      key="TMF_ID"
+      value="1.3.5.2"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

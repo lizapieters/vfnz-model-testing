@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1170"
+    id="id-b3f4f44c9c064514b519908674637f9a"
+    documentation="As a Foundation Manager I want to be able to offer any Vodafone plan at a discounted rate.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1170"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1?"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="3"/>
+  <properties
+      key="Base_Old"
+      value="3"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Self Service"/>
+  <properties
+      key="Topic"
+      value="Plans"/>
+  <properties
+      key="Remarks"
+      value="PC: Is the requirement for indivudual price for B2C customers? AGR: OOTB Frame agreements sign for certain customer can store dedicated pricing (only within this customer)"/>
+  <properties
+      key="Module"
+      value="PIM, PC, AGR"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

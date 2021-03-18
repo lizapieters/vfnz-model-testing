@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ServicePerformanceSpec"
+    id="id-818c8a0529a34b449f9556feaeee218d"
+    documentation="The characteristics of a measure of the manner in which a Service is functioning. Each related Performance instance will have the same characteristics. However; the values associated with other characteristics of the instantiated Performance entity are specific to each instance."/>

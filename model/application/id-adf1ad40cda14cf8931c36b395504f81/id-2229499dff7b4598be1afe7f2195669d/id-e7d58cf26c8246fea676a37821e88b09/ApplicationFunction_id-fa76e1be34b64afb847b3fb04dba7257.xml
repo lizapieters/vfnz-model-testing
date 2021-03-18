@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Balance Management"
+    id="id-fa76e1be34b64afb847b3fb04dba7257"
+    documentation="The Balance Management applications are responsible for activities related to the creation and maintenance of the balances of a customer and/or a subscriber. Balances may be shared (e.g. between subscribers in a hierarchy). Balance can be managed at most granule level for example at the level of subscription. These processes will be required to support both batch and real-time processing.Types of balances include:&#xA;� Monetary balances &#xA;   o Prepaid balances &#xA;   o Postpaid balances &#xA;�Non-monetary balances (e.g. free minutes, WAP-only quota, tokens, etc.)">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="5.19.2"/>
+  <properties
+      key="Frameworx Domain"
+      value="Customer Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

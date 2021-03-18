@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Problem SLA Monitoring"
+    id="id-74e6f91fa0854fbf9aef9bce1874343e"
+    documentation="Service Problem SLA Monitoring function is comparing the service problem status' and availability against established service level agreements.">
+  <properties
+      key="Function Identifier"
+      value="983"/>
+  <properties
+      key="TAM Application Name"
+      value="Service Problem Monitoring"/>
+  <properties
+      key="TAM Application Id"
+      value="6.5.2"/>
+  <properties
+      key="Constructed Id"
+      value="6.5.2.983"/>
+</archimate:ApplicationFunction>

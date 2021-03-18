@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Network Access Management"
+    id="id-6477f2d4e1af4153abdbf40bc590ca8b"
+    documentation="The ability to establish, control, restrict, and administer rights to view, use, or change a network in a variety of contexts.">
+  <properties
+      key="TMF_ID"
+      value="1.1.7.7"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

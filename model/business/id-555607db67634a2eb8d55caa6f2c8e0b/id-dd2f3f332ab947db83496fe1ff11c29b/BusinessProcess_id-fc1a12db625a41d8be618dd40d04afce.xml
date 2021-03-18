@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analyze Marketing Communication Metrics"
+    id="id-fc1a12db625a41d8be618dd40d04afce"
+    documentation="Analyze gathered marketing communication metrics to identify any issues with the communication(s).">
+  <properties
+      key="Process Identifier"
+      value="1.1.14.5.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Analyze Marketing Communication Metrics analyzes gathered marketing communication(s) metrics to identify any issues with the communication(s). The analysis includes identifying any established thresholds that have been crossed and the associated consequence (good or bad). A report is produced that reflects the effectiveness of the marketing communication(s)."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

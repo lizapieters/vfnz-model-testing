@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Termination Points Determination"
+    id="id-4f2ee4c5f0694266b24f368a2727de39"
+    documentation="The Service Termination Points Determination determines the appropriate service provider entry point to support the Customer's service request.">
+  <properties
+      key="TAM Category"
+      value="(4) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="6.3.9.3.3"/>
+  <properties
+      key="Frameworx Domain"
+      value="Service Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

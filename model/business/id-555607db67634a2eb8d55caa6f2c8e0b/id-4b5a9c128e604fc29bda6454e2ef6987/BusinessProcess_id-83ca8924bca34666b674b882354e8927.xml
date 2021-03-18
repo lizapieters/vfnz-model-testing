@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Establish Sales Budget"
+    id="id-83ca8924bca34666b674b882354e8927"
+    documentation="Establish sales revenue, cost, and profit budgets for the enterprise.">
+  <properties
+      key="Process Identifier"
+      value="1.1.2.2"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Establish Sales Budgets calculate product revenue targets for the budget, determines variable and fixed costs and overhead budgets. It uses these to estimate net profit. The combination of all of these represents the sales budget for the enterprise. This process also conducts reviews of the budget as appropriate and makes any changes to elements that compose it"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define Resource Support performance standards"
+    id="id-3c6af8c2569d4fa58a7893c783e231f4"
+    documentation="Define resource support performance standards for the operational organization providing resource support.">
+  <properties
+      key="Process Identifier"
+      value="1.5.1.4.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="These processes define the targets, and operational requirements, in this changing environment. The required performance standards are driven by community and regulatory expectations, internal process and technology capabilities and competitive offerings. These processes also provide the feedback point from analyses undertaken in the resource Management &amp; Operations process to determine bottlenecks and problems associated with existing resource operational activities. A major input to these processes arises from the Gather &amp; Analyze Service Information processes, and from the product portfolio, resource strategy and market strategy processes."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

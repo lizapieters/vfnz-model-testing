@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0139"
+    id="id-18cdfcc0ac4346a8a6458fdd2ae08eda"
+    documentation="As a product owner, I want interest free decisioning to provide an automated yes/maybe/no answer, so that my process doesn’t require human intervention if I'm a yes or a no. (NB: 'Maybe' needs to go to queue for manual assessment)">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0139"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1?"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Topic"
+      value="Credit check"/>
+  <properties
+      key="Remarks"
+      value="What should be presented for customer in case of &quot;Maybe&quot; Show customer a message that he needs to wait for some more checks. &quot;Maybe&quot; could be in case of exeeding the defined amount of devices etc (internal checks) even if external credit check is ok. Parked for additional session"/>
+  <properties
+      key="Module"
+      value="DS, SC, OM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="Not Applicable"/>
+</archimate:Requirement>

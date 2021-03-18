@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Content Type Management"
+    id="id-5908ecf43d944e77bb7fb5caa09aeda3"
+    documentation="The ability to determine, modify and interpret the category or classification of an asset.">
+  <properties
+      key="TMF_ID"
+      value="1.1.4.1.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

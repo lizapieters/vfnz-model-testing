@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gather &amp; Analyze Market Information"
+    id="id-e24608ca2b5047f187cff22a9984d10a"
+    documentation="Research market information and develop market forecasts">
+  <properties
+      key="Process Identifier"
+      value="1.1.1.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Gather &amp; Analyze Market Information processes develop enterprise and business views of the market, based on the analysis of external and internal information sources. These processes include the establishment and management of relationships with external providers of market information, and the management of internal resources used for providing market information. Methodologies used for developing market forecasts, as well as the development of forecasts, are managed within these processes."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

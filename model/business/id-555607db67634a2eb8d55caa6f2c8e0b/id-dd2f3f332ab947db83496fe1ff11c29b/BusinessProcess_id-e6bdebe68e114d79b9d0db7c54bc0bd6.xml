@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identify Revenue Share Items"
+    id="id-e6bdebe68e114d79b9d0db7c54bc0bd6"
+    documentation="Determine the items that will be used to calculate a revenue share for a product offering and aggregate them if called for by the associated revenue sharing model.">
+  <properties
+      key="Process Identifier"
+      value="1.6.18.3.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Identify Revenue Share Item determines the items that will be used to calculate a revenue share for a product offering and aggregates them if called for by the associated revenue sharing model. The items may be product prices paid to acquire an offering if a bill/invoice charge is not created for it or applied billing rates, which could be a charge, discount, usage charge, and so forth."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

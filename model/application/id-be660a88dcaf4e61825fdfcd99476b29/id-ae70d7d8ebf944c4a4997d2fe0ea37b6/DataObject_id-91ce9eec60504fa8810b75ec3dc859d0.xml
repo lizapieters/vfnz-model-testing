@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HolderComposite"
+    id="id-91ce9eec60504fa8810b75ec3dc859d0"
+    documentation="This class represents EquipmentHolders that are made up of other EquipmentHolders (i.e.; instances of this class as well as the HolderAtomic base class). This provides the semantics of collecting a set of components; each of which is individually manageable; and being able to manage the set of objects as a whole. This containment is modeled using the HasHolders aggregation. Each HolderComposite element can be a FRU. A characteristic of this class is that its subclasses are physical objects that have complex cabling and mounting options. This class is meant to differentiate complex holders; like a Chassis; from simple holders; like a Slot."/>

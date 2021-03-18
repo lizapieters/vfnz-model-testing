@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicyBrokerRole"
+    id="id-d0d4f3c06ae64d44b03d45c77f47c12f"
+    documentation="This is a concrete base class that defines the concept of various types of roles used to describe PolicyBrokers and their use in the model. A PolicyBrokerRole refines the generic concepts of a PolicyApplicationRole. Specifically; this base class is used to describe generic functionality inherent in a PolicyBroker. For example; this includes the ability to present and negotiate functionality that is traded between different PolicyServers in different PolicyDomains; as well as the ability to control the functions of a PolicyServer."/>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Establish Customer Relationship"
+    id="id-ec1fa5e69f9f40d1907e548e1207eaca"
+    documentation="Verify the customer identity and manage the customer identity across the Enterprise.">
+  <properties
+      key="Process Identifier"
+      value="1.3.4.2"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The purpose of this process is to verify that the customer is who they claim they are, To ensure only one customer identity exists across the Enterprise, which can be referenced across the whole Enterprise and allows the customer to quickly and easily identify himself, to establish and verify the Identity and to issue a unique Identifier and Authentication information. Before establishing an identity for a new customer it is essential to check that the customer does not already have an Identity with the Enterprise. This process is also used to â€˜clean-upâ€™ duplicates of customer identifying information that may exist within the organization."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

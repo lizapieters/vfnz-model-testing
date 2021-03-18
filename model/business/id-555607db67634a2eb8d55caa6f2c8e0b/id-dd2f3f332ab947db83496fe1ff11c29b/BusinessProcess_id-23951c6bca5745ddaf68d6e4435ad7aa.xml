@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Service Alarm Event Notifications"
+    id="id-23951c6bca5745ddaf68d6e4435ad7aa"
+    documentation="This process may determine that a service alarm event notification may represent a customer impacting condition. In these circumstances this process is responsible for indicating a potential customer problem to the Problem Handling processes.  As a part of this indication this process is responsible for identifying the impacted deployed product instances associated with the service instances presenting alarm event notifications and passing this information to the Problem Handling processes.">
+  <properties
+      key="Process Identifier"
+      value="1.4.6.7.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Co-ordinate Service Capability Delivery"
+    id="id-76f79585c6aa4c188c72e916994a135d"
+    documentation="These processes ensure the provision, implementation and roll-out of the new or enhanced service capability and associated operational support processes. These processes are predominantly program/project management process functions, and require the detailed management and co-ordination of the delivery of individual service infrastructure components, and any underlying resource infrastructure capability delivery, to achieve the delivery of the overall service capability.">
+  <properties
+      key="Process Identifier"
+      value="1.4.2.6.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="End Time Management"
+    id="id-f16d16bb6d7b41f7a567a670d67e16c4"
+    documentation="The ability to determine an ending time for work or work items.">
+  <properties
+      key="TMF_ID"
+      value="1.3.10.4.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

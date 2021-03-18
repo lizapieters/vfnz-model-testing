@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agreement Termination"
+    id="id-e947a1a6bf304d85a43848e4e2926db3"
+    documentation="The ability to terminate accounts / agreements with clients, messages, Partners, Channels, Products, and/or Financial Accounts.">
+  <properties
+      key="TMF_ID"
+      value="1.1.5.4.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

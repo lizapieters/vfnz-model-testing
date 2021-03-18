@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Real Estate Property &amp; Building Portfolio and Lease Management"
+    id="id-92fcd666e8de499f92551b17777eb893"
+    documentation="Real estate property management prioritize to increase the building�s Net Operating Income and value.Building portfolios manages different types of property and in different real estate markets. Lease Management plans, tracks, manage and maintain all aspects of leased real estates.">
+  <properties
+      key="TAM Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="9.4.1.1"/>
+  <properties
+      key="Frameworx Domain"
+      value="Enterprise Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Assess Performance of Existing Services"
+    id="id-ef6e218cfd6343b1a7d84e89fedbb60c"
+    documentation="Analyze the performance of existing services to identify inadequacies and required improvements">
+  <properties
+      key="Process Identifier"
+      value="1.4.3.2"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Assess Performance of Existing Services processes analyze the performance of existing services to identify inadequacies and required improvements. These processes use information from customers and from operational activities to identify required improvements."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

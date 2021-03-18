@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Access the various resource test devices"
+    id="id-15188eeeabe84f6ca1d0b2d80914d87b"
+    documentation="Access the various resource test devices or network elements required to perform resource testing">
+  <properties
+      key="Function Identifier"
+      value="504"/>
+  <properties
+      key="TAM Application Name"
+      value="Resource Test Command and Control"/>
+  <properties
+      key="TAM Application Id"
+      value="7.11.3"/>
+  <properties
+      key="Constructed Id"
+      value="7.11.3.504"/>
+</archimate:ApplicationFunction>

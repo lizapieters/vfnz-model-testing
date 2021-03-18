@@ -1,0 +1,33 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security Management"
+    id="id-4465abd8f15e46ac95a9b0bfad974096"
+    documentation="Security Management Applications are part of Enterprise Management. They provide a Unified approach to Security, and the foundation technologies to:  Protect systems and network infrastructure against   unauthorized access to or modification of information, whether in storage,   processing or transit   Restrict provision of service to only authorized   users   Prevent any denial of service to authorized   users   Provide the measures necessary to detect,   document, and counter such threats">
+  <properties
+      key="TMF_ID"
+      value="1.2.2.4"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+  <properties
+      key="TMF Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.5"/>
+  <properties
+      key="TMF Function"
+      value="0"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

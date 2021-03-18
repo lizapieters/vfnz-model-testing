@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Self Empowered Billing"
+    id="id-6f417038146c4027bf67aec91562b3ed"
+    documentation="Customer self empowered billing applications provide an internet technology driven interface to the customer to undertake a variety of billing functions directly for themselves. These applications interact to provide fully automated service or assisted service over customers touch points. Customer self empowered billing applications enable the service providers cost reduction through the following operational efficiencies: &#xA;� Replacing paper bills with paperless bills&#xA;� Converging the multi- disciplinary billing operations      &#xA;� Deflecting bill queries calls from the contact center to   the web &#xA;� Automating the dispute resolution process &#xA;� Reducing days sales outstanding (DSO)    &#xA;� Reducing requests for bill prints  &#xA;� Reduction in professional personnel providing analytics   for business customers&#xA;� Reduction in interest loss due to delayed   payments">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="5.4.3"/>
+  <properties
+      key="Frameworx Domain"
+      value="Customer Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

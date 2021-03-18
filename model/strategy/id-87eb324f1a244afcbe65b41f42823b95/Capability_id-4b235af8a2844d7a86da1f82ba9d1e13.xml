@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transactional Document Generator"
+    id="id-4b235af8a2844d7a86da1f82ba9d1e13"
+    documentation="Transactional Document Generator processes extract files provided by other modules (typically Billing) to produce an intermediate data format.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.2.2"/>
+  <properties
+      key="TMF Function"
+      value="Transactional Document Information Formatting Transactional Document Legend Formatting Transactional Document Marketing Information Incorporation Transactional Document Multiple account statement generation Transactional Document Regional Requirements appliance Transactional document Send function"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financial Transaction Validation"
+    id="id-b9920459c43347d795454b095864bdae"
+    documentation="The ability to verify that a financial transaction has completed or can complete successfully.">
+  <properties
+      key="TMF_ID"
+      value="1.3.6.7.4"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Track &amp; Manage Customer Bill Inquiry Resolution"
+    id="id-152f662ac34342528b5adb77e7a1f0bc"
+    documentation="Efficiently assign, coordinate and track specific customer bill inquiry analysis, bill adjustments and ensuring that appropriate credits and/or other agreed adjustments are made available to the adjustments processes activities, and escalate any open customer bill inquiries in jeopardy.">
+  <properties
+      key="Process Identifier"
+      value="1.3.11.4"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of the Track &amp; Manage Customer Bill Inquiry Resolution processes is to efficiently assign, coordinate and track specific customer bill inquiry analysis, bill adjustments and ensuring that appropriate credits and/or other agreed adjustments are made available to the adjustments processes activities, and escalate any open customer bill inquiries in jeopardy. Responsibilities of these processes include, but are not limited to: - Scheduling, assigning and coordinating analysis and specific customer bill inquiry/complaint adjustment activities; - Modifying the customer bill inquiry/complaint status; - Canceling a customer bill inquiry when the specific request was related to a false billing event - Monitoring the jeopardy status of open customer bill inquiries, and escalating customer bill inquiries as necessary. Note that some specific product and/or service components may be owned and managed by other parties. In these cases the Track &amp; Manage Customer Bill Inquiry Resolution process is responsible for initiating requests, through - the other parties Settlements &amp; Payments Management for resolution by the other parties of the specific bill inquiries/complaints. These processes will co-ordinate all the actions necessary in order to guarantee that all tasks are finished at the appropriate time and in the appropriate sequence. The Track &amp; Manage Bill Inquiry Resolution processes will also inform the Close Customer Bill Inquiry processes by modifying the customer bill inquiry status to cleared when the specific customer bill inquiry/complaint issues have been resolved."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

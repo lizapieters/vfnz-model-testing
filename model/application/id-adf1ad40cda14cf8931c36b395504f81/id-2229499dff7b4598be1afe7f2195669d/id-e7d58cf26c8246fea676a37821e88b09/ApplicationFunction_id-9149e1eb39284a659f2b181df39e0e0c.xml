@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Discovery"
+    id="id-9149e1eb39284a659f2b181df39e0e0c"
+    documentation="The resource Discovery applications are responsible for automatically discovering the resources and their details through a management channel. These applications may either communicate directly/indirectly with the Network resources or Resource Element Manager.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="7.4.1"/>
+  <properties
+      key="Frameworx Domain"
+      value="Resource Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

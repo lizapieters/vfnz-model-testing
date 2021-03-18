@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bill Dispute Closure"
+    id="id-3fb615619d9c41e5a9dc64f7ead6ab6f"
+    documentation="Bill dispute consists of handling the customer inquiries received through customer service, self care or any other channel about their bills that have not been solved by simple actions (e.g walk customer through their invoice or grant the request when disputed amount is inferior to a threshold).&#xA;&#xA;�The case is closed.&#xA;When the dispute is granted, the granted amount must be taken off the debt, through a debit adjustment, i.e a negative charge or billable item. Depending on the available IT capabilities or business rules in force, this may be billed either as part of the following periodic invoice, or as a specific invoicing process and related accounting document (in this case a credit note).&#xA;The reason for the adjustment must be recorded, for example adjustment may be a gesture of goodwill from the company, or a correction for a proven billing error. Depending on local law and regulation, the process and applicable rules may be different.&#xA;In addition, if the investigation showed an error in product and services data (e.g wrong service affected to a contract), the settlement will also include an update request to the installed offer and products repository and services repository .">
+  <properties
+      key="Function Identifier"
+      value="40"/>
+  <properties
+      key="TAM Application Name"
+      value="Adjustments"/>
+  <properties
+      key="TAM Application Id"
+      value="5.10.3"/>
+  <properties
+      key="Constructed Id"
+      value="5.10.3.40"/>
+</archimate:ApplicationFunction>

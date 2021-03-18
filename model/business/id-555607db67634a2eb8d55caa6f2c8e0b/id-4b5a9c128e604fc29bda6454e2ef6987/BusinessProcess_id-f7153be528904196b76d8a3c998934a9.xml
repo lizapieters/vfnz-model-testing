@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Continuity Management"
+    id="id-f7153be528904196b76d8a3c998934a9"
+    documentation="Manage the development of strategies, policies, plans, organizational roles &amp; responsibilities, and escalation procedures for ensuring continuation of business processes and activities in the event of serious and/or sustained interruption">
+  <properties
+      key="Process Identifier"
+      value="1.7.2.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Business Continuity Management processes manage the development of strategies, policies, plans, organizational roles &amp; responsibilities, and escalation procedures for ensuring continuation of business processes and activities in the event of serious and/or sustained interruption. These processes ensure that appropriate plans and procedures are established and tested to provide continuous operation, or controlled re-establishment, of key business processes and activities, to provide for a controlled recovery of infrastructure capability to normal levels, and for determination of operational accountability and processes until the abnormal circumstances are resolved. These processes have four major aspects: â€¢ Business continuity planning which provides for the proactive planning and testing of business and operational procedure continuity; â€¢ Infrastructure recovery planning which provides for the pro-active determination of recovery and backup procedures for all key infrastructure capabilities, and their proactive testing; â€¢ Serious incident management planning which defines the operational roles and responsibilities, and proactively defines the operational procedures and escalation criteria which are initiated when abnormal operation circumstances occur â€¢ Business continuity management methodologies, which ensure consistent application of business continuity management across the enterprise. Note that business continuity management is an extended process structure which incorporates disaster recovery planning. Note that serious incident management is used instead of crisis management as serious disruption can occur to the business through events which would not normally be classified as a crisis."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

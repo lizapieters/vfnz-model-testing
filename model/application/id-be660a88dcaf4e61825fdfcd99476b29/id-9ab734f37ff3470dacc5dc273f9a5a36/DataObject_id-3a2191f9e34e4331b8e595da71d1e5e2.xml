@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicyApplication"
+    id="id-3a2191f9e34e4331b8e595da71d1e5e2"
+    documentation="A PolicyApplication is a special type of entity (usually a Product) for use in policy-based management applications. This class is used as a convenient place for defining relationships to different managed entities. It has four principal subclasses: PolicyServer; PolicyDecisionPoint (PDP); PolicyExecutionPoint (PXP) and PolicyEnforcementPoint (PEP). The principal role of a PolicyApplication is to define generic relationships that its subclasses can participate in."/>

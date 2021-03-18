@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Party Privacy Management"
+    id="id-3108965334314e8883d6412656406b33"
+    documentation="Manage the Privacy of Data Subject Party Information in accordance with privacy regulations and the Data Subjectâ€™s explicit wishes.  Create and define the Privacy Profile Type, manage the definition of the Privacy Profile with the Data Subject Party as well as the evolution of this profile if required, and ensure that the Data Controller Party can demonstrate compliance by itself and any other Party.">
+  <properties
+      key="Process Identifier"
+      value="1.6.7"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Party Privacy Management processes manage the Privacy between a Data Controller Party, a Data Subject Party and the Data Processor Party. These processes are used : - to define the Privacy Management scope - to define the information that constitutes Personally Identifiable Information (PII) where Privacy Policy applies, to define a default privacy setting for each type of PII and the values possible to be set/modified by the Data Subject - to capture the Data Subjectâ€™s explicit consent and define with him a Privacy Policy according to their wishes and the Data Controller default Privacy Policy possible values, and to modify/update this Policy according to future needs or requirements - to enforce the Privacy Policy and ensure that Party information is managed correctly according to privacy policies established by the Party - to communicate the relevant PII processing standards to any third parties with whom the information is shared&quot; Data Subject : User, an identified natural person or a natural person who can be identified, directly or indirectly, by means reasonably likely to be used by the controller or by any other natural or legal person, in particular by reference to an identification number, location data, online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that person. Data Processor : a natural or legal person, public authority, agency or any other body which processes personal data on behalf of the controller. Data Controller : the natural or legal person, public authority, agency or any other body which alone or jointly with others determines the purposes and means of the processing of personal data; where the purposes and means of processing are determined by national or Community laws or regulations, the controller or the specific criteria for his nomination may be designated by national or Community law."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

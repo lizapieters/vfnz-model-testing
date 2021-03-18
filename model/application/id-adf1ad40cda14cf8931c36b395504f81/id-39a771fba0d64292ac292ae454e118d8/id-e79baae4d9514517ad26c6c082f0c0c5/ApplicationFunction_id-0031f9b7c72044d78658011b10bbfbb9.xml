@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Retro-active order orchestration"
+    id="id-0031f9b7c72044d78658011b10bbfbb9"
+    documentation="Submission of a retro-active order with a past effective date (e.g. retroactive price plan change) and the handling of manual intervention requests (for order fallouts).">
+  <properties
+      key="Function Identifier"
+      value="215"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Order Orchestration"/>
+  <properties
+      key="TAM Application Id"
+      value="5.3.3"/>
+  <properties
+      key="Constructed Id"
+      value="5.3.3.215"/>
+</archimate:ApplicationFunction>

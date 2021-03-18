@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Recruitment &amp; Staffing"
+    id="id-94f81c7260ea4b968377a1f93c06bee6"
+    documentation="Recruiting and Staffing is the processes of ensuring the company has the right labor force to meet company objectives. This includes the right skilled labor force, the right sized labor force and a productive labor force. It also ensures that a company meets legal, regulatory and internal requirements.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.2.5"/>
+  <properties
+      key="TMF Function"
+      value="Recruitment and Staffing Reporting Staff Recruiting Staffing"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

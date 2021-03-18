@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Establish &amp; Maintain Party Bill Invoice Format"
+    id="id-cea5d9d0e49b4788bd1d964b3b167544"
+    documentation="Establish and maintain party bill invoice formats, and any interaction with specific parties to modify the format.">
+  <properties
+      key="Process Identifier"
+      value="1.6.15.2.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Correlate Service Alarm Event Notifications"
+    id="id-d2c5817601d147ecad932060c0207540"
+    documentation="This process encompasses the correlation of redundant, transient or implied service alarm event notifications with a specific â€œroot causeâ€� service alarm event notification and associated service alarm event record.  This process correlates service alarm event notifications to planned outage notifications to remove false service alarm event notifications arising as a result of the planned outage activity.">
+  <properties
+      key="Process Identifier"
+      value="1.4.6.7.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

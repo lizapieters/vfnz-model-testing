@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Capture Product Infrastructure Requirements"
+    id="id-c0b6e2110a694d4f8f92d79e96074525"
+    documentation="These processes define the detailed infrastructure requirements to support the product portfolio and individual product plans. Product infrastructure requirements to support new product initiatives in the PLM vertical are captured in this process, as well as any product infrastructure requirements needed to support the specific offers being made to customers through the sales channels. These processes also identify the service infrastructure capabilities required to deliver the product infrastructure.">
+  <properties
+      key="Process Identifier"
+      value="1.2.2.1.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

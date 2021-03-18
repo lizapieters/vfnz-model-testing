@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Network Fault Reporting"
+    id="id-a05e24e63af14078a4b6834814ede133"
+    documentation="The Network Fault Reporting function provide the necessary functionality to provide reports about the various faults within the service provider's network, including the archival of these reports.  This can include standard periodic operational reports as part of running the network to special reports requested by Root Cause Analysis.">
+  <properties
+      key="Function Identifier"
+      value="422"/>
+  <properties
+      key="TAM Application Name"
+      value="Fault Reporting &amp; Analytics"/>
+  <properties
+      key="TAM Application Id"
+      value="7.10.4"/>
+  <properties
+      key="Constructed Id"
+      value="7.10.4.422"/>
+</archimate:ApplicationFunction>

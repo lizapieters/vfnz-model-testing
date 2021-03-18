@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Problem Tracking &amp; Management"
+    id="id-201c4dd65d204eaa88a5004ce5a7f496"
+    documentation="Service Problem Tracking &amp; Management applications provide necessary functionality to assure that service problems are remedied as efficiently as possible.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="6.5.5"/>
+  <properties
+      key="TMF Function"
+      value="Service Problem Tracking &amp; Management"/>
+  <properties
+      key="TMF Maturity"
+      value="Service Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

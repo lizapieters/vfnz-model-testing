@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop Proposal against Sales Prospect Requirements"
+    id="id-8bf1fe53a191468683412bbc386e2b50"
+    documentation="Develop a proposal (or proposals) for a sales prospect  which meets the stated requirements.">
+  <properties
+      key="Process Identifier"
+      value="1.1.9.2.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Develop Proposal against Sales Prospect Requirements develops a proposal (or proposals) for a sales prospect which meets the stated requirements. The development of a sales proposal may require the selection of a standard product offering, may require the development of a non-standard offering, or may require the creation of a project team to construct an offering in response to a customerâ€™s Request For Proposal. Note that development of a non-standard sales proposal or the response to a customerâ€™s RFP may require the development of unique solution designs. The development of unique solutions, within the context of current deployed capabilities, may require the development of new product offerings to be considered along with supporting infrastructure."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

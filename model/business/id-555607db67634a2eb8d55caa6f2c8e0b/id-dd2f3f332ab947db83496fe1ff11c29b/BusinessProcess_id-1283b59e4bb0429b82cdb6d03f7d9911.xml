@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop Loyalty Program Strategy"
+    id="id-1283b59e4bb0429b82cdb6d03f7d9911"
+    documentation="Define the name and objectives of the loyalty program, determine the benefits to participants, identify processes with which the program will interact, and gain approval for the strategy.">
+  <properties
+      key="Process Identifier"
+      value="1.1.19.1.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Develop Loyalty Program Strategy defines the name and objectives of the program, such as satisfaction of participant's needs, possible program currency, such as points or discounts, increased competitive differentiation, types of parties targeted by the program. The strategy also includes determining the benefits to participants. Benefits may be collected by using small study groups to obtain initial feedback, followed by larger group studies. Identify the processes with which the loyalty program will interact to capture, act on, and analyze program data. Approval of the strategy from applicable stakeholders is obtained."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

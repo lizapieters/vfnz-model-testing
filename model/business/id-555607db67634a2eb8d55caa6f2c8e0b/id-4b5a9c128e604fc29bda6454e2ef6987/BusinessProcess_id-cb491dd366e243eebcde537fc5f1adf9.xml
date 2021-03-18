@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Coordination of Engaged Elements"
+    id="id-cb491dd366e243eebcde537fc5f1adf9"
+    documentation="Manage Coordination of Engaged Elements process monitors the status of elements and, or, progress of engaged elements' development, specifies their individual goals and performs adjustment of elements to bring them into alignment with shared goals.">
+  <properties
+      key="Process Identifier"
+      value="1.8.5.2"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Manage Coordination of Engaged Elements process monitors the status of elements and, or, progress of engaged elements' development, specifies their individual goals and performs adjustment of elements to bring them into alignment with shared goals. For example, the onboarding process for postpaid customers may require alignment between elements such as photo showing ID held up to face, ID, facial recognition app, customer address, card details, credit check, regulatory update, facial recognition app, and fullfillment capability."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

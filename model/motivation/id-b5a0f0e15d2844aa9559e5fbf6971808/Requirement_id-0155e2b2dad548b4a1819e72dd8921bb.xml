@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0932"
+    id="id-0155e2b2dad548b4a1819e72dd8921bb"
+    documentation="As a finance user, I require detailed reporting on credits issued to customers including customer account, customer segment, discount applied, reason for credit, team member applying credit etc)">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0932"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Aleesha Giles"/>
+  <properties
+      key="Tribe"
+      value="Finance/Financial accounting"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1?"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Manage"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Financial accounting"/>
+  <properties
+      key="Remarks"
+      value="&quot;Credit&quot; to be clarified, is it credit note or adjustment? When it is created, manually or automatically? DX response: These are manual credit notes/adjustments made to customer accounts by sales/CRM team. I.e. give a customer a one off credit for billing issue or as goodwill for a complaint. We require a report that will show the detail of these manual credits applied to customer accounts. Both categories can exist, it can also be appied to discounts."/>
+  <properties
+      key="Module"
+      value="REP"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

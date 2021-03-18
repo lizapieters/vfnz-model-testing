@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer SLA service to contract analysis"
+    id="id-9e979bdcb81e41339240fbde4902013c"
+    documentation="Analysing the level of service received by the customer and comparing it to the contractual obligations.  This can include analysis of historical SLA information as well.">
+  <properties
+      key="Function Identifier"
+      value="287"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer SLA Analysis"/>
+  <properties
+      key="TAM Application Id"
+      value="5.18.3"/>
+  <properties
+      key="Constructed Id"
+      value="5.18.3.287"/>
+</archimate:ApplicationFunction>

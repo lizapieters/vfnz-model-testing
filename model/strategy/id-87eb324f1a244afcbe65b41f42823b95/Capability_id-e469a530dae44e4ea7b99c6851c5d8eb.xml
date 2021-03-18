@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Affiliates"
+    id="id-e469a530dae44e4ea7b99c6851c5d8eb"
+    documentation="Some service providers have affiliate companies that may feed in orders. An example could be a Wireless Communication Service Provider that has an affiliate Wireline Communication Service Provider that wants to bundle its Wireline services with the affiliate�s wireless services. When the affiliate sells the bundle, it will need to notify the wireless service provider of the sale, and the wireless service provider may need to assist in completing the order.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="3.4.6"/>
+  <properties
+      key="TMF Function"
+      value="Activation of service/product sold by affiliate Mass Service/product pre-activation Mass transaction feed of new orders Registration of pre activated service/product"/>
+  <properties
+      key="TMF Maturity"
+      value="Market_Sales Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Begin Party Agreement Preparation"
+    id="id-da92172a1b13421e9dcf52dd9734feb0"
+    documentation="Begin the preparation of the agreement by specifying common agreement attributes.">
+  <properties
+      key="Process Identifier"
+      value="1.6.5.1.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Begin Party Agreement Preparation prepares common agreement attributes, such as the agreement number, its date, period, statement of intent, locations to which the agreement applies, and so forth. For party specific agreements it also specifies the parties engaged in the agreement, such as an enterprise and a partner, the roles involved in the agreement, such as various approvers or reviewers, as well as if the role is involved in authorizing the agreement. For template agreements it specifies the types of parties that will be engaged in an agreement based on the template as well as their role, including involvement in authorization. Relationships with other agreements may also be defined."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

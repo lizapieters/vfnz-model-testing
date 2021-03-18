@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0499"
+    id="id-260df80a3a624a08bffb832769ffcf62"
+    documentation="As a customer, I want to approve certain chargeable texts &amp; calls outside my plan before the charging commences, so that I can have certainty of what I'm being charged">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0499"/>
+  <properties
+      key="Status"
+      value="Potential gap"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1?"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="use"/>
+  <properties
+      key="Topic"
+      value="Chargeable activity outside plan"/>
+  <properties
+      key="Remarks"
+      value="Is it one setting for all text @ calls outside of plan or more? Assumption: related to micropurchases"/>
+  <properties
+      key="Module"
+      value="SC, PC, PIM, OCS, CNS, OM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

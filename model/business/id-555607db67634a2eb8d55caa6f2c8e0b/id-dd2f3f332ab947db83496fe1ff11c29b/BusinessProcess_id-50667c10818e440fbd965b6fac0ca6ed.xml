@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Complete Marketing Campaign Launch"
+    id="id-50667c10818e440fbd965b6fac0ca6ed"
+    documentation="Complete the launch of a marketing campaign to the market.">
+  <properties
+      key="Process Identifier"
+      value="1.1.15.4.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Complete Marketing Campaign Launch completes the launch of a marketing campaign to the market. It is coordinated with the delivery of the associated marketing communications and product promotions."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

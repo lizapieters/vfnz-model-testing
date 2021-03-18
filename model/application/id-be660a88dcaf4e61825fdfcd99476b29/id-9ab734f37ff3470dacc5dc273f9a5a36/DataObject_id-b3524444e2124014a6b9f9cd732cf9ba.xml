@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicyStatement"
+    id="id-b3524444e2124014a6b9f9cd732cf9ba"
+    documentation="This class models the triplet {variable; operator; value} that is used by both the PolicyCondition and PolicyAction classes. Note that the semantics are reflected in the types of operators that are allowed to be used in each case. For conditions; we want the semantics of variable relates to value; where relates to is usually the match operator; but could also be other applicable operators (e.g.; a comparison operator). For actions; we want the semantics of set variable to value. Here; the only operator allowed is the set operator. Both of these semantics are enforced using OCL. The ability to use the same basic form for writing PolicyConditions and PolicyActions greatly simplifies the design and implementation of a policy management system by enabling such statements to be automatically generated."/>

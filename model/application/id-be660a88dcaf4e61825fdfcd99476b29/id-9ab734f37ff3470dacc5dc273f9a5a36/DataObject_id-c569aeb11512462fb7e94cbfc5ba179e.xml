@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicyServerRole"
+    id="id-c569aeb11512462fb7e94cbfc5ba179e"
+    documentation="This is a concrete base class that defines the concept of various types of roles used to describe PolicyServers and their use in the model. A PolicyServerRole refines the generic concepts of a PolicyApplicationRole. Specifically; this base class is used to describe generic functionality inherent in a PolicyServer. For example; this includes the ability to describe different types of functions (making decisions; changing configurations; and so forth) as well as invoking those functions. Other functions; such as conflict detection; may also be run at a local or global level."/>

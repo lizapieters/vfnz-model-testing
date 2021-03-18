@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Policy History Management"
+    id="id-f8b01dee8a034897924a5a4bf70630a3"
+    documentation="The ability to identify, record, and represent a chronological order of events and actions associated with a policy.">
+  <properties
+      key="TMF_ID"
+      value="1.2.3.9.4"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

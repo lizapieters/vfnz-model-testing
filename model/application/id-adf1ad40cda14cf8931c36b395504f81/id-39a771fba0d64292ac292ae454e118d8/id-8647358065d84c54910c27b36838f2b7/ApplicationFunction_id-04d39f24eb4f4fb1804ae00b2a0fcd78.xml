@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Application Accessing"
+    id="id-04d39f24eb4f4fb1804ae00b2a0fcd78"
+    documentation="Application Accessing: Access interfaces with authentication and authorization control for the requests and responses related to the application�s functionality, including event logging and usage statistics.">
+  <properties
+      key="Function Identifier"
+      value="1025"/>
+  <properties
+      key="TAM Application Name"
+      value="Data Transformation and Formatting"/>
+  <properties
+      key="TAM Application Id"
+      value="9.11.5"/>
+  <properties
+      key="Constructed Id"
+      value="9.11.5.1025"/>
+</archimate:ApplicationFunction>

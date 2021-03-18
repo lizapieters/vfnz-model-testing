@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResourceFacingServiceRole"
+    id="id-5718779e10f748bc91b62e6efeeb8279"
+    documentation="This class defines a Service in terms of a set of ServiceRoles for a ResourceFacingService. This is the base class for defining ServiceRoles that are used to represent the variable characteristics of a ResourceFacingService in terms of roles that this Service plays. This enables the ResourceFacingService to be managed abstractly using ServiceRoles. It also helps define the Service in terms of the functions that it has or provides."/>

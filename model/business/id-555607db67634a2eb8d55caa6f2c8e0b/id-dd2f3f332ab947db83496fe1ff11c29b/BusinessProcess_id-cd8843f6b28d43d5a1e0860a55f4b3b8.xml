@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define Party PII Privacy Standards"
+    id="id-cd8843f6b28d43d5a1e0860a55f4b3b8"
+    documentation="define the standards that must be applied to PII (Personally Identifiable Information) during the retention, storage and processing. This includes roles, responsibilities, obligations and privileges of all Engaged Parties">
+  <properties
+      key="Process Identifier"
+      value="1.6.7.1.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Define Party PII Privacy Standards process is used :â€¨ - to define the roles of each engaged party - to define the responsibilities of each engaged party - to define the obligations of each engaged party - to define the privileges of each engaged party"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

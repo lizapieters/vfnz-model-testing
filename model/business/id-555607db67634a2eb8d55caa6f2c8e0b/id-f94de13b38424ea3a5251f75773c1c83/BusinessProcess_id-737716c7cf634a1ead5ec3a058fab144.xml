@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Add Inter-configuration Relationship"
+    id="id-737716c7cf634a1ead5ec3a058fab144"
+    documentation="Add a relationship to another configuration that indicates another entity, such as a product, service, or resource, has been configured to support the configuration of the entity being configured.">
+  <properties
+      key="Process Identifier"
+      value="1.8.3.2.1.4"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Add Inter-configuration Relationship adds a relationship to another configuration that indicates another entity, such as a product, service, or resource, has been configured to support the configuration of the entity being configured. The need for other configurations is defined by a selected configuration specification. For example, before an application that has been purchased can be configured a service that grants access to the application must be configured."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

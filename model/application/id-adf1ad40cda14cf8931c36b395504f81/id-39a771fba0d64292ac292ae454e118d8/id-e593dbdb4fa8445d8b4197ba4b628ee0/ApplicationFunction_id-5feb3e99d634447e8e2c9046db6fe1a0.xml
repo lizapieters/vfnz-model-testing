@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Location information Profiling"
+    id="id-5feb3e99d634447e8e2c9046db6fe1a0"
+    documentation="Generates different views for different business cases (e.g. different format of address strings)">
+  <properties
+      key="Function Identifier"
+      value="430"/>
+  <properties
+      key="TAM Application Name"
+      value="Location Management"/>
+  <properties
+      key="TAM Application Id"
+      value="7.15"/>
+  <properties
+      key="Constructed Id"
+      value="7.15.430"/>
+</archimate:ApplicationFunction>

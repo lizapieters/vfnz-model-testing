@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Billing Event Error Management"
+    id="id-a298374aa731453f87dc57c84240ac08"
+    documentation="The Billing Events Error Management function accepts events which have been identified as being non-processable. Examples could include the inability to identify the owner of the usage (customer), and inability to apply a valid rate, etc. The function provides users with these capabilities:&#xA;� The ability to categorize unbilled events&#xA;� Features to identify the error cause&#xA;� Correction capabilities (via mechanized script or manual correction) &#xA;� Re-distribution features to send the usage to the proper destination(s)">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.20.2"/>
+  <properties
+      key="TMF Function"
+      value="Billing event error cause identification Billing Event Error Correction capabilities Billing Event Error Re-distribution Billing Event Error Unbilled events categorization"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

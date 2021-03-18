@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API Lifecycle Management"
+    id="id-b909c22cab2442a48230206f3f1415e9"
+    documentation="API Lifecycle Management supports the processes required for designing, developing, testing, deploying, operating, reporting and retiring APIs;">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="10.3.2"/>
+  <properties
+      key="Frameworx Domain"
+      value="Integration Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

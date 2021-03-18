@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PricingLogicAlgorithmSpec"
+    id="id-1ed1164a453e45ceb799810c21084373"
+    documentation="The PricingLogicAlgorithmSpec entity specifies an interface to (potentially external) rating function that can rate billing events (usage; recurring or on time). This entity lists all the parameters that should be passed to the rating function in order to rate the events correctly. Parameters can be determined when instantiating this entity as PricingLogicAlgorithm (e.g. price per unit) or come from the rated event (e.g. call duration) or the ProductCharacteristicValue (e.g. bandwidth)."/>

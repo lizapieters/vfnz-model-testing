@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0070"
+    id="id-357972fbff39488f80d3ef5df894ae67"
+    documentation="As a customer, I want to be able to align payment renewal dates for multiple plans I have access to with the relevant role profiles in my self service, so that I can have all my payments coming out on the same day">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0070"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="2"/>
+  <properties
+      key="Base_Old"
+      value="2"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Use"/>
+  <properties
+      key="Topic"
+      value="Align products"/>
+  <properties
+      key="Remarks"
+      value="Assumption: change is made per one plan, not in bulk? To be discussed if &quot;bulk&quot; is necessary based on possibilities. For Comarch this could be just a number of single calls anyway. Customer needs to pay pro-rata for the alignment. Not sure if the data bundle should be proportional as well?"/>
+  <properties
+      key="Module"
+      value="SC, PIM, BR"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="Not Applicable"/>
+</archimate:Requirement>

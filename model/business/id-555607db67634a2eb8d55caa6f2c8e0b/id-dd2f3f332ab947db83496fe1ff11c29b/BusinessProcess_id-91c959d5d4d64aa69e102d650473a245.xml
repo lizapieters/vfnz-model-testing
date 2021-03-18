@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Issue Marketing Communication"
+    id="id-91c959d5d4d64aa69e102d650473a245"
+    documentation="Issue and distribute marketing collateral to the market.">
+  <properties
+      key="Process Identifier"
+      value="1.1.14.4.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Issue Marketing Communication issues (distributes) a marketing communication to the market. This can involve mailshots, leafleting and displays at events, inserts in newspapers, television, social media, and other media advertising and magazines, voice and text messaging to individuals, and so forth. Direct marketing and sales through web stores, in-store franchises, and so forth, are also included."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

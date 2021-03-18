@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Privacy Profile Type Creation"
+    id="id-894c8618dfcb454c9dee44109783484e"
+    documentation="Privacy Profile Type Creation (Administrators) : &#xA;feature used to create the Privacy Profile Type and the associated Privacy Profile, including definition of elements from SID where privacy applies, the default and possible values for the rules of each element.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.23.1"/>
+  <properties
+      key="TMF Function"
+      value="Configure the Privacy Rules Values Create the Privacy Profile Type"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

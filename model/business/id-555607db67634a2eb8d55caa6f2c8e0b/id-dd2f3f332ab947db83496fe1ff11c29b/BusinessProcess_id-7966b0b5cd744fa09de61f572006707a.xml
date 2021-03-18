@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collect information for Maturity Assessment"
+    id="id-7966b0b5cd744fa09de61f572006707a"
+    documentation="Preliminary collection of current As Is situation">
+  <properties
+      key="Process Identifier"
+      value="1.7.8.2.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Collect Information For Maturity Assessment process all relevant information in order to assess the maturity of each dimension. Collect current metrics and KCIs in order to get evidence of the As Is KCIs and performance"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

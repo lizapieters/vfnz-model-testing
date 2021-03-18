@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identify Party Interactions Data Formats"
+    id="id-b625297792044834a803eb90e398f2d1"
+    documentation="Identifies the necessary data formats to be sent externally according to the agreement.">
+  <properties
+      key="Process Identifier"
+      value="1.6.9.6.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Performs identification of the necessary data formats to be sent externally. Increasingly transactions with external parties (e.g. Parties using RosettaNet or Web Services standards) will need to conform to message and data formats defined by third parties or third party organizations. The actual agreement between the parties to use specific interaction standards is part of the Support Party Interface Management and Support Selling L3s."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

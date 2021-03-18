@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collection Actions-Payment plan monitoring"
+    id="id-aa951f4510ce49d5bdf5854211bdf557"
+    documentation="Monitor the payment plan execution and trigger events for the collection monitoring&#xA;process.">
+  <properties
+      key="Function Identifier"
+      value="157"/>
+  <properties
+      key="TAM Application Name"
+      value="Collection Settlement"/>
+  <properties
+      key="TAM Application Id"
+      value="5.14.3"/>
+  <properties
+      key="Constructed Id"
+      value="5.14.3.157"/>
+</archimate:ApplicationFunction>

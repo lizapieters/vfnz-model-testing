@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enterprise Application Integration"
+    id="id-209f23b3e7d046d9847dc578b39992ef"
+    documentation="Enterprise Application Integration (EAI) is a business computing term for the plans, methods, and tools aimed at modernizing, consolidating, and coordinating the applications in an enterprise. EAI technology allows this integration to be done using techniques that leverage the architecture. Using these concepts, applications send or receive events / messages to or from other components or send or receive notifications. Such architecture provides greater degrees of freedom. For example, components can be replaced by new ones more easily as they have the same interface. It is also easier to plug-in a new component that will use the services already available. EAI includes:&#xA;� transport of data between applications&#xA;� data format translations&#xA;� implementation, at EAI level, of enhanced enterprise level objects&#xA;The following are two example solutions that can be found in the EAI sub-domain:&#xA;�         Managed File Transfer, referring to software for moving data, overcoming the limitations found in conventional FTP (e.g. support to multiple protocols, automation, security, auditability, monitoring, etc.).   &#xA;�         Cache and Distributed Caching, which goals are to provide performance and scalability to applications.&#xA;In the following sections, we start with a description of the analysis methodology and guidelines that are used in this section for the EA Integration of the focused applications. Use of this analysis methodology should reduce making inappropriate decisions based on expected capabilities associated with such architectures.&#xA;It must also be noted that Enterprise Integration is generally implemented in a number of successive phases. This is particularly true when few existing applications are already efficiently integrated together. It is recommended that the first phases usually consist in the integration of new features and new applications and that in further phases it can be envisaged to enhance the integration of the existing applications.">
+  <properties
+      key="TAM Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="10.1"/>
+  <properties
+      key="Frameworx Domain"
+      value="Integration Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

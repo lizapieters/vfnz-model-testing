@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Performance Data Analyzing"
+    id="id-ab545c389af84d90afbf47ff3091e360"
+    documentation="Service Performance Analysis functions provide the necessary functionality to analyze the performance of the various service provider's services.  This includes:&#xA;� Analyzing performance data received from Service Performance Monitoring and historic performance data or system environment data&#xA;� Notify operations applications for automatic or manual action in case of alarming analysis results.&#xA;� Determining the root causes of service performance degradations &#xA;� Provide recommendations for performance improvements and trend analysis">
+  <properties
+      key="Function Identifier"
+      value="498"/>
+  <properties
+      key="TAM Application Name"
+      value="Resource Performance Analysis"/>
+  <properties
+      key="TAM Application Id"
+      value="7.9.2"/>
+  <properties
+      key="Constructed Id"
+      value="7.9.2.498"/>
+</archimate:ApplicationFunction>

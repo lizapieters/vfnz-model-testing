@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Offer Configuration"
+    id="id-36760ba8650d450d8a5fb416f41a0c05"
+    documentation="The Offer configuration function enables the configuration of the commercial offer chosen by the customer. The configuration verifies the technical / functional / commercial pre-requisites, compatibility constraints of this offer against the customer Installed Products. This function invokes a network function in order to check the technical feasibility and resource availability.">
+  <properties
+      key="TAM Category"
+      value="(4) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="5.3.1.2.2"/>
+  <properties
+      key="Frameworx Domain"
+      value="Customer Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

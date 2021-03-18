@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CompositeMarketStatistic"
+    id="id-aa3f7d472eee45d6b13216ce4a15c5b0"
+    documentation="A type of MarketStatistic that is formed by aggregating other MarketStatistics; which may be Composite or Atomic MarketStatistics."/>

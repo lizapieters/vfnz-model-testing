@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Network Matching"
+    id="id-0999ae5fd181425ca17838157650c293"
+    documentation="The ability to associate a network with other aspects of a network or related business objects.">
+  <properties
+      key="TMF_ID"
+      value="1.1.7.8"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

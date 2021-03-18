@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0192"
+    id="id-d82ef93d377247d3b76d0fccc0ddebb9"
+    documentation="As a Credit &amp; Risk Representative&#xA;I want access to a Credit &amp; Risk - Credit Check queue and dashboard&#xA;So I can have access orders where a manual credit check is required&#xA;&#xA;Accesptance Criteria:&#xA;1) Cases are logged in the queue for manual attention&#xA;2) Credit &amp; Risk queue is available for the team specifically&#xA;3) Task notifications of when cases enter the queue is available to the team">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0192"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Tim Munnik"/>
+  <properties
+      key="Tribe"
+      value="OSS Squad"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Setup"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Setup"/>
+  <properties
+      key="Topic"
+      value="BSS | CRM | Credit &amp; Risk | Manual Credit Check Queue &amp; Dashboard"/>
+  <properties
+      key="Remarks"
+      value="Automated solution sometimes will not get a clear no or clear yes. In that case a manual assesment is needed."/>
+  <properties
+      key="Module"
+      value="CRM, SC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="N/A"/>
+</archimate:Requirement>

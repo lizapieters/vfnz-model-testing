@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer/Human Resource Matching"
+    id="id-0c2a6d34b3764fdcba3e8ecd77ab7931"
+    documentation="The ability to associate a customer with an employee, where an employee may be assigned to a customer for a period of time, for example, personal banker or rehabilitation specialist.">
+  <properties
+      key="TMF_ID"
+      value="1.1.2.6.8"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Party Revenue Sharing Reconciliation"
+    id="id-eebb4e548c5b41c58bf5ac3d63a878d9"
+    documentation="Ensure that two sets of party revenue sharing records are aligned and agreed upon. Reconciliation includes comparing what is received with what is to be shared, identifying and resolving discrepancies, identifying adjustments to revenue to be shared, and tracking discrepancy resolution.">
+  <properties
+      key="Process Identifier"
+      value="1.6.18.4"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Party Revenue Sharing Reconciliation ensures that two sets of party revenue sharing records are aligned and agreed upon. For example, an enterprise may receive an invoice from another party that is compared to the revenue share that has been determined to be shared with the party by the Party Revenue Share Determination process. Reconciliation includes comparing what is received with what is to be paid, invoiced or credited/debited to an bill/invoice or account balance, identifying and resolving discrepancies, identifying adjustments to revenue to be shared, and tracking discrepancy resolution."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

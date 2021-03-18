@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Card"
+    id="id-68eee8a0d44c4029b1449305b8d836ad"
+    documentation="This class represents a type of physical container that can be plugged into a Slot. It may represent a primary function (e.g.; a networking card) or an auxiliary function (e.g.; a memory card) that supports another card. All objects of this type are capable of carrying electrical and/or optical signals. They also provide a mounting point for other types of ManagedePhysicalElements; such as Chips or Cards."/>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Campaign to customer event handling"
+    id="id-992d4a4aec4647fbb74a2aea85d29c6c"
+    documentation="Event evaluation and trigger function that ensure that campaigns and campaign stages (waves) are executed at critical points in the customer lifecycle.">
+  <properties
+      key="Function Identifier"
+      value="352"/>
+  <properties
+      key="TAM Application Name"
+      value="Campaign Execution &amp; Refinement"/>
+  <properties
+      key="TAM Application Id"
+      value="3.9.1.4"/>
+  <properties
+      key="Constructed Id"
+      value="3.9.1.4.352"/>
+</archimate:ApplicationFunction>

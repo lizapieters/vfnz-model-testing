@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Client Identification &amp; Authentication"
+    id="id-cbc3593ffca9457b9480dd1f1f5b99f4"
+    documentation="The ability to identify an existing client and make sure that the client is whom he claims to be.">
+  <properties
+      key="TMF_ID"
+      value="1.2.2.6"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

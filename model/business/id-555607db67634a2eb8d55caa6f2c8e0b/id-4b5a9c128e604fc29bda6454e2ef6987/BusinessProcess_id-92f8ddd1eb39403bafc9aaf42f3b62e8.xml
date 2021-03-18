@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Issue Service Orders"
+    id="id-92f8ddd1eb39403bafc9aaf42f3b62e8"
+    documentation="Issue correct and complete service orders">
+  <properties
+      key="Process Identifier"
+      value="1.4.5.6"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The purpose of the Issue Service Orders processes is to issue correct and complete service orders. The service orders may be required to satisfy pertinent customer order information received, may arise as a result of requests for service provisioning to satisfy service problem recovery activities, may arise to alleviate service performance issues, or may arise as a result of information received from parties in relations to specific services. These processes assess the information contained in the customer order, through a service order request, relating to the purchased product offering, initiating service process or external party initiated request, to determine the associated service orders that need to be issued. The issued service order may require a service feasibility assessment or a service design to be produced, may require new provisioning activities for specific services, may require a change to a previously issued service order, or may require deletion and/or recovery of previously delivered specific services. Where, the initiating request or the purchased product offering has a standard set of associated service orders this process is responsible for issuing the service orders, and for creating a record of the relevant initiating request or customer order information and the associated service orders. Where the initiating request or the purchased product offering has special or unusual requirements, and a specific feasibility assessment and/or service design has been previously created, this process is responsible for issuing the service orders, and for creating a record of the relevant initiating request or customer order information and the associated service orders. Where the purchased product offering has special or unusual requirements, and a specific feasibility assessment and/or specific service design has not been previously created, this process marks the issued service order as requiring special handling, and passes management for further processing to the Track &amp; Manage Service Provisioning process. The orchestration, if required, and tracking of the service order progress is the responsibility of the Track &amp; Manage Service Provisioning processes."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

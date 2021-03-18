@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Channel Infrastructure"
+    id="id-cc8efcd106514ce48654860ab16a5253"
+    documentation="Channel Infrastructure represents the cross-channel components that drive consistency and analytics of the customer experience. Channel infrastructure would manage common contact event information such as transaction state, statistics, history, etc.">
+  <properties
+      key="TMF Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.22.3.4"/>
+  <properties
+      key="TMF Function"
+      value="Channel Infrastructure"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

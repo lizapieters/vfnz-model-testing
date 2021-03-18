@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0733"
+    id="id-6330834148fe40dcb7c8ce24caacc186"
+    documentation="As a simple business customer when I use Vodafone for personal use too, I want to view/manage all of my products and services in the same app/portal, so that I have a simple experience and is easy to have an overview of all my product and services">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0733"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Jared Mortlock"/>
+  <properties
+      key="Tribe"
+      value="Business"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Self service"/>
+  <properties
+      key="Remarks"
+      value="Requirement clear. To be discussed if this should be realized by switching context in the app (current working assumption)."/>
+  <properties
+      key="Module"
+      value="PIM, EP, SC, TUM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

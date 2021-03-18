@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financial Business Unit Reporting"
+    id="id-454bc051c10643e29bd27f186e4683ad"
+    documentation="Financial Business Unit Reporting applications are financial repositories and profitability reporting tools for the service provider and all its subsidiaries.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.3.5"/>
+  <properties
+      key="TMF Function"
+      value="Budget to Actual Variance Reporting Business Unit Profitability Reporting Financial Business Unit Financial Repositories Process and product group profitability reporting"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Problem Test Issuing"
+    id="id-02d8bf9fdfea4fa2b6d3ff8322c4d374"
+    documentation="Issuing service tests, including one time tests or a series of tests over a period of time. Notify the test results to operations personnel and applications.">
+  <properties
+      key="Function Identifier"
+      value="609"/>
+  <properties
+      key="TAM Application Name"
+      value="Service Problem Analysis"/>
+  <properties
+      key="TAM Application Id"
+      value="6.5.3"/>
+  <properties
+      key="Constructed Id"
+      value="6.5.3.609"/>
+</archimate:ApplicationFunction>

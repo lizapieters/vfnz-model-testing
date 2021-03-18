@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Update specific billing account information"
+    id="id-b769ada42fe44021b21d5a173d34c87f"
+    documentation="Update specific billing account information such as customer bill periods, bill media options, etc.">
+  <properties
+      key="Function Identifier"
+      value="77"/>
+  <properties
+      key="TAM Application Name"
+      value="Billing Account Configuration Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.13.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.13.1.77"/>
+</archimate:ApplicationFunction>

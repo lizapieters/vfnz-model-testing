@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define Product Offering Price Plan"
+    id="id-354a756123e94a4281fc0515d58c31eb"
+    documentation="Create a group of product offering prices that represent a price plan for a product offering.">
+  <properties
+      key="Process Identifier"
+      value="1.2.7.2.2.1.2.1"/>
+  <properties
+      key="Category"
+      value="(7) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Define Product Offering Price Plan creates a grouping of product offering prices that represent a price plan for a product offering. For example a plan may consist of a recurring charge for a data plan and a charge for excess data usage."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

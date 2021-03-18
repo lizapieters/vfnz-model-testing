@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Perform Roaming Party Billing"
+    id="id-b0d2cc9fe04f49508394efaff9e99261"
+    documentation="Perform Roaming Party Billing process handles inbound and outbound roaming billing.">
+  <properties
+      key="Process Identifier"
+      value="1.6.15.4.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Perform Roaming Party Billing process handles inbound and outbound roaming billing. Generate bills to or from national/international party for own or foreign customer that used services outside their national borders."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

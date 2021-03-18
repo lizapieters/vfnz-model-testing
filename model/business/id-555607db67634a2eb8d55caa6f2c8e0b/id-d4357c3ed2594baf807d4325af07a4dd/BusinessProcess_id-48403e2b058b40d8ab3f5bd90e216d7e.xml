@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Accept Loyalty Program Agreement"
+    id="id-48403e2b058b40d8ab3f5bd90e216d7e"
+    documentation="Accept a standard loyalty program agreement's terms &amp; conditions.">
+  <properties
+      key="Process Identifier"
+      value="1.1.19.2.1.2.2"/>
+  <properties
+      key="Category"
+      value="(6) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Accept Loyalty Program Agreement provides the opportuntity for a loyalty program participant to accept a standard loyalty program agreement's terms &amp; conditions. There may be a charge associated with joining a program. In this case there will be a product offering and price for joining associated with the agreement. Upon acceptance a customer or party order will be placed on behalf of the participant for the offering and payment will be made by the participant."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

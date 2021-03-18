@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Invoice Generation"
+    id="id-51bd39feeeee444aafeedce39206bcdf"
+    documentation="Invoice Generation provides the means to calculate the balance due for an invoice/bill. In addition, it assembles charges, credits, taxes, fees and adjustments that affect the balance due. Subtotals and totals are also calculated at various levels.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.15.7"/>
+  <properties
+      key="TMF Function"
+      value="Invoice Balance Calculation Invoice Charges Assembly Invoice Detail Collection Invoice Totals Calculation"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

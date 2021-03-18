@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fallout Reporting"
+    id="id-06da1acc863a49dc9e6facfb48212c05"
+    documentation="Fallout Reporting provides various reports regarding Fallout Management, including statistics on fallout per various times periods (per hour, week, month, etc) as well as information about specific fallout.">
+  <properties
+      key="Function Identifier"
+      value="22"/>
+  <properties
+      key="TAM Application Name"
+      value="Fallout Reporting"/>
+  <properties
+      key="TAM Application Id"
+      value="11.2.5"/>
+  <properties
+      key="Constructed Id"
+      value="11.2.5.22"/>
+</archimate:ApplicationFunction>

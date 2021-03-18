@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Party Privacy Profile Management"
+    id="id-93de7dc910a347c7903577a734b9fa4d"
+    documentation="Manage the Privacy Profile for each Privacy Profile Type, including the enforcement of the Party Privacy Profile, processes to display, modify the Privacy Profile and the import/export of the Privacy Profile Rules.">
+  <properties
+      key="Process Identifier"
+      value="1.6.7.3"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Party privacy Profile Management processes are used to handle the life cycle of the Privacy Profile. This set of processes is crucial to Party Privacy Management, because it helps the Data Processor Party to conform with Laws &amp; Regulation and privacy by design principles. It is composed of: - the enforcement of the Party Privacy Profile, meaning the application of the Privacy Rules for each purpose/retention, both internal and external, of a Data Subjectâ€™s PII. - the processes to import/export the Privacy Profile for each element of PII received or sent from or to another Party - the process to modify a Privacy Profile, through the Dashboard or consents - the process required to meet other requirements from regional Laws &amp; Regulations, such as the demonstration of compliance, the Right of Erasure or Right to be forgotten"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

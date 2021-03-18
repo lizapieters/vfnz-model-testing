@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Number Portability Orchestration"
+    id="id-3687e9a829df42b88297e64d1b5b0ab4"
+    documentation="Number Portability Orchestration provides workflow and communication mechanism that ensures the orders activation according to a criteria set, allowing in this way the correct execution of orders.">
+  <properties
+      key="TMF Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="7.13.2.2"/>
+  <properties
+      key="TMF Function"
+      value="Number Portability Orchestration"/>
+  <properties
+      key="TMF Maturity"
+      value="Resource Domain"/>
+  <properties
+      key="TMF Status"
+      value="3"/>
+</archimate:Capability>

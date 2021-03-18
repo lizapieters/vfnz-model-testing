@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1122"
+    id="id-8c0494fd7693448f9d0f209ca435a92b"
+    documentation="As a customer I would like my self service to be personalised/tailored based on my current services with Vodafone, so that it can be useful for me">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1122"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Self Service"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Self Service"/>
+  <properties
+      key="Topic"
+      value="Interaction/Usability"/>
+  <properties
+      key="Remarks"
+      value="OOTB basic customization is available based on type of offer (prepaid vs postpaid, mobile vs fixed, with or without a device) Assumption: not in scope for Comarch anymore"/>
+  <properties
+      key="Module"
+      value="SC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

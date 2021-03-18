@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer/Program Matching"
+    id="id-22b09889218149a5978372edc6035f9e"
+    documentation="The ability to associate a customer with a program.">
+  <properties
+      key="TMF_ID"
+      value="1.1.2.6.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

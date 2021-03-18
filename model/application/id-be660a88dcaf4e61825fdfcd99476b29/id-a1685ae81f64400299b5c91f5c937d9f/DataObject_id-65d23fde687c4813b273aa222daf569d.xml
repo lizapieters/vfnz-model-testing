@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WorkSpecFulfillmentRate"
+    id="id-65d23fde687c4813b273aa222daf569d"
+    documentation="Entity that is used in Planning and WorkSpecification configuration. Represents a rate that shows how many particular work tasks (quantity attribute) can be performed by a given organization in a given location (or serving areas) with a given capacity (Consumption Capacity attribute). For example; with 100 man hours of Fiber layout skills; 200 works of â€œDig a trench for Underground Cable; 200m lengthâ€� can be performed in an urban area by an organization."/>

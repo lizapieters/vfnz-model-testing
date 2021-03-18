@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legal Matter Valuation"
+    id="id-abd2a4e4cafe4d74bb816ca11e7cce9a"
+    documentation="The ability to assess a legal proceeding and to assign a monetary value to it, either positive or negative.">
+  <properties
+      key="TMF_ID"
+      value="1.3.2.3"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

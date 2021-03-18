@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CSR Order take-over and relinquish"
+    id="id-26b21eb0debc4313af9049e7a0c59844"
+    documentation="The ability to take over governance on orders handles in other channels (e.g. self service) amend and relinquish while preserving all the captured data.">
+  <properties
+      key="Function Identifier"
+      value="177"/>
+  <properties
+      key="TAM Application Name"
+      value="CSR fulfillment"/>
+  <properties
+      key="TAM Application Id"
+      value="5.6.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.6.1.177"/>
+</archimate:ApplicationFunction>

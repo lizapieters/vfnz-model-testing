@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0010"
+    id="id-c9f7949bc6734f45a4acdb862a3a25c4"
+    documentation="As a marketer, I want to be able to upsell customers during their purchase journey based on their current products in cart or behaviour, so that I can sell them more products with Vodafone.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0010"/>
+  <properties
+      key="Status"
+      value="Potential gap"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="y"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Topic"
+      value="Subscription"/>
+  <properties
+      key="Remarks"
+      value="This one is about a recommendation mechanism (basket analysis). This is currently not part of Comarch solution (but is there in the product roadmap). To be discussed during the architecture session where this solution could be placed (externally of Comarch?)"/>
+  <properties
+      key="Module"
+      value="AP, DS, SC, OM, PC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="Not Applicable"/>
+</archimate:Requirement>

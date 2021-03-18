@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="recalculates charges"
+    id="id-90b61c114b1f4499800939a032c0c798"
+    documentation="This function recalculates the charges when appropriate across product, location, or customer, and considerations based on business rules.">
+  <properties
+      key="Function Identifier"
+      value="186"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Bill Charge Calculation"/>
+  <properties
+      key="TAM Application Id"
+      value="5.15.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.15.1.186"/>
+</archimate:ApplicationFunction>

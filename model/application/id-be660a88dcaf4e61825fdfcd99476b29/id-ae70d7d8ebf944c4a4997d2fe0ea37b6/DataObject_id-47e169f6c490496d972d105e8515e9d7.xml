@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResourceElement"
+    id="id-47e169f6c490496d972d105e8515e9d7"
+    documentation="A ResourceElement is an entity that is individually manageable. It is an aggregate entity consisting of both physical and logical aspects of a managed resource. For example; a Router is a ResourceElement. Different PhysicalResource objects can model the physical aspects of the Router in detail (e.g.; its Cards; the number and type of PhysicalPorts that are on each Card; and so forth); and different LogicalResource objects can model the logical aspects of the Router in detail (e.g.; what Software it is running; how many DeviceInterfaces of what type are currently enabled; if there are any outstanding Faults or Alarms; and so forth). ReourceElement aggregates all PhysicalResource and LogicalResource objects; enabling a high-level view of the physical and logical aspects of the Resource to be provided."/>

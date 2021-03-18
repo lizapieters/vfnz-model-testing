@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tollfree,CUG, Talkzone"
+    id="id-8f9a8b56c6d74266a26b795cd0aef673">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-c6597ae525bd4b2f89cbd1e5dcdf8e71.xml#id-c6597ae525bd4b2f89cbd1e5dcdf8e71"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9f09acf71a904b53b65fcf1f1f72fbbe.xml#id-9f09acf71a904b53b65fcf1f1f72fbbe"/>
+</archimate:FlowRelationship>

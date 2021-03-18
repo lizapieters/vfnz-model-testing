@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Currency Type Management"
+    id="id-e7fa1669b3144ed289ae1ba0687a2747"
+    documentation="The ability to set and recognize a given currency category.">
+  <properties
+      key="TMF_ID"
+      value="1.3.6.4.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

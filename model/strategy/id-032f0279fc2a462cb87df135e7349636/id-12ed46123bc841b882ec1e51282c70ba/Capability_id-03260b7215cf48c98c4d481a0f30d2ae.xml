@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Incident State Management"
+    id="id-03260b7215cf48c98c4d481a0f30d2ae"
+    documentation="The ability to determine, modify, and interpret the status or condition of an incident.">
+  <properties
+      key="TMF_ID"
+      value="1.3.11.6.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

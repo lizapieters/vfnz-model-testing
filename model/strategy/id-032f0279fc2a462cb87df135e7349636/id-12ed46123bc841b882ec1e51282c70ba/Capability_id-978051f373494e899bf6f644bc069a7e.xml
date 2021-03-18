@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Strategy Access Enforcement"
+    id="id-978051f373494e899bf6f644bc069a7e"
+    documentation="The ability to ensure that access rights are granted where constraints are not appropriate and to prevent access where constraints are in place to prevent access.">
+  <properties
+      key="TMF_ID"
+      value="1.2.9.7.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

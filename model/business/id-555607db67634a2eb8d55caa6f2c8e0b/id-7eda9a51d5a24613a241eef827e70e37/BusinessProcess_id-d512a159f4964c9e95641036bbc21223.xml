@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Test Strategy"
+    id="id-d512a159f4964c9e95641036bbc21223"
+    documentation="Resource Test Strategy develops the strategies of the enterprise for Resource Test.">
+  <properties
+      key="Process Identifier"
+      value="1.5.14"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Resource Test Strategy develops the strategies of the enterprise for Resource Test. This process is in charge of identifying types of Resource Test to be conducted according to different context (i.e. business activities) for types of Resources. The different context for Resource Test are: - Resource Development &amp; Retirement to qualify the capacity to deliver Resources before validating a new ResourceSpecification - Resource Provisioning to test the Resource before closing the ResourceOrderItem - Resource Performance Management to test Resource Quality - Resource Trouble Management to test Resource functioning - Resource Test Management to conduct tests not specific to a customerâ€™s product"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

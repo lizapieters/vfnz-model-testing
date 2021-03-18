@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generate Party Billing Events Report"
+    id="id-adebc462737347009481c8c928c537ad"
+    documentation="Generate a party billing event report based on requests from on or more other processes.">
+  <properties
+      key="Process Identifier"
+      value="1.6.19.4.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

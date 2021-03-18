@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resolve Party Bill Inquiry"
+    id="id-0ebf666a1ffe43c18e6f7cf0e1725d8e"
+    documentation="Resolve a party bill inquiry and record how the inquiry was resolved. Update the party bill inquiry status to resolved.">
+  <properties
+      key="Process Identifier"
+      value="1.6.20.3"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Resolve Party Bill Inquiry resolves a party bill inquiry. It adjusts a party bill/invoice if an adjustment is warranted and approved and makes the results of the assessment and investigation available to other processes. It records how the inquiry was resolved. It also updates the status of the party bill inquiry to resolved and informs the Close Party Bill Inquiry process that a party bill inquiry/complaint issues have been resolved."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

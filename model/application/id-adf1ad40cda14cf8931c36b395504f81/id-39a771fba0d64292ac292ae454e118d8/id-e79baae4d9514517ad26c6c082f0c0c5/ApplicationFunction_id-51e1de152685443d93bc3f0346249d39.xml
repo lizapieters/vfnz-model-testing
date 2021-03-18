@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CSR Pre-paid Recharge"
+    id="id-51e1de152685443d93bc3f0346249d39"
+    documentation="The CSR Balance/Invoice payment function is to accept customer payment via the customer service representative (CSR) for Prepaid recharge using vouchers or other pay means">
+  <properties
+      key="Function Identifier"
+      value="937"/>
+  <properties
+      key="TAM Application Name"
+      value="Payment"/>
+  <properties
+      key="TAM Application Id"
+      value="5.6.3.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.6.3.2.937"/>
+</archimate:ApplicationFunction>

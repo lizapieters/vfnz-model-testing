@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Partner State Management"
+    id="id-9151f37f5eda4c24b765a893aed4161c"
+    documentation="The ability to determine, modify, and interpret the status of a partner.">
+  <properties
+      key="TMF_ID"
+      value="1.1.9.8.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

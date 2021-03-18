@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Preference Enforcement"
+    id="id-ed81aa7e27a04164addd47fa01032557"
+    documentation="The ability to ensure that the business acknowledges and complies with customer-related preferences, particularly where those preferences are explicitly defined by the customer.">
+  <properties
+      key="TMF_ID"
+      value="1.1.2.2.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

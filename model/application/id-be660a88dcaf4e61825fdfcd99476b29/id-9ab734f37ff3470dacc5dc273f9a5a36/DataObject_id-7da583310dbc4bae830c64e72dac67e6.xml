@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GridLocalLocation"
+    id="id-7da583310dbc4bae830c64e72dac67e6"
+    documentation="A LocalLocation that is defined using Grid coordinates that relate back to a LocalGridCoordinateSystem This would be used when locations are not defined in inches or millimeters but rather in terms of things like floor tile positions. The grid units are defined in the LocalCoordinateSystem."/>

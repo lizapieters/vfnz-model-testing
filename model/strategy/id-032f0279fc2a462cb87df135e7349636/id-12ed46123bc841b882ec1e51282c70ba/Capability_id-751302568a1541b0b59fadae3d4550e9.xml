@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Route State Management"
+    id="id-751302568a1541b0b59fadae3d4550e9"
+    documentation="The Ability to determine, modify, and interpret the status or condition of a route.">
+  <properties
+      key="TMF_ID"
+      value="1.1.10.6.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

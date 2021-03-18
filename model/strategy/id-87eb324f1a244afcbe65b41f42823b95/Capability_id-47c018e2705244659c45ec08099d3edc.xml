@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Payment Validation &amp; Authorization"
+    id="id-47c018e2705244659c45ec08099d3edc"
+    documentation="Payment Validation &amp; Authorization assures that all payments are properly validated and authorized with the appropriate financial institutions. This includes support for preauthorization of charges.">
+  <properties
+      key="TMF Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.9.4.2"/>
+  <properties
+      key="TMF Function"
+      value="Financial Institution Linkage Financial Security Support Remittance Details Access"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

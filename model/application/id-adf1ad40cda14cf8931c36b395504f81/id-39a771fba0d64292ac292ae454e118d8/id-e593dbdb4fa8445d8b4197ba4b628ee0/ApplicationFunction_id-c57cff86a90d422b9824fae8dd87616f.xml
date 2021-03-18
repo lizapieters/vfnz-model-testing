@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Workforce Scheduling"
+    id="id-c57cff86a90d422b9824fae8dd87616f"
+    documentation="Workforce Schedule Management function provide the necessary functionality to manage the work schedule, appointment schedule and resource schedule of the dispatchable workforce.">
+  <properties
+      key="Function Identifier"
+      value="561"/>
+  <properties
+      key="TAM Application Name"
+      value="Workforce Schedule Management"/>
+  <properties
+      key="TAM Application Id"
+      value="7.12.1"/>
+  <properties
+      key="Constructed Id"
+      value="7.12.1.561"/>
+</archimate:ApplicationFunction>

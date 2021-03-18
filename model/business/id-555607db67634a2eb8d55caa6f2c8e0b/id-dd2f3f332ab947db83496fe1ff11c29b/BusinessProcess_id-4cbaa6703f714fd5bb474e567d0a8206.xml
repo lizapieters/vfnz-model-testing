@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Pricing"
+    id="id-4cbaa6703f714fd5bb474e567d0a8206"
+    documentation="Apply, update, and remove a price associated with a product.">
+  <properties
+      key="Process Identifier"
+      value="1.2.11.7.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Product Pricing applies, updates a price associated with a product. A price may be applied when a party is browsing an enterprise's catalog (a form of window shopping that is supported by the Product Offering Purchase Lifecycle Management process), when configuring a product, or when purchasing a product offering. The price may be what is paid when it is purchased or other types of charges due at some point in the future, such as recurring and usage based charges that are determined by a product's price."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

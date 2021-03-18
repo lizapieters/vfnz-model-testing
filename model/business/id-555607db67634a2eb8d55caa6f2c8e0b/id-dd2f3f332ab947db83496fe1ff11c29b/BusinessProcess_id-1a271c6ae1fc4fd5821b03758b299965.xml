@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Resource Exit Process"
+    id="id-1a271c6ae1fc4fd5821b03758b299965"
+    documentation="These processes  manage the operational aspects of the exit process.">
+  <properties
+      key="Process Identifier"
+      value="1.5.3.7.4"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

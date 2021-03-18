@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identify Pain Points per Maturity Dimension"
+    id="id-97c356112e634dac8d7d2c744fd9c1b5"
+    documentation="Identification pain points and actions to be addressed per maturity dimension">
+  <properties
+      key="Process Identifier"
+      value="1.7.8.2.4"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Identify Pain Points per Maturity Dimension Process involves determining the Pain Points per maturity dimension and how it applies to the relevant dimension. Pain points should be discussed and verified by the relevant stakeholders."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

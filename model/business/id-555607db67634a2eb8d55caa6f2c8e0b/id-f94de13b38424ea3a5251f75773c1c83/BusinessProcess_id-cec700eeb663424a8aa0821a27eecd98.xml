@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Review Documents for Maturity Assessment"
+    id="id-cec700eeb663424a8aa0821a27eecd98"
+    documentation="Review existing documentation">
+  <properties
+      key="Process Identifier"
+      value="1.7.8.2.2.4"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Review Documents for Maturity Assessment process involves evaluating the documents that are within the organization to extract the information relevant for the questions for the dimension maturity. Sometimes not all information can be gathered through questionnaires and the stakeholders only provide document. Similarly for some dimensions it is required to evaluate the quality of the documented information within the organization. This applies to dimension such as Process maturity where the evaluation of the how the processes are captured and how much information is captured is an important factor in the evaluation of the maturity level of the process maturity dimension."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

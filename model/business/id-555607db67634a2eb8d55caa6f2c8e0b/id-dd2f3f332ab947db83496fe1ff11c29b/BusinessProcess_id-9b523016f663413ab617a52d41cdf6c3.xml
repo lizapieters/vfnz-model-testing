@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Implement Service"
+    id="id-9b523016f663413ab617a52d41cdf6c3"
+    documentation="Assess and plan the approach to be undertaken for implementation. &#xA;Re-use standard implementation processes applicable to specific services.&#xA;Implement specific services, including customer premises equipment if part of the service provider offering. &#xA;Provide notifications as required if the implementation activity requires a planned outage or is likely to initiate false specific service alarm event notifications.">
+  <properties
+      key="Process Identifier"
+      value="1.4.5.4.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

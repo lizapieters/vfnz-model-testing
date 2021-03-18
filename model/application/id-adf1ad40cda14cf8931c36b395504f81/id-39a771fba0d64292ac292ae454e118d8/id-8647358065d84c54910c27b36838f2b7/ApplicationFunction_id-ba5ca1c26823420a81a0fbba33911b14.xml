@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Store Content Modeling"
+    id="id-ba5ca1c26823420a81a0fbba33911b14"
+    documentation="Data Store Content Modeling: Manage the data store structures including meta modeling and lifecycle management to make it ready for application use. All management events are logged for auditing purposes.">
+  <properties
+      key="Function Identifier"
+      value="1011"/>
+  <properties
+      key="TAM Application Name"
+      value="Data Store Management"/>
+  <properties
+      key="TAM Application Id"
+      value="9.11.1"/>
+  <properties
+      key="Constructed Id"
+      value="9.11.1.1011"/>
+</archimate:ApplicationFunction>

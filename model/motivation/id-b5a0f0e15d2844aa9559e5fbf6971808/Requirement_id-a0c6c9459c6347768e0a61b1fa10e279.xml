@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1002"
+    id="id-a0c6c9459c6347768e0a61b1fa10e279"
+    documentation="As a customer, I need to know the offers I am enjoying cannot be used by non-customers">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1002"/>
+  <properties
+      key="Status"
+      value="Potential gap"/>
+  <properties
+      key="Created by"
+      value="Gabrielle Paul"/>
+  <properties
+      key="Tribe"
+      value="Loyalty"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Get"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Exclusive to Vodafone customers"/>
+  <properties
+      key="Remarks"
+      value="by some text on the offer description? [CLM] Loyalty offers can be exclusive for some segments, tiers, etc, we can tag offers as exclusive and diplay such parameter on offers lists"/>
+  <properties
+      key="Module"
+      value="CLM/CMA/CMP"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

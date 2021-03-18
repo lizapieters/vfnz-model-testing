@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0146"
+    id="id-f42fc46350f645879e69e77873d07e65"
+    documentation="As a customer who hasn't verified my identity, I want to be able to be assisted by an agent, so I can get the help I need (e.g. QR code in app scanned in store, NFC, etc)">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0146"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="2"/>
+  <properties
+      key="Base_Old"
+      value="2"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Help"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Help"/>
+  <properties
+      key="Topic"
+      value="No EOI"/>
+  <properties
+      key="Remarks"
+      value="How this should work e2e? The QR code in SC/PIM based on customer id, but how would an agent in a shop be albo to scan/read it? For which situations this applies?"/>
+  <properties
+      key="Module"
+      value="AIF?, SC?, PIM?"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="Not Applicable"/>
+</archimate:Requirement>

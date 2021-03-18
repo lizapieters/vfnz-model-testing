@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Entity/Financial Forecast Matching"
+    id="id-48a0bff2e7b84515a9e614760650bc8c"
+    documentation="The ability to associate a financial forecast with a business entity for a portion of an organization or to the organization as a whole.">
+  <properties
+      key="TMF_ID"
+      value="1.2.4.6.6"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

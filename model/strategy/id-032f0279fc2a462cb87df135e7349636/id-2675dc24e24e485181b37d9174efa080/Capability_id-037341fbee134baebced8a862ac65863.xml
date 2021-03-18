@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agreement Price Finalization"
+    id="id-037341fbee134baebced8a862ac65863"
+    documentation="The ability to determine agreement pricing that considers standard pricing, custom pricing, and customer or partner negotiations.">
+  <properties
+      key="TMF_ID"
+      value="1.1.5.2.2.3"/>
+  <properties
+      key="Level"
+      value="4"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

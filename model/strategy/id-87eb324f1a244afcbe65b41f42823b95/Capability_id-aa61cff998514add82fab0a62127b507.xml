@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Satisfaction Validation"
+    id="id-aa61cff998514add82fab0a62127b507"
+    documentation="Customer Satisfaction Validation applications provides functionalityto validate that predicted/expected value is delivered by the product/ and that the after-sales processes (billing and assurance) are initialized. It validates that the customer is capable of realizing maximum value from the operation or use of the solution and that intense Provider involvement is no longer needed to manage the product/service. This function ensures that the customer is satisfied and that the product/ that was actually delivered meets original or updated expectations and agreements and that the product/ is operable by the customer.&#xA;&#xA;Additionally, these applications monitor customer behavior and/or capture customer input beyond sale related interaction in an effort to identify indictors that can suggest imminent churn are dissatisfaction &#xA;&#xA;Measurements can be collected via various tools such as Net Promoter Score (NPS) and made available for action by various service provider groups and supervisory staff.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.5.6"/>
+  <properties
+      key="TMF Function"
+      value="Monitor customer's behavior and beyond sale related interaction"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

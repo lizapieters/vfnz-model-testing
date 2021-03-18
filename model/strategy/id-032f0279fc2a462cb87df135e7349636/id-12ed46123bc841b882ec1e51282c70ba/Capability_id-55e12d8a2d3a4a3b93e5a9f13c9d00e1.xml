@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trip Type Management"
+    id="id-55e12d8a2d3a4a3b93e5a9f13c9d00e1"
+    documentation="The Ability to determine, modify, and interpret the category or classification of a trip.">
+  <properties
+      key="TMF_ID"
+      value="1.1.6.5.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analyze Resource Performance"
+    id="id-109305ebfea746488e4140000eb332a9"
+    documentation="Analyze and evaluate the performance of specific resources">
+  <properties
+      key="Process Identifier"
+      value="1.5.9.2"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of the Analyze Resource Performance processes is to analyze the information received from the Monitor Resource Performance process to evaluate the performance of a specific resource. The responsibilities of the processes include, but are not limited to: â€¢Undertaking analysis as required on specific resource performance information received from the Monitor Resource Performance processes; â€¢Initiating, modifying and cancelling continuous performance data collection schedules for specific resources required to analyze specific resource performance. These schedules are established through requests sent to the Enable Resource Data Collection &amp; Distribution processes; â€¢Determining the root causes of specific resource performance degradations and violations; â€¢Recording the results of the analysis and intermediate updates in the Resource Inventory for historical analysis and for use as required by other processes â€¢Undertaking specific detailed analysis (if the original requested came from Service Quality Management processes) to discover the root cause of service performance degradations that may be arising due to interactions between resource instances, without any specific resource instance having an unacceptable performance in its own right."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

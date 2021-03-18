@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ConsequencePerformanceNotificationSpec"
+    id="id-9bbfa9486d384157bf4fe91d617868f6"
+    documentation="TheÂ invariantÂ characteristicsÂ thatÂ defineÂ aÂ communicationÂ (notification)Â thatÂ occursÂ asÂ partÂ ofÂ aÂ PerformanceConsquence.Â AÂ NotificationÂ isÂ typicallyÂ one-sided;Â inÂ thatÂ noÂ ResponseÂ isÂ expected.Â ForÂ example;Â anÂ alarmÂ mayÂ beÂ raisedÂ asÂ theÂ resultÂ ofÂ aÂ PerformanceThresholdÂ beingÂ violated."/>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Order/Financial Transaction Matching"
+    id="id-d378957a66c54888b89b9af9082ff0ae"
+    documentation="The ability to match orders with a financial transaction.">
+  <properties
+      key="TMF_ID"
+      value="1.1.8.12.7"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

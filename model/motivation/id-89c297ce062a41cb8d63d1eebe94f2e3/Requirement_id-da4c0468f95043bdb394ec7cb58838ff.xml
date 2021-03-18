@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1068"
+    id="id-da4c0468f95043bdb394ec7cb58838ff"
+    documentation="As a customer I want to have the option to be emailed a copy/'resume your purchase' of my cart, so that I can continue the buy journey at a later date without having to add my details again">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1068"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="buy"/>
+  <properties
+      key="Topic"
+      value="Order Capture"/>
+  <properties
+      key="Remarks"
+      value="SC: OOTB there is a possibility to pickup the journey from SC as an existing customer with login Additionally an email should be sent in such cases. A personalized link that would bring the customer to countinue his buy journey. Expiry time of the basket should be configurable. More details in LLD."/>
+  <properties
+      key="Module"
+      value="OM, SC, DS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

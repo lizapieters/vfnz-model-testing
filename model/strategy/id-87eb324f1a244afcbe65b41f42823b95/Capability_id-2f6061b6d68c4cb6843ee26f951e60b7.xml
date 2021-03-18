@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Regulatory Accounting"
+    id="id-2f6061b6d68c4cb6843ee26f951e60b7"
+    documentation="Regulatory Accounting applications provide the required functionality to comply with federal regulations. In the US, it is specially Title 47, Part 64 (Telecommunication - Miscellaneous Rules Relating to Common Carriers).">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.3.11"/>
+  <properties
+      key="TMF Function"
+      value="Affiliate Billing Regulatory Accounting Cost Allocations Regulatory Accounting International settlements Regulatory Accounting"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

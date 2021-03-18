@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Feasibility Check"
+    id="id-5fa80e744f2449938a2b5fc5cdcda29e"
+    documentation="Based on the customer service location, service feasibility checks are &#xA;done to assure the offering can actually be provided to the customer. This &#xA;implies that the customer location is clearly established. Service feasibility &#xA;checks are conducted via contract with the Service Order Management &#xA;application.">
+  <properties
+      key="Function Identifier"
+      value="319"/>
+  <properties
+      key="TAM Application Name"
+      value="Offering Availability"/>
+  <properties
+      key="TAM Application Id"
+      value="5.3.1.5"/>
+  <properties
+      key="Constructed Id"
+      value="5.3.1.5.319"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Channel/Policy Matching"
+    id="id-96d93aa11c154db9b97e3bf86391ae55"
+    documentation="The ability to associate a channel with a policy.">
+  <properties
+      key="TMF_ID"
+      value="1.1.1.7.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

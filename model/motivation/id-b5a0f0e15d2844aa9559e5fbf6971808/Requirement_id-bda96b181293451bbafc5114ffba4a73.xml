@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0469"
+    id="id-bda96b181293451bbafc5114ffba4a73"
+    documentation="When transitioning customers If real time API legacy information isn't available then we should use snowflake customer information in it's place eg, Plans and services/Bill summary CCM">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0469"/>
+  <properties
+      key="Status"
+      value="Abandoned"/>
+  <properties
+      key="Created by"
+      value="Steve Bird"/>
+  <properties
+      key="Tribe"
+      value="Transition"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Transition"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="CCM"/>
+  <properties
+      key="Remarks"
+      value="?? Is this comarch"/>
+  <properties
+      key="Module"
+      value="CCM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

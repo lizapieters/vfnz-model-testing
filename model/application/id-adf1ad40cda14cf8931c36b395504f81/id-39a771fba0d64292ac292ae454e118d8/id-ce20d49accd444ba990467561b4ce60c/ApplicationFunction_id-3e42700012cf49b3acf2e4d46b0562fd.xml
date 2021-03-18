@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Task Work Item Carry Through"
+    id="id-3e42700012cf49b3acf2e4d46b0562fd"
+    documentation="Task Work Item Carry Through: Task Work Items will be of different nature and need different actions to be carried through. The �Orchestration Manager� needs to have functions to carry through a good variety of work items.">
+  <properties
+      key="Function Identifier"
+      value="977"/>
+  <properties
+      key="TAM Application Name"
+      value="Orchestration Management"/>
+  <properties
+      key="TAM Application Id"
+      value="11.3"/>
+  <properties
+      key="Constructed Id"
+      value="11.3.977"/>
+</archimate:ApplicationFunction>

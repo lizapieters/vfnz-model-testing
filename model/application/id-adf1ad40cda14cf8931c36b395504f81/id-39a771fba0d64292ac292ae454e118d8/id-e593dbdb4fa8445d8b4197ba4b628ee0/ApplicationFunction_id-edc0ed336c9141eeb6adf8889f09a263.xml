@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource data parsing"
+    id="id-edc0ed336c9141eeb6adf8889f09a263"
+    documentation="Resource Data Mediation represents the functions that enable the OSS and the networked resource to exchange data and command and control by parsing of data from one format to another">
+  <properties
+      key="Function Identifier"
+      value="465"/>
+  <properties
+      key="TAM Application Name"
+      value="Resource Fault &amp; Performance Data Mediation"/>
+  <properties
+      key="TAM Application Id"
+      value="7.4.3"/>
+  <properties
+      key="Constructed Id"
+      value="7.4.3.465"/>
+</archimate:ApplicationFunction>

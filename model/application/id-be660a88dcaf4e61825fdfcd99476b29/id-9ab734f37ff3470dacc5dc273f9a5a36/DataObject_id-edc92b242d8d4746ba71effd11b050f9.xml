@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyInteractionRole"
+    id="id-edc92b242d8d4746ba71effd11b050f9"
+    documentation="A Party (represented as a Party or PartyRole) playing a role in a Business Interaction. An instantiation of this class is associated either to a Party or PartRole (mutually exclusive) but not both."/>

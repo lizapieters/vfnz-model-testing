@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ConsumptionSummary"
+    id="id-c76f8b6f42374fbbbbcee7a670b7e1b0"
+    documentation="A ConsumptionSummary give measures about the usage quantity consumed. It might concern UsageVolumeBalances and / or UsageVolumeProducts and / or NetworkProducts and / or ProductUsers. A ConsumptionSummary aggregates UsageVolumeBalanceCredits and / or UsageVolumeBalanceDebits and / or AppliedCustomerBillingProductUsageRates."/>

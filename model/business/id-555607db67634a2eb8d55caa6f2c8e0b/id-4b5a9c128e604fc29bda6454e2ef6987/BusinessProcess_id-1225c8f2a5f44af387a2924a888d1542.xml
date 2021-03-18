@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Administer and Configure Workforce Management"
+    id="id-1225c8f2a5f44af387a2924a888d1542"
+    documentation="Performing the activities necessary to configure a variety of workforce management catalogs and settings required to assure that the assignable workforce is properly and efficiently utilized.">
+  <properties
+      key="Process Identifier"
+      value="1.5.5.3"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Administer and Configure Workforce Management processes perform the activities required to configure a variety of workforce management catalogs and settings required to assure that the assignable workforce is properly and efficiently utilized, and is positioned to get the required work assigned and completed within the required time frame. Administer and Configure Workforce Management scope includes the following: â€¢{T}Classifying different types of manual activities, including association with required skill sets and job code descriptions â€¢{T}Managing work order specifications and their structure filled with sequences of dependent work items. A work order can be decomposed into elementary parts that can be completed by different people in different places and at different times. These elementary pieces of work are called work items. â€¢{T}Managing individual technicians, allocating them to various workforce groups (workforce pools, crews, etc.) and associating them with aggregations of skills they possess, locations they cover, etc. This also includes potential &quot;borrowing&quot; of staff from one group to another. â€¢{T}Establishing and managing organization lists, containing organizational charts, serving area covered, etc. â€¢{T}Consolidating employee and/or third-party working hours on a specific timeframe basis (day, week, month) including management of various types of events; providing this information to the Financial Management process for generating payroll and/or to the other parties Settlement &amp; Payments Management process for paying third parties. â€¢{T}Enabling and managing recall capabilities to allow for out-of-hours staff recall in the event of unforeseen circumstances â€¢{T}Administering the appointment schedule, including the hours of operation of the schedule, number of appointments allowed within a certain time block, etc. â€¢{T}Setting up and configuring the information transfer and integration with third-party systems"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

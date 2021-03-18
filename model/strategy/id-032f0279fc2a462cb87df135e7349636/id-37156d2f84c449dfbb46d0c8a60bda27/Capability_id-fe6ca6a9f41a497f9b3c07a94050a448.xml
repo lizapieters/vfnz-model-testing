@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Incident Information Management"
+    id="id-fe6ca6a9f41a497f9b3c07a94050a448"
+    documentation="The ability to collect, organize, monitor, report on, or otherwise disseminate basic facts, statistics, attributes, and data about the incident.">
+  <properties
+      key="TMF_ID"
+      value="1.3.11.6"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Party Relationship Development &amp; Retirement"
+    id="id-6a9d6dc8d24440778ac770f8642054f3"
+    documentation="Manage the lifecycles of parties with whom the enterprise has a relationship. Relationship with new parties may be required to broaden the services an enterprise offers, to improve performance, for outsourcing and out-tasking requirements, and so forth.">
+  <properties
+      key="Process Identifier"
+      value="1.6.3"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Party Relationship Development &amp; Retirement manages the lifecycles of parties with whom the enterprise has a relationship. Relationship with new parties may be required to broaden the services an enterprise offers, to improve performance, for outsourcing and out-tasking requirements, and so forth. Included processes that manage the party's lifecycle, such as establishing and terminating a relationship, demographic collection, profiling, and community involvement."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop Sales Relationship"
+    id="id-c6bab4a5fd964364a50eb062e2c888fc"
+    documentation="Set the overall relationship strategy and Initiate the development of sales relationships with other parties, such as sales partnerships and brokering, in advance of entering into formal agreements.  Identifying and entering into agreements with other parties are managed Party Tender Management and Party Agreement Management">
+  <properties
+      key="Process Identifier"
+      value="1.1.2.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Develop Sales Relationship sets the overall relationship strategy. It also initiates the development of sales relationships with other parties, such as sales partnerships and brokering, in advance of entering into formal agreements. Identifying and entering into agreements with other parties are managed Party Tender Management and Party Agreement Management. A party in the agreement may represent a sales channel for the other. This process initiates flows to these other processes as appropriate. Strategies for managing relationships and relationship goals are identified and agreed upon. Sales relationship opportunities are identified along with the methods for selecting parties and for managing the relationship. Candidate parties are also identified. This process also periodically analyzes relationship strategies and makes any necessary changes to them, including the removal of a strategy."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0498"
+    id="id-3c86908cbca0469d99bb15c7dd97d13e"
+    documentation="As a customer, I want to be able to purchase a premier Visual Voicemail service, so that I can have a better voicemail experience.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0498"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="2"/>
+  <properties
+      key="Base_Old"
+      value="2"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="use"/>
+  <properties
+      key="Topic"
+      value="Visual voicemail"/>
+  <properties
+      key="Remarks"
+      value="Assumption: just an add-on service that is charged for by BSS, configuration outside of Comarch? Expectation is that the customer could record the message, browse through recordings via the mobile app. Jared to provide some more details about the functionality and Comarch to check internally."/>
+  <properties
+      key="Module"
+      value="PC, OM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="REQ_OSS_227, REQ_OSS_336, REQ_OSS_337"/>
+</archimate:Requirement>

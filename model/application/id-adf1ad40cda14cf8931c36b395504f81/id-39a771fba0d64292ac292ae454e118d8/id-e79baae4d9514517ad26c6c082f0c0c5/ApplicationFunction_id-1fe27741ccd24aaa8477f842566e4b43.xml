@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tax information reporting"
+    id="id-1fe27741ccd24aaa8477f842566e4b43"
+    documentation="Financial Reporting of tax information to Corporate Tax in support of tax compliance.">
+  <properties
+      key="Function Identifier"
+      value="729"/>
+  <properties
+      key="TAM Application Name"
+      value="Financial Reporting"/>
+  <properties
+      key="TAM Application Id"
+      value="5.9.3"/>
+  <properties
+      key="Constructed Id"
+      value="5.9.3.729"/>
+</archimate:ApplicationFunction>

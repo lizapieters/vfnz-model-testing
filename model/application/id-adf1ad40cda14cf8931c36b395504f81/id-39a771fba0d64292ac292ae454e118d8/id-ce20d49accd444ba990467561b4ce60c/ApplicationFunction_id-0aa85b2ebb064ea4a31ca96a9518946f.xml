@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Catalog Integrity rules"
+    id="id-0aa85b2ebb064ea4a31ca96a9518946f"
+    documentation="Apply integrity rules at the catalog entity level. Rules are required to maintain data integrity in the catalog. Human errors during product and service configuration cause major problems in testing and production phases, and automatic mechanisms that can eliminate such errors in advance are mandatory.">
+  <properties
+      key="Function Identifier"
+      value="10"/>
+  <properties
+      key="TAM Application Name"
+      value="Catalog Management"/>
+  <properties
+      key="TAM Application Id"
+      value="11.1"/>
+  <properties
+      key="Constructed Id"
+      value="11.1.10"/>
+</archimate:ApplicationFunction>

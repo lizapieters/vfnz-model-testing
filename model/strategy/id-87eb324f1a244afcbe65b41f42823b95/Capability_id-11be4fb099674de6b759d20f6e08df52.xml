@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fallout Management Interface Bus"
+    id="id-11be4fb099674de6b759d20f6e08df52"
+    documentation="Fallout Interface Bus applications provides a variety of tools to facilitate Fallout Management access to other applications and repositories to facilitate proper Fallout Management.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="11.2.9"/>
+  <properties
+      key="TMF Function"
+      value="Fallout Management Interface Bus"/>
+  <properties
+      key="TMF Maturity"
+      value="Cross Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

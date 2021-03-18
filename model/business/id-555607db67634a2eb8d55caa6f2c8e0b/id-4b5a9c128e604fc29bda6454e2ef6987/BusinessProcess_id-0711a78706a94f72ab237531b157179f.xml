@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analyze Service Quality"
+    id="id-0711a78706a94f72ab237531b157179f"
+    documentation="Analyze and evaluate the service quality performance of specific services">
+  <properties
+      key="Process Identifier"
+      value="1.4.7.2"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The purpose of the Analyze Service Quality processes is to analyze the information received from the Monitor Service Quality process to evaluate the service quality performance of specific services. Using the data from Monitor Service Quality, these processes will correlate events in order to filter repetitive alarms and failure events that do not affect the quality delivered, and they will calculate key service quality indicators, (such as Mean Time Between Failures and other chronic problems). The responsibilities of the processes include, but are not limited to: â€¢Undertaking analysis as required on specific service performance information received from the Monitor Service Quality processes; â€¢Initiating, modifying and cancelling continuous performance data collection schedules for specific services required to analyze specific service performance. These schedules are established through requests sent to the Enable Service Quality Management processes. â€¢Determining the root causes of specific service performance degradations and violations; â€¢Recording the results of the analysis and intermediate updates in the Service Inventory for historical analysis and for use as required by other processes â€¢Undertaking specific detailed analysis (if the original requested came from Customer QoS/SLA Management processes) to discover the root cause of customer QoS performance degradations that may be arising due to interactions between service instances, without any specific service instance having an unacceptable performance in its own right."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

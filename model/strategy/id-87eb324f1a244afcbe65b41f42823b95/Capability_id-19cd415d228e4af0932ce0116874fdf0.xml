@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Project Accounting"
+    id="id-19cd415d228e4af0932ce0116874fdf0"
+    documentation="Project Accounting applications provide the required functionality to create financial reports specifically designed to track the financial progress of projects, which can then be used by managers to aid project management.">
+  <properties
+      key="TMF Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.3.1.5"/>
+  <properties
+      key="TMF Function"
+      value="Project Accounting Asset Capitalization Project Accounting Budget Creation Project Accounting Budgetary Control Project Accounting Comparison Project Accounting Cost Distribution Project Accounting Reporting Project Accounting Transaction Control Project Expenditure Posting"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

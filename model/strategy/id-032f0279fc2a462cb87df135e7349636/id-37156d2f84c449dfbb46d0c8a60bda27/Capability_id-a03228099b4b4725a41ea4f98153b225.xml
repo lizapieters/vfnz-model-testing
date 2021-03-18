@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Order Information Management"
+    id="id-a03228099b4b4725a41ea4f98153b225"
+    documentation="The ability to organize, track, report on, or otherwise disseminate attributes and data related to an order.">
+  <properties
+      key="TMF_ID"
+      value="1.1.8.13"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

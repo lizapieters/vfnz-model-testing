@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reconcile Party Revenue Share"
+    id="id-6db4ea50070e47e7ac7a7472a486dc92"
+    documentation="Identify and resolve revenue sharing discrepancies and identify revenue share adjustments.">
+  <properties
+      key="Process Identifier"
+      value="1.6.18.4.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Reconcile Party Revenue Share identifies and resolves discrepancies and identifies revenue share adjustments. This is done by comparing the revenue determined by an enterprise that is to be shared with another party with the information provided by the party. Adjustments may be made to the revenue share determined by an enterprise and/or to the information provided by another party."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

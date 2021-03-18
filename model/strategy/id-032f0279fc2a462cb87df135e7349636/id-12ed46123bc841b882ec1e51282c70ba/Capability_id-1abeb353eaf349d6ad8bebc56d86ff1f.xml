@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agreement/Facility Matching"
+    id="id-1abeb353eaf349d6ad8bebc56d86ff1f"
+    documentation="The ability to associate an agreement with one or more facilities.">
+  <properties
+      key="TMF_ID"
+      value="1.1.5.9.10"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

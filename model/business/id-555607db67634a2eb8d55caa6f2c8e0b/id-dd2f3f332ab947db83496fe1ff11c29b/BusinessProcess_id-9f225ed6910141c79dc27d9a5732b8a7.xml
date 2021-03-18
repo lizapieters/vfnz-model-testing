@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Ingestion"
+    id="id-9f225ed6910141c79dc27d9a5732b8a7"
+    documentation="This process aims is to integrate with variety of big data sources within and outside the organization. This process will enable management of data sources,  importing data from the variety of data sources (Online and Offline imports of data), formatting and integrating the input data for consumption by Data Analytics processes.">
+  <properties
+      key="Process Identifier"
+      value="1.7.8.1.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Data Ingestion process is responsible for managing and integrating with a variety of (big) data sources, importing the data into the big data platform and formatting the data into a uniform format. Data Ingestion process encompasses â€œManage Data source specification and Integrationâ€�, â€œPerform Data Importâ€�, â€œFormat and integrate dataâ€� processes. For Big Data, this layer is crucially important to handle the volume, velocity and variety of the data coming into the platform. This layer is where a number of optimizations can be implemented for Big Data. Functional modules in this layer should not only be able to handle data coming from offline and online sources, but also be able to handle variety of data in terms of structured, unstructured and semi structured data"/>
+  <properties
+      key="Maturity Level"
+      value="2"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

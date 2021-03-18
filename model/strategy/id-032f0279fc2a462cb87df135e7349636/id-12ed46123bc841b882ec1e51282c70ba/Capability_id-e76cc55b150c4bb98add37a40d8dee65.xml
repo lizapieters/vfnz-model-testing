@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Content Deactivation Management"
+    id="id-e76cc55b150c4bb98add37a40d8dee65"
+    documentation="The ability to remove content from active use.">
+  <properties
+      key="TMF_ID"
+      value="1.1.4.3.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

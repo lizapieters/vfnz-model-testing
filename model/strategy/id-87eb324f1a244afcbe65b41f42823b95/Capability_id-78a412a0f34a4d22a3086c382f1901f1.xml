@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tactical Planning"
+    id="id-78a412a0f34a4d22a3086c382f1901f1"
+    documentation="Tactical Planning predominately supports the Operations Support and Readiness area of the Business Process Framework.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="7.1.3"/>
+  <properties
+      key="TMF Function"
+      value="Tactical Resource Planning"/>
+  <properties
+      key="TMF Maturity"
+      value="Resource Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

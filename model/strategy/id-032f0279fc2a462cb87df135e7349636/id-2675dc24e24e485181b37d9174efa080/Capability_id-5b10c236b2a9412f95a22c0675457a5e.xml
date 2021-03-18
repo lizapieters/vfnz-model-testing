@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Work Item/Submission Matching"
+    id="id-5b10c236b2a9412f95a22c0675457a5e"
+    documentation="The ability to associate a submission with a customer, agreement, account, or other business domain.">
+  <properties
+      key="TMF_ID"
+      value="1.3.10.1.6.5"/>
+  <properties
+      key="Level"
+      value="4"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

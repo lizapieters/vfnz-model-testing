@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Credit Management"
+    id="id-61696e2fa563474f9e331ddf52212901"
+    documentation="Customer Credit Management looks at the credit of the customer, considering the payment history with the service provider as well as the credit scores with external credit agencies.">
+  <properties
+      key="Function Identifier"
+      value="187"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Credit Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.1.3"/>
+  <properties
+      key="Constructed Id"
+      value="5.1.3.187"/>
+</archimate:ApplicationFunction>

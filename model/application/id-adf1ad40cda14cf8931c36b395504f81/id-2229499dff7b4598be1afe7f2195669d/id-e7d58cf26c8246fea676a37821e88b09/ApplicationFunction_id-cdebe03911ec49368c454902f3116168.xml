@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Virtual Network Operators (Dealers)"
+    id="id-cdebe03911ec49368c454902f3116168"
+    documentation="Virtual network operators are typically service providers that do not own their own network but sell communications services under their own brand on top of another service provider�s network. Some VNOs also do not own their own Business Support Systems (BSS) and �lease� these systems from the network provider that provides their network services. Such VNOs are the focus of this section. The network provider that �leases� the business support systems to the VNO should therefore provide a separate online application for the VNO agents to be able to manage their customers, and handle fulfillment, assurance and billing issues for these customers.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="3.4.5"/>
+  <properties
+      key="Frameworx Domain"
+      value="Market Sales Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

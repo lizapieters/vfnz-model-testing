@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analyze Loyalty Program Trend"
+    id="id-122ed7d8838847ec912c699434ec4081"
+    documentation="Produce a variety of trend reports  attempting to spot a pattern, or trend, in the information over a given time period.">
+  <properties
+      key="Process Identifier"
+      value="1.1.19.2.7.2"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Analyze Loyalty Program Trend produces a variety of trend reports attempting to spot a pattern, or trend, in the information over a given time period. The information analyzed is often similar to that contained in loyalty program status reports, such as churn, uptake and breakage. Trend analysis may employ data analytics and other techniques to identify a trend."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

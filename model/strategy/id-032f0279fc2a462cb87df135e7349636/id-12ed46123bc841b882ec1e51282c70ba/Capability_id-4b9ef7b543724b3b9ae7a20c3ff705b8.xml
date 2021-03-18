@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Shipment/Asset Matching"
+    id="id-4b9ef7b543724b3b9ae7a20c3ff705b8"
+    documentation="The Ability to associate a shipment with an asset.">
+  <properties
+      key="TMF_ID"
+      value="1.1.11.6.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

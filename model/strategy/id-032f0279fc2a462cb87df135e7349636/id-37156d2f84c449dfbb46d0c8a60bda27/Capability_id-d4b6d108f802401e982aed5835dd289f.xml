@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Policy Information Management"
+    id="id-d4b6d108f802401e982aed5835dd289f"
+    documentation="The ability to gather, interpret, organize, and represent facts, statistics, attributes, and other data regarding policy.">
+  <properties
+      key="TMF_ID"
+      value="1.2.3.9"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Knowledge Management"
+    id="id-ae5848a10d85407388146badda9b3893"
+    documentation="Knowledge Management (KM) application supports the identification, collation, labelling, storage and sharing of knowledge. Knowledge includes insights, experiences, intellectual properties (both external and internal), organizational processes and practices that are vital for the enterprise operation and development.&#xA;It ensures that an organisation is having access to the same set of Information and Data about the Knowledge which is acquired with the time and past experience.">
+  <properties
+      key="TMF Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.6"/>
+  <properties
+      key="TMF Function"
+      value="0"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

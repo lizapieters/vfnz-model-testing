@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Handover to Resource Operations"
+    id="id-e2950935e2a54772b831a1ad37ab0d3f"
+    documentation="Manage the processes involved in handover of deployed resource infrastructure to operational control">
+  <properties
+      key="Process Identifier"
+      value="1.5.2.7"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Manage Handover to Resource Operations processes manage the processes involved in handover of deployed resource infrastructure to operational control. These processes ensure that all operational and performance design requirements have been met by the installed resource infrastructure, and that all tools, test equipment, operational procedures, support groups, and training is in place to allow for successful operation. These processes include the management and coordination of all stakeholders required to gain approval and acceptance of the handover to operational control."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

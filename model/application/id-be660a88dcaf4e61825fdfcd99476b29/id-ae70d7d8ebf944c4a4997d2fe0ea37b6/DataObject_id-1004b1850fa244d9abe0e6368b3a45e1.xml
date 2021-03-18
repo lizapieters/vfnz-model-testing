@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ManagementProtocol"
+    id="id-1004b1850fa244d9abe0e6368b3a45e1"
+    documentation="A ManagementProtocol is an abstract superclass for protocols that are dedicated to exchanging management information between network devices. This type of protocol is an application layer protocol; and is used for configuring; monitoring; and gathering information about devices."/>

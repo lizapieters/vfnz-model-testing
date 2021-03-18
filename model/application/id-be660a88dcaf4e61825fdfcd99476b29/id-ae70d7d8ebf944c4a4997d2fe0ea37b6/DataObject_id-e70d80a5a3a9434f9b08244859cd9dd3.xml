@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SupportedMgmtMethodDetail"
+    id="id-e70d80a5a3a9434f9b08244859cd9dd3"
+    documentation="This is an association class; and defines the semantics of the SupportedMgmtMethods aggregation. This enables different management methods (e.g.; CLI vs. SNMP) to be used to perform configuration versus monitoring functions."/>

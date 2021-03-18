@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Unit reservation creation"
+    id="id-28c77f3d629844fc80ced6c8c171b41e"
+    documentation="Handling of Unit reservation from a balance for a specified interval (session). Unused units are credited back into the balance when the session is released.">
+  <properties
+      key="Function Identifier"
+      value="44"/>
+  <properties
+      key="TAM Application Name"
+      value="Balance Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.19.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.19.2.44"/>
+</archimate:ApplicationFunction>

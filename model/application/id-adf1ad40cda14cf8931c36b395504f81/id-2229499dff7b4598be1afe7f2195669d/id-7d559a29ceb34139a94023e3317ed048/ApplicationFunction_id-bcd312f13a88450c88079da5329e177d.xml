@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Catalog Management"
+    id="id-bcd312f13a88450c88079da5329e177d"
+    documentation="Service Catalog Management is a realization of the Cross domain Catalog Management application in the Service Domain. The applications are repositories of service listing within a service provider and include the ability to design, create, augment and map new entities and supporting data. The type of catalog management application is an implementation choice of the enterprise. See: Cross Domain- Catalog Management for more information.">
+  <properties
+      key="TAM Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="6.1"/>
+  <properties
+      key="Frameworx Domain"
+      value="Service Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

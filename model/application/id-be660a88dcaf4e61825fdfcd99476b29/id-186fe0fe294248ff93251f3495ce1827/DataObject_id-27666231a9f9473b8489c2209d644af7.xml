@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BusinessPartnerAccount"
+    id="id-27666231a9f9473b8489c2209d644af7"
+    documentation="A BusinessPartnerAccount is an arrangement that a Party has with an enterprise (such as a communication service provider) through which the enterprise collects AppliedPartyBillingRate (i.e. charges) to structure bills. It also collects payments for Products that are supplied by the enterprise to the Party. The AppliedPartyBillingRates are invoiced to the BusinessPartnerAccount via PartyBills."/>

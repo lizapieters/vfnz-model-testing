@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Event/Action Item Matching"
+    id="id-a2d6bcc7c9ae4485ab5886333905ff43"
+    documentation="Ability to associate an event with the targeted action item that should result from the event being triggered.">
+  <properties
+      key="TMF_ID"
+      value="1.3.15.5.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tax Definition"
+    id="id-2173dbd9d8944f89a339e71b752f5c78"
+    documentation="The ability to recognize and identify a given tax for purposes of analysis and ultimately compliance.">
+  <properties
+      key="TMF_ID"
+      value="1.3.6.5.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

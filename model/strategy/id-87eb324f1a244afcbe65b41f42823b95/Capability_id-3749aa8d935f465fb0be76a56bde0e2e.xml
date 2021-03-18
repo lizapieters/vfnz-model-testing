@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Activation Management"
+    id="id-3749aa8d935f465fb0be76a56bde0e2e"
+    documentation="This application is responsible for activation of specific services based on the specific service configuration.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="6.3.7"/>
+  <properties
+      key="TMF Function"
+      value="Activation notifications Plan service activation Service configuration activation"/>
+  <properties
+      key="TMF Maturity"
+      value="Service Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

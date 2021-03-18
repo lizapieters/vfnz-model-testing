@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Assess Service Request"
+    id="id-a5e9d5854fc94c859fd3de5b868cdeeb"
+    documentation="This process assesses the information contained in the customer order, through a service order request, relating to the purchased product offering, initiating service process or party initiated request, to determine the associated service orders that need to be issued.">
+  <properties
+      key="Process Identifier"
+      value="1.4.5.6.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

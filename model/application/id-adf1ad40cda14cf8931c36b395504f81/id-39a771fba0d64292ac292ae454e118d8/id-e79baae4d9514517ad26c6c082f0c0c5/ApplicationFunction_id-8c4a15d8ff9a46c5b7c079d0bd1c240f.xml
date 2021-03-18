@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Order data calculation from existing data"
+    id="id-8c4a15d8ff9a46c5b7c079d0bd1c240f"
+    documentation="Application function to calculate missing order data values on-the-fly from existing data and ordering rules.">
+  <properties
+      key="Function Identifier"
+      value="717"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Order Enrichment"/>
+  <properties
+      key="TAM Application Id"
+      value="5.3.7"/>
+  <properties
+      key="Constructed Id"
+      value="5.3.7.717"/>
+</archimate:ApplicationFunction>

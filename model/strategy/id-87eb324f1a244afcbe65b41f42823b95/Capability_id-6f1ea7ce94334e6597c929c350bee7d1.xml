@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Case Workflow"
+    id="id-6f1ea7ce94334e6597c929c350bee7d1"
+    documentation="Case Workflow applications provide general workflow and orchestration capability for the Case Management area. This capability will be used to implement the flow defined and configured via the Case Definition and Configuration application.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.17.2"/>
+  <properties
+      key="TMF Function"
+      value="Case workflow orchestration capability"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

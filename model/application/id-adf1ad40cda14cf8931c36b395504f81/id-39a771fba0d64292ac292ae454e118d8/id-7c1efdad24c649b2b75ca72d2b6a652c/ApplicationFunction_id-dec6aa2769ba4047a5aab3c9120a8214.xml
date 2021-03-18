@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BPM Process Designer"
+    id="id-dec6aa2769ba4047a5aab3c9120a8214"
+    documentation="The Business Process Manager Process Design function is used for individual business process definition by the process owner, (increasingly expressed in a standard language such as UML or some variation of XML). Each Process Definition may be composed of both manual activities and automated activities.">
+  <properties
+      key="Function Identifier"
+      value="675"/>
+  <properties
+      key="TAM Application Name"
+      value="Business Process Management &amp; Workflow"/>
+  <properties
+      key="TAM Application Id"
+      value="10.2"/>
+  <properties
+      key="Constructed Id"
+      value="10.2.675"/>
+</archimate:ApplicationFunction>

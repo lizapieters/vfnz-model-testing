@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agreement/Financial Account Matching"
+    id="id-5744958eaac341e1b95ac79a228fd5b2"
+    documentation="The ability to associate an agreement with a financial account on the organization's chart of accounts.">
+  <properties
+      key="TMF_ID"
+      value="1.1.5.9.7"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

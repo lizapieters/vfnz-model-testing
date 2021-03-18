@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BusinessInteractionRelationship"
+    id="id-643a21cd06a44d05859ef060137296aa"
+    documentation="An association between two Interactions. For example; a Notification sent to customers affected by a problem contained on a Trouble Report; a response to a request; an agreement and the interactions that led up to the agreement."/>

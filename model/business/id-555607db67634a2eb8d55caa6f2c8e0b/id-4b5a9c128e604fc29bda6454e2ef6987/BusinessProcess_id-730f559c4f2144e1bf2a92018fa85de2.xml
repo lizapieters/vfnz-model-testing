@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Produce Resource Business Plans"
+    id="id-730f559c4f2144e1bf2a92018fa85de2"
+    documentation="Develop and deliver quarterly, annual and multi-year resource plans in support of services, products and offers">
+  <properties
+      key="Process Identifier"
+      value="1.5.1.5"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Produce Resource Business Plans processes develop and deliver quarterly, annual and multi-year resource plans in support of services, products and offers that include volume forecasts, negotiation for required levels of resources and budgets, gaining resource development and management as well as supply chain commitment and executive approval for the plans. Volume forecasts may be based on near real-time information and use AI forecasting techniques. Forecasting of aggregate or high level resource demand, and capturing of new opportunities, are both essential to ensure that budgets are assigned which allow the enterprise to implement the resources capabilities and capacity necessary for the future needs of their customers and potential customers. The processes assess the impacts that new or modified resource infrastructure will cause on the installed infrastructure and workforce, and establish the functions and benefits that new or modified resource will provide to users. Assessment of resources impact to the new or modified resource structure may benefit from being performed parallel across all required resources proactively.These processes identify the timetables and logistics for new resource capability introduction."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

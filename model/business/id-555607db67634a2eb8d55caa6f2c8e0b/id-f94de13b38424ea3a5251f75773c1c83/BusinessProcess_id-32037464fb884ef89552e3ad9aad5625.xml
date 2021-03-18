@@ -1,0 +1,20 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Assign Privileges to Parties"
+    id="id-32037464fb884ef89552e3ad9aad5625">
+  <properties
+      key="Process Identifier"
+      value="1.6.3.1.7.2"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Assign Privileges to Parties is responsible to set the party's level of privileges. Note: A parties' ability to interact with an organization is bounded by the privileges the organization assigns to the party. While privileges are defined by strategy, policy and intent, they have a profound impact on the parties' experience of the organization, and thus need to be assigned with care. Privileges are typically assigned to a parties identity, and are accessed from the context of that identity."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

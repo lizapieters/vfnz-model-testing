@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Relationship, Hierarchy and Group Management"
+    id="id-f227b22d2c6a48f983ca24969c737e9e"
+    documentation="The Customer Hierarchy and Group Management component stores the customer hierarchy and/or groups such as company, relationships and household structures.&#xA;&#xA;Manages complex customer relationships such as an individual who performs multiple roles, or hierarchies such as complex Corporate structures. This function should be able to deal with several levels of complexity from single service accounts to multinational corporations. Hierarchies are defined by an account type and its relationships with parent and child accounts.">
+  <properties
+      key="Function Identifier"
+      value="195"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Hierarchy &amp; Group Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.1.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.1.1.195"/>
+</archimate:ApplicationFunction>

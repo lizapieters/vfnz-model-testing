@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0071"
+    id="id-db7ccca9b6294219a31fef0a167e665f"
+    documentation="As a customer, if my plan has been cancelled, I want to be prompted to purchase a new one, so that I can use my Vodafone subsription again">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0071"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Use"/>
+  <properties
+      key="Topic"
+      value="Cancelled product"/>
+  <properties
+      key="Remarks"
+      value="Is this one about a plan becomes out of service for all customers or a case when a Consumer cancels his plan? It's the second. A customer is moved to no plan option."/>
+  <properties
+      key="Module"
+      value="CNS, CRM, SC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="Not Applicable"/>
+</archimate:Requirement>

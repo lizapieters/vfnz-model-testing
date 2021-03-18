@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Recover Specific Resource"
+    id="id-8752d21d42c1427b88c5574849a041fe"
+    documentation="This process recovers a specific resource that is no longer required.">
+  <properties
+      key="Process Identifier"
+      value="1.5.6.8.6"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

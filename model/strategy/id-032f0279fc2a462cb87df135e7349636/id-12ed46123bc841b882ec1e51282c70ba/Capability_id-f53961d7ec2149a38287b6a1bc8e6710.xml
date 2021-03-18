@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer State Management"
+    id="id-f53961d7ec2149a38287b6a1bc8e6710"
+    documentation="The ability to determine, modify, and interpret the status of a customer.">
+  <properties
+      key="TMF_ID"
+      value="1.1.2.7.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

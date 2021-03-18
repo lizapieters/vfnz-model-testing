@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Channel Type Management"
+    id="id-e89464b21cbe4178bd5b9dc67b9429ef"
+    documentation="The ability to define and maintain classifications of channels.">
+  <properties
+      key="TMF_ID"
+      value="1.1.1.8.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

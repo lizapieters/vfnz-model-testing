@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0486"
+    id="id-e2d295b382b149379dc50d7e8060876f"
+    documentation="As a transitioning customer, since I am on subscription, I would like to make sure that each subscription only starts when I start using. For instance my broadband may work immediately at the end of the transition CX journey as I already have it in the legacy. But the TV or VOIP that I have ordered, should be charged only when I am first able to use the service (i.e. STB or CPE received and the pre-requisites are done).">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0486"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Steve Bird"/>
+  <properties
+      key="Tribe"
+      value="Transition"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Transition"/>
+  <properties
+      key="Remarks"
+      value="Requirement clear"/>
+  <properties
+      key="Module"
+      value="OM, DS, SC, TA"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Administer Registration and Access"
+    id="id-6ab939d1174a45babd01650261310f0a"
+    documentation="This process manages the registration and access rights for various users, including third-party systems, of the workforce management solution.">
+  <properties
+      key="Process Identifier"
+      value="1.5.5.3.7"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="â€¢{T}Defining user access rights, permissions, and rules depending on operations or actions â€¢{T}Establishing rules and permissions for third-party system integrations and data exchange â€¢{T}Tracking and monitoring the use of, and access to, the workforce management system(s) and associated costs of the Workforce Management processes â€¢{T}Establishing and managing information transfer between the enterprise workforce management system(s) and those of external third parties â€¢{T}Identifying any technically driven shortcomings of the workforce management system(s), and providing input to Resource Development &amp; Management processes to rectify these issues"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

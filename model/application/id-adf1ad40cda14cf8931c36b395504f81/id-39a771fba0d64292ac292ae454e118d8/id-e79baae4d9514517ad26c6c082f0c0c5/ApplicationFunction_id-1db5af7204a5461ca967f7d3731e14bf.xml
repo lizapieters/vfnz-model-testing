@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Privacy Data Party-Self-Service Browsing"
+    id="id-1db5af7204a5461ca967f7d3731e14bf"
+    documentation="A Privacy Dashboard function for Privacy Data Browsing used to provide the &quot;Data Subject Party&quot; the ability to view the current privacy profile attributes, of the Privacy Profile, both associated default values of rules defined, and the current values of rules.">
+  <properties
+      key="Function Identifier"
+      value="666"/>
+  <properties
+      key="TAM Application Name"
+      value="Privacy Data Exposure"/>
+  <properties
+      key="TAM Application Id"
+      value="5.23.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.23.2.666"/>
+</archimate:ApplicationFunction>

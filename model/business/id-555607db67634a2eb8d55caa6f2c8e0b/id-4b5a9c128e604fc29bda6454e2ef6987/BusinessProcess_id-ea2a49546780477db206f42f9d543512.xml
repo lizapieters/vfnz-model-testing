@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Off-Board Party Offering &amp; Specification"
+    id="id-ea2a49546780477db206f42f9d543512"
+    documentation="Off-board a party's offering or specification.  If a specification is off-boarded all associated offerings are off-boarded. This can occur when the agreement for a product specification and/or offering is terminated. If an agreement covers multiple specifications and/or offerings off-boarding is done for the item on an agreement that is terminated.">
+  <properties
+      key="Process Identifier"
+      value="1.6.4.2"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Off-Board Party Offering &amp; Specification off-boards a party's offering or specification. If a specification is off-boarded all associated offerings are off-boarded. This can occur when the agreement for a product specification and/or offering is terminated. If an agreement covers multiple specifications and/or offerings off-boarding is done for the item on an agreement that is terminated. When the final product offering related to a product specification is off-boarded the product specification may also be off-boarded. If a product specification is off-boarded then disposition of related service specifications, services, resource specifications, and/or resources is made. The off-boarding by the enterprise of the capabilities is gradual and allows enough time to account for any contractual obligations of the enterprise with its customers, but without violating the terms and conditions of any agreement with the party."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

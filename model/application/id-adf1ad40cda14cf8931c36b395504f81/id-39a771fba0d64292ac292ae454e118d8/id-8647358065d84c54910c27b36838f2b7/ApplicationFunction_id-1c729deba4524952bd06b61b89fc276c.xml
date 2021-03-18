@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Investment Accounts Reconciliation"
+    id="id-1c729deba4524952bd06b61b89fc276c"
+    documentation="General Ledger Account Reconciliation function for Investment Accounts">
+  <properties
+      key="Function Identifier"
+      value="864"/>
+  <properties
+      key="TAM Application Name"
+      value="General Ledger Account Reconciliation"/>
+  <properties
+      key="TAM Application Id"
+      value="9.3.9"/>
+  <properties
+      key="Constructed Id"
+      value="9.3.9.864"/>
+</archimate:ApplicationFunction>

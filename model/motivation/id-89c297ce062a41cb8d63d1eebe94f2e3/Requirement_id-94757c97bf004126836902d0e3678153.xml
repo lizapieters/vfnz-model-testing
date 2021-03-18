@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1135"
+    id="id-94757c97bf004126836902d0e3678153"
+    documentation="As a customer, I want to be reminded when I have forgotten to complete a journey in the eShop">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1135"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="y"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Topic"
+      value="Marketing and Campaign Management"/>
+  <properties
+      key="Remarks"
+      value="[CCM] CCM can send the campaign based on provided information to be confirmed with BSS. Partially supported. External event needs to be send to CCM from the module that detects abandoned basket [BSS] such notification can be OOTB send from BSS, assuming its just about prompting customer for basket completion after some period of time (not considered here proposing here e.g. additional discount) BSS notification assumed for HLD"/>
+  <properties
+      key="Module"
+      value="CCM, CNS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

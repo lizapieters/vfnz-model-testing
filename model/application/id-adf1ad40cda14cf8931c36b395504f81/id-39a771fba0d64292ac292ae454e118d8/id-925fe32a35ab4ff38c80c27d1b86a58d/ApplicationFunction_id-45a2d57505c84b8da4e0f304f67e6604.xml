@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RA Monitoring Data Collection"
+    id="id-45a2d57505c84b8da4e0f304f67e6604"
+    documentation="RA Monitoring function provide the necessary functionality to collect data from product, service, and resource (network) layers within fulfillment, assurance, and billing, as well as information from supplier/partner transactions.">
+  <properties
+      key="Function Identifier"
+      value="762"/>
+  <properties
+      key="TAM Application Name"
+      value="RA Monitoring"/>
+  <properties
+      key="TAM Application Id"
+      value="9.1.3"/>
+  <properties
+      key="Constructed Id"
+      value="9.1.3.762"/>
+</archimate:ApplicationFunction>

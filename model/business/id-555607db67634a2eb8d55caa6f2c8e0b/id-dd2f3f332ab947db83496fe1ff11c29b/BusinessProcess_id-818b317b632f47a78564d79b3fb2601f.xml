@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Filter Resource Alarm Event Notifications"
+    id="id-818b317b632f47a78564d79b3fb2601f"
+    documentation="This process encompasses the identification of the resource alarm event in terms of reporting entity and nature of the resource alarm event. It then analyzes the resource alarm events based on a number of criteria and then suppresses redundant, transient or implied resource alarm events by means of filtering and correlation">
+  <properties
+      key="Process Identifier"
+      value="1.5.8.1.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Strategic Planning"
+    id="id-c3d39f40422645068812c84506e7de3b"
+    documentation="The focus of this application is the general network architecture and capacity, together with the strategy for the deployment of network and IT technology within the architecture. It predominately supports processes in Strategy, Infrastructure and Product wing of the Business Process Framework.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="7.1.8"/>
+  <properties
+      key="TMF Function"
+      value="Optimum network deployments Determination Resource demand and trends Analyzing Strategic Network Sizing Decision Support Strategic Planning Results Inventory Strategic sites determination"/>
+  <properties
+      key="TMF Maturity"
+      value="Resource Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

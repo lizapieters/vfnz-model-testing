@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inquiry/Human Resource Matching"
+    id="id-32b49f8efa3d4ed5b0b251e3d0d99c56"
+    documentation="The ability to associate an inquiry with a human resource.">
+  <properties
+      key="TMF_ID"
+      value="1.3.12.5.4"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

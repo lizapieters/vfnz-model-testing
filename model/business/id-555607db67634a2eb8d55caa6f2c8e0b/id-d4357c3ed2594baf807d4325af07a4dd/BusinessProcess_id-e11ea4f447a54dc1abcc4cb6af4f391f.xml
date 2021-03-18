@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Authorize Outbound Party Payment"
+    id="id-e11ea4f447a54dc1abcc4cb6af4f391f"
+    documentation="Obtain authorization to make the payment to the party from a party who is capable of doing so.">
+  <properties
+      key="Process Identifier"
+      value="1.6.16.1.1.2.3"/>
+  <properties
+      key="Category"
+      value="(6) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Authorize Outbound Party Payment obtain authorization to make the payment to the party from a party who is capable of doing so. Lists of those responsible for authorizing outbound payments are managed by the applicable Process Management &amp; Support process in the Enterprise domain which maintains the association between parties playing a variety of roles and the processes in which they are involved."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

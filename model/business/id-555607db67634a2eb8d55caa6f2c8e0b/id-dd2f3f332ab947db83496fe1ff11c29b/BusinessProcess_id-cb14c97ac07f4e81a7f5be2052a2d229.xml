@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Specify Service Capability Infrastructure"
+    id="id-cb14c97ac07f4e81a7f5be2052a2d229"
+    documentation="These processes assess the most appropriate service infrastructure, and develop the tactical/solution architecture and design specifications to be used to build or source the necessary service infrastructure components, to meet the identified service capability requirements.">
+  <properties
+      key="Process Identifier"
+      value="1.4.2.4.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voucher Reporting"
+    id="id-e05b2c7e30634e02b6fe6ba630fa40e9"
+    documentation="Voucher Reporting function for querying and reporting of related data">
+  <properties
+      key="Function Identifier"
+      value="562"/>
+  <properties
+      key="TAM Application Name"
+      value="Voucher Management"/>
+  <properties
+      key="TAM Application Id"
+      value="7.6"/>
+  <properties
+      key="Constructed Id"
+      value="7.6.562"/>
+</archimate:ApplicationFunction>

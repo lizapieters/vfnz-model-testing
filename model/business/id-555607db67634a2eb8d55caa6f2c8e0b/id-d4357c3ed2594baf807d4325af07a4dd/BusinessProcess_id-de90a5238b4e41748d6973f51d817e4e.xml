@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Exit Product Offering from Market"
+    id="id-de90a5238b4e41748d6973f51d817e4e"
+    documentation="Remove a product offering, either by deleting it or indicating it is no longer valid.">
+  <properties
+      key="Process Identifier"
+      value="1.2.7.2.1.6.4"/>
+  <properties
+      key="Category"
+      value="(6) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Exit Product Offering from Market removes a product specification, either by deleting it or indicating it is no longer valid. Notifications are sent to the Product Specification Development &amp; Retirement process so it can determine if the related specifications should also be removed. Additionally a notification may be sent to the Party Offering Development &amp; Retirement process so that it can determine if any on-boarded product offerings should also be removed."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

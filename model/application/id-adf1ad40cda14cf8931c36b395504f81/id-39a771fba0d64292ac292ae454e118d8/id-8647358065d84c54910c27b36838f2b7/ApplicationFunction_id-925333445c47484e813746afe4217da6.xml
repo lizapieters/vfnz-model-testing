@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Affiliate Billing Regulatory Accounting"
+    id="id-925333445c47484e813746afe4217da6"
+    documentation="Regulatory Accounting function for Affiliate billing to comply with federal regulations. In the US, it is specially Title 47, Part 64 (Telecommunication - Miscellaneous Rules Relating to Common Carriers).">
+  <properties
+      key="Function Identifier"
+      value="873"/>
+  <properties
+      key="TAM Application Name"
+      value="Regulatory Accounting"/>
+  <properties
+      key="TAM Application Id"
+      value="9.3.11"/>
+  <properties
+      key="Constructed Id"
+      value="9.3.11.873"/>
+</archimate:ApplicationFunction>

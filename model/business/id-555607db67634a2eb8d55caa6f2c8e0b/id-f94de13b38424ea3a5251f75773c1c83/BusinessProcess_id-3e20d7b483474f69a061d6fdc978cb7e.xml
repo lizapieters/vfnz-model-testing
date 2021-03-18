@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reduce and Avoid Threat"
+    id="id-3e20d7b483474f69a061d6fdc978cb7e"
+    documentation="Threat Reduction and Avoidance is the process by which threats are identified in a proactive manner, to minimize risk to the business prior to an attempted attack.">
+  <properties
+      key="Process Identifier"
+      value="1.7.2.3.3.2"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Threat Reduction and Avoidance is the second of two primary proactive processes (along with the aforementioned Intelligence Gathering) to minimize the risk of possible fraud attacks. Within this process several protective steps are taken to ensure risk to the business is mitigated as much as possible as an ongoing practice. Three sub processes comprise the carrierâ€™s ability to reduce and avoid threats: 1. Propagate Black Lists: As fraud attacks are identified and confirmed, those individual(s) and any aliases are collected and managed within black lists. These lists should be used as a tool to protect the operator against re-issue of services to those on the list. Understanding that the list will be in a constant state of growth over time, an operator will undoubtedly encounter a black listed name belonging to a completely unassociated and innocent individual. Consequently, operators should consider investigation of those cases prior to denial of services, in hopes of not excluding legitimate, non-fraud customers. 2. Staff Vetting: Operators should conduct thorough background and security checks on individuals that will have access to sensitive and otherwise vulnerable areas within the operatorâ€™s business (access to network systems, billing systems, customer records and accounts, financial data, etc.). Internal fraud is a substantial threat to every operator, and depending on the employeeâ€™s area of access, periodic re-checks of backgrounds of existing employees is not unreasonable. 3. Customer Education: Certain fraud types are often unable to be blocked by operators, and may victimize an operatorâ€™s customer base while also causing loss to the operator (e.g., customer credits given). In these situations, proactive steps should be initiated by the operator to educate their customer base on behavioral changes and/or methods that will help to prevent these fraud types from occurring. This may be in the form of press releases, PSAs (Public Service Announcements), and even direct customer contacts. 4. Risk Reviews: Risk Reviews are conducted throughout the business on recurring, non-standard intervals. Risk reviews should focus on threats and vulnerabilities across (at least) the following targets within the operatorâ€™s business: a. Current operations and processes b. Proposed new operational processes c. Current products d. Proposed new products e. New systems within the network f. Etc."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

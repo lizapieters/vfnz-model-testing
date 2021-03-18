@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API Developers Portal"
+    id="id-d5092bf1ae974670b9ad8b7ab81301dc"
+    documentation="Application Programming Interface Developers Portal function gives access to &#xA;> Technical/commercial API Catalogue with easy to search and discover APIs, and API documentation and code examples. E.g. the &quot;API Catalog Management&quot; application.&#xA;> Performance and usage reports from the monitoring and logging functions&#xA;> Technical support (online, email, forums, etc.).">
+  <properties
+      key="Function Identifier"
+      value="689"/>
+  <properties
+      key="TAM Application Name"
+      value="API Management"/>
+  <properties
+      key="TAM Application Id"
+      value="10.3"/>
+  <properties
+      key="Constructed Id"
+      value="10.3.689"/>
+</archimate:ApplicationFunction>

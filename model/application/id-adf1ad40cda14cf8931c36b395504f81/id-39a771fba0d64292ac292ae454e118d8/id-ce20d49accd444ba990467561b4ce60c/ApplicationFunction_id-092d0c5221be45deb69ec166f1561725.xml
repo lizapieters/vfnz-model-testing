@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fallout dashboard automatic information pre-population"
+    id="id-092d0c5221be45deb69ec166f1561725"
+    documentation="Automatically position the analyst on appropriate screens pre-populated with information about the order that's subject for fallout handling.">
+  <properties
+      key="Function Identifier"
+      value="24"/>
+  <properties
+      key="TAM Application Name"
+      value="Fallout Technician Dashboard"/>
+  <properties
+      key="TAM Application Id"
+      value="11.2.4"/>
+  <properties
+      key="Constructed Id"
+      value="11.2.4.24"/>
+</archimate:ApplicationFunction>

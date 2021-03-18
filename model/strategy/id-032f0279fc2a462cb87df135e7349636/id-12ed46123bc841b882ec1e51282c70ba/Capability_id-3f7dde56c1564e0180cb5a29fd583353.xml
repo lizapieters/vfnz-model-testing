@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Network Configuration"
+    id="id-3f7dde56c1564e0180cb5a29fd583353"
+    documentation="The ability to configure a network to an agreed design.">
+  <properties
+      key="TMF_ID"
+      value="1.1.7.3.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

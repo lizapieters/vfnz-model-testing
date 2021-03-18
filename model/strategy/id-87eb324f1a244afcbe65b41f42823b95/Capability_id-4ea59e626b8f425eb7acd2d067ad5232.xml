@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Operational Decisioning"
+    id="id-4ea59e626b8f425eb7acd2d067ad5232"
+    documentation="Customer Operational Decisioning (�Decide�) provides the functionality to drive decisions re: Customer treatment and action for each specific situation based on observing what the customer is immediately experiencing. For example if a customer�s bill is unusually high, and if the customer is a premium customer, the business can decide to waive certain portion of the bill for the 1st time. This action can be taken either proactively by reaching out to the customer, or reactively when the customer contacts the Service Provider. These decisions can be deterministic (i.e. business rules based), statistical (i.e. based on what treatment or recommendation has worked in the past)">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.5.14"/>
+  <properties
+      key="TMF Function"
+      value="Customer Decisioning Engine Customer Order Decomposition and Distribution"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

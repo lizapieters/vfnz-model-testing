@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Solution Design"
+    id="id-407c788b8e91425fbff425196ca93410"
+    documentation="The Solution Management's Design function is concerned with the translation of customer requirements into products &amp; services and the quantity of products and services at each location. Design obtains base product and services from the Common Product Catalog with existing and orders in the pipe and tailor them according the customer requirements into solution(s).">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="3.10.1"/>
+  <properties
+      key="Frameworx Domain"
+      value="Market Sales Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

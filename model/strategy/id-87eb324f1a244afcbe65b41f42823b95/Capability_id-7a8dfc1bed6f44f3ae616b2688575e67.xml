@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Implementation Planning"
+    id="id-7a8dfc1bed6f44f3ae616b2688575e67"
+    documentation="Implementation Planning is based on graphics rather than inventory data and is used for the local implementation of Tactical Plans at street level and within buildings.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="7.1.2"/>
+  <properties
+      key="TMF Function"
+      value="Local Tactical Plans Implementation Physical Implementation Information handling Physical Infrastructure Shortfall Identification Radio Planning"/>
+  <properties
+      key="TMF Maturity"
+      value="Resource Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API Lifecycle Management"
+    id="id-73d7764083444f0f9fd2eb51679bfd1e"
+    documentation="API Lifecycle Management supports the processes required for designing, developing, testing, deploying, operating, reporting and retiring APIs;">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="10.3.2"/>
+  <properties
+      key="TMF Function"
+      value="API Lifecycle Operation"/>
+  <properties
+      key="TMF Maturity"
+      value="Integration Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

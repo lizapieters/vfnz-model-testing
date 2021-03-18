@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Self service Account creation for anonymous user"
+    id="id-f4fee714b8b8450a81dc5fe5edd5aabb"
+    documentation="Account creation for anonymous user Customer self empowered fulfillment function provide an internet technology driven interface for the customer to create an account">
+  <properties
+      key="Function Identifier"
+      value="260"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Self Empowered Fulfillment"/>
+  <properties
+      key="TAM Application Id"
+      value="5.4.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.4.1.260"/>
+</archimate:ApplicationFunction>

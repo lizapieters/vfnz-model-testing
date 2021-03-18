@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contract Generation"
+    id="id-242122640615427e8b4618fc3cc91a7d"
+    documentation="Contract Generation applications provide the functionality to generate a contract.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="3.8.1"/>
+  <properties
+      key="TMF Function"
+      value="Contract and SLA Generation Contract Template creation and maintenance"/>
+  <properties
+      key="TMF Maturity"
+      value="Market_Sales Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

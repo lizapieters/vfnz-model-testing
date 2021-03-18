@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Performance Analysis"
+    id="id-4bc6e3b9b15c46e9a2b4520c32d266b5"
+    documentation="Service Performance Analysis applications provide the necessary functionality to continuously analyze the performance of the various service providers� services.The analyzed data is logged and made available for reporting, and present analysis results made available as notifications for immediate action in case of significant deviation.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="6.7.2"/>
+  <properties
+      key="TMF Function"
+      value="Service Performance Data Analyzing Service Performance Root Cause analysis"/>
+  <properties
+      key="TMF Maturity"
+      value="Service Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

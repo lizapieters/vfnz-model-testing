@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Select Product Offering Purchase Quantity"
+    id="id-2f5b02f506924887900b017ad8b90578"
+    documentation="Select the quantity for the product offering that is being purchased.">
+  <properties
+      key="Process Identifier"
+      value="1.2.9.2.1.2.1"/>
+  <properties
+      key="Category"
+      value="(6) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

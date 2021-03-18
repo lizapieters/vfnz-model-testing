@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agreement State Management"
+    id="id-cbf73e3fd16949bb926dc3551fdc216d"
+    documentation="The ability to define, update, delete/archive and otherwise manage agreement state">
+  <properties
+      key="TMF_ID"
+      value="1.1.5.10.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

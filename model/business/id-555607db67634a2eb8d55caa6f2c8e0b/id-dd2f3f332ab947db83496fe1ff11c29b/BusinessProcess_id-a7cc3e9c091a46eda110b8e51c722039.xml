@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage administration of service research"
+    id="id-a7cc3e9c091a46eda110b8e51c722039"
+    documentation="Manage administration of service research activity">
+  <properties
+      key="Process Identifier"
+      value="1.4.1.2.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Manage administration of service research processes are responsible for managing the administration of service research activities, management of any research prioritization process, administer any actual research contracts with external parties, and develop and manage any intellectual property and patent administration required for the service research activity. Actual commercial arrangements with external parties are managed with in Engaged Party domain Processes. Actual legal arrangements and Intellectual property is managed with Legal Management Processes in Enterprise Management Process areas."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

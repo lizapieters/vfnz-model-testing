@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service-Resource Inventory"
+    id="id-461864cecbe841d3b5ec585b70db5e17"
+    documentation="Service-Resource Inventory is a shared function between Service Inventory and Resource Inventory, and, depending on the needs of an individual organization, may be implemented in a Service Inventory Management system, a Resource Inventory Management system, some combination of both, or even in a standalone application which bridges the gap between Service and Resource Inventory Management.&#xA;Service-Resource Inventory entails managing the relationship between RFSes and the resources and resource domain managers which implement the services on the network. Resources may all be directly managed by the carrier's Resource Inventory systems, or may also include references to resources from a Supplier/Partner asset management system.&#xA;Typically, this inventory does not track all possible network resources involved in delivery of the service (this is the realm of Resource Inventory Management systems themselves), but rather:&#xA;� Any stand-alone physical or logical resources whose assignment is critical to service fulfilment, and whose tracking is critical to service operations, assurance, and billing. Examples may include: modem or other special CPE equipment which may not be tracked directly as part of the provider network, static IP addresses and other network identifiers, etc.&#xA;� Assignment-level resources which represent a larger resource structure supporting the service, often referred to as an Access Point. Examples include: the ADSL DSLAM port assigned to a service, a data circuit service assigned customer facing router interface or subinterface, etc.&#xA;� In some cases, the Service-Supporting Resource Inventory may also track the domain manager applications (e.g. Resource Inventory and/or Activation systems) which manage the resource in question, although in a mature SOA implementation, the Service-Supporting Resource Inventory can often be agnostic of which resource layer systems actually master the resource data.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="6.2.1"/>
+  <properties
+      key="Frameworx Domain"
+      value="Service Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Management"
+    id="id-900ff6c82e194a499005d7796397c1c5"
+    documentation="The ability to control, predict, process, organize, present and analyze all information, documents, preferences, experiences and history related to an individual or organization that has, plans to have or has had an account with the organization. {includes contact management}">
+  <properties
+      key="TMF_ID"
+      value="1.1.2"/>
+  <properties
+      key="Level"
+      value="1"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

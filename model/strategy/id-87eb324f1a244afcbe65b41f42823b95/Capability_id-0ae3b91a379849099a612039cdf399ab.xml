@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Data Collection"
+    id="id-0ae3b91a379849099a612039cdf399ab"
+    documentation="Service Order Data Collection applications gather any needed service data to aid in the verification and issuance of a complete and valid service order.">
+  <properties
+      key="TMF Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="6.3.9.1"/>
+  <properties
+      key="TMF Function"
+      value="Service Data Collection"/>
+  <properties
+      key="TMF Maturity"
+      value="Service Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

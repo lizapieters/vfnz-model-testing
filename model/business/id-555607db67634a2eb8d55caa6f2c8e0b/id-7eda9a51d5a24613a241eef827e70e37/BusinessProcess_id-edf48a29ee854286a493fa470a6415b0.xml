@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Support"
+    id="id-edf48a29ee854286a493fa470a6415b0"
+    documentation="Product Support processes ensure the support capability is in place to allow the CRM Fulfillment, Assurance and Billing processes to operate effectively.">
+  <properties
+      key="Process Identifier"
+      value="1.2.4"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Product Support processes ensure the support capability is in place to allow the Product Fulfillment, Assurance and Billing processes to operate effectively. The responsibilities of these processes include, but are not limited to: â€¢ Provision of product Inventory process infrastructure â€¢ Policy support and decision support knowledge for product â€¢ Monitoring and reporting on the capabilities and costs of the individual Product FAB processes â€¢ Longer-term trend analysis on product FAB processes in order to establish the extent to which enterprise targets for these processes are being achieved and/or the need for the processes to be modified."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

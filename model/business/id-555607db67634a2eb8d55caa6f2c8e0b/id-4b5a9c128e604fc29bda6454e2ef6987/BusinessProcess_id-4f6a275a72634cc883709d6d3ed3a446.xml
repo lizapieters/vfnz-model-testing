@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cross/Up Sell"
+    id="id-4f6a275a72634cc883709d6d3ed3a446"
+    documentation="Ensure that the value of the relationship between the customer or other party and an enterprise is maximized by selling additional, or more of the existing, product offerings.">
+  <properties
+      key="Process Identifier"
+      value="1.1.9.4"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Cross/Up Sell ensures that the value of the relationship between the customer or other party and an enterprise is maximized by selling additional, or more of the existing, product offerings. The ongoing analysis of customer or other party trends, such as usage, problems, complaints, is used to identify when the current offerings may no longer be appropriate or when the opportunity for a larger sale arises. Based on the data collected, more appropriate or other offering(s) may be recommended to the customer or other party."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

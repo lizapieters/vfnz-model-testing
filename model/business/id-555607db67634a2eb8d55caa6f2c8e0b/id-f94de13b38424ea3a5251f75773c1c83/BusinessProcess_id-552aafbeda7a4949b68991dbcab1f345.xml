@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage System Configuration"
+    id="id-552aafbeda7a4949b68991dbcab1f345"
+    documentation="System Configuration Management serves as the support process to maintain critical reference and configuration data. This process applies to operators with manual and automated fraud management data analysis capabilities.">
+  <properties
+      key="Process Identifier"
+      value="1.7.2.3.3.3"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="System Configuration Management is responsible for generating, implementing, and maintaining all critical lists and rules libraries. This process must remained tightly interfaced with the fraud analysis and determination activities to ensure lists are maintained as current, and that rules are properly deployed and utilized. Three primary sub processes are driven within System Configuration Management: 1. Hot Lists: Hot lists contain patterns of activity and behavior of past fraudsters. These patterns may be analyzed against current patterns of activities within the network to detect re-emergence of fraud activity. 2. Black Lists: These list(s) contain names/identities of prior known fraudsters, and should be continually checked against new subscribers. This should also include altered identities through a variety of methods. 3. Rules Library and Configurations: All rules associated with fraud detection are maintained within this sub process. The challenge facing operators with rules management goes beyond the simple configuration of rules; an operator must also continue to review rule performance (ability to capture fraud, sensitivity to capture fraud vs. creating â€œfalse positiveâ€� alerting, etc.). Additionally, rules are constantly changing and growing based on changing dynamics in networks, products, systems, internal processes, subscriber base, etc. 4. Alarm threshold management: Based on results of Fraud Determination (within process identifier 1.2.2), threshold adjustments will need to made to either correct for â€œfalse positiveâ€� alarming, or to increase threshold sensitivity to detect additional suspected fraud situations. This process connection is illustrated within figure 5 â€œOverall Process Diagramâ€�."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

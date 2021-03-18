@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Work Order Assignment &amp; Dispatch"
+    id="id-69b8623b8a244ac4abe049181480dc6c"
+    documentation="Work Order Assignment &amp; Dispatch applications provide the required functionality to assignmanual activities (work orders and work items) to dispatchable staff as well as dispatch technicians on assigned work orders and items.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="7.12.3"/>
+  <properties
+      key="TMF Function"
+      value="Dynamic work order assigning Periodic bulk work order assigning Work Order Assignment Dispatching"/>
+  <properties
+      key="TMF Maturity"
+      value="Resource Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

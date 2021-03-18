@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Order Eligibility"
+    id="id-8c3d48b37fd249129203cada9db06a15"
+    documentation="The Customer Order Commercial Eligibility  function validates that the Offer &amp; products specified on the Customer Order, are available and feasible from a commercial and functional point of view.&#xA;It includes: &#xA;� Commercial Eligibility with commercial compatibility with the already customer installed Offers &#xA;� Functional Eligibility with functional  compatibility with the already customer installed Products. �&#xA;� Customer Credit Eligibility check, considering the payment history and the credit scores for a Customer, only the predictive credit score for a ProspectiveCustomer. �&#xA;The technical feasibility is covered by th Service Availability function.">
+  <properties
+      key="Function Identifier"
+      value="205"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Order Establishment"/>
+  <properties
+      key="TAM Application Id"
+      value="5.3.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.3.1.205"/>
+</archimate:ApplicationFunction>

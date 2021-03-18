@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Procure Access"
+    id="id-382ed9180b5c43b2a0764ed881d65be1"
+    documentation="Procure Access applications obtain access paths to the customer or service location.">
+  <properties
+      key="TMF Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="6.3.4.3"/>
+  <properties
+      key="TMF Function"
+      value="Access Path Procurement"/>
+  <properties
+      key="TMF Maturity"
+      value="Service Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Commence Service Recovery"
+    id="id-cdb4b4c451c34de685a278f0958d180d"
+    documentation="When the recovery activity is about to commence, this processes is responsible for notifying when recovery work is commencing.">
+  <properties
+      key="Process Identifier"
+      value="1.4.5.9.4"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

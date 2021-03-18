@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Billing Event Processing Enrichment"
+    id="id-82e3999d98c3453f8c8f13d31b2f3c60"
+    documentation="Billing Event Processing Enrichment">
+  <properties
+      key="Function Identifier"
+      value="86"/>
+  <properties
+      key="TAM Application Name"
+      value="Billing Event Processing"/>
+  <properties
+      key="TAM Application Id"
+      value="5.20.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.20.1.86"/>
+</archimate:ApplicationFunction>

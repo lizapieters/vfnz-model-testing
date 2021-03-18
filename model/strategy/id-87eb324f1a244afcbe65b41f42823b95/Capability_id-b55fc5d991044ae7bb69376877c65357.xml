@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Problem Monitoring"
+    id="id-b55fc5d991044ae7bb69376877c65357"
+    documentation="Service Problem Monitoring applications provide the necessary functionality to continuously monitor the present operational status of the provider's services.�The present operational status is made available as notifications for immediate action in case of significant operational deviation.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="6.5.2"/>
+  <properties
+      key="TMF Function"
+      value="Service Problem Monitoring Collection Service Problem Monitoring Reporting Service Problem SLA Monitoring"/>
+  <properties
+      key="TMF Maturity"
+      value="Service Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitor &amp; Control Party Performance"
+    id="id-1572732537264685b8932f14ad10881d"
+    documentation="Collect and analyze performance of a product delivered by a party.">
+  <properties
+      key="Process Identifier"
+      value="1.6.11.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Monitor &amp; Control Party Performance processes control the performance measurement activities, collect performance data on a specified product, analyze this against the relevant SLA for the party and report performance data and any SLA violations to other processes. These processes also carry out impact analysis on any SLA violations and initiate corrective actions."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

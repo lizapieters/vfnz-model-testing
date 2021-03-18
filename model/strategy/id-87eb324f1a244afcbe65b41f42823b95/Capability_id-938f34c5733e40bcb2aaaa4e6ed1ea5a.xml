@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sales Account Planning"
+    id="id-938f34c5733e40bcb2aaaa4e6ed1ea5a"
+    documentation="Sales Account Planning looks at the service provider�s complete relationship with a large customer. This includes the customer�s outages, revenues, opportunities in the pipeline, etc. It allows the account executive to effectively manage the service provider�s relationship with the customer and to plan the selling strategy going forward.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="3.11.3"/>
+  <properties
+      key="TMF Function"
+      value="Sales Account Planning"/>
+  <properties
+      key="TMF Maturity"
+      value="Market_Sales Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product/Product Matching"
+    id="id-c054d4846a8b42bab81a00137310f57e"
+    documentation="The ability to associate one product with another for product bundling or any other purpose.">
+  <properties
+      key="TMF_ID"
+      value="1.1.3.14.4"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Support Product Configuration Management"
+    id="id-2c7369cb387849939a3be6128c77f2b6"
+    documentation="Support Product Configuration Management ensures that all information, materials, systems and resources are available so that the Product Configuration Management processes can operate effectively.">
+  <properties
+      key="Process Identifier"
+      value="1.2.4.3"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The purpose of the Support Product Configuration Management processes is to ensure that there is capability (for example, information, materials, systems and resource) so that the Product Configuration Management processes can operate effectively when a product needs to be configured by specifying how the product operates or functions in terms of a productâ€™s configurable parameters, collectively called characteristics, and related configurations of products, services, and resources that are part of its overall configuration. Examples are information on how to handle unusual configuration requests based on temporary situations, systems needed to accept and track product configurations, requests for the provisioning of additional parameters or resources where it has been identified that current available parameters or resources will impact on effective product configuration. These processes are responsible for implementing generic and specific changes to product configuration capabilities. This support could be in updating configuration scripts, batch procedures, etc. These processes undertake trend analysis on product configurations, e.g. type, frequency, duration, outcome."/>
+  <properties
+      key="Maturity Level"
+      value="3"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

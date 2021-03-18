@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ServicePackageSpec"
+    id="id-d826bcecb6084bb292948acbe411f894"
+    documentation="A ServicePackageSpec defines the concept of bundling a set of different CustomerFacingServiceSpecs to meet the functionality specified by one or more ProductSpecifications. This enables the shared characteristics and behavior of these CustomerFacingServices to be specified; so that multiple Products can be built from their associated ProductSpecification. Treating this set of CustomerFacingServiceSpecs as a single object is very important for building complex Services; such as a VPN. This enables a single ProductItem (derived ultimately from a ProductSpecification) to be offered to the Customer; even though in reality the ProductItem is realized by a set of different CustomerFacingServices that must work together to provide the functionality that the Customer needs."/>

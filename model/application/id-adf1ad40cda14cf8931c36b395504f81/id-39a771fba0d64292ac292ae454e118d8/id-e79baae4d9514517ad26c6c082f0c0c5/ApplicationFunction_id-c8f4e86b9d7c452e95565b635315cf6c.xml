@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Background customer profiling"
+    id="id-c8f4e86b9d7c452e95565b635315cf6c"
+    documentation="Background profiling based on demographics, interests, shopping interaction, billing history etc">
+  <properties
+      key="Function Identifier"
+      value="228"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Profiling"/>
+  <properties
+      key="TAM Application Id"
+      value="5.5.11"/>
+  <properties
+      key="Constructed Id"
+      value="5.5.11.228"/>
+</archimate:ApplicationFunction>

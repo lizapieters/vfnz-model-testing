@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Discount Calculation"
+    id="id-5d960f8eaec545eab792419b1a8b810b"
+    documentation="Discounts Calculation determines charge discounts based on pricing plan; including discounts on recurring, one time, and usage charges. &#xA;Discounts may be applied at different levels such as cross product, cross location, or cross customer (all customers that are part of a given group plan � some affiliation). The discounts can be apportioned across multiple events.">
+  <properties
+      key="Function Identifier"
+      value="300"/>
+  <properties
+      key="TAM Application Name"
+      value="Discounts Calculation"/>
+  <properties
+      key="TAM Application Id"
+      value="5.15.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.15.2.300"/>
+</archimate:ApplicationFunction>

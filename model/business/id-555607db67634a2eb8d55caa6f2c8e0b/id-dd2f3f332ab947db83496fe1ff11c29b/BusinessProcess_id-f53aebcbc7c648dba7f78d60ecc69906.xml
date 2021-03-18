@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identify Repository Issues and Provide Reports and Warnings"
+    id="id-f53aebcbc7c648dba7f78d60ecc69906"
+    documentation="Managing and Identifying any Inventory Repository issues and providing warnings.">
+  <properties
+      key="Process Identifier"
+      value="1.5.4.5.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Â· Identifying any technical driven shortcomings of the resource inventory repository, and providing input to Resource Development &amp; Management processes to rectify these issues."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Receive &amp; Accept Party Order"
+    id="id-91bb17b4e1324dcd8b825862dc439623"
+    documentation="Records delivery of a party order and arranges for any acceptance testing or commissioning required.">
+  <properties
+      key="Process Identifier"
+      value="1.6.8.4"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Receive &amp; Accept Party Order records delivery of a party order and arranges for any acceptance testing or commissioning required. These processes facilitate and support coordination of internal activities with activities performed by the party, that are required to: â€¢ Configure a bought-in party product; â€¢ Bring a bought-in party product into service; or â€¢ Restore a bought-in party product to service. The actual performance of any acceptance testing and/or commissioning activities by the enterprise is managed within the appropriate process(es) as required. These processes also manage negotiations with a party where there have been problems with a party product's supply, and determine through dialogue with the party, how best to resolve such issues. The party delivery acceptance may involve co-ordination with internal processes, where the supplied specific resource, service or product forms part of a composite, or is to be onward shipped. These processes report and document on acceptance, and record final acceptance of party deliveries."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

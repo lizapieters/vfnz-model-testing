@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Loyalty Subscription Management"
+    id="id-ac72bf820d0d4df4bef90b5f91e57afd"
+    documentation="The Loyalty Subscription Management component manages subscription and deactivations to a Loyalty programmes. Subscription management  includes &#xA;- checking customer requirements &#xA;- assigning one or more subgroups to which the customer belongs&#xA;- assigning welcome points &amp; send welcome messages &#xA;- generate the unique Loyalty-identifier &#xA;&#xA;Loyalty Subscription Management can assign multiple traffic channels to loyalty subscriptions (sim-cards, PBX, Call Data Network etc.)">
+  <properties
+      key="Function Identifier"
+      value="236"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Program Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.21.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.21.1.236"/>
+</archimate:ApplicationFunction>

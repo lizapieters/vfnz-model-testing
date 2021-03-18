@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Shipment/Conveyor Matching"
+    id="id-6999cb821c684c6fafeb74b83d9e9ce4"
+    documentation="The Ability to associate a shipment with a conveyor.">
+  <properties
+      key="TMF_ID"
+      value="1.1.11.6.5"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

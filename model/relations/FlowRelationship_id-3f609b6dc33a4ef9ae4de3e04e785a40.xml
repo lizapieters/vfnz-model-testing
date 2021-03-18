@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SMS"
+    id="id-3f609b6dc33a4ef9ae4de3e04e785a40">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-fde909776f86473980a683cfe834dc1e.xml#id-fde909776f86473980a683cfe834dc1e"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3ce2e40589c44babb556ba18c6b71d1d.xml#id-3ce2e40589c44babb556ba18c6b71d1d"/>
+</archimate:FlowRelationship>

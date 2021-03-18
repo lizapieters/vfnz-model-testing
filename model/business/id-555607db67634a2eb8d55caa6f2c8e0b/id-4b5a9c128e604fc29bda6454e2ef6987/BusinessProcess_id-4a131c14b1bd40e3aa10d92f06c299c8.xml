@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Submit Party Bill Inquiry"
+    id="id-4a131c14b1bd40e3aa10d92f06c299c8"
+    documentation="Prepare and submit a party bill inquiry to another party..">
+  <properties
+      key="Process Identifier"
+      value="1.6.20.2"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Submit Party Bill Inquiry prepares and submits a party bill inquiry to another party. A submission may supply additional information if requested by the party. A party bill inquiry may be prepared and submitted by an enterprise as a result of a bill inquiry or a bill/invoice related complaint."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RevenueAssuranceAssessmentResult"
+    id="id-30ebd6dbadec4ff5ae064c07439c6a14"
+    documentation="The outcome of a RevenueAssuranceAssessment. The outcome may be a recommendation to refine a RevenueAssuranceParameter; a RevenueAssuranceObjective; RevenueAssuranceConsequence; RevenueAssuranceApplicability or the identification of a RevenueAssuranceTrend."/>

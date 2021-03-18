@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="De-activate Off-boarded Preconfigured Services"
+    id="id-e9183f041e4c481f9809a63b53246528"
+    documentation="Deactivate any services have been pre-configured for the associated party's product specification.  This is accomplished by notifying the  Service Configuration &amp; Activation to de-activate them.">
+  <properties
+      key="Process Identifier"
+      value="1.6.4.2.2.2"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="De-activate Off-boarded Preconfigured Services deactivates any services have been pre-configured for the associated party's product specification. This is accomplished by notifying the Service Configuration &amp; Activation to de-activate them. If the deactivated services are the final ones associated with a service specification the Manage Service Exit process is notified for possible removal of the service specification."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

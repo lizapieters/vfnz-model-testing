@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PRGSpecRule"
+    id="id-341f50b9c3a24fa58e6fab4bf47b5e65"
+    documentation="A PRGSpecRule is a type of PolicyRule specifying rules that have to be checked up to allow a PartyRole to be part of a PartyRoleGroup. For example; all Parties must live at the same location to be considered as member of the same Family."/>

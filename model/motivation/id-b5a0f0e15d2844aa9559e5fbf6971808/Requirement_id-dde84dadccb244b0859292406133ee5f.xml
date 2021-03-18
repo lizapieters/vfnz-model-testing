@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0648"
+    id="id-dde84dadccb244b0859292406133ee5f"
+    documentation="The Collections solution shall enable customer accounts to be allocated to profiles based on customer characteristics&#xA;Including:&#xA;1.&#x9;Demographics&#xA;2.&#x9;Risk profile – based on VF history inc. prior Collections treatments (e.g. number of PTP / PE honoured/dishonoured)&#xA;3.&#x9;Credit score&#xA;4.&#x9;Current Collections status&#xA;5.&#x9;Special Collections status">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0648"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Jasmin Khambata"/>
+  <properties
+      key="Tribe"
+      value="Collections"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Collections"/>
+  <properties
+      key="Remarks"
+      value="What do you mean by &quot;Demographics&quot;, &quot;PTP&quot;, &quot;PE&quot;? Demographics: where do customer come frome, age, whats is credit score PTP - Promise to Pay PE - Payment Extensions VFNZ AP: Which system should determine customer profile. VFNZ is using profiling engine to determine profile. Solution 1: Comarch integrates with existing engine Solution 2: Comarch develop new engine - maybe not needed if no change in calculation rules are planned? VFNZ AP: Please deliver samples of rules that are used in profiling process + can you please deliver sample values for profiles? Is it just a number (0-x) or name pre-defined name of the profile?"/>
+  <properties
+      key="Module"
+      value="BS,CCM,CRM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0961"
+    id="id-50dd006cbd524e0586a11d2441e6bb06"
+    documentation="As a Product Owner, for post paid and subscription payments; the valid methods of payment are as follows:  Direct debit, Credit card, Direct credit, Internet banking, NZ post, Vodafone stores, IVR so that we are driving customers to a digital experience">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0961"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Jared Mortlock"/>
+  <properties
+      key="Tribe"
+      value="Finance &amp; Business / AR Payments"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Pay"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="AR/Payments"/>
+  <properties
+      key="Remarks"
+      value="Integrations required. Do we need different types of payments, are there accounted in the same way? Batch payment types: - internet banking - (push) payment to bank that is verified using logs from the bank (for subscription model?) - direct debit (pull) - reccuring from the credit card (batch)(pull), (Windcave, Payment Express , They used to be known as DPS) - file from the NZ post - file from the stores (pronto, currently by file) - ivr payments by windcave + eShop, CRM Postpaid model payment methods - all mentioned, Subscription model payment methods - Credit/Debit card, Direct debit. Internet banking has to be confirmed by VFNZ"/>
+  <properties
+      key="Module"
+      value="BS, AIF"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

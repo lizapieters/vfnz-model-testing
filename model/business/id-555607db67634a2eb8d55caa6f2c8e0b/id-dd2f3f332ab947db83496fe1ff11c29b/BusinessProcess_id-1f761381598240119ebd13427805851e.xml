@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Complete Party Revenue Share Reconciliation"
+    id="id-1f761381598240119ebd13427805851e"
+    documentation="Complete the party revenue share reconciliation and notify involved parties and processes, including the enterprise's, that the reconciliation is complete.">
+  <properties
+      key="Process Identifier"
+      value="1.6.18.4.4"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Complete Party Revenue Share Reconciliation completes the party revenue share reconciliation and notifies involved parties and processes, including the enterprise's, that reconciliation is complete. The notification describes the appropriate action(s) that will be taken or has/have been taken. Upon completion the information provided by a party or determined by an enterprise may be designated as final. For example, if an invoice is received then its status may be changed to accepted. This process may also notify the applicable process that a payment should be made, that an invoice should be sent, credit/debit should be applied to an invoice or account balance, and so forth."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

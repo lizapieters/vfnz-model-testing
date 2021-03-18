@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Report Product Offering Purchases Status"
+    id="id-b6926696d6ec4e07be86eb55e21012db"
+    documentation="Record, analyze, and assess product offering purchase status changes to provide management reports and any specialized summaries of the efficiency and effectiveness of the overall Product Offering Purchase Lifecycle Management process, including specific reports required by specific audiences.">
+  <properties
+      key="Process Identifier"
+      value="1.2.9.8.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

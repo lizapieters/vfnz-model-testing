@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyAllowance"
+    id="id-294339012eee4820b7bdbab1eeb13fb9"
+    documentation="Money (typically) deducted from the selling price of a Product a service provider as a discount or in exchange for something. An example of allowance is 500 free minutes of domestic calls granted to new partys by AllowanceProdPriceAlteration. While a party uses the service the available allowance is gradually reduced. The AvaliablePartyAllowance represents available not yet used allowance."/>

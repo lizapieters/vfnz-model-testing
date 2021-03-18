@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Investigate Potential Security Threats &amp; Violations"
+    id="id-cfea8a4d81e34bfd8ee5d0d46e2e952d"
+    documentation="Forensic investigations to determine whether the potential threat is imminent or a security violation has occurred, and the potential or actual perpetrators.">
+  <properties
+      key="Process Identifier"
+      value="1.7.2.2.7"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

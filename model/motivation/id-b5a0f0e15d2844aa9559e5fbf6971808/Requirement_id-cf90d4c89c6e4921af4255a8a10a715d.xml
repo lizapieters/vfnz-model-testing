@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0699"
+    id="id-cf90d4c89c6e4921af4255a8a10a715d"
+    documentation="As a customer, I want to be able to schedule a helpdesk call from my self service, so that I don't have to wait on hold">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0699"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="2"/>
+  <properties
+      key="Base_Old"
+      value="2"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Help"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="help"/>
+  <properties
+      key="Topic"
+      value="Schedule a call"/>
+  <properties
+      key="Remarks"
+      value="&quot;Call me back&quot; buton - click to call OOTB simple case (without available date and time for the call; could be static timeframes)"/>
+  <properties
+      key="Module"
+      value="SC, EP, BR"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Loyalty Prize Management"
+    id="id-780dbb10eed441d3bc1c0e02877e9117"
+    documentation="Loyalty Prize Management maintains the prize lists and prize redemption costs in terms of loyalty program points. It also assures that the program customer has the points necessary to select the given prize.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.21.2"/>
+  <properties
+      key="TMF Function"
+      value="Loyalty Program Prize Administration Loyalty Program Prize Selection"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

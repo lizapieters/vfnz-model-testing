@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1071"
+    id="id-fb01f515d08246039a7ce9bbc2302a32"
+    documentation="As the Enduser of a KIDS plan I want to have a UI in the self service app that is catered to my needs, so that I have appropriate self service options for children/KIDS">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1071"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="2"/>
+  <properties
+      key="Base_Old"
+      value="2"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Self Service"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="self service"/>
+  <properties
+      key="Topic"
+      value="Interaction/Usability"/>
+  <properties
+      key="Remarks"
+      value="SC/app: UI out of Comarch scope User of a KID's plan will be a type of Subscription User entity"/>
+  <properties
+      key="Module"
+      value="SC, PIM, TUM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Consumer only"/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

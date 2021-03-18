@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BestEffortPackageSpec"
+    id="id-b4bacdc2bc654308877d33b116dcdc66"
+    documentation="This class defines the BestEffortService class; which provides traffic conditioning; access; and other sub-services to a set of applications that are not assigned Platinum; Gold; Silver; or Bronze Service. In other words; traffic assigned to BestEffort will not have any QoS associated with it."/>

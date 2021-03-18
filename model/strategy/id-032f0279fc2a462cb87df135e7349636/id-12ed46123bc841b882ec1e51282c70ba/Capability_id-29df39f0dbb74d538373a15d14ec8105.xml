@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Route Type Management"
+    id="id-29df39f0dbb74d538373a15d14ec8105"
+    documentation="The Ability to determine, modify, and interpret the category or classification of a route.">
+  <properties
+      key="TMF_ID"
+      value="1.1.10.6.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

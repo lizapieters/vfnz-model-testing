@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Center Budget Management"
+    id="id-dc975bf7cc8f45d29cb1f1bda168e1f1"
+    documentation="Center Budget Management includes the tracking of all center expenses including operating expenses as well as project expenses. This function is is primarily used for managing project budgets where a project can have long durations, multiple parallel or sequential activities and may involve work by multiple support resources.">
+  <properties
+      key="TMF Category"
+      value="(4) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.22.2.1.3"/>
+  <properties
+      key="TMF Function"
+      value="Center Budget Management"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

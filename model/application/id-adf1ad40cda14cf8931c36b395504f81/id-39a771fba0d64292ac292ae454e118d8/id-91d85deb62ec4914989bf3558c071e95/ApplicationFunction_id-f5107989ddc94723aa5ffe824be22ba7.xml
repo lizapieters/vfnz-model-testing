@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Solution Discounting"
+    id="id-f5107989ddc94723aa5ffe824be22ba7"
+    documentation="Solution Discounting function supports that Rules and guidelines are provided as to standard levels of discounts/promotions  that can be provided to the customer. Special discount arrangements can be obtained by following an escalation process. There is workflow functionality to help manage discount escalation.">
+  <properties
+      key="Function Identifier"
+      value="932"/>
+  <properties
+      key="TAM Application Name"
+      value="Solution Pricing"/>
+  <properties
+      key="TAM Application Id"
+      value="3.10.2"/>
+  <properties
+      key="Constructed Id"
+      value="3.10.2.932"/>
+</archimate:ApplicationFunction>

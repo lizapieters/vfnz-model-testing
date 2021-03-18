@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MetricDefinitionMethodArgument"
+    id="id-0834eeaa00c74b98a4dadfae23415a34"
+    documentation="Arguments needed for the calculation of the metrric definition such as numerator and denominator. This entity imay be enhanced when MetricDefinitionDeterminationMethod is enhanced. An argument could be a MetricDefinition or a raw counter."/>

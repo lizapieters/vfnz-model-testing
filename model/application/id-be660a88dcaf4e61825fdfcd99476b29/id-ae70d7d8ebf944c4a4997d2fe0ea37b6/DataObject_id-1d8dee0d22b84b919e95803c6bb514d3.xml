@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PhysicalContainer"
+    id="id-1d8dee0d22b84b919e95803c6bb514d3"
+    documentation="This is an abstract class that is used to add additional semantics to the ManagedHardware class. Its attributes define whether a ManagedHardware object can be removed and/or replaced; and whether this action requires power to be removed or not when the action is performed."/>

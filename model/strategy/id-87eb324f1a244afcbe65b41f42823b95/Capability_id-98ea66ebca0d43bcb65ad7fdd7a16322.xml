@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Supplier/Partner Reporting"
+    id="id-98ea66ebca0d43bcb65ad7fdd7a16322"
+    documentation="Supplier/Partner Reporting provides information as appropriate concerning orders, trouble tickets, campaign and sales results, product usage, billing data, inquiries on products, product feedback, as well as lead and opportunity data. This information can be made available to relevant service provider or partner staff and systems.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="8.2.7"/>
+  <properties
+      key="TMF Function"
+      value="Supplier/Partner Reporting"/>
+  <properties
+      key="TMF Maturity"
+      value="Supplier_Partner Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

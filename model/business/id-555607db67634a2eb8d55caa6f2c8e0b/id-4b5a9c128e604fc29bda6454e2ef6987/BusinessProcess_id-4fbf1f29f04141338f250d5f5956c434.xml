@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Board &amp; Shares/Securities Management"
+    id="id-4fbf1f29f04141338f250d5f5956c434"
+    documentation="Manage all activities associated with Board administration and securities regulation.">
+  <properties
+      key="Process Identifier"
+      value="1.7.6.6"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Board &amp; Shares/Securities Management processes manage all activities associated with Board administration and securities regulation. The Board Management processes manage Board related activities, and communication of Board decisions throughout the enterprise as required. Shares/Securities Management manages all activities associated with securities/shares of the enterprise and any securities/company regulations impacting on the company, including the administration and management of continuous disclosure/announcements to the securities exchange and/or securities/company regulator. These processes manage all activities associated with modifying the capital/equity structure of the enterprise, including all logistics functions associated with approaching the market for capital/increased equity. These processes manage and administer the enterpriseâ€™s share/stock registry."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

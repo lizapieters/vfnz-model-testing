@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Telesales"
+    id="id-341a157f42dc401ca46313d1416cd5c5"
+    documentation="Some Communication Service Providers use the customer service call center agents as a sales channel and allow them to sell and order services for customers who are calling in (reactive sales). Other Communication Service Providers have a dedicated call center for taking orders that is separate from the customer service call center. The Telesales call center does both reactive and proactive sales efforts.&#xA;An application geared for Telesales should provide the following benefits:&#xA;� Quick time-to-market for new and advanced services Improved quality of service and minimum faulty orders &#xA;� Increased customer satisfaction and loyalty &#xA;� Reduced churn Benefits from the Telesales agent�s perspective &#xA;� Simplified application flow Shorter training time &#xA;� Shorten calls &#xA;� Complete visibility to order status at all times &#xA;� Open, standards-based integration capabilities leverages current investments &#xA;� Faster response time to business needs">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="3.4.2"/>
+  <properties
+      key="TMF Function"
+      value="Telesales CTI tools Telesales customer and order tools Telesales Scripts Management"/>
+  <properties
+      key="TMF Maturity"
+      value="Market_Sales Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

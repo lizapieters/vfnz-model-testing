@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Order data enrichment from external systems"
+    id="id-0dc4031a8ca34dc8b72db8160b392125"
+    documentation="Application function to acquire missing order data from external 3rd party systems (like country's common address or credit check system).">
+  <properties
+      key="Function Identifier"
+      value="716"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Order Enrichment"/>
+  <properties
+      key="TAM Application Id"
+      value="5.3.7"/>
+  <properties
+      key="Constructed Id"
+      value="5.3.7.716"/>
+</archimate:ApplicationFunction>

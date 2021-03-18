@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Number Reservation"
+    id="id-e193c62a43b74458ad384478dfa92668"
+    documentation="Provides the functionality to manage the reservation of numbers.">
+  <properties
+      key="Function Identifier"
+      value="438"/>
+  <properties
+      key="TAM Application Name"
+      value="Network Number Inventory Management"/>
+  <properties
+      key="TAM Application Id"
+      value="7.13.1"/>
+  <properties
+      key="Constructed Id"
+      value="7.13.1.438"/>
+</archimate:ApplicationFunction>

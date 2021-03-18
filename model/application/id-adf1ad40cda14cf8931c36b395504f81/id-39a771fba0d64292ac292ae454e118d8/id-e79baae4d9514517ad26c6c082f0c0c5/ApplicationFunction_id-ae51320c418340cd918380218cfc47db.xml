@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer SLA Violation quantification"
+    id="id-ae51320c418340cd918380218cfc47db"
+    documentation="Customer SLA Violation Management function to quantify the violation in  terms of an adjustments or actions per the contract. (Per the SLA contract, )">
+  <properties
+      key="Function Identifier"
+      value="298"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer SLA Violation Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.18.4"/>
+  <properties
+      key="Constructed Id"
+      value="5.18.4.298"/>
+</archimate:ApplicationFunction>

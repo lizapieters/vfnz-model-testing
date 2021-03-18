@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Modify Party Privacy Policy"
+    id="id-6f8a6699ec1749a1991807715d368d42"
+    documentation="offer the possibility for the Data Subject to modify an existing Party Privacy Profile.">
+  <properties
+      key="Process Identifier"
+      value="1.6.7.3.6"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Modify Party Privacy Profile process is used to modify the Rules of Privacy Profiles through the Privacy Dashboard after the agreement of the Privacy Profile between Data Controller and Data Subject. Those modifications typically occur in the Dashboard. Those modifications are done according to the values authorized by the Privacy Policy Type."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

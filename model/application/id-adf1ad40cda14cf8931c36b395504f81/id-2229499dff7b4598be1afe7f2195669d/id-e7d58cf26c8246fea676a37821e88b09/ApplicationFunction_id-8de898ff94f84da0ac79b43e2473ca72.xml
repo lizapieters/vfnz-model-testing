@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Spares &amp; Warehouse Inventory Management"
+    id="id-8de898ff94f84da0ac79b43e2473ca72"
+    documentation="Spares and Warehouse Inventory Management applications are responsible for managing the spare parts for the various Elements deployed in the network. Accurate tracking of these spares is necessary to ensure that correct spares are at hand to avoid extended period of downtime and are tightly integrated with the Supply Chain applications.j">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="7.1.6"/>
+  <properties
+      key="Frameworx Domain"
+      value="Resource Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Invoice Charges Assembly"
+    id="id-7216b307c0ef4f7f89b73d0532dcfebe"
+    documentation="Assembles charges (including charge distribution- charges incurred by other customers), credits, taxes, fees and adjustments that affect the balance due.">
+  <properties
+      key="Function Identifier"
+      value="310"/>
+  <properties
+      key="TAM Application Name"
+      value="Invoice Generation"/>
+  <properties
+      key="TAM Application Id"
+      value="5.15.7"/>
+  <properties
+      key="Constructed Id"
+      value="5.15.7.310"/>
+</archimate:ApplicationFunction>

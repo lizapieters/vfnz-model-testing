@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SoftwareSpecification"
+    id="id-e8fe63bed79d4e3981a778fc567a2dcf"
+    documentation="A generalization that represents all attributes and associations that are common to Component and CompositeSoftwareSpecifications. It also reprsents the definition of Software whose attribute values are shared by every instance of Software related to it. A SoftwareSpecification specifies properties or associated information that characterizes a software; such as: -Â the release number; the status of the release; license conditions... -Â hosting platform requirements such as OS; disk and memory space... - input and output configuration and requirements - and includes all files required for deployment and installation such as installation manager"/>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Test result interpretation policy management"
+    id="id-d3567e22b3744cab8f50a36374e20f95"
+    documentation="Resource Test Strategy and Policy Management interpretation of test results functions provide the necessary functionality to manage how the test results should be interpreted.&#xA;Strategies can range from simple (e.g. - check the status of a router) to complex (e.g. - perform an end-to-end test on a circuit and sectionalize the problem).">
+  <properties
+      key="Function Identifier"
+      value="519"/>
+  <properties
+      key="TAM Application Name"
+      value="Resource Test Strategy and Policy Management"/>
+  <properties
+      key="TAM Application Id"
+      value="7.11.1"/>
+  <properties
+      key="Constructed Id"
+      value="7.11.1.519"/>
+</archimate:ApplicationFunction>

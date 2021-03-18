@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Entity/Decision Matching"
+    id="id-edc67e058f3f4f9a9274f26d5505557f"
+    documentation="The ability to associate the business entity with decisions about its purpose, structure, organization, and capital structure.">
+  <properties
+      key="TMF_ID"
+      value="1.2.4.6.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

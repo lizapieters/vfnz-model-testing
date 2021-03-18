@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Party Revenue Share Determination"
+    id="id-3a362f6ca80a42dea9c6a634373fac31"
+    documentation="Use existing artefacts such as usage, invoices, product prices, and applied billing rates to determine how revenues will be split. The revenue split may result in a payment to/from a party and/or an bill/invoice to/from a party. It may also be shown as a reduction of or increase to an bill/invoice sent to or received from a party. There are a variety of revenue sharing models, that determines how revenue may be split among an enterprise and other parties. Based on the type of revenue sharing model different determinants are used to calculate the final bill/invoice or payment.">
+  <properties
+      key="Process Identifier"
+      value="1.6.18.3"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Party Revenue Share Determination uses existing artefacts such as usage, invoices, product prices, and applied billing rates to determine how revenues will be shared. The revenue share may result in a payment to/from a party and/or an bill/invoice to/from a party. It may also be shown as a reduction of or increase to an bill/invoice sent to or received from a party, or a credit/debit to a party's account balance. There are a variety of revenue sharing models, that determines how revenue may be split among an enterprise and other parties. Based on the type of revenue sharing model different determinants are used to calculate the final bill/invoice or payment. Flat rate and usage based revenue sharing models are just two of a number of models, which also include but are not limited to tiered, commitment, progressive, along with multi-party variations of each. A party revenue sharing agreement defines the period for which a revenue share for a product offering are determined. It is possible that it has no simple correlation to the sum of retail revenues. It is in essence a specialization of Rating and at the same time and abstraction of Pricing especially for Wholesale &amp; Business Party Billing."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

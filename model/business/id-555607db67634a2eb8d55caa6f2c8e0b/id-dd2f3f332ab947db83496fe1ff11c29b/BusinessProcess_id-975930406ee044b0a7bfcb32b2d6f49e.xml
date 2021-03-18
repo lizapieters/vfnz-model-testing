@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Approve Resource Capability Investment"
+    id="id-975930406ee044b0a7bfcb32b2d6f49e"
+    documentation="These processes capture all activities required to gain necessary approval for  business proposals to develop and deliver the required resource capabilities, including identification of potential other parties.&#xA;The processes include any interaction with cross-enterprise and cross-domain coordination and management functions to ensure that the demand distributions capture the needs of relevant stakeholders. Coordination and management function may use automated processes to improve efficiency and shorten TTM.">
+  <properties
+      key="Process Identifier"
+      value="1.5.2.3.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collection Treatment"
+    id="id-486668e6266a445ea089dd9bc6d53cb7"
+    documentation="Collection Treatment Management - Defines and initiates the collection treatment activities according to the appropriate collection policy. A collection treatment can belong to one of the following categories:  &#xA;o Issue notice (e.g. Collection Letter, e-mail or SMS) &#xA;o CSR assignment � Assign a CSR or a CSR group to manually handle the collection. &#xA;o Issue Restrict/Restore/Disconnects request - Includes anything from restricting to suspensions, as well as the restoration when payment is received. &#xA;o OCA Referrals - Passing the collection process on to an Outside Collection Agency. &#xA;o Initiate Write-off requests">
+  <properties
+      key="Function Identifier"
+      value="147"/>
+  <properties
+      key="TAM Application Name"
+      value="Collection Policy Execution and Monitoring"/>
+  <properties
+      key="TAM Application Id"
+      value="5.14.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.14.2.147"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="New Product Introduction and Maintenance"
+    id="id-53925b530266440e893b7d31ac8afaad"
+    documentation="Introduce and maintain new products as part of the Product Lifecycle Management (PLM) in appropriate systems e.g. Product Catalogue. For Product Offerings, it permits to define and update :&#xA;- commercial name and characteristics of the offer&#xA;- subscription and packaging rules&#xA;- tariffs specifications&#xA;- link with the commercialized products">
+  <properties
+      key="Function Identifier"
+      value="406"/>
+  <properties
+      key="TAM Application Name"
+      value="Product Lifecycle Management"/>
+  <properties
+      key="TAM Application Id"
+      value="4.3"/>
+  <properties
+      key="Constructed Id"
+      value="4.3.406"/>
+</archimate:ApplicationFunction>

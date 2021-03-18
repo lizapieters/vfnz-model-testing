@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Order Matching"
+    id="id-f4e6c91053bc4a109f9c0a78649a4806"
+    documentation="The ability to associate an order with other business objects.">
+  <properties
+      key="TMF_ID"
+      value="1.1.8.12"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

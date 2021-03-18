@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Channel Performance Constraints Determination"
+    id="id-e0f9407d0ca948d1a14cb6e997394b45"
+    documentation="The ability to assess what is causing a channel to under perform.">
+  <properties
+      key="TMF_ID"
+      value="1.1.1.6.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Billing Event Processing"
+    id="id-870954163e8a4cccb754c5ffc0650218"
+    documentation="Billing Event Processing includes collection, guiding, distribution, mediation, enrichment, analysis, summarization, and correlation of billing event records. These functions are required to support both file and event based processing. &#xA;&#xA;Billing events may originate from many sources. A primary source of billing events is the Usage Management function. The Usage Management function will provide information produced by various network elements to Billing Event Processing. Events produced in the Usage Management function may be used as:&#xA;1. Measurements for calculating the charge of purchased products offerings where the price is a usage price type. The events may report measurements expressed in various units (bandwidth, duration, quantity, message vs. measured, etc.). &#xA;2. Purchase indicators that indicates to Billing that a product offering has been �ordered� by a customer&#xA;&#xA;� Other sources of billing event records are:&#xA;� Third parties&#xA;� Ordering platforms&#xA;� Other billers&#xA;&#xA;Events to be rated are distributed to the appropriate rating system. Once rated, the events are returned from Rating to Billing Events Management and from there distributed to Bill Calculation. Rated events may be used by Balance Management to affect a balance.&#xA;&#xA;Events that indicate a roaming activity are distributed to outside service providers.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.20.1"/>
+  <properties
+      key="TMF Function"
+      value="Billing Event Processing Analysis Billing Event Processing Collection Billing Event Processing Correlation Billing Event Processing Distribution Billing Event Processing Enrichment Billing Event Processing Guiding Billing Event Processing Mediation Billing Event Processing Summarization"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

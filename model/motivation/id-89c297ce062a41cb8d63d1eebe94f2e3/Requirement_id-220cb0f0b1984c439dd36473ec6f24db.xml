@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0198"
+    id="id-220cb0f0b1984c439dd36473ec6f24db"
+    documentation="Availability check - Access - Fixed Wireless Access (3G/4G, 5G)-FWA">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0198"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Tim Munnik"/>
+  <properties
+      key="Tribe"
+      value="OSS Squad"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Access Service"/>
+  <properties
+      key="Remarks"
+      value="BSS and OSS"/>
+  <properties
+      key="Module"
+      value="AIF"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="REQ_OSS_148, REQ_OSS_138"/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Instantiation and Lifecycle management support"
+    id="id-c69495c4f78a4c8199949d36dcfcba8a"
+    documentation="Resource Instantiation and Lifecycle management support: Resource performance and availability may be controlled by managing multiple instances of the Resource allocated to one or more applications. The �Resource Instantiation and Lifecycle management support� function will control the starting of new instances and closing of instances of a Resource like but not limited to CPU, Memory etc.">
+  <properties
+      key="Function Identifier"
+      value="957"/>
+  <properties
+      key="TAM Application Name"
+      value="Resource Capability Orchestration"/>
+  <properties
+      key="TAM Application Id"
+      value="7.16"/>
+  <properties
+      key="Constructed Id"
+      value="7.16.957"/>
+</archimate:ApplicationFunction>

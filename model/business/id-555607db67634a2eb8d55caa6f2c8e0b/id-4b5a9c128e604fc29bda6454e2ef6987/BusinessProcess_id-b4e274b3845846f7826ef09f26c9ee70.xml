@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Track &amp; Manage Customer QoS Performance Resolution"
+    id="id-b4e274b3845846f7826ef09f26c9ee70"
+    documentation="Efficiently assign, coordinate and track specific customer purchased product offering related performance analysis, restoration and improvement activities, and escalate any open customer QoS performance degradation reports in jeopardy.">
+  <properties
+      key="Process Identifier"
+      value="1.3.8.5"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of the Track &amp; Manage Customer QoS Performance Resolution processes is to efficiently assign, coordinate and track specific customer purchased product offering related performance analysis, restoration and improvement activities, and escalate any open customer QoS performance degradation reports in jeopardy. Responsibilities of these processes include, but are not limited to: â€¢ Adding additional information to an open customer QoS performance degradation report based on the first-in and on-going analysis; â€¢ Scheduling, assigning and coordinating analysis and specific customer QoS performance restoration activities and/or repair activities delegated to other processes; â€¢ Generating the respective service trouble report creation request(s) to Create Service Trouble Report based on specific customer QoS performance degradation reports where analysis the root cause is related to services; â€¢ Modifying information in an existing customer QoS performance degradation report based on assignments; â€¢ Modifying the customer QoS performance degradation report status; â€¢ Canceling a customer QoS performance degradation report when the specific request was related to a false performance event â€¢ Monitoring the jeopardy status of open customer QoS performance degradation reports, and escalating customer QoS performance degradation reports as necessary. Note that some specific product and/or service components may be owned and managed by other parties. In these cases the Track &amp; Manage Customer QoS Performance Resolution process is responsible for initiating requests, through other parties Performance Management for resolution by the other parties of the specific service components. These processes will co-ordinate all the actions necessary in order to guarantee that all tasks are finished at the appropriate time and in the appropriate sequence. The Track &amp; Manage Customer QoS Performance Resolution processes will also inform the Close Customer QoS Performance Degradation Report processes by modifying the customer QoS performance degradation report status to cleared when the specific customer purchased product offering performance quality issues have been resolved."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

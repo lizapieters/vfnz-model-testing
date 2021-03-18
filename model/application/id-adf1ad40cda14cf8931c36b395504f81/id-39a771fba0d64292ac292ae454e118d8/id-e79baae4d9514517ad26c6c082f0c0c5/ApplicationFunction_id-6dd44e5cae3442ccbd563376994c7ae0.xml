@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SLA violation notification"
+    id="id-6dd44e5cae3442ccbd563376994c7ae0"
+    documentation="Customer SLA Violation Management function provide the necessary functionality to notify appropriate people or systems to remedy the SLA violation.">
+  <properties
+      key="Function Identifier"
+      value="296"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer SLA Violation Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.18.4"/>
+  <properties
+      key="Constructed Id"
+      value="5.18.4.296"/>
+</archimate:ApplicationFunction>

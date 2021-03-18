@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deposit Management"
+    id="id-e39bfb465b1a4721b079f68fed545c87"
+    documentation="Deposit Management manages amounts held as a guarantee of payment.  Interest may be accumulated on this deposit amount.  If payment is not made in a timely manner, a portion of this deposit may be applied to the outstanding balance.  Based on business policy, deposits may be refunded with applicable interest after some period of time.  Deposit Management maintains and executes on these policies.">
+  <properties
+      key="Function Identifier"
+      value="33"/>
+  <properties
+      key="TAM Application Name"
+      value="A/R Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.9.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.9.1.33"/>
+</archimate:ApplicationFunction>

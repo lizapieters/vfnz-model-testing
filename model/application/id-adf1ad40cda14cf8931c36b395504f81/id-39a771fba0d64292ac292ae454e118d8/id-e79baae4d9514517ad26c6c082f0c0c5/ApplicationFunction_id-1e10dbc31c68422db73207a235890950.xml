@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Perform manual collection activities"
+    id="id-1e10dbc31c68422db73207a235890950"
+    documentation="Perform manual collection activities (e.g. make call)">
+  <properties
+      key="Function Identifier"
+      value="135"/>
+  <properties
+      key="TAM Application Name"
+      value="Collection"/>
+  <properties
+      key="TAM Application Id"
+      value="5.6.3.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.6.3.1.135"/>
+</archimate:ApplicationFunction>

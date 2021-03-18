@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Logistics Management"
+    id="id-df5c09f492a547e6be68cf873fd9dfbb"
+    documentation="Logistics Management is integral to the supply chain and provides the necessary functionality to manage receipt of fulfillment orders, inventory control choices, and packing requirements.Logistics also manages inbound shipments, outbound shipments and communication between suppliers.As well as involves overseeing the key links in the supply chain, such as shipping decisions, inventory control choices and packing requirements.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.10.4"/>
+  <properties
+      key="TMF Function"
+      value="Stored material management Supplied materials reception"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

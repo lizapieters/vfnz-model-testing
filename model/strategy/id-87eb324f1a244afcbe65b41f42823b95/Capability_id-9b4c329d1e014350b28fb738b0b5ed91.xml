@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer SLA Collection"
+    id="id-9b4c329d1e014350b28fb738b0b5ed91"
+    documentation="Customer SLA Collection applications provide the necessary functionality to collect information about a given SLA issue.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.18.2"/>
+  <properties
+      key="TMF Function"
+      value="Customer SLA issue information collection"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

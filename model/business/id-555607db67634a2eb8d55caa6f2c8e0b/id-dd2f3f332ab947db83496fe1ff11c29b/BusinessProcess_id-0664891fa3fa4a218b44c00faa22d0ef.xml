@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Service Performance Data Collection Schedules"
+    id="id-0664891fa3fa4a218b44c00faa22d0ef"
+    documentation="This process initiates, modifies and cancels continuous performance data collection schedules for specific services required to analyze specific service performance. These schedules are established through requests sent to the Enable Service Quality Management processes.">
+  <properties
+      key="Process Identifier"
+      value="1.4.7.2.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

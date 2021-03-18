@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Establish Product Portfolio Strategy"
+    id="id-52e4ecf6d3ab40248df2274d4e5c9858"
+    documentation="Define and agree the product and offer portfolio structure to be used within the enterprise">
+  <properties
+      key="Process Identifier"
+      value="1.2.1.2"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Establish Product Portfolio Strategy processes define the overall structure of the product portfolios to be used across the enterprise, or between or within business units. These products and product portfolios form the basis of offers made to customers. It includes the agreement on and implementation of cross-portfolio and cross-product co-ordination and management functions."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

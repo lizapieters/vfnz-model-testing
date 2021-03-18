@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Problem Management"
+    id="id-f43322cc794540ed95b6aae62b5fb6dd"
+    documentation="Respond immediately to customer-affecting service problems or failures in order to minimize their effects on customers, and to invoke the restoration of the service, or provide an alternate service as soon as possible.">
+  <properties
+      key="Process Identifier"
+      value="1.4.6"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Service Problem Management processes are responsible for the management of problems associated with specific services. The objective of these processes is to respond immediately to reported service problems or failures in order to minimize their effects on customers, and to invoke the restoration of the service, or provide an alternate service as soon as possible. Responsibilities of the Service Problem Management processes include, but are not limited to: â€¢ Detecting, analyzing, managing and reporting on service alarm event notifications; â€¢ Initiating and managing service trouble reports; â€¢ Performing service problem localization analysis; â€¢ Correcting and resolving service problems; â€¢ Reporting progress on service trouble reports to other processes; â€¢ Assigning &amp; tracking service problem testing and recovery activities â€¢ Managing service problem jeopardy conditions Service Problem Management processes perform analysis, decide on the appropriate actions/responses and carry them out with the intent of restoring normal operation on specific services. However these activities need to interact with the Problem Handling processes, as the latter have a view on customer impact. Service Problem Management processes are responsible for informing Problem Handling processes of any potential customer problems. Where the original report arose as a result of customer problems, the Service Problem Management processes may be coordinated by Problem Handling processes."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

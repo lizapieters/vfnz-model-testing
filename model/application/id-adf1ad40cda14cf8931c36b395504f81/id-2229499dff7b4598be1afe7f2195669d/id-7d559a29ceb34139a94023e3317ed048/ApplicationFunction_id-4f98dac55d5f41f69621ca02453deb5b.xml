@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Asset Management"
+    id="id-4f98dac55d5f41f69621ca02453deb5b"
+    documentation="Asset Management - for understanding the physical and financial assets deployed in the enterprise and optimizing the economics associated with those investments along the lifecycle from introduction through maintenance to eventual disposal.">
+  <properties
+      key="TAM Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="9.4"/>
+  <properties
+      key="Frameworx Domain"
+      value="Enterprise Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

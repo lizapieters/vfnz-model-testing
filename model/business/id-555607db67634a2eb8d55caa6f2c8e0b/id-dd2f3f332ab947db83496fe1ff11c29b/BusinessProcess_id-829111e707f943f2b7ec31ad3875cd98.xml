@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Specify Type Specific Agreement Component"
+    id="id-829111e707f943f2b7ec31ad3875cd98"
+    documentation="Specify a type specific agreement component such as the product offering price associated with an offering included in the agreement.">
+  <properties
+      key="Process Identifier"
+      value="1.6.5.1.4"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Specify Type Specific Agreement Component specifies a type specific agreement component. Type specific components may include: Â· specifying the product offering price associated with an offering included in a pricing agreement Â· specifying the product offering price for on-boarding agreements for another party's offerings that will be offered in some way by an enterprise - for an on-boarding agreement the applicable on-boarding processes will indicate the offering, and if its product specification is being initially being on-boarded, is/are tentatively on-boarded until the agreement is approved Â· specifying product, service, and/or resource key quality indicators and key performance indicators for service level agreements with another party."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

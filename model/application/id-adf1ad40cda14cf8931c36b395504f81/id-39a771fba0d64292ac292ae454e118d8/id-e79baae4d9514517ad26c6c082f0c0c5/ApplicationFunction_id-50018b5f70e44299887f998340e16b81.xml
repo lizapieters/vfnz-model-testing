@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Open disputes registering"
+    id="id-50018b5f70e44299887f998340e16b81"
+    documentation="When a customer questions a charge, account representatives work with the customer to resolve the disputed charge. Open disputes are entered into the dispute management system where an audit process keeps track of its progress until it�s closed.">
+  <properties
+      key="Function Identifier"
+      value="302"/>
+  <properties
+      key="TAM Application Name"
+      value="Dispute Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.10.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.10.2.302"/>
+</archimate:ApplicationFunction>

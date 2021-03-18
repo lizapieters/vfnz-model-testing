@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Remove Party Demographic"
+    id="id-5409e7b4b49c4735a5795917f86d1f20"
+    documentation="Remove a party demographic, either by deleting it or indicating it is no longer valid.">
+  <properties
+      key="Process Identifier"
+      value="1.6.3.2.5"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Remove Party Demographic removes a party demographic, either by deleting it or indicating it is no longer valid. For example, a party privacy agreement may specify that a certain fact about a part be removed via deletion after an agreed upon period of time; this is typically referred to &quot;as the right to be forgotten&quot;."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

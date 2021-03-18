@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1204"
+    id="id-dc2e691f762841ee9331d66e57712c90"
+    documentation="As a prospective customer, I want to register for things that are coming up/rolling out so I know when I can enjoy future products and services (e.g. fibre, 5G coverage, new devices etc.)">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1204"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="y"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Learn"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Topic"
+      value="0"/>
+  <properties
+      key="Remarks"
+      value="newsletter, but entry point is not sure at the moment, might be from digital channels Can you confirm whether this is about newsletter and where the customer can enroll? VF webpage? SC? DS? [CCM] Not for CCM?"/>
+  <properties
+      key="Module"
+      value="CCM, SC, DS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

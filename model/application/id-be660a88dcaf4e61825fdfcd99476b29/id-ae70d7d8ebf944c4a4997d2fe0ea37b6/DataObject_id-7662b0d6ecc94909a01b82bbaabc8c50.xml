@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyRoleUsesProcessesDetails"
+    id="id-7662b0d6ecc94909a01b82bbaabc8c50"
+    documentation="This class defines the semantics of the PartyRoleUsesProcesses association. Since different PartyRoles have different privileges for working on and running the SoftwareResource; an association class is needed to accurately model these details. This association defines the semantics of how a particular PartyRole uses this SoftwareResource instance."/>

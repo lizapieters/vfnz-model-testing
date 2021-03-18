@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Network Asset Deployment Workflow"
+    id="id-a596a06f4c714dcd90a50fd72a953a5a"
+    documentation="Network Asset Deployment Workflow function to coordinate the availability and deployment of resources to their in-service locations.">
+  <properties
+      key="Function Identifier"
+      value="474"/>
+  <properties
+      key="TAM Application Name"
+      value="Resource Logistics"/>
+  <properties
+      key="TAM Application Id"
+      value="7.5.4"/>
+  <properties
+      key="Constructed Id"
+      value="7.5.4.474"/>
+</archimate:ApplicationFunction>

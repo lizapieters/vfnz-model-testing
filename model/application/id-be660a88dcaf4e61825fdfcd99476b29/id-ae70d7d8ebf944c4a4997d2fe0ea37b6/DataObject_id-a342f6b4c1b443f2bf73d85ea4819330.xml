@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ConfigurationFeature"
+    id="id-a342f6b4c1b443f2bf73d85ea4819330"
+    documentation="A ConfigurationFeature is a type of Entity described by a ConfigurationFeatureSpec. It is used to expose one or several ResourceFunctions to a consumer in such a way that it is easier to configure these RFunctions from a consumer view point. A ConfigurationFeature may have characteristics configured according to the possible configurations specified by the ConfigurationFeatureSpec."/>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plan Risk Threshold Determination"
+    id="id-a340e469d7da4f50b263929f0fe8575d"
+    documentation="The ability to identify and define the level of acceptable risk associated with a plan or set of plans.">
+  <properties
+      key="TMF_ID"
+      value="1.2.7.4.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

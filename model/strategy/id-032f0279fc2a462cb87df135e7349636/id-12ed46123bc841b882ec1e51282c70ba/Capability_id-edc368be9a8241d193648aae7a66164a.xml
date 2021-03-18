@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Payment Amount Determination"
+    id="id-edc368be9a8241d193648aae7a66164a"
+    documentation="The ability to calculate and recognize a specific value associated with a payment.">
+  <properties
+      key="TMF_ID"
+      value="1.3.6.6.4"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource inventory updating"
+    id="id-c1151e1fb0e64aba9f4ea737ef17faf2"
+    documentation="Update information in the resource inventory as to configuration of specific resources">
+  <properties
+      key="Function Identifier"
+      value="489"/>
+  <properties
+      key="TAM Application Name"
+      value="Resource Order Configuration Management"/>
+  <properties
+      key="TAM Application Id"
+      value="7.3.3.2"/>
+  <properties
+      key="Constructed Id"
+      value="7.3.3.2.489"/>
+</archimate:ApplicationFunction>

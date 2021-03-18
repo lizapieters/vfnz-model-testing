@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Supplier/Partner Product Lifecycle Management"
+    id="id-678cccf5b6934fe7b51b27abaed87c7a"
+    documentation="Partner Product Lifecycle Management provides the necessary functionality to onboard or incorporate a partner's prospective product(s) into the service provider's product catalog or &quot;store front&quot;, the partner's store front, etc. This functionality also includes the capability to manage the partner's product lifecycle from inception to retirement.Partner products can include tangible and intangible products based onresources, servicesandapplications.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="8.2.6"/>
+  <properties
+      key="TMF Function"
+      value="Initiation of product instantiation Product certification/decertification Product onboarding, updates, and decommissioning"/>
+  <properties
+      key="TMF Maturity"
+      value="Supplier_Partner Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResourceFacingServiceSpecAtomic"
+    id="id-6fec22f2575d4168bc777a2358d3199d"
+    documentation="This is an abstract base class for defining ResourceFacingServiceSpecifications that do not have any subordinate ResourceFacingServiceSpecifications. In other words; a ResourceFacingServiceSpecAtomic is a stand-alone ResourceFacingServiceSpecification; and doesnt require any supporting ResourceFacingServiceSpecifications to define the shared characteristics (i.e.; attributes; relationships; and constraints) of any ResourceFacingServices that it serves as a template for."/>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Human Resource/Competency Matching"
+    id="id-64aa35f430ee4fd48c9d4cbd200ed2b2"
+    documentation="The ability to associate human resources with a defined competency.">
+  <properties
+      key="TMF_ID"
+      value="1.3.8.7.5"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

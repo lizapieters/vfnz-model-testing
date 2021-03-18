@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enterprise Performance Assessment"
+    id="id-aeaebea0b632497fafdc31a7c888e94d"
+    documentation="Check that the goals defined for the enterprise are on track and being met.">
+  <properties
+      key="Process Identifier"
+      value="1.7.3.4"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Enterprise Performance Assessment processes check that the goals defined for the enterprise are on track and being met. These processes provide regular reporting to senior management and the Board on the status of all defined performance metrics on a regular basis (usually monthly). The processes define and determine the most appropriate performance measures, collect and analyze the associated data and produce summary reports. The measures may be internally developed, or may be based on externally produced or collected measures. Examples of external measures could be customer satisfaction surveys, within or across market segments, or benchmarking studies of particular aspects of the enterprise performance. Examples of internal performance measures can be based on financial performance (i.e. progress against budget), operational process performance based metrics, or employee related measures such as employee opinion surveys. The Enterprise Performance Assessment processes produce the enterprise Balanced Scorecard. These processes establish and administer relationship with external survey companies if required to provide external measures or assist in developing internal measures. Note that performance is actually assessed within each area of the enterprise, but follows the guidelines defined by this process, which provides a template for specific applications of Performance Assessment in any areas of the Enterprise."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

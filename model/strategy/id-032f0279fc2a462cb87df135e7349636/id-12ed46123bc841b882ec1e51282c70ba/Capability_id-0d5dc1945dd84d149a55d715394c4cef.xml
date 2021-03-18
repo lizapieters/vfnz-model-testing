@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Finance Profile Management"
+    id="id-0d5dc1945dd84d149a55d715394c4cef"
+    documentation="The ability to identify, track, validate, report on, or otherwise administer descriptive information related to an organization's finances.">
+  <properties
+      key="TMF_ID"
+      value="1.3.6.11.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

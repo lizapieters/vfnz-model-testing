@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NumberRetirementRequest"
+    id="id-a845f0e8aa0348a2a500b6a189db55a8"
+    documentation="This is a sub-class of NumberPortabilityRequest for describing and store the requests related to retirement of numbers. This allows to send back telephone numbers that were previously ported in; and receive telephone numbers that were previously ported out."/>

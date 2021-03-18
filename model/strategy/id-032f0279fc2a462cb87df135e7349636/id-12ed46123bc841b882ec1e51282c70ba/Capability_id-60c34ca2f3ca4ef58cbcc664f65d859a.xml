@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Network Risk Threshold Determination"
+    id="id-60c34ca2f3ca4ef58cbcc664f65d859a"
+    documentation="The ability to identify and define the level of acceptable risk associated with a network.">
+  <properties
+      key="TMF_ID"
+      value="1.1.7.6.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

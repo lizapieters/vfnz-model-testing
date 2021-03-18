@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mark Resource Order for Special Handling"
+    id="id-1702974652f0411ab7dfb800e7069596"
+    documentation="Where the purchased product offering has special or unusual requirements, and a specific feasibility assessment and/or specific resource design has not been previously created, this process marks the issued resource order as requiring special handling, and passes management for further processing to the Track &amp; Manage Resource Provisioning process.">
+  <properties
+      key="Process Identifier"
+      value="1.5.6.7.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collection Policy Execution and Monitoring"
+    id="id-5c0bcd3de3004c0b98d906d135e0608b"
+    documentation="Collection Policy Execution and Monitoring starts with the decision for whether to initiate a collection process for an account. Once a collection decision has been taken, the appropriate collection policy is selected. There are many events that may change the collection activities For example � customer paid, customer back out from a payment arrangement, customer status has been changed or a manual intervention in the collection process. All these require constant monitoring and process execution modifications.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="5.14.2"/>
+  <properties
+      key="Frameworx Domain"
+      value="Customer Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

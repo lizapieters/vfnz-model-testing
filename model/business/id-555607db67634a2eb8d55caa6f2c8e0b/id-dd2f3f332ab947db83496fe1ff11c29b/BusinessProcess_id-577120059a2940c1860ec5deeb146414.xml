@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Recommend Service Partnership"
+    id="id-577120059a2940c1860ec5deeb146414"
+    documentation="Scan external availability and recommend external parties">
+  <properties
+      key="Process Identifier"
+      value="1.4.1.6.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Recommend service partnership processes focus on scanning external availability of sourcing Service aspects and make recommendations about specific parties who should be used to provide the service aspects"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Capture Product Capability Shortfalls"
+    id="id-57ddb970987f4587955aac03cd40613a"
+    documentation="Identify specific or imminent product capacity, product performance and/or product operational support shortfalls">
+  <properties
+      key="Process Identifier"
+      value="1.2.2.2"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Capture Product Capability Shortfalls processes identify specific or imminent product capacity, product performance and/or product operational support shortfalls. These processes take information available from the Customer Relationship Management processes to establish detailed views of anticipated product capacity and performance shortfalls and support process issues."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

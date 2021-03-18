@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RoleSpecification"
+    id="id-9ace41962fc642d8877dd96fe2287f34"
+    documentation="This is the abstract base class for all RoleSpecification subclasses. It exists to enable relationships to be defined between it and other classes. This helps prevent relationship explosion."/>

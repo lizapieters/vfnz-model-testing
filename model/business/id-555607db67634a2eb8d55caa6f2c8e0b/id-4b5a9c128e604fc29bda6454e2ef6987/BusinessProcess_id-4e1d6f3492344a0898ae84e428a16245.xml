@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Close Service Order"
+    id="id-4e1d6f3492344a0898ae84e428a16245"
+    documentation="Close a service order when the service provisioning activities have been completed">
+  <properties
+      key="Process Identifier"
+      value="1.4.5.8"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of the Close Service Order processes is to close a service order when the service provisioning activities have been completed. These processes monitor the status of all open service orders, and recognize that a service order is ready to be closed when the status is changed to completed."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

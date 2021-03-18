@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RA Monitoring Anomaly Detection"
+    id="id-f344732c9786426a9dd59147771555dd"
+    documentation="RA Monitoring function analyze processes (both interprocess and intraprocess) for RA anomalies, and looks for situations that are outside of the established baselines and triggers alerts when those situations are detected for further analysis. RA Monitoring looks for both &quot;immediate&quot; anomalies as well as predicts anomalies via trend analysis">
+  <properties
+      key="Function Identifier"
+      value="763"/>
+  <properties
+      key="TAM Application Name"
+      value="RA Monitoring"/>
+  <properties
+      key="TAM Application Id"
+      value="9.1.3"/>
+  <properties
+      key="Constructed Id"
+      value="9.1.3.763"/>
+</archimate:ApplicationFunction>

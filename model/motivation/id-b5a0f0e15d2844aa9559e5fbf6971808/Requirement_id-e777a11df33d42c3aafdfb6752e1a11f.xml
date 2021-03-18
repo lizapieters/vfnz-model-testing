@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0746"
+    id="id-e777a11df33d42c3aafdfb6752e1a11f"
+    documentation="As customer, when I have a question or need to change something on an order, I want ability to ask questions and make changes to the order, from the order itself, so that I can be sure my changes are captured and saved.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0746"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Jared Mortlock"/>
+  <properties
+      key="Tribe"
+      value="Business"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Tracking"/>
+  <properties
+      key="Remarks"
+      value="What kind of changes? to be discussed on dedicate workshop"/>
+  <properties
+      key="Module"
+      value="OM, SC, EP"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

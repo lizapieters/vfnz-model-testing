@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Payroll Withholdings and Deductions Calculation"
+    id="id-66def82883694f79a74a2ef70c23c2e5"
+    documentation="Calculates Payroll Taxes and outputs to applicable agencies. Calculates Withholdings such as Federal Income Tax, and calculates deductions such as medical insurance, union dues and charitable contributions.">
+  <properties
+      key="Function Identifier"
+      value="770"/>
+  <properties
+      key="TAM Application Name"
+      value="Payroll Management"/>
+  <properties
+      key="TAM Application Id"
+      value="9.2.1"/>
+  <properties
+      key="Constructed Id"
+      value="9.2.1.770"/>
+</archimate:ApplicationFunction>

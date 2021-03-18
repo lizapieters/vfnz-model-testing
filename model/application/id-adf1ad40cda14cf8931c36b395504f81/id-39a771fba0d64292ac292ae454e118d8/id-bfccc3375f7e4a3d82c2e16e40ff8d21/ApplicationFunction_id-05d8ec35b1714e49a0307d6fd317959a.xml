@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Compose a service configuration plan"
+    id="id-05d8ec35b1714e49a0307d6fd317959a"
+    documentation="Function for composition of a service configuration plan according to the required service actions and sent to Service Order Orchestration and/or Service Activation Management">
+  <properties
+      key="Function Identifier"
+      value="588"/>
+  <properties
+      key="TAM Application Name"
+      value="Service Configuration Management"/>
+  <properties
+      key="TAM Application Id"
+      value="6.3.6"/>
+  <properties
+      key="Constructed Id"
+      value="6.3.6.588"/>
+</archimate:ApplicationFunction>

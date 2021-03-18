@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mediate &amp; Orchestrate Party Interactions"
+    id="id-1ffc463c7f50427e81d0f800e1173c15"
+    documentation="Ensure that transaction message structure and interactions conform to agreed or externally defined standards used by the enterprise and its Parties">
+  <properties
+      key="Process Identifier"
+      value="1.6.9.6"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The purpose of the Mediate &amp; Orchestrate Party Interactions is to ensure that transaction message structure and interactions conform to agreed or externally defined standards used by the enterprise and its Parties. Increasingly transactions with external parties (e.g. Parties using RosettaNet or Web Services standards) will need to conform to message and data formats defined by third parties or third party organizations. Based on the specific transaction type and involved external party, this conformance will require the identification of the necessary data formats to be sent externally, and conversion of externally received messages into the required internal enterprise formats. In addition, interactions with external parties may require that messages and transactions need to be undertaken with defined and agreed orchestration for message exchange. The actual agreement between the parties to use specific interaction standards is part of the Support Party Interface Management and Support Selling L3s."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

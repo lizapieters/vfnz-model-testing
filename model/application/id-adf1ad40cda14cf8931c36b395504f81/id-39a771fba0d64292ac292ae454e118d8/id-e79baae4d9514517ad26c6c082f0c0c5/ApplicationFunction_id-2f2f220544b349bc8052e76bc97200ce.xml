@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Case Tracking &amp; Management Creation Capability"
+    id="id-2f2f220544b349bc8052e76bc97200ce"
+    documentation="Creates and manages case worklists and includes the need to contact the customer to inform them of a change in the case.">
+  <properties
+      key="Function Identifier"
+      value="101"/>
+  <properties
+      key="TAM Application Name"
+      value="Case Tracking &amp; Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.17.4"/>
+  <properties
+      key="Constructed Id"
+      value="5.17.4.101"/>
+</archimate:ApplicationFunction>

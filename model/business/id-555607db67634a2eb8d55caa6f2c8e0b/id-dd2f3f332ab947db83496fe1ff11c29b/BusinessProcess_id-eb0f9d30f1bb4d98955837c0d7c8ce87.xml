@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Control Product Offering Inventory Access"
+    id="id-eb0f9d30f1bb4d98955837c0d7c8ce87"
+    documentation="Managing the registration and access control processes that enable processes to create, modify, update, delete and/or download product offering data to and from the product offering inventory">
+  <properties
+      key="Process Identifier"
+      value="1.2.4.2.4"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

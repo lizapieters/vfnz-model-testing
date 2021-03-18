@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="View usage summary and details"
+    id="id-5bfd40a9d20642b1ac8676c16d102618"
+    documentation="View usage summary and details (billed and non-billed) for a specific time period">
+  <properties
+      key="Function Identifier"
+      value="67"/>
+  <properties
+      key="TAM Application Name"
+      value="Bill Inquiry"/>
+  <properties
+      key="TAM Application Id"
+      value="5.10.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.10.1.67"/>
+</archimate:ApplicationFunction>

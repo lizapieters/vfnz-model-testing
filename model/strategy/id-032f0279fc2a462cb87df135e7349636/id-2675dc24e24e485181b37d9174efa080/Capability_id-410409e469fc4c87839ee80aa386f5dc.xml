@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agreement Custom Price Determination"
+    id="id-410409e469fc4c87839ee80aa386f5dc"
+    documentation="The ability to set specific agreement pricing that considers standard pricing, agreement terms and conditions, and risk.">
+  <properties
+      key="TMF_ID"
+      value="1.1.5.2.2.2"/>
+  <properties
+      key="Level"
+      value="4"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

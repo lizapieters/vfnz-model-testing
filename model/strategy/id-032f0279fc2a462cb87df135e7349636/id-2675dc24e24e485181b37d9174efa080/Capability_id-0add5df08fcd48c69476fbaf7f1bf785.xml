@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Information Access Constraints Definition"
+    id="id-0add5df08fcd48c69476fbaf7f1bf785"
+    documentation="The ability to define and impose limitations of access rights to given information.">
+  <properties
+      key="TMF_ID"
+      value="1.3.1.6.3.1"/>
+  <properties
+      key="Level"
+      value="4"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

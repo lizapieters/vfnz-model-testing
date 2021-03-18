@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transportation Management"
+    id="id-fe2318180f3e4b99b83599725a0fa9b7"
+    documentation="Transportation Management applications provide workflow and orchestration for the planning of materials to be shipped to and from storage locations. This is done in conjunction with both the suppliers and the Logistics fulfillment process in order to optimize the utilization of internal and 3rd party carriers.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.10.3"/>
+  <properties
+      key="TMF Function"
+      value="Transportation Management"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

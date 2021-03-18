@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Problem Monitoring Model Data Definition"
+    id="id-8a80f74028ac42d68109d3c07c85c8c0"
+    documentation="Accepting input from customer contracts, service definitions (KQIs, SLOs etc.) or changes in the service topology which needs to established for monitoring of services wrt to problems.">
+  <properties
+      key="Function Identifier"
+      value="954"/>
+  <properties
+      key="TAM Application Name"
+      value="Service Problem Model Establishment"/>
+  <properties
+      key="TAM Application Id"
+      value="6.5.7"/>
+  <properties
+      key="Constructed Id"
+      value="6.5.7.954"/>
+</archimate:ApplicationFunction>

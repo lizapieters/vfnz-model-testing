@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inquiry Management"
+    id="id-4f3ccb738e1e481da71ab96de0c19126"
+    documentation="The ability to manage a question, request, feedback, or comment that may exist inside or outside of the organization, which can be received, identified, harvested, disseminated, classified, and tracked.">
+  <properties
+      key="TMF_ID"
+      value="1.3.12"/>
+  <properties
+      key="Level"
+      value="1"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

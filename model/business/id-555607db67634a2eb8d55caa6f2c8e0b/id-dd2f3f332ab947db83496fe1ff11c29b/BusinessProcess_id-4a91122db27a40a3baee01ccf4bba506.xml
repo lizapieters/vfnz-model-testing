@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Service Problem &amp; Performance Data Collection"
+    id="id-4a91122db27a40a3baee01ccf4bba506"
+    documentation="Reviewing the trend analysis and undertaking the analysis of trouble and performance report to identify the necessary preventative activities.">
+  <properties
+      key="Process Identifier"
+      value="1.4.4.3.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="â€¢ Extracting and analyzing, including undertaking trend analysis, historical and current service instance trouble reports and performance reports to identify potential service infrastructure or service instances requiring proactive maintenance and/or replacement;"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

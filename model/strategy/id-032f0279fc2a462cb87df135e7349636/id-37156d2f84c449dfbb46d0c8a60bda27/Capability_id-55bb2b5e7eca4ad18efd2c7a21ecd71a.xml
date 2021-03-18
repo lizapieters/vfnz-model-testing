@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Route Performance Management"
+    id="id-55bb2b5e7eca4ad18efd2c7a21ecd71a"
+    documentation="The Ability to determine how well a route is meeting demand from a multitude of perspectives including timelines, ease of access and use, bandwidth, or other factors.">
+  <properties
+      key="TMF_ID"
+      value="1.1.10.2"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

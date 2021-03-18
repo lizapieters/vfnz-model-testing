@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legal Matter Information Management"
+    id="id-f295fd0f58d6448cb5c727497a60edd6"
+    documentation="The ability to collect, organize, monitor, report on or otherwise distribute basic facts, statistics, attributes and data about a legal matter. This includes reviewing precedents and case documents.">
+  <properties
+      key="TMF_ID"
+      value="1.3.2.6"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WorkSpecRelationship"
+    id="id-c6537370c8014f7e98a916d726552d87"
+    documentation="This association class specifies the relationship between WorkSpecifications. For example; an equipment maintenance work task requires a service re-routing work task. Note: this Relationship will affect the Relationship between corresponding WorkItems; i.e. WorkOrderFulfillment (start-to-start; start-to-finish; etc.) in Project ABE; as well as the Scheduling mechanism."/>

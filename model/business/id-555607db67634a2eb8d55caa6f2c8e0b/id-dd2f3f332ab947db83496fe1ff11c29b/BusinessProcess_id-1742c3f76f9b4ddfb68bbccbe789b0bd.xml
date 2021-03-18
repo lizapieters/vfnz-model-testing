@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prepare Party Problem"
+    id="id-1742c3f76f9b4ddfb68bbccbe789b0bd"
+    documentation="Prepare a party  problem.">
+  <properties
+      key="Process Identifier"
+      value="1.6.10.3.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Prepare Party Problem prepares a party problem to be submitted to another party or prepares additional information requested by the party."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

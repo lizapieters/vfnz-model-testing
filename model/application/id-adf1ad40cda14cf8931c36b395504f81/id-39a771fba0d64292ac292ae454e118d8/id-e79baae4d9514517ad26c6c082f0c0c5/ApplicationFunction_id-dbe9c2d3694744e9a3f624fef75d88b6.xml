@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Decisioning Engine"
+    id="id-dbe9c2d3694744e9a3f624fef75d88b6"
+    documentation="Customer Operational Decisioning (�Decide�) provides the functionality to drive decisions re: Customer treatment and action for each specific situation based on observing what the customer is immediately experiencing. This action can be taken either proactively by reaching out to the customer, or reactively when the customer contacts the Service Provider.">
+  <properties
+      key="Function Identifier"
+      value="201"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Operational Decisioning"/>
+  <properties
+      key="TAM Application Id"
+      value="5.5.14"/>
+  <properties
+      key="Constructed Id"
+      value="5.5.14.201"/>
+</archimate:ApplicationFunction>

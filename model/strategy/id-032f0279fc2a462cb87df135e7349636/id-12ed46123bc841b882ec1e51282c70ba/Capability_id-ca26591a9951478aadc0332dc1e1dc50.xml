@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agreement/Payment Matching"
+    id="id-ca26591a9951478aadc0332dc1e1dc50"
+    documentation="The ability to determine amounts, disburse, and receive funds related to an agreement with an external stakeholder.">
+  <properties
+      key="TMF_ID"
+      value="1.1.5.9.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1462"
+    id="id-4ffcf55063694b1ba95b3eaa90cf6b4b"
+    documentation="As a Foundation Manager, I want to discount eligible end users plans (i.e. community services card holders) and have the ability to charge the difference to another party  (i.e. MSD)">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1462"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="3"/>
+  <properties
+      key="Base_Old"
+      value="3"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Marketing and Campaign Management"/>
+  <properties
+      key="Remarks"
+      value="Some part of the costs should be redirected to Ministry of Social Development. MSD in this case is a foundation partner, but the eligible end users are separate customers (not accounts under MSD), which are not managed by MSD"/>
+  <properties
+      key="Module"
+      value="PIM, PC, BS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

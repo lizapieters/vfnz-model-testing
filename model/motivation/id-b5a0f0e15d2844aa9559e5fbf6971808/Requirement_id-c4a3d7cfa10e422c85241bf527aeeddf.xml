@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0980"
+    id="id-c4a3d7cfa10e422c85241bf527aeeddf"
+    documentation="As a billing specialist, I require the ability to run a proforma bill (i.e current bill view without generation of a tax invoice) so that I am able to run a prebill check to confirm accuracy of bill messages, checking payment due dates, and understand with certainty how an account and services will bill so that the CX in terms of bill generation is as accurate as possible. This includes data relating to a future date but within the current bill period to be shown on the proforma (i.e. not just a snapshot of whats active as of the day the proforma is run)">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0980"/>
+  <properties
+      key="Status"
+      value="HLD Completed"/>
+  <properties
+      key="Created by"
+      value="Kurt Harniss"/>
+  <properties
+      key="Tribe"
+      value="Finance &amp; Business / Billing"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Manage"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Billing"/>
+  <properties
+      key="Remarks"
+      value="Is this the part of bill run process? should it be generated per customer or as mass operation? Kiri: No, not part of bill run. Per customer not on mass Comarch generate and accept invoices in to separate steps (two diffent process). So that Billing Specialist will be able to run standard invoice generation process for single customer (or set of customers) in order to make proforma bill. As invoices will be generated, but no accepted, user will have possibility to make various checks. After all pending invoices can be removed or accepted. Requirement clear."/>
+  <properties
+      key="Module"
+      value="BS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

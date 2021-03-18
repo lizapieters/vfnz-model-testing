@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Damage Claims Management"
+    id="id-844031b8606c4069a7555be2e74d5d6e"
+    documentation="Asset claim management is for the tracking of claims regarding anything considered valuable to an organization, whether tangible or intangible. Asset claim management is used to process inventory claims for theft or damaged inventory. Similarly, for Intangible assets, claims apply to trademarks, intellectual property rights and engineering claims, copyright claims, franchise claims, and contract claims.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.4.2"/>
+  <properties
+      key="TMF Function"
+      value="Damage Claim Filing Damage Claim Handling Administration Damage Claim Loss Calculation and Analyzing Damage Claim to Accounting Integration"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

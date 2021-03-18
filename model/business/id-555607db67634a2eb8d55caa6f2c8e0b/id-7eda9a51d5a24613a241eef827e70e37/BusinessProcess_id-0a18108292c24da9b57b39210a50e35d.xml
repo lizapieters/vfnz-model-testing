@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Human Resources Management"
+    id="id-0a18108292c24da9b57b39210a50e35d"
+    documentation="The Human Resources Management process grouping provides the human resources infrastructure for the people resources that the enterprise uses to fulfil its objectives. For example, Human Resources Management processes provide salary structures by level, coordinate performance appraisal and compensation guidelines and set policies in relation to people management, employee benefit programs, etc. Moreover it supports the definition of the organization of the enterprise and coordinates its reorganizations. Note that Human Resources Management processes are concerned with preparing people to carry out their assigned tasks (e.g., organizing, training, remuneration, recruiting, etc.).  The actual assignment of specific tasks is the responsibility of Work Force Management processes.">
+  <properties
+      key="Process Identifier"
+      value="1.7.7"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Human Resources Management process grouping provides the human resources infrastructure for the people resources that the enterprise uses to fulfill its objectives. For example, Human Resources Management processes provide salary structures by level, coordinate performance appraisal and compensation guidelines and set policies in relation to people management, employee benefit programs, etc. Moreover it supports the definition of the organization of the enterprise and coordinates its reorganizations. Note that Human Resources Management processes are concerned with preparing people to carry out their assigned tasks (e.g., organizing training, remuneration, recruiting, etc.). The actual assignment of specific tasks is the responsibility of Work Force Management processes."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Performance Analysis"
+    id="id-91fee9f9fe894b9c8b623995092b7fe8"
+    documentation="Service Performance Analysis applications provide the necessary functionality to continuously analyze the performance of the various service providers� services.The analyzed data is logged and made available for reporting, and present analysis results made available as notifications for immediate action in case of significant deviation.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="6.7.2"/>
+  <properties
+      key="Frameworx Domain"
+      value="Service Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

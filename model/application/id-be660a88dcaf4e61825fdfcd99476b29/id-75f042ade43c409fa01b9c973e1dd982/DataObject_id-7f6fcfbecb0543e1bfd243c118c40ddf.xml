@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ServiceSpecCharUse"
+    id="id-7f6fcfbecb0543e1bfd243c118c40ddf"
+    documentation="A use of the ServiceSpecCharacteristic by an ServiceSpecification to which additional properties (attributes) apply or override the properties of similar properties contained in ServiceSpecCharacteristic.This aggregation defines the set of ServiceCharacteristicSpecs that are defined by a given ServiceSpecification."/>

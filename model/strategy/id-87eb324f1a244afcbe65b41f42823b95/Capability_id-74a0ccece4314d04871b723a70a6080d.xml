@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HR Management"
+    id="id-74a0ccece4314d04871b723a70a6080d"
+    documentation="HR Management provides the necessary functionality formanaging the service provider's workforce. This includes themeansfor improving workforce efficiency and productivity, planning futureworkforce needs, finding and developing the right talent, educating theworkforce to ensure each employee has the right skills and aligning corporatestrategies with team and individual goals">
+  <properties
+      key="TMF Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.2"/>
+  <properties
+      key="TMF Function"
+      value="0"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

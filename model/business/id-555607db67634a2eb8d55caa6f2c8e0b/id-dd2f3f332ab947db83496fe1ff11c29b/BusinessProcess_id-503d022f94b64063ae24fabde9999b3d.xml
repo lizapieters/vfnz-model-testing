@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Administer Organizations Catalog"
+    id="id-503d022f94b64063ae24fabde9999b3d"
+    documentation="This process manages the description of the organizational structure of the CSP or field service partners.">
+  <properties
+      key="Process Identifier"
+      value="1.5.5.3.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="A CSP may have their own employees who fulfill all assurance and fulfillment jobs. The company may also delegate some of its work (or all of its work) to third-party companies that are called other parties. Both the CSP company and other parties are called organizations. â€¢{T}Establishing and managing an organization list, containing organizational chart, covered serving areas, etc."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="End Product Offering Promotion"
+    id="id-c81e7931547d47cda2f1eeee56e335a7"
+    documentation="End a product offering promotion when its useful life is reached.">
+  <properties
+      key="Process Identifier"
+      value="1.2.7.2.6.7"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

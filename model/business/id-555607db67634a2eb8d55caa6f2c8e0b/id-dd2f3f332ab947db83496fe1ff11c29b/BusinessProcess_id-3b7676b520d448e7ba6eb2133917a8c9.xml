@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Distribute Service Order Notification"
+    id="id-3b7676b520d448e7ba6eb2133917a8c9"
+    documentation="Provide notifications of any changes the status of service orders. Notifications are used to notify the owner of the current status of the order and also distributed to the other parties who require it. Notification lists are managed and maintained by the Enable Service Configuration &amp; Activation processes.">
+  <properties
+      key="Process Identifier"
+      value="1.4.5.7.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

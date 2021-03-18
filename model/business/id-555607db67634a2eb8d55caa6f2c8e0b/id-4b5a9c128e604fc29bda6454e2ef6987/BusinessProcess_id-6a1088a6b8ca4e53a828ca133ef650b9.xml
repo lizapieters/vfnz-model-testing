@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Party Account Balance Management"
+    id="id-6a1088a6b8ca4e53a828ca133ef650b9"
+    documentation="Manage parties' account balances.">
+  <properties
+      key="Process Identifier"
+      value="1.6.16.2"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Party Account Balance Management manages, calculates, applies policies to manage, and manages functionality/interfaces for party account balances. The values resulting from rating and the application of discounts are applied to parties' account balance. This process also authorizes product requests, such as usage events, based on available balance as needed. A party account balance includes monetary and non-monetary balances (or shared) and are used as prepaid balances (enabling real-time product authorization), postpaid balances (in conjunction with an Account Receivables [AR] processes). Examples of non-monetary balances and allowances are free minutes, gigabytes allowance, and number of downloads."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

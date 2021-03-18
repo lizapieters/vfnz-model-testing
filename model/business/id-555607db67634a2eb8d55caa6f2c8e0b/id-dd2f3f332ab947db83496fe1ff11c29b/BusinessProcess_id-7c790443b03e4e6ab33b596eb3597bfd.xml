@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analyze service growth"
+    id="id-7c790443b03e4e6ab33b596eb3597bfd"
+    documentation="Capture and analysis of service growth">
+  <properties
+      key="Process Identifier"
+      value="1.4.1.1.4"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Analyze service growth processes capture and analyze service growth which is driven by expansion of housing estates, building developments and building approvals forecasts,"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

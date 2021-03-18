@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Order Risk Management"
+    id="id-66677e6c88b34670a6bd856f754b71e6"
+    documentation="The ability to identify, assess, aggregate, articulate, and incorporate various exposures to harm, danger, or loss associated with an order.">
+  <properties
+      key="TMF_ID"
+      value="1.1.8.10"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

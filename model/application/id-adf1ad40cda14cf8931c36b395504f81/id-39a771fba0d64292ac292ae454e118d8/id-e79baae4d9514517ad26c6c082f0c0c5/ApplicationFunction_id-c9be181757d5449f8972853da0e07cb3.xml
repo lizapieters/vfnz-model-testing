@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitor customer's behavior and beyond sale related interaction"
+    id="id-c9be181757d5449f8972853da0e07cb3"
+    documentation="Functions to identify indicators that can suggest imminent churn are dissatisfaction&#xA; Measurements can be collected via various tools such as Net Promoter Score (NPS) and made available for action by various service provider groups and supervisory staff.">
+  <properties
+      key="Function Identifier"
+      value="243"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Satisfaction Validation"/>
+  <properties
+      key="TAM Application Id"
+      value="5.5.6"/>
+  <properties
+      key="Constructed Id"
+      value="5.5.6.243"/>
+</archimate:ApplicationFunction>

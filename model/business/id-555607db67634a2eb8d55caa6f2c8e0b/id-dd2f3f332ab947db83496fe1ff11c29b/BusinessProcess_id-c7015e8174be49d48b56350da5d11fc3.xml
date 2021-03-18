@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Track and Manage Work Order"
+    id="id-c7015e8174be49d48b56350da5d11fc3"
+    documentation="Track and Manage Work Order processes are responsible for monitoring the execution of assigned manual activities to employees and/or third parties, detecting potential problems with completing the work, and requesting escalation or reassignment to solve the issue.">
+  <properties
+      key="Process Identifier"
+      value="1.5.5.5.5"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Track and Manage Work Order scope includes the following: â€¢{T}Monitoring the status and progress of various tasks, including the various states of the work order â€¢{T}Managing transitions of orders and tasks and work items between their states, including operations performed from handheld devices â€¢{T}Propagating statuses from tasks and work items to work orders â€¢{T}Managing updates to orders, including in-flight changes and cancelations â€¢{T}Monitoring jeopardies and responding to them, including predefined actions such as work reassignment, escalations, notifications, etc. â€¢{T}Manually executing the order by an assignee â€¢{T}Indicating completion of a work order by modifying its status"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

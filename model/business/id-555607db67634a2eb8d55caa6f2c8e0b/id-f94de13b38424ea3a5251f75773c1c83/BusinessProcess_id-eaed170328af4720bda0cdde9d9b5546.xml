@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provide Loyalty Program Invitation"
+    id="id-eaed170328af4720bda0cdde9d9b5546"
+    documentation="Provide an invitation to a party to join a loyalty program.">
+  <properties
+      key="Process Identifier"
+      value="1.1.19.2.1.1"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Provide Loyalty Program Invitation communicates an invitation to a party suggesting they join a loyalty program. The invitation can be made when a party, such as a customer or partner, initially engages with an enterprise. For example, when a customer creates an online account they could be immediately asked if there is a desire to join a loyalty program. If a party does not join when initially engaging with an enterprise an invitation may be communicated to them at a later time. Note that if invitations were not sent to applicable existing parties during the development of a loyalty program this process is responsible for doing so."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

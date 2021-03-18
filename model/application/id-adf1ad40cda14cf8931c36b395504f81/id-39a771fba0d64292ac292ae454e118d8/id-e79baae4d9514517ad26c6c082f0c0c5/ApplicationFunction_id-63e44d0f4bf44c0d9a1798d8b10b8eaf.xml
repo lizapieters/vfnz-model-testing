@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Splitting charges between multiple balances."
+    id="id-63e44d0f4bf44c0d9a1798d8b10b8eaf"
+    documentation="Split charges between multiple balances.">
+  <properties
+      key="Function Identifier"
+      value="53"/>
+  <properties
+      key="TAM Application Name"
+      value="Balance Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.19.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.19.2.53"/>
+</archimate:ApplicationFunction>

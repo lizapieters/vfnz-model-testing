@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Job Risk Threshold Determination"
+    id="id-09dc7cee90384c0cbf2c3ad1c3897991"
+    documentation="The ability to identify and define the level of acceptable risk associated with a job.">
+  <properties
+      key="TMF_ID"
+      value="1.3.7.7.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

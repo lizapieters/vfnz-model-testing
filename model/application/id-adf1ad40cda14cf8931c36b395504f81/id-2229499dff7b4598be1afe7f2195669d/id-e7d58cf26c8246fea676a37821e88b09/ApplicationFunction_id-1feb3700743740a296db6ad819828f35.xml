@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CSR fulfillment"
+    id="id-1feb3700743740a296db6ad819828f35"
+    documentation="A CSR fulfillment application provides front end support for the application flows defined by the order management applications (cf. Order Management Applications).Note: Since CSRs are required to perform sales activities, it is expected that in a future Application Map version this application will encompass front end applications from the sales domain as well.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="5.6.1"/>
+  <properties
+      key="Frameworx Domain"
+      value="Customer Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

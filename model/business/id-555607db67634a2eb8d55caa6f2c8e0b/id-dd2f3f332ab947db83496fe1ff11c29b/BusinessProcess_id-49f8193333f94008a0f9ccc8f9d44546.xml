@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Distribute Service Provisioning Reports"
+    id="id-49f8193333f94008a0f9ccc8f9d44546"
+    documentation="Provide management reports and any specialized summaries of the efficiency and effectiveness of the overall Service Configuration &amp; Activation process.  These specialized summaries could be specific reports required by specific audiences.">
+  <properties
+      key="Process Identifier"
+      value="1.4.5.7.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

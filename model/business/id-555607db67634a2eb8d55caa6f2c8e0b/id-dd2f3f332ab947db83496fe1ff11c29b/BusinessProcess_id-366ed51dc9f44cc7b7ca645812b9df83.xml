@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Escalate/End Service Problem"
+    id="id-366ed51dc9f44cc7b7ca645812b9df83"
+    documentation="This process provides the escalations between support levels and actors when a service problem cannot be solved by the current assigned group. Therefore, the escalation can be carried out between supports levels at SM&amp;O level, or, it can be escalated to others actors, such as, resource provider or other external parties. It is essential the ability to rapidly escalate service problems according to clear and agreed rules.">
+  <properties
+      key="Process Identifier"
+      value="1.4.6.4.4"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

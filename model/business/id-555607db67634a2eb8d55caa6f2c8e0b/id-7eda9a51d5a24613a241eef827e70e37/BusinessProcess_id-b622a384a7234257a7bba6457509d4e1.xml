@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Selling"
+    id="id-b622a384a7234257a7bba6457509d4e1"
+    documentation="Responsible for managing prospective customers, for qualifying and educating customers, and matching customer expectations&#xA;Managing prospective parties with whom an enterprise may do business, such as potential existing or new customers and partners, for qualifying and educating them, and ensuring their expectations are met.">
+  <properties
+      key="Process Identifier"
+      value="1.1.9"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Selling processes are responsible for managing prospective customers, for the qualification and education of the customer and for matching customer expectations to the enterpriseâ€™s products and services and ability to deliver. These processes also manage the response to customer RFPs. Selling is responsible managing prospective parties with whom an enterprise may do business, such as potential existing or new customers and partners. Existing customers and partners may represent new selling opportunities to them as identified by the Contact/Lead/Prospect Management. Selling is responsible for qualifying and educating them, and ensuring their expectations are met. This process confirms matches of party expectations to an enterpriseâ€™s product offerings that have been made by Contact/Lead/Prospect Management are correct. The ability to deliver them is confirmed. This process also manages a response to customer requests for proposal (RFP). Any eventual agreement with the sales prospect is the responsibility of Party Agreement Management."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

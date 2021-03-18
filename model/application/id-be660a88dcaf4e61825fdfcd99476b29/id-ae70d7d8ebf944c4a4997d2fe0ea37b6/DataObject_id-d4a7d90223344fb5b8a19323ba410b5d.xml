@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResourceSpecCharUse"
+    id="id-d4a7d90223344fb5b8a19323ba410b5d"
+    documentation="A use of the ResourceSpecCharacteristic by an ServiceSpecification to which additional properties (attributes) apply or override the properties of similar properties contained in ResourceSpecCharacteristic.This aggregation defines the set of characteristics; or distinguishing features; of a particular ResourceSpecification."/>

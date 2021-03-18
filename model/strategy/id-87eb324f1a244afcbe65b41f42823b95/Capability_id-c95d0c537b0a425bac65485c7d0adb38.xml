@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fault Surveillance"
+    id="id-c95d0c537b0a425bac65485c7d0adb38"
+    documentation="Fault Surveillance applications provide the necessary functionality to monitor the operational status of the service provider's resources.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="7.10.1"/>
+  <properties
+      key="TMF Function"
+      value="Operational Status Surveillance"/>
+  <properties
+      key="TMF Maturity"
+      value="Resource Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

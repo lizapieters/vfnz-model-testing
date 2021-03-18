@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Partner Relationship Management"
+    id="id-ac2654fb3e25465c994320818ea87990"
+    documentation="TBA">
+  <properties
+      key="TAM Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="8.5"/>
+  <properties
+      key="Frameworx Domain"
+      value="Business Partner Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:ApplicationFunction>

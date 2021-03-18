@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="General Ledger Security"
+    id="id-c73ef19036274fa99d2de4f129cc61e8"
+    documentation="General Ledger Security for tight internal controls and access to legal entity and ledger data">
+  <properties
+      key="Function Identifier"
+      value="799"/>
+  <properties
+      key="TAM Application Name"
+      value="General Ledger"/>
+  <properties
+      key="TAM Application Id"
+      value="9.3.1.1"/>
+  <properties
+      key="Constructed Id"
+      value="9.3.1.1.799"/>
+</archimate:ApplicationFunction>

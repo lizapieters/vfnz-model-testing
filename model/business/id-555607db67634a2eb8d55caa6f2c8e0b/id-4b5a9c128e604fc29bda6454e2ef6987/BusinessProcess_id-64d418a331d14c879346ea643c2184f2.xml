@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Migration Assurance"
+    id="id-64d418a331d14c879346ea643c2184f2"
+    documentation="Establish an enterprise-wide Migration Assurance Policy Framework ensuring completeness, correctness, data dependencies and timeliness of the migration of services and/or customers to new systems or platforms to proactively address financial errors or negative customer experience.">
+  <properties
+      key="Process Identifier"
+      value="1.7.9.5"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Migration Assurance process aims to safeguard that during the migration of services and/ or customers from legacy to new systems/platforms/ processes (e.g. billing migration, CRM migration, network migration) all customers, products, offers and account balances as well as the historical data, are migrated accurately to avoid any need of manual billing interventions. The objective of the Migration Assurance is to assure that: â€¢ Data cleaning is performed before the migration to new/modified systems/platforms â€¢ Legacy customizations for business scenarios are correctly mapped in COTS platforms â€¢ Business Assurance test scenarios are defined and executed before the production â€¢ Post migration Business Assurance test scenarios between old and new environments data defined and executed after production â€¢ Historical data accessibility is implemented before the production â€¢ Guarantee that data access policies remain according with the defined policies, when making it accessible to the right stakeholders in the new repositories â€¢ Assure that all structured relationships and incurring operations between existing and newly deployed platforms are performing as initially designed to support the process dependency (ex: mediation migration to deliver data to billing) â€¢ Migrated data interpretation support implemented before production â€¢ Users and customers (self-service) training on new migrated data interpretation implemented before production â€¢ Users donâ€™t experience outages or delays in receiving their provisioned services â€¢ Service delivery interruptions due to errors during platform service and customer migration, are minimized"/>
+  <properties
+      key="Maturity Level"
+      value="5"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pre-pay Data"
+    id="id-e08951275bb349acaa69d4dc755a1b9f">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-c5052aa9c98e49b9a5357c6a2f0df454.xml#id-c5052aa9c98e49b9a5357c6a2f0df454"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-13089651bc2a4c35ba43333de2159901.xml#id-13089651bc2a4c35ba43333de2159901"/>
+</archimate:FlowRelationship>

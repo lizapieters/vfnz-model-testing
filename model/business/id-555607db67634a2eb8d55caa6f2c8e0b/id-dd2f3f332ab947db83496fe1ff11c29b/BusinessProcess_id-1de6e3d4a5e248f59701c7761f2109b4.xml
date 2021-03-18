@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Perform Specific Service Problem Diagnostics"
+    id="id-1de6e3d4a5e248f59701c7761f2109b4"
+    documentation="This process performs diagnostics against the specific services.">
+  <properties
+      key="Process Identifier"
+      value="1.4.6.2.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

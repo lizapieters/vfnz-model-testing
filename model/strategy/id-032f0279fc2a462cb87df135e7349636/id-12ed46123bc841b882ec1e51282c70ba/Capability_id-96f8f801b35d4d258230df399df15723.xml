@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agreement Eligibility Determination"
+    id="id-96f8f801b35d4d258230df399df15723"
+    documentation="The ability to ascertain that a customer or partner is qualified for an agreement.">
+  <properties
+      key="TMF_ID"
+      value="1.1.5.2.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

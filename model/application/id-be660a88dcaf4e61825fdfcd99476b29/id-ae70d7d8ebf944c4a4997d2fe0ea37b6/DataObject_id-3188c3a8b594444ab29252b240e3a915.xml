@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SwitchingProtocol"
+    id="id-3188c3a8b594444ab29252b240e3a915"
+    documentation="This is an abstract base class for representing different types of switching protocols that can be managed. Switching protocols are those protocols that enable routing to take into account layer 2 information; such as bandwidth and QoS. (Remember that traditional routing protocols are designed to evaluate each frames layer 3 header only). Several methods are available for accomplishing the task of looking at layer 2 information and defining a next hop. Most now use the concept of a label; which is a means to define the next hop without evaluating all of the information of a traditional header. The SID model currently concentrates on defining MPLS as an example of a SwitchingProtocol."/>

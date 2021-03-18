@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service performance data collection"
+    id="id-654dd0cb7647421e85aa0d30f416f01d"
+    documentation="Collection of Resource Performance Data from the Resource Management Applications (or directly in the absence of Resource Performance Management application) and Collection of Service Performance data through end-to-end tests done internally through the application or external Service Test applications. Including archiving.">
+  <properties
+      key="Function Identifier"
+      value="603"/>
+  <properties
+      key="TAM Application Name"
+      value="Service Performance Monitoring"/>
+  <properties
+      key="TAM Application Id"
+      value="6.7.1"/>
+  <properties
+      key="Constructed Id"
+      value="6.7.1.603"/>
+</archimate:ApplicationFunction>

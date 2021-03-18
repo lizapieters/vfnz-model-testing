@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1019"
+    id="id-63f19618a88141bc81629d188fef4e0c"
+    documentation="As a PO, I want to be able to provide a generic code to a customer to use on a third party site">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1019"/>
+  <properties
+      key="Status"
+      value="Potential gap"/>
+  <properties
+      key="Created by"
+      value="Gabrielle Paul"/>
+  <properties
+      key="Tribe"
+      value="Loyalty"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Redemption functionality"/>
+  <properties
+      key="Remarks"
+      value="[CLM] CLM enables generating coupon series feature as well as can import series from external provider and issue those coupons to particular customers OOTB feature What type of code?"/>
+  <properties
+      key="Module"
+      value="CLM PC, VM, CCM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

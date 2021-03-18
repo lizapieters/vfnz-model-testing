@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0136"
+    id="id-f1767b30dbbe4182b7e0456b51d3e58e"
+    documentation="As a product owner, I want to assess a customer's ability to repay a device on interest free via a credit check &amp; other internal checks, so that I can reduce my risk of bad debt">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0136"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1?"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Topic"
+      value="Credit check"/>
+  <properties
+      key="Remarks"
+      value="this should be a combination of a credit score we get from external provider and based on our internal checks. Complex rules are expected. Parked for after the credit check sprint is done."/>
+  <properties
+      key="Module"
+      value="OM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="Not Applicable"/>
+</archimate:Requirement>

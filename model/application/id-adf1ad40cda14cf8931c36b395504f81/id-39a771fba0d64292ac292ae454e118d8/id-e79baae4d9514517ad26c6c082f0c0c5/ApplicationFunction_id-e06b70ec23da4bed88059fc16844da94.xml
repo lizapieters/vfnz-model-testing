@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Billing Event Processing Correlation"
+    id="id-e06b70ec23da4bed88059fc16844da94"
+    documentation="Billing Event Processing Correlation">
+  <properties
+      key="Function Identifier"
+      value="84"/>
+  <properties
+      key="TAM Application Name"
+      value="Billing Event Processing"/>
+  <properties
+      key="TAM Application Id"
+      value="5.20.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.20.1.84"/>
+</archimate:ApplicationFunction>

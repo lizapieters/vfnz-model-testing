@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identify Potential Parties"
+    id="id-39da4b9262ab414e90616855e63463d3"
+    documentation="Identify potential parties who may engage with the enterprise.">
+  <properties
+      key="Process Identifier"
+      value="1.6.2.2.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Identify Potential Parties identifies potential parties who may engage with the enterprise. Their identification is based on, but not limited to information gathered by the Party Strategy &amp; Planning process and other research performed as part of this process. In some cases a nondisclosure agreement may be required with a potential party that would trigger the Party Agreement Management process. For example the exchange of catalogs may require such an agreement."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

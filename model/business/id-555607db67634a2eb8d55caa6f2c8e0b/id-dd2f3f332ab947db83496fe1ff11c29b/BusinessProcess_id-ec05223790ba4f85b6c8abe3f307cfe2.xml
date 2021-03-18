@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Create Sales Contact"
+    id="id-ec05223790ba4f85b6c8abe3f307cfe2"
+    documentation="Create a sales related contact that has been initiated by an interaction with a party.">
+  <properties
+      key="Process Identifier"
+      value="1.1.11.1.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Create Sales Contact creates a sales related contact that has been initiated by an interaction with a party. For example, an individual from an existing customer may make contact with an enterprise to express an interest expanding the customer's relationship with the enterprise; a potential partner may make contact with an enterprise based on viewing an enterprise's web site that has advertised for new partners who are interested marketing the enterprise's offerings; or an enterprise may assemble a list of contacts to whom marketing communications are to be sent. Information about the contacting party is collected via an interaction with the Party Relationship &amp; Development process."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

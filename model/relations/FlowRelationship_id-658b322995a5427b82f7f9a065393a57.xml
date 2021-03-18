@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Update Network Routing"
+    id="id-658b322995a5427b82f7f9a065393a57">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-35f8035d45784996a3976f99064324db.xml#id-35f8035d45784996a3976f99064324db"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-c6597ae525bd4b2f89cbd1e5dcdf8e71.xml#id-c6597ae525bd4b2f89cbd1e5dcdf8e71"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Audit Management and Security Data Collection &amp; Distribution"
+    id="id-2db8754827d24d67b523e5ef694b33ba"
+    documentation="Audit and analyze the management and security information &amp; data collection, processing and distribution activities in order to identify possible anomalies. This includes preservation of audit data for future forensic use.">
+  <properties
+      key="Process Identifier"
+      value="1.5.7.4"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Audit Data Collection &amp; Distribution processes are responsible for auditing the management information &amp; data collection activities in order to identify possible anomalies such as loss of management information and/or data in the different collection, processing and distribution steps."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Billing Account Prepaid automatic replenishment"
+    id="id-858d79ade0d744a6a609ef53c1a44941"
+    documentation="Support automatic replenishment of prepaid billing account from postpaid billing account">
+  <properties
+      key="Function Identifier"
+      value="71"/>
+  <properties
+      key="TAM Application Name"
+      value="Billing Account Associations Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.13.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.13.2.71"/>
+</archimate:ApplicationFunction>

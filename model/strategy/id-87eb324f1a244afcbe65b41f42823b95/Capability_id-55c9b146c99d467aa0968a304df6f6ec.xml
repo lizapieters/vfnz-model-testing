@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Developers Portal"
+    id="id-55c9b146c99d467aa0968a304df6f6ec"
+    documentation="API integration developers Portal is based on a Technical / commercial�API�Catalogue with&#xA;functions to easy search and discover APIs, find API�documentation and code examples, performance and usage reports and linking to technical support (online, email, forums, etc.).">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="10.3.3"/>
+  <properties
+      key="TMF Function"
+      value="0"/>
+  <properties
+      key="TMF Maturity"
+      value="Integration Domain"/>
+  <properties
+      key="TMF Status"
+      value="0"/>
+</archimate:Capability>

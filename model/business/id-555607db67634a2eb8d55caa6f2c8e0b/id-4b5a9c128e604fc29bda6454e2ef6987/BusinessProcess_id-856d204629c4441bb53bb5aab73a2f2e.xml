@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="On-board Party Product Specification &amp; Offering"
+    id="id-856d204629c4441bb53bb5aab73a2f2e"
+    documentation="Manages the on-boarding another party's product offering or a product specification upon which the offering is based.&#xA;&#xA;Also manage the involvement the enterprise has with a product specification and offering. For example, the enterprise may accept an order for one of its offerings, but it may be fulfilled by another party.">
+  <properties
+      key="Process Identifier"
+      value="1.6.4.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="On-board Party Product Specification &amp; Offering manages the on-boarding another party's product offering or a product specification upon which the offering is based. It also manages the involvement the enterprise has with a party's product specification and offering. For example, the enterprise may accept an order for one of its offerings, but it may be fulfilled by another party. By using the on-boarded specifications, this process allows the enterprise to create new product offerings that leverage its own product offerings as well as the acquired product offerings. It may also make a party's offerings available as-is to the market. The specifications for the product offering made available by another party in catalog may be from a wholesalerâ€™s perspective, while the specification in the enterpriseâ€™s catalog may be from a retailerâ€™s perspective, therefore this process maintains the relationship between the enterprise's product specification and product offering and those provided by another party. It is also used to modify the involvement associated with a party's, including the enterprise, product specifications or offerings. For example, if the party who accept payments for a purchased product offering changes. This process is initially invoked during and after the agreement for a particular product specification and/or product offering has been established and approved. It is also invoked when modifications to the product specifications or offerings are implemented by another party in accordance with the terms and conditions and the process to manage the variance of an agreement."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

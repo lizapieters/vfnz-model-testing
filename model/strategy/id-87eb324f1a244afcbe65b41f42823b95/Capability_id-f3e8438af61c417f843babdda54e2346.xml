@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dispute Management"
+    id="id-f3e8438af61c417f843babdda54e2346"
+    documentation="Dispute Management applications provide necessary functionality to identify, track, and assign an appropriate disposition to contested charges.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.10.2"/>
+  <properties
+      key="TMF Function"
+      value="Dispute tracking Enter agreed-upon adjustment. Open disputes registering Resolve the disputed charge"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="General Ledger"
+    id="id-d12cb05c8da04705a7a2395b7b023742"
+    documentation="General Ledger applications provide the required functionality to create a book of final entry summarizing all of a company's financial transactions, through offsetting debit and credit accounts.">
+  <properties
+      key="TMF Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.3.1.1"/>
+  <properties
+      key="TMF Function"
+      value="Chart of Accounts Maintenance General Ledger Compliance General Ledger Drilldowns General Ledger Integration General Ledger month-end closing General Ledger Security Multi-ledger Financial Reporting"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

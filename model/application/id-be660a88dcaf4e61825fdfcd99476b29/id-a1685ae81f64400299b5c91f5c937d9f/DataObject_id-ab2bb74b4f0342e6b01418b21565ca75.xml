@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AuditRecordSecurityEvent"
+    id="id-ab2bb74b4f0342e6b01418b21565ca75"
+    documentation="The elements that are used to extend the base event type for audit records consist of a single text field to contain log data. The Common Event Expression (CEE) standard to build out the common elements that can be captured and returned as part of an audit record event."/>

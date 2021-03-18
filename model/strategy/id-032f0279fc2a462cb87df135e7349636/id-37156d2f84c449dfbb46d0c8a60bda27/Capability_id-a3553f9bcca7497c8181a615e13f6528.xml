@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Content Access Management"
+    id="id-a3553f9bcca7497c8181a615e13f6528"
+    documentation="The ability to establish, control and administer the level and extent of physical or virtual constraints associated with content.">
+  <properties
+      key="TMF_ID"
+      value="1.1.4.7"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

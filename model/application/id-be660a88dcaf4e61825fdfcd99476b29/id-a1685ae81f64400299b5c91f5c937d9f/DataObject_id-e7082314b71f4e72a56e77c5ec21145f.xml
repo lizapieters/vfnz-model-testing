@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RevenueAssuranceViolationSpec"
+    id="id-e7082314b71f4e72a56e77c5ec21145f"
+    documentation="The invariant characteristics of a RevenueAssuranceViolation. Each related RevenueAssuranceViolation instance will have the same invariant characteristics. However; the values associated with other characteristics of the instantiated RevenueAssuranceViolation are specific to each instance."/>

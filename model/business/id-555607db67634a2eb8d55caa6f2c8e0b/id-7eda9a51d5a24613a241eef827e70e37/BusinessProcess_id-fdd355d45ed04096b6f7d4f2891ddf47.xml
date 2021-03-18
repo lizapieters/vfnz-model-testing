@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Party Bill Payments &amp; Receivables Management"
+    id="id-fdd355d45ed04096b6f7d4f2891ddf47"
+    documentation="Party Bill Payments &amp; Receivables Management is responsible for management of methods used by parties to make payments, administers payment plans, handles payments, and collects debt.">
+  <properties
+      key="Process Identifier"
+      value="1.6.16"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Party Bill Payments &amp; Receivables Management is responsible for management of methods used by parties to make payments, administers payment plans, handles payments, and collects debt. It also concerns management, calculations, application of policies of functionality/interfaces for party account balances. The values resulting from rating and the application of discounts are applied to parties' account balance. This process also authorizes product requests, such as usage events, based on available balance as needed."/>
+  <properties
+      key="Maturity Level"
+      value="3"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contract Tracking &amp; Storage"
+    id="id-b6e773390fb04f65816918b61e3e9d61"
+    documentation="Contract Tracking and Storage provides the ability to view customer's existing contracts, search for customer contracts based on meta-data and to search text strings within contracts. There is a central repository for contract storage as well as the associated contract meta-data. This data can be mined for Campaigns and Lead Generation.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="3.8.3"/>
+  <properties
+      key="TMF Function"
+      value="Contract Enquiry Contract Storage"/>
+  <properties
+      key="TMF Maturity"
+      value="Market_Sales Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer SLA Management"
+    id="id-563f0ab16f604ec3ab97ab8390e9d345"
+    documentation="Customer SLA Management applications include the required functionality to assure that SLA agreements made between operators and customers are met. This includes processing measurements made elsewhere and checking the measurements and taking appropriate actions when the specified agreements are not met. Note: Customers can include partners and 3rd party providers.">
+  <properties
+      key="TAM Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="5.18"/>
+  <properties
+      key="Frameworx Domain"
+      value="Customer Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

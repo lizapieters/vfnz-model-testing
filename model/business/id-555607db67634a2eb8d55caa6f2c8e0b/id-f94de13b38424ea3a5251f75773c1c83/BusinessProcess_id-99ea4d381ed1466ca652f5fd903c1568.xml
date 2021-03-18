@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Create Base Configuration"
+    id="id-99ea4d381ed1466ca652f5fd903c1568"
+    documentation="Add basic information about the configuration, such as a description and version number.">
+  <properties
+      key="Process Identifier"
+      value="1.8.3.2.1.1"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Create Base Configuration adds basic information about the configuration, such as a description and version number. When a new version of an existing configuration is created the Modify Entity Configuration is used to change the status of the previous version to indicate a new version has taken its place. A new version may represent the reconfiguration of an entity."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

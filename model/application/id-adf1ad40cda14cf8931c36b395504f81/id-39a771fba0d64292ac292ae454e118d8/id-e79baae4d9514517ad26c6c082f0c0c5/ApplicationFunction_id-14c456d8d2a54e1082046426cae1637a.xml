@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Journal Record Creation"
+    id="id-14c456d8d2a54e1082046426cae1637a"
+    documentation="Analyzes and translates financial activities into journal records for sending downstream to the corporate general ledger.">
+  <properties
+      key="Function Identifier"
+      value="315"/>
+  <properties
+      key="TAM Application Name"
+      value="Journalization"/>
+  <properties
+      key="TAM Application Id"
+      value="5.9.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.9.2.315"/>
+</archimate:ApplicationFunction>

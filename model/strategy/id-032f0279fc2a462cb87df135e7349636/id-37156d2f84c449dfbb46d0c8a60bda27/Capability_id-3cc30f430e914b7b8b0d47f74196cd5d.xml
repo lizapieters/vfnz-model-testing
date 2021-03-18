@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Insurance Management"
+    id="id-3cc30f430e914b7b8b0d47f74196cd5d"
+    documentation="The ability to protect the Business against specific risks with insurance.">
+  <properties
+      key="TMF_ID"
+      value="1.2.2.3"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

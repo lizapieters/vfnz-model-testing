@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Create Sales Proposals"
+    id="id-d5608ca8c5364d8c98f511033e0a7f4a"
+    documentation="These processes create and document proposals for sales processes and sales channels. The processes define proposals to change existing sales processes and/or channels, or to develop new sales processes and/or channels. These processes undertake the necessary identification of the needs of products, and an analysis of the existing or proposed enterprise sales process and/or channel capabilities. The proposals can be based on industry analysis from the Monitoring Sales &amp; Channel Best Practice processes, on feedback of the effectiveness of existing sales channels from the Selling processes, or on specific requirements associated with the development of new or enhanced products. These processes include defining product sales targets for each channel, as well as sales and sales personnel performance indicators for each channel.">
+  <properties
+      key="Process Identifier"
+      value="1.1.5.2.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

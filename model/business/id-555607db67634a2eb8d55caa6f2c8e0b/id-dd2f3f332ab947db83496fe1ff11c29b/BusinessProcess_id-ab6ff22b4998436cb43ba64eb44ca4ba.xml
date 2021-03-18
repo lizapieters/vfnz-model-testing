@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Perform DG Maturity Assessment"
+    id="id-ab6ff22b4998436cb43ba64eb44ca4ba"
+    documentation="Define DG Maturity Assessment to understand the situation of as-is data governance and perform Maturity Assessment in the area of DG.">
+  <properties
+      key="Process Identifier"
+      value="1.7.8.4.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Define and perform DG maturity assessment to analyze the present situation and the deviations from the business goals."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

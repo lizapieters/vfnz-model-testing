@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProductOfferingRelationship"
+    id="id-db4485973b8f48e385d1099ccf0ec96c"
+    documentation="A significant connection or similarity between two or more ProductOfferings. For example; the relationship between a providers ProductOffering and a supplier/partners ProductOffering used to fulfill the providers ProductOffering; a service provider offers various photos for download and printing...a print shop prints them for the provider and considers one photo (ProductOffering) the same as any other from a pricing perspective...one partners photo offering is related to many of the providers photos."/>

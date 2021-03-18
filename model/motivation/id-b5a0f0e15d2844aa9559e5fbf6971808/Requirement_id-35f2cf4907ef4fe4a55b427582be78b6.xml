@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1179"
+    id="id-35f2cf4907ef4fe4a55b427582be78b6"
+    documentation="As a customer, I want to be able to store multiple credit/debit cards on my account and choose which card should be used for what, so that I can manage where my Vodafone payments are coming from.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1179"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="2"/>
+  <properties
+      key="Base_Old"
+      value="2"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Self Service"/>
+  <properties
+      key="Topic"
+      value="Payment/Collections"/>
+  <properties
+      key="Remarks"
+      value="OOTB: at the level of the product we can point the account that pays for it (not particular card). Is it sufficient?"/>
+  <properties
+      key="Module"
+      value="PIM, AIF"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

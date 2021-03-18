@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1431"
+    id="id-b29daa53bc8c40c9a4b7eb04dbd153b1"
+    documentation="As a customer who has chosen to group my Prods/Services, I want to be able to choose how these groups are invoiced and paid including billable and non-billable structures e.g. Auck (billable) pays their own invoice but Wn (non-billable) and Chch (billable) are paid for by Chch">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1431"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Ben Pennell"/>
+  <properties
+      key="Tribe"
+      value="Business"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Setup"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Account Hierarchies"/>
+  <properties
+      key="Remarks"
+      value="OOTB - realized by payment association"/>
+  <properties
+      key="Module"
+      value="PIM, BS, SC, EP"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Business Only"/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

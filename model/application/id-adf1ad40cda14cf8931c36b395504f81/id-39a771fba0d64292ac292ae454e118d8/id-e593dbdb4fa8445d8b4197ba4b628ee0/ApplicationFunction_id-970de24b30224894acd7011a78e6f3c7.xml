@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Network Forecasting Support"
+    id="id-970de24b30224894acd7011a78e6f3c7"
+    documentation="Support forecasting functionality to be applied at different levels of detail and over different time frames. Some types of forecast are more relevant to Strategic and others more relevant to Tactical Planning. Both product volume forecasts and utilization trends are relevant to this automation function">
+  <properties
+      key="Function Identifier"
+      value="441"/>
+  <properties
+      key="TAM Application Name"
+      value="Planning Design Automation"/>
+  <properties
+      key="TAM Application Id"
+      value="7.1.5"/>
+  <properties
+      key="Constructed Id"
+      value="7.1.5.441"/>
+</archimate:ApplicationFunction>

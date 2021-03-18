@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Make Loyalty Program Redemption"
+    id="id-b4f8c159655e4a4f9d2fe096729d93dc"
+    documentation="Use a program's currency to obtain an enterprise's or a loyalty program partner's product offering(s).">
+  <properties
+      key="Process Identifier"
+      value="1.1.19.2.4.1"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Make Loyalty Program Redemption enables a loyalty program participant to use a program's currency to obtain an enterprise's or a loyalty program partner's product offering(s). The reward offering is obtained via the Product Offering Purchasing process, the Customer Order Handling process, or the Party Order Handling process. Redemption is made from the applicable loyalty program reward catalog(s) associated with the loyalty program participant's loyalty account. A loyalty program participant may also redeem a reward that has been earned by them. For example, a loyalty program signup reward that provides a discount on a purchase."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

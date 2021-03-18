@@ -1,0 +1,17 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Domain"
+    id="id-5c1d74e7f02d4cfeae5e21f49ff14fcd"
+    documentation="The Product Domain is concerned with the lifecycle of products and information and contract operations related to products’ lifecycle.">
+  <properties
+      key="Process Identifier"/>
+  <properties
+      key="Category"/>
+  <properties
+      key="Extended Description"
+      value="The Product Domain is concerned with the lifecycle of products and information and contract operations related to products’ lifecycle. The Domain contains Aggregate Business Entities that deal with the strategic portfolio plans, products offered, product performance, product usage statistics, as well as the product instances delivered to a customer."/>
+  <properties
+      key="Maturity Level"/>
+  <properties
+      key="Frameworx Status"/>
+</archimate:BusinessProcess>

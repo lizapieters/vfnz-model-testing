@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Funnel/Workflow Management"
+    id="id-1a8fc7e0d4104a28995d132455362f3c"
+    documentation="Funnel Management applications, also sometimes known as pipeline, or tunnel, provide functionality to manage the funnel process.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="3.9.2"/>
+  <properties
+      key="TMF Function"
+      value="Funnel Assignment Funnel Creation Funnel Tracking &amp; Management"/>
+  <properties
+      key="TMF Maturity"
+      value="Market_Sales Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

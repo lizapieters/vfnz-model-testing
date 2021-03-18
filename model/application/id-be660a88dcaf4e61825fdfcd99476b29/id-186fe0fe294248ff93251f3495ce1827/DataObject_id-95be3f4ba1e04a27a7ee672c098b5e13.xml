@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DunningRule"
+    id="id-95be3f4ba1e04a27a7ee672c098b5e13"
+    documentation="A DunningRule is a type of PolicyRule. It represents rules to apply to a dunning case: the events that trigger dunning rules evaluation; the conditions to evaluate and the actions that must be done (Ex: SMS; letters; outbound calls; barring/unbarring actions; late fees; penaltiesâ€¦)"/>

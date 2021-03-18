@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Authorization Control and Management"
+    id="id-9d9dc45527734f63b8b2de3d0e61ee79"
+    documentation="Authorization Control and Management sets and administrates the Role and Rule based access to applications.">
+  <properties
+      key="Function Identifier"
+      value="900"/>
+  <properties
+      key="TAM Application Name"
+      value="Application Security"/>
+  <properties
+      key="TAM Application Id"
+      value="9.5.2"/>
+  <properties
+      key="Constructed Id"
+      value="9.5.2.900"/>
+</archimate:ApplicationFunction>

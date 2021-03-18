@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage External Operator Interaction Policies"
+    id="id-1f035d1bb2f940b28bee45048569b539"
+    documentation="This process serves as a repository of M&amp;P (Methods and Procedures) information for interactions with External Operators.">
+  <properties
+      key="Process Identifier"
+      value="1.7.2.3.1.6"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="One of the key preventative measures available to any operator is information sharing with other operators. Considering the number of operators globally today, there is a vast amount of information around fraud types, methods, detection practices, etc., that (if available between operators) could save considerable time, money, and effort within any given operator. However, policies do need to be in place to guard against the sharing of sensitive information that could, in fact, harm the sharing operator. This may include information that could benefit a competitor or trading partner, causing financial loss, decrease in market share, or exposure of competitive advantage."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

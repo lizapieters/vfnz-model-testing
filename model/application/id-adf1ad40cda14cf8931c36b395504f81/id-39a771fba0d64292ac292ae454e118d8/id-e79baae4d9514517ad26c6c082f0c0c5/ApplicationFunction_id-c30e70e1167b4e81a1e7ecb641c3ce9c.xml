@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Calculate Bill-time Fee"
+    id="id-c30e70e1167b4e81a1e7ecb641c3ce9c"
+    documentation="Calculates and applies bill-time fees where necessary">
+  <properties
+      key="Function Identifier"
+      value="58"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Bill Charge Calculation"/>
+  <properties
+      key="TAM Application Id"
+      value="5.15.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.15.1.58"/>
+</archimate:ApplicationFunction>

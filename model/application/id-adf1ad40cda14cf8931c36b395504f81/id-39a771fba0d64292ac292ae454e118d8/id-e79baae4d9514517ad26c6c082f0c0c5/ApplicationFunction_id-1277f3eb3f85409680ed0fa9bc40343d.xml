@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Balance Managemnt Activites log"
+    id="id-1277f3eb3f85409680ed0fa9bc40343d"
+    documentation="Provide transaction logs to support reporting activities.">
+  <properties
+      key="Function Identifier"
+      value="50"/>
+  <properties
+      key="TAM Application Name"
+      value="Balance Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.19.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.19.2.50"/>
+</archimate:ApplicationFunction>

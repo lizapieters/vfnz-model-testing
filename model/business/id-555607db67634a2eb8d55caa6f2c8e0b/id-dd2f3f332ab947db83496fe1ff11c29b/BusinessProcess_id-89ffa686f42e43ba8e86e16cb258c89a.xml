@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Track, Monitor and Report Resource Data Collection Processes and Capabilities"
+    id="id-89ffa686f42e43ba8e86e16cb258c89a"
+    documentation="Monitoring, managing and reporting on the capability of the Resource Data Collection &amp; Distribution processes.">
+  <properties
+      key="Process Identifier"
+      value="1.5.4.4.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="â€¢ Tracking and monitoring of the Resource Data Collection and Distribution processes and associated costs, and reporting on the capability of the Resource Data Collection and Distribution processes; In order to improve efficiency and accuracy of tracking, monitoring and reporting, this process may be supported through automation through a common platform."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

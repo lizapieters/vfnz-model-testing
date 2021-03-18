@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Report Party Interaction"
+    id="id-4a4085ca7ef141178c4e44231af2b61b"
+    documentation="Generates related reports, to be utilized for process improvement activities, proactive problems prevention, up-sell opportunities definition, etc.">
+  <properties
+      key="Process Identifier"
+      value="1.6.9.5.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The purpose of this process is to generate related reports, to be utilized for process improvement activities, proactive problems prevention, up-sell opportunities definition, etc."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitor Product Offering Purchase Status"
+    id="id-a76d39805a70486f88949691f8064e34"
+    documentation="Continuously monitor the status of product offering purchases.">
+  <properties
+      key="Process Identifier"
+      value="1.2.9.8.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

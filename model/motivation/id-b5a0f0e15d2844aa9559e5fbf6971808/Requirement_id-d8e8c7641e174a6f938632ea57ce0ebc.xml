@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0189"
+    id="id-d8e8c7641e174a6f938632ea57ce0ebc"
+    documentation="As a Privacy, Fraud and Compliance Representative&#xA;I want fraudulent transactions to be identified immediately&#xA;So that any theft/loss to the organisation can be avoided&#xA;&#xA;Fraud Management Scenarios that must be addressed&#xA;&#xA;1) Repeated purchases from the same IP address &#xA;2) Restrictions based on the total value of the cart - flag orders so that appropriate actions can be taken&#xA;3) If customer email address is associated with known Fraud, order will be declined&#xA;4) If customer Contact Number is associated with known Fraud, order will be declined&#xA;5) If customer name is associated with known Fraud, order will be declined&#xA;6) If customer’s Service Address  matched with known fraud physical address, order will be declined&#xA;7) If IP address is overseas and order contains any hardware, order will be declined&#xA;8) Name on the order and the credit card must match&#xA;9) Same Delivery Address for multiple orders - flag orders so that appropriate actions can be taken">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0189"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Tim Munnik"/>
+  <properties
+      key="Tribe"
+      value="OSS Squad"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Use"/>
+  <properties
+      key="Topic"
+      value="BSS | Fraud Detection | Identify Fraudulent Orders Immediately"/>
+  <properties
+      key="Remarks"
+      value="actions based on IP to be discussed, what in case someone is using vpn? Dynamic IP? Company networks? 3-6 require integration with external fraud db"/>
+  <properties
+      key="Module"
+      value="0"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="N/A"/>
+</archimate:Requirement>

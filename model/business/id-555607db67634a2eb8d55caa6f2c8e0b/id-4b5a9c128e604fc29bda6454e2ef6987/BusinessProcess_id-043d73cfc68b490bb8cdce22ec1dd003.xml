@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enable Product Performance Management"
+    id="id-043d73cfc68b490bb8cdce22ec1dd003"
+    documentation="Enable Product Performance Management ensures that all information, materials, systems and resources are available so that the Product Performance Management processes can operate effectively.">
+  <properties
+      key="Process Identifier"
+      value="1.2.4.5"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The purpose of the Support Enable Product Performance Management processes is to ensure that there is capability (for example, information, materials, systems and resources) so that the product performance management processes can operate effectively to manage, track, monitor, analyze, improve and report on the performance of specific products. Examples are information on how to handle product performance management including performance analysis, statistics, trends, etc. These processes are responsible for implementing generic and specific changes to product performance management capabilities. This support could be in updating scripts, batch procedures, surveys, etc. These processes undertake trend analysis on product performance management, e.g. product performance categories, performance trends, overall QoS delivered, outcomes, etc."/>
+  <properties
+      key="Maturity Level"
+      value="3"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

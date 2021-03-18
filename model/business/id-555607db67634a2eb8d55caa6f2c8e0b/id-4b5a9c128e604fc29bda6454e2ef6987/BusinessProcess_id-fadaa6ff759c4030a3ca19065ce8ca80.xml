@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage the Tender Process"
+    id="id-fadaa6ff759c4030a3ca19065ce8ca80"
+    documentation="Manage and administer the mechanics of the tender process.">
+  <properties
+      key="Process Identifier"
+      value="1.6.2.3"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Manage the Tender Process processes manage and administer the mechanics of the tender process. The processes determine the engagement interactions with potential parties, the timing of the process, bring together the commercial and functional requirements into the tender documentation, the analysis and scoring mechanisms for tender analysis based on the functional, technical, operational and commercial requirements, and manage the tender analysis team engagement approach. These processes are invoked by the Party Order Handling processes in the event that the order process requires a tender to select between previously contracted parties. These processes also manage the analysis of the strategic sourcing factors used at the commencement of the process including the industry and competitive analysis, and a determination of the minimum acceptable outcomes from the sourcing process."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

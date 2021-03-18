@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerFacingServiceAtomic"
+    id="id-8281f5f9ae1a490090a291f63f07ecc4"
+    documentation="This is an abstract base class that defines a stand-alone CustomerFacingService that meets the needs of a Product. Stand-alone CustomerFacingServices may be linked directly to a Product or aggregated by a CustomerFacingServiceProduct."/>

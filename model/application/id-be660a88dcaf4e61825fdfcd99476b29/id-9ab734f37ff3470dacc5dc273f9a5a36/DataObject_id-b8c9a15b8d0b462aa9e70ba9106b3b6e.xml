@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicyRuleBase"
+    id="id-b8c9a15b8d0b462aa9e70ba9106b3b6e"
+    documentation="This is a concrete base class for realizing the event-condition-passaction-failaction semantics that form a policy rule. The semantics of this rule are that the rule is evaluated when an event occurs. If the condition clause is satisfied; then the pass-action clause will be executed (otherwise; the fail-action clause will be executed). PolicyRules may be nested within PolicyRules. This is often needed in networking (e.g.; bandwidth allocation)."/>

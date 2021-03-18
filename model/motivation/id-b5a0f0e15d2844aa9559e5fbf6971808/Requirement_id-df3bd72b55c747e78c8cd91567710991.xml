@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1121"
+    id="id-df3bd72b55c747e78c8cd91567710991"
+    documentation="As a customer I want to be able to access lemonade style help guides (changing wifi password etc)">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1121"/>
+  <properties
+      key="Status"
+      value="Not Comarch BSS Solution"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="y"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Help"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Help"/>
+  <properties
+      key="Topic"
+      value="Self-Service"/>
+  <properties
+      key="Remarks"
+      value="something like this: http://academy.launchfire.com/en/collections/1101983-general-lemonade but its outside of Comarch's solution, guides can be written by VF and linked somehow on SC"/>
+  <properties
+      key="Module"
+      value="SC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Network Performance Constraints Determination"
+    id="id-f3a80e718cef437b97f87155e0fae6b8"
+    documentation="The ability to assess what is causing a network to under perform.">
+  <properties
+      key="TMF_ID"
+      value="1.1.7.4.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

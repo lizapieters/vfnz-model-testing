@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BitStringValue"
+    id="id-72ff8b88b82b4e3997051624b6d734bb"
+    documentation="This class is used to represent a single or a set of bit string values. A bit string is defined as a string whose individual characters have the value 0 or 1. No other values are allowed."/>

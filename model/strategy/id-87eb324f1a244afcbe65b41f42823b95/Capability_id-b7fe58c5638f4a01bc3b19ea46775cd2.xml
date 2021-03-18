@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Spares &amp; Warehouse Inventory Management"
+    id="id-b7fe58c5638f4a01bc3b19ea46775cd2"
+    documentation="Spares and Warehouse Inventory Management applications are responsible for managing the spare parts for the various Elements deployed in the network. Accurate tracking of these spares is necessary to ensure that correct spares are at hand to avoid extended period of downtime and are tightly integrated with the Supply Chain applications.j">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="7.1.6"/>
+  <properties
+      key="TMF Function"
+      value="Barcode/RFID tracking of all spares resources Commercial information of spares register Spares inventory Spares Inventory Retrieval Support"/>
+  <properties
+      key="TMF Maturity"
+      value="Resource Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

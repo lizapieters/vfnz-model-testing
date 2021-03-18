@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop Service Capability Investment Proposals"
+    id="id-854260999a284f5b847e45c13d701543"
+    documentation="These processes capture all activities required to develop business proposals to develop and deliver the required service capabilities, including identification of potential other parties. These processes take the input from the Map &amp; Analyze Service Requirements, the Capture Service Capability Shortfalls and the Define Product Capability Requirements processes to develop and gain approval for any business proposals arising. In some cases the business proposal may require the creation and approval of a formal business case, in other cases the business proposal approval may be delegated to local management. In any event requirements for the service infrastructure, identification of required Resource infrastructure capabilities, the cost estimates for delivering the service and supporting resource infrastructure, including costs for materials (equipment and tools), labor and training are part of the investment proposal. &#xA;The rules and procedures outlining the necessary approval process to be used are also part of these processes.">
+  <properties
+      key="Process Identifier"
+      value="1.4.2.3.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

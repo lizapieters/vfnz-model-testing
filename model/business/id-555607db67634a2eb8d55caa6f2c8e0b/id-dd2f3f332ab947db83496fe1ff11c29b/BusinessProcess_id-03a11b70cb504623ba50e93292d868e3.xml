@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Implement Revenue and Cost Assurance Operations"
+    id="id-03a11b70cb504623ba50e93292d868e3"
+    documentation="This process is aimed to technically set up the controls and measures by using dedicated tools and continuously develop and improve solutions needed to realize the defined framework including its policies and measurable controls driven by a risk-centric development approach, supported by the incorporation of digitization evolutions in the RA environment.">
+  <properties
+      key="Process Identifier"
+      value="1.7.9.1.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="While the Manage Revenue and Cost Assurance Policy Frameworks Process ensures what activities and measures shall be applied and how, and the Manage Revenue and Cost Assurance Operations Process tracks their outcome, the objective of the Implement Revenue and Cost Assurance Operations Processes are the detailed implementation steps of the defined KPIs, according to their respective and before-hand evaluated priority, in the manner stated by the RA policy framework, within the technical RA solution tool, considering the evolution of the environment which's probable leak shall seeked to be covered. The process objective is to perform a conception of how to implement a control to meet the requested objectives used to identify the minimum level of satisfactory performance required for a given control point or a process from an RA perspective. It's aim is to analyse the business process of a given control point, set up and perform an ETL process and develop a Revenue and Cost Assurance Artifact and configure its alarming, most preferably by delivering automated results. The responsibilities of the processes include, but are not limited to: â€¢Conception of Business Assurance artifacts like KPIs, controls and metrics â€¢Ad hoc analysis and results of low level investigations driven by request of stakeholders, triggered alarms or expert judgement â€¢End-to-end implementation of artifacts, starting with ETL procedure of source data and configuration in mid-layer systems to enable monitoring â€¢Testing and fine-tuning of the artifacts â€¢Implemented artifacts (control, metric) â€¢Documentation (control / metric attributes, dataflow) â€¢Updated repositories"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

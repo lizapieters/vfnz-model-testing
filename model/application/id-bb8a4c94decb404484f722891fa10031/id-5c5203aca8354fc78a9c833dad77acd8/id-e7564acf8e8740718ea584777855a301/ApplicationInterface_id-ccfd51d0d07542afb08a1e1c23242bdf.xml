@@ -1,0 +1,39 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Speed test"
+    id="id-ccfd51d0d07542afb08a1e1c23242bdf"
+    documentation="TP Link based speed test">
+  <properties
+      key="Stereotype"
+      value="abstract_interface"/>
+  <properties
+      key="Southbound Required"
+      value="Y"/>
+  <properties
+      key="Importance"
+      value="1.x"/>
+  <properties
+      key="Area"
+      value="?"/>
+  <properties
+      key="Interface Type"
+      value="0"/>
+  <properties
+      key="Pattern"
+      value="0"/>
+  <properties
+      key="FWA"
+      value="0"/>
+  <properties
+      key="Mobile"
+      value="0"/>
+  <properties
+      key="Broadband"
+      value="0"/>
+  <properties
+      key="Common"
+      value="0"/>
+  <properties
+      key="Unexpected"
+      value="true"/>
+</archimate:ApplicationInterface>

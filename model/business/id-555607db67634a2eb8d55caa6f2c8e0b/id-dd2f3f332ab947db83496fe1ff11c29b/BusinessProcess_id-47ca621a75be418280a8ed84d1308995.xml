@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fraud Operations Support"
+    id="id-47ca621a75be418280a8ed84d1308995"
+    documentation="Fraud Operations Support serves as the enabling function for fraud prevention, ongoing fraud detection, and overall threat reduction practices.">
+  <properties
+      key="Process Identifier"
+      value="1.7.9.2.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Fraud Operations Support has a primary role as a preventative entity within Fraud Operations overall. The Support process objective is to enable the ongoing detection, investigation and actions functions of Fraud Operations but also to support, in a proactive manner, the threats identification and Fraud avoidance functions through preventative information collection, monitoring the business for changes (and counsel the business when those changes expose a threat for fraud) and to manage fraud learnings back into the business via list , rule enhancements, etc."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

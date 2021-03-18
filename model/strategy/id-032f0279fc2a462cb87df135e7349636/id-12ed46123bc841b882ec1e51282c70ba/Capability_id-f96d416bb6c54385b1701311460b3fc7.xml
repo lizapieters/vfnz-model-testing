@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Message/Customer Matching"
+    id="id-f96d416bb6c54385b1701311460b3fc7"
+    documentation="The ability to associate messages with a customer.">
+  <properties
+      key="TMF_ID"
+      value="1.2.1.6.9"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

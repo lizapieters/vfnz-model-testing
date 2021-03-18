@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop New Service Business Proposal"
+    id="id-e0a1622c35044e499b3f3e793989e846"
+    documentation="Develop and document business proposals for the identified new or enhanced Service ideas">
+  <properties
+      key="Process Identifier"
+      value="1.4.3.3"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Develop New Service Business Proposal processes develop and document business proposals for the identified new or enhanced Service ideas (including if necessary a business case). The business proposal (or business case) identifies the new service requirements, including the specific resource components which underpin the service. The business proposal also identifies the service development, management and operations costs and anticipated benefits, including forecast demand, performance gains, productivity gains and/or operational cost improvements. The business proposal also includes an assessment of the risks and the competitive positioning of the service proposal. As a part of the business proposal development a feasibility assessment can be produced. Potential external parties who can assist in the development of the service classes are also identified (note that commercial arrangements may already be in place with these potential parties). As a part of the process, the business proposal is appropriately approved, and as a result of the approval, necessary staff and other resources are made available."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

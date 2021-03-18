@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Access Path Procurement"
+    id="id-adaada2c378a4a1d9694fa1ff08376e5"
+    documentation="The Access Path Procurement function obtains access paths to the customer or service location through supply chain (internal or external) which is managed or delegated in the form of a resource order or a resource facing service order.">
+  <properties
+      key="Function Identifier"
+      value="938"/>
+  <properties
+      key="TAM Application Name"
+      value="Procure Access"/>
+  <properties
+      key="TAM Application Id"
+      value="6.3.4.3"/>
+  <properties
+      key="Constructed Id"
+      value="6.3.4.3.938"/>
+</archimate:ApplicationFunction>

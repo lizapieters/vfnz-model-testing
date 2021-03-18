@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ServiceSpecification"
+    id="id-bb652c198ba84781bcc553b87051b58d"
+    documentation="ServiceSpecification is the base entity for defining the ServiceSpecification hierarchy. All Services are characterized as either being related to Products or Resources. Each instance of a Service is made up of changeable as well as invariant attributes; relationships and constraints. A ServiceSpecification defines the shared characteristics of a Service. It can be conceptually thought of as a template that different Service instances can be instantiated from. Each of these Service instances will have the same shared characteristics. However; the characteristics values of the instantiated Service will be specific to each instance. This class can be thought of as a template; which represents a generic specification for implementing a particular type of Service. A ServiceSpecification may consist of other ServiceSpecifications supplied together as a collection. ServiceSpecification inherits from EntitySpecification; which inherits from RootEntity."/>

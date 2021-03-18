@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Catalog Inter layer aspects"
+    id="id-d3862180668c44f88530f391b765d069"
+    documentation="Inter layer aspects of a catalog management application, including Inter layer dependency-rules management;  Manage rules that governs the relationships between entities in different layers. A catalog that manages different layers needs to maintain the rules within the layer and between the layers. For example, how product definition translate corresponds to different services provisioning rules, and so on">
+  <properties
+      key="Function Identifier"
+      value="11"/>
+  <properties
+      key="TAM Application Name"
+      value="Catalog Management"/>
+  <properties
+      key="TAM Application Id"
+      value="11.1"/>
+  <properties
+      key="Constructed Id"
+      value="11.1.11"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Close Party Bill Inquiry"
+    id="id-6294ea9e66d343bdb232818d9a1e3987"
+    documentation="Close a party bill inquiry when the inquiry has been resolved.">
+  <properties
+      key="Process Identifier"
+      value="1.6.20.6"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Close Party Bill Inquiry closes a party bill inquiry when the inquiry has been resolved. It monitors the status of all open party bill inquiries and recognize that a party bill inquiry is ready to be closed when the status is changed to resolved. This process provides this information to Provide Party Bill Inquiry Change Notification which notifies applicable parties that the inquiry has been closed."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

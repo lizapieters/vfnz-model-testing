@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResourceStateInfo"
+    id="id-8c4f3e4e4a7640c8a3255920d0372ea6"
+    documentation="ResourceStateInfo is an abstract base class for representing different types of management information that describes the state of a particular Resource. Subclasses of this class include classes to represent Faults; Outages; Alarms; the usage of this Resource; and its current operational state."/>

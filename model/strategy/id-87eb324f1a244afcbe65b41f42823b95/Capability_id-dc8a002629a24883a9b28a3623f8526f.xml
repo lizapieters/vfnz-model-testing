@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Planning Design Automation"
+    id="id-dc8a002629a24883a9b28a3623f8526f"
+    documentation="�Planning Design Automation� is an additional, value-add application, which should also be part of Application Map, but is not present in Application Map r2. It provides automation for both Tactical and Strategic Planning.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="7.1.5"/>
+  <properties
+      key="TMF Function"
+      value="Complex Analysis Design Automation Network Forecasting Support Network Views"/>
+  <properties
+      key="TMF Maturity"
+      value="Resource Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

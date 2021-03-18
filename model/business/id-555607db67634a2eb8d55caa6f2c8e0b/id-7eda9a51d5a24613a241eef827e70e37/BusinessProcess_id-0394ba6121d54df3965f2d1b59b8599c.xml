@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Party Tender Management"
+    id="id-0394ba6121d54df3965f2d1b59b8599c"
+    documentation="Party Tender Management processes manage the activities associated with developing tender documents, running tender processes, gaining enterprise agreement to tender decisions.">
+  <properties
+      key="Process Identifier"
+      value="1.6.2"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Party Tender Management processes manage the activities associated with developing tender documents, running tender processes, gaining enterprise agreement to tender decisions. The tender process for the sourcing activity can be used not only for managing the sourcing of infrastructure of various types, but is also applicable for use in outsourcing tender processes, and for the sourcing of commodity items used within a business. The actual depth to which the sourcing process is used is dependent on such factors as the value of the sourced items. Note that these processes can also be used for the negotiated agreements between the enterprise and its competitors as a part of regulated inter-carrier agreements. While tender processes are not used in such a case, the processes for determining appropriate commercial arrangements and for gaining enterprise agreement are used for these regulated and competitive activities. They also manage the evaluation of agreements with parties, to determine those with the products and services that best meet the enterpriseâ€™s needs."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

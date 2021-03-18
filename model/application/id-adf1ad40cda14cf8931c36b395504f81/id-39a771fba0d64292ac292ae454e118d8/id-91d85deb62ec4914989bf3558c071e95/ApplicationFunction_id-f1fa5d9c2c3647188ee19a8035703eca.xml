@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Campaign to Customer profile handling"
+    id="id-f1fa5d9c2c3647188ee19a8035703eca"
+    documentation="Permission-based control function to ensure that customers are always treated according to their preferences, no matter which interaction point you use.">
+  <properties
+      key="Function Identifier"
+      value="350"/>
+  <properties
+      key="TAM Application Name"
+      value="Campaign Execution &amp; Refinement"/>
+  <properties
+      key="TAM Application Id"
+      value="3.9.1.4"/>
+  <properties
+      key="Constructed Id"
+      value="3.9.1.4.350"/>
+</archimate:ApplicationFunction>

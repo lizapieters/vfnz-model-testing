@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Support Party Interface Management"
+    id="id-77906cdf32fe4ef4987ff53e7d54934c"
+    documentation="Ensure that there is capability so that the Party Interface Management processes can operate effectively">
+  <properties
+      key="Process Identifier"
+      value="1.6.6.5"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The purpose of the Support Party Interface Management processes is to ensure that there is capability (for example, information, materials, systems and resources) so that the Party Interface Management processes can operate effectively. Examples are information on how to handle unusual requests based on temporary situations, systems needed to accept and track supplier/partner contacts, requests for the provisioning of additional resources where it has been identified that current levels will impact on timely contact handling. These processes are responsible for implementing generic and specific changes to party interfaces. This support could be in updating agent scripts, Web pages, etc. Support Party Interface Management processes keep up to date all information concerning suppliers and partners. These processes undertake trend analysis on party contacts, e.g. type, frequency, duration, outcome."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

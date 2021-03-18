@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Performance Monitoring"
+    id="id-70aa067615b242fe996abab6496ef114"
+    documentation="Service Performance Monitoring applications provide the necessary functionality to continuously collect data and monitor the performance of the service provider's services.The collected data is logged and made available for further analysis, and present performance made available as notifications for immediate action in case of significant deviation.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="6.7.1"/>
+  <properties
+      key="Frameworx Domain"
+      value="Service Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

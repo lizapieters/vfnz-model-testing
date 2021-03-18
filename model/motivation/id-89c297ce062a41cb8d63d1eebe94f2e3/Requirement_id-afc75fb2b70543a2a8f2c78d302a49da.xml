@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0064"
+    id="id-afc75fb2b70543a2a8f2c78d302a49da"
+    documentation="As a customer, I want to be able to see the status of my port in my app or web self service, so that I can find out when I expect my number to be changed over.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0064"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Setup"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Setup"/>
+  <properties
+      key="Topic"
+      value="Port status"/>
+  <properties
+      key="Remarks"
+      value="OOTB (statuses provided by the porting service nee to be translated into more customer friendly statuS)"/>
+  <properties
+      key="Module"
+      value="AIF, OM, SC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="REQ_OSS_31 REQ_OSS_34"/>
+</archimate:Requirement>

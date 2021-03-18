@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collect Party Demographic"
+    id="id-8a276c152f0848b980000046a63ad24a"
+    documentation="Collect a demographic about a party and/or one or more roles a party plays.">
+  <properties
+      key="Process Identifier"
+      value="1.6.3.2.4"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Collect Party Demographic collects a demographic about a party and/or one or more roles a party plays. The demographic is placed in a group according to the definition of the demographic. Its relationship to a geographic area, product offering, or market segment may also be established. It can be collected directly from a party or from another source, such as social media, professional groups to which a party belongs, and census data. This process also enables changes to be made to any of these aspects for a demographic."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

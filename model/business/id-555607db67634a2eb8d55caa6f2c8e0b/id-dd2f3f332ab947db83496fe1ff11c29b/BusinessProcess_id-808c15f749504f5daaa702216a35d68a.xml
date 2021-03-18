@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Escalate/End Resource Trouble"
+    id="id-808c15f749504f5daaa702216a35d68a"
+    documentation="This process provides the escalations between support levels and actors when a resource trouble cannot be solved by the current assigned group. Therefore, the escalation can be carried out between supports levels at Resource-Ops level, or, it can be escalated to others actors, such as, supplier/partners. It is essential the ability to rapidly escalate resource troubles according to clear and agreed rules.">
+  <properties
+      key="Process Identifier"
+      value="1.5.8.4.4"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

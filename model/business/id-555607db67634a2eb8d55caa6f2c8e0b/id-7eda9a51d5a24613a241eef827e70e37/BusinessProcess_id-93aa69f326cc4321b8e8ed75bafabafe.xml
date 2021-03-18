@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Guiding &amp; Mediation"
+    id="id-93aa69f326cc4321b8e8ed75bafabafe"
+    documentation="Manage usage events by correlating and formatting them into a useful format as well as guiding them to an appropriate service.">
+  <properties
+      key="Process Identifier"
+      value="1.4.8"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Service Guiding &amp; Mediation processes manage usage events by correlating and formatting them into a useful format. These processes include guiding resource events to an appropriate service, mediation of these usage records, as well as de-duplication of usage records already processed. These processes provide information on customer-related and Service-related events to other process areas across assurance and billing. This includes reports on non-chargeable events and overcharged events and analysis of event records to identify fraud and prevent further occurrences. In many cases, this process is performed by a resource such as a network element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

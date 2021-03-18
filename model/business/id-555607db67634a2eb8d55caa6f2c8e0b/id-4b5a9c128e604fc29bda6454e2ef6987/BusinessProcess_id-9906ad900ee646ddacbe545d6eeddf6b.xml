@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deliver Product Capability"
+    id="id-9906ad900ee646ddacbe545d6eeddf6b"
+    documentation="Manage the co-coordinated delivery in line with the approved business case of all required product infrastructure capabilities for that business case across the enterprise">
+  <properties
+      key="Process Identifier"
+      value="1.2.2.4"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Deliver Product Capability processes ensure the co-coordinated delivery in line with the approved business case of all required product infrastructure capabilities for that business case across the enterprise. It is predominantly a program/project management function, with the detailed management of individual infrastructure component delivery managed through separate processes. The processes track and ensure that the business case cost parameters are met, and anticipated benefits and ongoing operational costs are likely to be achieved"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

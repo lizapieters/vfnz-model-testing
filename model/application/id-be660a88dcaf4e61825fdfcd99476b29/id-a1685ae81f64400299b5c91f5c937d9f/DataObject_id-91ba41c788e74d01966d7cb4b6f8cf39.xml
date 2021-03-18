@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SecurityVulnerabilityFixAction"
+    id="id-91ba41c788e74d01966d7cb4b6f8cf39"
+    documentation="A single patch application; software update; configuration change; or external fix. Dependencies are documented by using the nextFixAction association"/>

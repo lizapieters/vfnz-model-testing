@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop Sales Contact"
+    id="id-bd9d15f0d6954969983ac2a1d72e45e7"
+    documentation="Initiate interaction with a sales contact, record additional information about the contact, and make updates a contact's information.">
+  <properties
+      key="Process Identifier"
+      value="1.1.11.1.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Develop Sales Contact initiates contact with a party to acknowledge their interest via the Customer or Party Interaction Management process. It records more party information about a contact, such as offerings that are of interest, and updates any information about a contact based on interaction(s) with them."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

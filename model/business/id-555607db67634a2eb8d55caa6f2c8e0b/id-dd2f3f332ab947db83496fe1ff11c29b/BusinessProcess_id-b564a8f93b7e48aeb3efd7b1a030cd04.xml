@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Report Party Orders Status"
+    id="id-b564a8f93b7e48aeb3efd7b1a030cd04"
+    documentation="Record, analyze and assess the party orders status changes to provide management reports and any specialized summaries of the efficiency and effectiveness of the overall Party Order Handling process, including specific reports required by specific audiences.">
+  <properties
+      key="Process Identifier"
+      value="1.6.8.6.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

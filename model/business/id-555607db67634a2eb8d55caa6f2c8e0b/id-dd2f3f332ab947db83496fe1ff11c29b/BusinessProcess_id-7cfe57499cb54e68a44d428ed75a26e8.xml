@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Close Interaction"
+    id="id-7cfe57499cb54e68a44d428ed75a26e8"
+    documentation="Formally closes the interaction when all related activities have been terminated">
+  <properties
+      key="Process Identifier"
+      value="1.6.9.4.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The purpose of this process is to close the Party interaction when both parties agree that the interaction is closed, or according to party interaction policies when an interaction is regarded as timed out."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

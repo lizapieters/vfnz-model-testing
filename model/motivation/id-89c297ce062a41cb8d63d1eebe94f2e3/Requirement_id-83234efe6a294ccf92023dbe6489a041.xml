@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0895"
+    id="id-83234efe6a294ccf92023dbe6489a041"
+    documentation="As a Treasury Analyst I want access to the new Comarch system so that I can run reports etc to ensure payments applied to customer accounts, reconcile with payments received in the bank, any refunds are actioned as stated in CRM.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0895"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Catherine McMurtrie"/>
+  <properties
+      key="Tribe"
+      value="Finance / Treasury"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="y"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Reporting"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Treasury/Payments"/>
+  <properties
+      key="Remarks"
+      value="In fact the Treasury Analyst probably would not need direct access to Comarch, but the payments data would need to to be fed to external system (ADW datalake) Assumed export of data from Comarch system."/>
+  <properties
+      key="Module"
+      value="REP"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

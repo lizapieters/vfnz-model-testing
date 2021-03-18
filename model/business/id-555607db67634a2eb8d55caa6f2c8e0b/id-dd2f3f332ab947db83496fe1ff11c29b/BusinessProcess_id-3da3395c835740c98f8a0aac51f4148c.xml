@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage resource research investigations"
+    id="id-3da3395c835740c98f8a0aac51f4148c"
+    documentation="Manage internally driven  resource research investigations and activities">
+  <properties
+      key="Process Identifier"
+      value="1.5.1.2.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Manage resource research investigations processes manage internally driven research investigations and activities which are used to provide detailed assessment or investigation of new and emerging resource capabilities. The actual research activity may be totally internally delivered , or may be outsourced to external parties."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Process Management &amp; Support"
+    id="id-8408c6f3a0f84bf79cd15a44979192d5"
+    documentation="Define and manage enterprise process management.">
+  <properties
+      key="Process Identifier"
+      value="1.7.3.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Process Management &amp; Support processes define and manage enterprise process management. These processes define the methodology to be employed by all process design, process change management or process re-engineering activities across the enterprise. As a part of this definition the tools sets, if any, to be used as a part of the process design, process change management or process re-engineering activity are defined, sourced and deployed as required across the enterprise. The required skill sets to support the methodology are defined, appropriate training is developed or arranged, staff to be trained identified and administration of the training undertaken. Any certification processes for the process methodologies are managed by these processes. If the selected methodology requires licensing from external parties, these processes manage the establishment and maintenance of the necessary licenses. These processes ensure coordination of distributed process design, process change management or process re-engineering activities to ensure that duplication is minimized and that process re-use is achieved to the maximum extent possible. These processes also define enterprise policies and guidelines for process management within the enterprise. Cost and performance of individual process activities is the accountability of the operational area using the process. These processes monitor the value of the overall process management activities to ensure that the enterprise continues to gain value from using process management. Appropriate reports on performance at the enterprise level and lower levels are produced by these processes."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

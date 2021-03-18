@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerFacingServiceSpec"
+    id="id-3212d9cebe094a01b22bbc786f8f9cf7"
+    documentation="A CustomerFacingServiceSpec defines the properties (attributes) common to a particular CustomerFacingService used to realize the associated Product(s). This entity serves as a common basis to build any set of CustomerFacingServices that the service provider needs. The CustomerFacingServiceSpec represents all the Service Providerâ€™s know-how of intangible goods at a functional level. It would be more appropriate to name it KonwHowSpec or ProductFacingServiceSpec; but the name is not changed as it is well known. The ProductSpecification corresponds to a sub-set of the Service Providerâ€™s know-how according to what marketing people want to sell. Therefore; a ProductSpecification is a restriction of CustomerFacingServiceSpecs."/>

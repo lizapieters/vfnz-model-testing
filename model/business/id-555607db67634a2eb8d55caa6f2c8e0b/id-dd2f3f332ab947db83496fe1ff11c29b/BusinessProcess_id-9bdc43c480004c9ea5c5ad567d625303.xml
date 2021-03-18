@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Party Debt Collection"
+    id="id-9bdc43c480004c9ea5c5ad567d625303"
+    documentation="Party Debt Collection collects past due payments from parties with whom an enterprise does business. It monitors the amount due from parties, for example check whether the payments are made on time, and implements necessary activities and policies to recover amounts overdue.">
+  <properties
+      key="Process Identifier"
+      value="1.6.16.1.4"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Party Debt Collection collects past due payments from parties with whom an enterprise does business. It monitors the amount due from parties, for example check whether the payments are made on time, and implements necessary activities and policies to recover amounts overdue. The responsibilities of this process include, but are not limited to: â€¢ Identifying bills/invoices which are overdue for payment â€¢ Initiating and managing follow-up with parties having overdue amounts â€¢ Interacting with Party Payment Plan Administration to arrange payment plans to allow parties to pay overdue amounts in installments â€¢ Initiating debt recovery activities in accordance with appropriate commercial practice and policies â€¢ Managing the aged party debt portfolio â€¢ Establishing and managing party debt profiles to assist in managing debt recovery and debt risk on a party, product or party group basis â€¢ Interacting with Party Tender Management and/or Party Agreement Management to establishing and manage commercial arrangements with third parties for the recovery of aged debt, and/or selling of parts of the debt portfolio to one or more third parties Collections occurs often between larger parties and the collection process is much more complex, since some Parties follows a dynamic late payment strategy. There are multiple process alternatives that may be followed, based on various factors. The process typically includes invoices and reminders including soft dunning letters (multiple wordings), moderate, hard dunning letters, final demand letters. Can also be preempted by predictive risk based customer behavior (discerning periodical vs event based delinquencies) to support customer to proactively &quot;self-cure&quot; before upcoming collection event escalations."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

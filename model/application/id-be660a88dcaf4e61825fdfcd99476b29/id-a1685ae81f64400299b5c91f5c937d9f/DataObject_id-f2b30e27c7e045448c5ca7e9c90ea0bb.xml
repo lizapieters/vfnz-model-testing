@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SecurityVulnerabilityCategoryType"
+    id="id-f2b30e27c7e045448c5ca7e9c90ea0bb"
+    documentation="Identifies the type of SecurityVulnerability for the purposes of vulnerability scoring. Notes: The three types defined include software flaws; security configuration issues; and software feature misuses."/>

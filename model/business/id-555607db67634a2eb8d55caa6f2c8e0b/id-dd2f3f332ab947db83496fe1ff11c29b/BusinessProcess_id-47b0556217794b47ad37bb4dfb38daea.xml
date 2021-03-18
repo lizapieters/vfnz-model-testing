@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Test Service"
+    id="id-47b0556217794b47ad37bb4dfb38daea"
+    documentation="Test specific services to ensure all components are operating within normal parameters, and that the service is working to agreed performance levels before its activation for the customer. &#xA;This purpose is performed through testing the service end-to-end as far as possible. &#xA;These processes test specific services against external party defined test plans, or against test plans developed by the service provider.">
+  <properties
+      key="Process Identifier"
+      value="1.4.5.5.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

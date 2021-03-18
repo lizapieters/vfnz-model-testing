@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AtomicSecVulScoringMetricDefn"
+    id="id-5d9590d201584749867633b918469a18"
+    documentation="A type of SecurityVulnerabilityMetricDefn that does not have any subordinate SecurityVulnerabilityMetricDefns; that is; an AtomicSecurityVulnerabilityMetricDefn is a leaf-level SecurityVulnerabilityMetric. Notes: Examples include Base Metrics - Access Vector; Authentication; and Access Complexity."/>

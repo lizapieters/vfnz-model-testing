@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0079"
+    id="id-e086214859924b818038d64859a94b6c"
+    documentation="As a customer, I want to be able to access GST reciepts for all the payments I've made to Vodafone for my products I have relevant role profiles for, so that I can access these for accounting purposes">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0079"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Use"/>
+  <properties
+      key="Topic"
+      value="View GST receipts"/>
+  <properties
+      key="Remarks"
+      value="OOTB Assumption: GST is one of the document types. All document types will be discussed during the Financial workshop"/>
+  <properties
+      key="Module"
+      value="BS, SC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="Not Applicable"/>
+</archimate:Requirement>

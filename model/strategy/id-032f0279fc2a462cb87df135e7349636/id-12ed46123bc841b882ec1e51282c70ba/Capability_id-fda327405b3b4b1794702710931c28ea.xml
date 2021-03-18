@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agreement Type Management"
+    id="id-fda327405b3b4b1794702710931c28ea"
+    documentation="The ability to define, update, delete/archive and otherwise manage agreement type">
+  <properties
+      key="TMF_ID"
+      value="1.1.5.10.4"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

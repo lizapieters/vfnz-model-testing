@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0882"
+    id="id-3c68537f43904e67b7ce4e5a8e54ee54"
+    documentation="As a Revenue Assurance Analyst I want be able to understand where all revenue has been recorded within our GL so that we can better map Revenue Assurance controls and revenue to the GL">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0882"/>
+  <properties
+      key="Status"
+      value="Not Comarch BSS Solution"/>
+  <properties
+      key="Created by"
+      value="Samuel Pachoud"/>
+  <properties
+      key="Tribe"
+      value="Finance / Revenue &amp; Network Assurance"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="y"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Reporting"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="GL reporting"/>
+  <properties
+      key="Remarks"
+      value="A report from GL outside of Comarch? Kiri: will be via SAP which I understand is being integrated"/>
+  <properties
+      key="Module"
+      value="BS, AIF"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

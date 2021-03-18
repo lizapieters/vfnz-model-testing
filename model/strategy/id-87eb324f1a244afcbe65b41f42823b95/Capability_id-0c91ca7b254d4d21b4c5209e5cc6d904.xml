@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Store Management"
+    id="id-0c91ca7b254d4d21b4c5209e5cc6d904"
+    documentation="Data Store Management application (s) provides the functionalities to manage the data stores including lifecycle, structure, meta models and auditing to ensure that the Data Stores are available for use by Data Management applications.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.11.1"/>
+  <properties
+      key="TMF Function"
+      value="Data Store Accessing Data Store Content Modeling Data Store Managing"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop Product Offering Catalog Specification"
+    id="id-e95ed292030840d585fb934b8798acc1"
+    documentation="Define, update, and remove the specification for a product offering catalog.">
+  <properties
+      key="Process Identifier"
+      value="1.2.7.2.3.1"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Develop Product Offering Catalog Specification defines, updates, and removes the specification for a product catalog. It uses the generalized Develop Catalog Specification process to develop a specific type of catalog specification, in this case a product offering catalog specification."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

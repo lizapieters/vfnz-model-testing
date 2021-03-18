@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Currency State Management"
+    id="id-2dcb29c9ee0f42cfa17c59461405ab1c"
+    documentation="The ability to set and recognize currency status, including being a past, present, or future currency.">
+  <properties
+      key="TMF_ID"
+      value="1.3.6.4.4"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

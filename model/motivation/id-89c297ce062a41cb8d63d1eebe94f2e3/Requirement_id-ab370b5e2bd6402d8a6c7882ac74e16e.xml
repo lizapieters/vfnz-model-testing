@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1124"
+    id="id-ab370b5e2bd6402d8a6c7882ac74e16e"
+    documentation="As a customer I want to allow micropurchases on my owned products and services and want to set a $ limit to how much this can be">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1124"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1?"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Use"/>
+  <properties
+      key="Topic"
+      value="Payments"/>
+  <properties
+      key="Remarks"
+      value="PC: Who should be able to set a limit, what would be the split of a limit, per service? Primary account holder to set limits. Preference is one capped amount per month i.e. $50 of micropurchase activity. We will need to set an upper limit too tbc"/>
+  <properties
+      key="Module"
+      value="SC, PC, OM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

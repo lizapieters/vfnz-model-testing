@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Orchestrate Party Interactions"
+    id="id-8ee18b17ef1f4585b533d848954a2612"
+    documentation="The purpose of Orchestrate Party Interactions is to ensure that the messages are orchestrated according to the agreed message exchange patterns.">
+  <properties
+      key="Process Identifier"
+      value="1.6.9.6.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Where required, orchestrates interactions with external parties so that messages and transactions are undertaken with defined and agreed message exchange."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

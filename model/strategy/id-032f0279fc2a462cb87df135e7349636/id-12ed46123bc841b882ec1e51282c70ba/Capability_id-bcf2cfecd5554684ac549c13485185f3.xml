@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Location Risk Aggregation"
+    id="id-bcf2cfecd5554684ac549c13485185f3"
+    documentation="The ability to consider a collective set of risk factors about a location and represent them from a rationalized perspective.">
+  <properties
+      key="TMF_ID"
+      value="1.3.3.7.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

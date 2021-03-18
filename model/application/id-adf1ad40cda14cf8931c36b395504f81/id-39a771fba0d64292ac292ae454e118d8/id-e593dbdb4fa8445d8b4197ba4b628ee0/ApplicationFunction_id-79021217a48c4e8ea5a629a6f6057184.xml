@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tactical Resource Planning"
+    id="id-79021217a48c4e8ea5a629a6f6057184"
+    documentation="Tactical Planning; detailed design of resource against the existing networked resource at all technology layers, ensuring that the designed resource is actually deployed and for accurately recording the resultant inventory.">
+  <properties
+      key="Function Identifier"
+      value="529"/>
+  <properties
+      key="TAM Application Name"
+      value="Tactical Planning"/>
+  <properties
+      key="TAM Application Id"
+      value="7.1.3"/>
+  <properties
+      key="Constructed Id"
+      value="7.1.3.529"/>
+</archimate:ApplicationFunction>

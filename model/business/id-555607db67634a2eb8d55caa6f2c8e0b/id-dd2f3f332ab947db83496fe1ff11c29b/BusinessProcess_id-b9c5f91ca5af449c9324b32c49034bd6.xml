@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Configure Service"
+    id="id-b9c5f91ca5af449c9324b32c49034bd6"
+    documentation="Assess and plan the approach to be undertaken for configuration. &#xA;Re-use standard configuration and processes applicable to specific services. &#xA;Configure and reconfigure specific services, including customer premises equipment if part of the service provider offering. &#xA;Provide notifications as required if the configuration activity requires a planned outage or is likely to initiate false specific service alarm event notifications.&#xA;Update the information contained in the service inventory as to the configuration of specific services and their status.">
+  <properties
+      key="Process Identifier"
+      value="1.4.5.4.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

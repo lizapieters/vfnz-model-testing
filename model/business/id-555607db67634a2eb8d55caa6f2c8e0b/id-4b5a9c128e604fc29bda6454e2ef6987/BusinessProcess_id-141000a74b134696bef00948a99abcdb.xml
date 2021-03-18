@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transformation Assurance"
+    id="id-141000a74b134696bef00948a99abcdb"
+    documentation="Establish an enterprise-wide transformation assurance policy framework, and an associated operational capability aimed at ensuring risks along change and transformation are recognized, owned, understood and actively managed to minimize financial and customer impact during digital transformation projects.">
+  <properties
+      key="Process Identifier"
+      value="1.7.9.6"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of the Transformation Assurance process is to establish an enterprise-wide transformation assurance policy framework, and an associated operational capability aimed at ensuring risks along change and transformation are recognized, owned, understood and actively managed to minimize financial and customer impact during transformation projects. The Transformation Assurance process focusses on providing consultancy within change processes in the enterprise and transparency on early identified risks, their assignment, assessment and defining build-in controls for enabling â€œerror-freeâ€� transformation. For handling this role of a consultant during the transformation projects, a standard Business Assurance Change methodology can be defined that starts from project assessment to identify the risk areas and risk level, standard Business Assurance requirements for â€œbuild-inâ€� controls, standard Business Assurance requirements for data export and proceeding to project specific requirements."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

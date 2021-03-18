@@ -1,0 +1,39 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Callidus TrueComp"
+    id="id-ea3ee3e4925848c7a0cf3deb8985e345"
+    documentation="Sales Commissions">
+  <properties
+      key="StatusForLookUp"
+      value="Decommissioned"/>
+  <properties
+      key="Owner"
+      value="AndrewH"/>
+  <properties
+      key="Level of Service"
+      value="Mission Critical"/>
+  <properties
+      key="Product / Service"
+      value="Common"/>
+  <properties
+      key="Segment"
+      value="Common"/>
+  <properties
+      key="DX Association"
+      value="Integrate"/>
+  <properties
+      key="Existing Retained or Replaced"
+      value="Retained"/>
+  <properties
+      key="Legacy BSS Stack Served"
+      value="Common"/>
+  <properties
+      key="TAM App ID"
+      value="3.3"/>
+  <properties
+      key="TAM Domain"
+      value="Market_Sales Domain"/>
+  <properties
+      key="TAM Application"
+      value="Compensation &amp;amp; Results"/>
+</archimate:ApplicationComponent>

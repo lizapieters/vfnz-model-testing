@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Order Validation"
+    id="id-e0c4f0accce04e5486d76ad90eb55856"
+    documentation="The ability to ensure that a provided order satisfies the minimum level of requirements to place and settle.">
+  <properties
+      key="TMF_ID"
+      value="1.1.8.5"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

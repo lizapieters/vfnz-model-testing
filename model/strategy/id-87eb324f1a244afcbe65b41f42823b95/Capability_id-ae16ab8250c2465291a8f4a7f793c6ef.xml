@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Solution Requirements Capture"
+    id="id-ae16ab8250c2465291a8f4a7f793c6ef"
+    documentation="Solution Requirement Capture application enables the capture of customer solution requirement in the pre-sale phase.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="3.10.7"/>
+  <properties
+      key="TMF Function"
+      value="Solution Requirements Capture"/>
+  <properties
+      key="TMF Maturity"
+      value="Market_Sales Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

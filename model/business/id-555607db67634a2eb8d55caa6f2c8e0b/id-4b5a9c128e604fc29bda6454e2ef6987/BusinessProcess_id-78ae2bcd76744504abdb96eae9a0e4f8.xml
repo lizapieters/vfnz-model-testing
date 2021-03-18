@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aggregate QoS Performance Analysis"
+    id="id-78ae2bcd76744504abdb96eae9a0e4f8"
+    documentation="Not used for this process element">
+  <properties
+      key="Process Identifier"
+      value="1.2.6.3"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Aggregate analysis of QoS performance across groups of customers or aggregate analysis of SLA types;"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

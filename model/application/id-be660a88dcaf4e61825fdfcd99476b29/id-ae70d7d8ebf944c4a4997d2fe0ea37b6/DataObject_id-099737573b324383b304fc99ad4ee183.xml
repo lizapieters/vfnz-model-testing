@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResourceSpecRunsSoftwareSpec"
+    id="id-099737573b324383b304fc99ad4ee183"
+    documentation="The association class is used to show the status of a SoftwareSpecification that can run on any ResourceSpecification. For example; the status may reflect that it can or can no longer be run. The association was made so that any type of resource (within reason!) could run Software; such as a CompoundResource; LogicalDevice or PhysicalDevice."/>

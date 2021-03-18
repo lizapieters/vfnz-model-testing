@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plan &amp; Implement Cross-Business Unit Operation"
+    id="id-c0503f5a8cdb4a4695f114855a638422"
+    documentation="Planning and implementation of cross-business unit operation. These processes are responsible for planning and management of coordination across business units within the enterprise, and between the enterprise and its subsidiaries (note that similar interactions concerning outsourcing involving other parties is handled elsewhere, through processes located in the Engaged Party Domain). The focus is on processes concerned with the co-ordination within the enterpriseâ€™s own organization, including subsidiaries, from an Enterprise-wide point of view.">
+  <properties
+      key="Process Identifier"
+      value="1.7.1.4.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

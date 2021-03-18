@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1175"
+    id="id-32bf74e63b93488887971c13b307f9cd"
+    documentation="As a Foundation Manager I want to be able to offer plan discounts to specific groups or market segments experiencing vulnerability via online ordering to remove stigma">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1175"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1?"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="3"/>
+  <properties
+      key="Base_Old"
+      value="3"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Self Service"/>
+  <properties
+      key="Topic"
+      value="Compliance"/>
+  <properties
+      key="Remarks"
+      value="What type of discounts? based on what type of parameters?"/>
+  <properties
+      key="Module"
+      value="PIM, PC, OM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

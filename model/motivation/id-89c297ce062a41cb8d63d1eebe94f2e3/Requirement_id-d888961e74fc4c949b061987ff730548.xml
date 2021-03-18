@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0496"
+    id="id-d888961e74fc4c949b061987ff730548"
+    documentation="As a product manager, I want to be able to provision SIMs (+ in bulk) to either be blank with no plan, or have a plan pre-provisioned onto them, so that I can sell products how I like.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0496"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Setup"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Topic"
+      value="SIM Provisioning"/>
+  <properties
+      key="Remarks"
+      value="Agreed after &quot;SIM activation&quot; workshop: SIMs which will be generated and loaded in buld as preprovisioned they are only &quot;blank SIMs&quot;, &quot;no plan&quot; will be applicable after grace period. &quot;Blank SIM&quot; means that the customer can buy it, make emergency call, which in fact is outside of Comarch, voice or data connections goes to IVR or VF website for plan selection."/>
+  <properties
+      key="Module"
+      value="RM, PC, OCS, OM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

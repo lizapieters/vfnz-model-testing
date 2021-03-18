@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Correct &amp; Resolve Service Problem"
+    id="id-0817ccce8c684b4d9758a60d7b933eaf"
+    documentation="Restore the service to a normal operational state as efficiently as possible">
+  <properties
+      key="Process Identifier"
+      value="1.4.6.3"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of the Correct &amp; Resolve Service Problem processes is to restore the service to a normal operational state as efficiently as possible. Based on the nature of the service failure leading to the associated service alarm event notification, automatic restoration procedures might be triggered. Manual restoration activity is assigned to the Correct &amp; Resolve Service Problem processes from the Track &amp; Manage Service Problem processes. Depending on the nature of the specific service failure, these processes may possibly re-assign services or re-configure service parameters. For large service failures requiring extensive re-assignment and/or re-configuration activity to restore normal operation, these processes will attempt to implement work-arounds to recover the specific service operation. In these circumstances, recovery of normal operation may require invocation of the Support Service Problem Management processes. They will also report successful restoration of normal service operation, restoration through temporary work-arounds or an unsuccessful attempt at service restoration to Track &amp; Manage Service Problem through updates to the associated service trouble report."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

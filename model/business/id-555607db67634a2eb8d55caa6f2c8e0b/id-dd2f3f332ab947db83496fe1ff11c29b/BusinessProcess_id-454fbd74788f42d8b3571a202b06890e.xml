@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Create Resource Orders"
+    id="id-454fbd74788f42d8b3571a202b06890e"
+    documentation="Where the initiating request or the purchased product offering has a standard set of associated resource orders this process is responsible for issuing the resource orders, and for creating a record of the relevant initiating request or customer order information and the associated resource orders. &#xA;Where the initiating request or the purchased product offering has special or unusual requirements, and a specific feasibility assessment and/or resource design has been previously created, this process is responsible for issuing the resource orders, and for creating a record of the relevant initiating request or customer order information and the associated resource orders.">
+  <properties
+      key="Process Identifier"
+      value="1.5.6.7.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Perform Acceptance Test and Address &amp; Monitor the Change"
+    id="id-33d6b4f3f4af4841ba55b6850d3cb62f"
+    documentation="Performing acceptance test during the hand over process of new and/or modified resource infrastructure. Also monitoring the new and/or modified infrastructure and addressing the operational limitations.">
+  <properties
+      key="Process Identifier"
+      value="1.5.4.1.4"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="â€¢ Testing and acceptance of new and/or modified resource infrastructure as part of the handover procedure from the Resource Development &amp; Management processes to Operations; â€¢ Detecting resource infrastructure operational limitations and/or deployment incompatibilities and providing requirements to address these aspects to Resource Development &amp; Management processes;"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

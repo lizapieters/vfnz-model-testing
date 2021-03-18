@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analyze new resource requirements"
+    id="id-54993a781f5648898e0a52ecebb971a0"
+    documentation="Analyze to identify new resource requirements, resource capabilities and availability">
+  <properties
+      key="Process Identifier"
+      value="1.5.1.1.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Analyze new resource requirements processes focus on research and analyze customer, technology, competitor, internal resource utilization trends and marketing information to identify new resource requirements and industry resource capabilities and availability. In some cases these processes may leverage information through the use of advanced analytics tools or AI for fast, accurate and proactive forecasting."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

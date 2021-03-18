@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer/Policy Matching"
+    id="id-c73a36350f14467c9f5fcf5cfd353478"
+    documentation="The ability to associate a customer with a policy.">
+  <properties
+      key="TMF_ID"
+      value="1.1.2.6.11"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

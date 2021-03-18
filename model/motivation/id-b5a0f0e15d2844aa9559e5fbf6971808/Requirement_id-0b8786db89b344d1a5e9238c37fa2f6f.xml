@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1151"
+    id="id-0b8786db89b344d1a5e9238c37fa2f6f"
+    documentation="As Vodafone, we want a process to cater for customers who join with an incorrect email address, so it can be corrected. Must include: &quot;This wasn't me&quot; link in any email notification we send which flags in CRM the email is wrong, process to correct email address.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1151"/>
+  <properties
+      key="Status"
+      value="Potential gap"/>
+  <properties
+      key="Created by"
+      value="Gabrielle Paul"/>
+  <properties
+      key="Tribe"
+      value="Loyalty"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Self Service"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Use"/>
+  <properties
+      key="Topic"
+      value="Account/User Management"/>
+  <properties
+      key="Remarks"
+      value="[CLM] Can be added to all communication from CLM/CCM have to be clarified how to handele it"/>
+  <properties
+      key="Module"
+      value="CLM, SC, CCM,"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

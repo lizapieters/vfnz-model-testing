@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financial Account/Currency Matching"
+    id="id-db0abdfd3517416fa155acc48125c9fd"
+    documentation="The ability to associate a financial account with the currency associated with that financial account.">
+  <properties
+      key="TMF_ID"
+      value="1.3.6.2.6.6"/>
+  <properties
+      key="Level"
+      value="4"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

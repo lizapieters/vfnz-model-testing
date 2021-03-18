@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gain Service &amp; Operational Agreements Approval for Resources"
+    id="id-e47c4044762141f09889a7613241aa57"
+    documentation="These processes ensure that the required service level agreements and operational level agreements are agreed for each resource class deployed, and that any other parties operational support has been agreed.">
+  <properties
+      key="Process Identifier"
+      value="1.5.3.5.4"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

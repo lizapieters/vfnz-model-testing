@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Number Portability Policy Management"
+    id="id-226857c6c13c47ab90576c5b53690226"
+    documentation="Number Portability Policy Management is responsible for managing different types of rules and policies validations, in base of the number portability request.">
+  <properties
+      key="TMF Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="7.13.2.1"/>
+  <properties
+      key="TMF Function"
+      value="Number Portability Policy Management"/>
+  <properties
+      key="TMF Maturity"
+      value="Resource Domain"/>
+  <properties
+      key="TMF Status"
+      value="3"/>
+</archimate:Capability>

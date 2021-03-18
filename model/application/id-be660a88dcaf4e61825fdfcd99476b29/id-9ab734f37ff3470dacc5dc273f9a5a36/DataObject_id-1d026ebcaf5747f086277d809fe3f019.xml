@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicyCondition"
+    id="id-1d026ebcaf5747f086277d809fe3f019"
+    documentation="This is an abstract base class that represents how to form the condition clause of a PolicyRule. This class can be used to represent rule-specific or reusable policy conditions. Policy conditions are of the form: {variable; operator; value} where the operator is usually the MATCH operator; but could be another type (e.g.; compare) of operator. This gives the semantics of IF the condition is TRUE (or FALSE). The subclasses of PolicyCondition; along with its recursive aggregation; enable simple and compound (e.g.; nested) PolicyConditions to be supported by the same structure."/>

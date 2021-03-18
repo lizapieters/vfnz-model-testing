@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transactional Document Production"
+    id="id-cbb8cc03c8be4a7bba71f6088907c2c4"
+    documentation="Transactional Document Production applications can be used in the telecommunications activities that require bills, invoices, letters and statements to be created for subscribers. It can be deployed by any organization that provides these services. &#xA;Transactional Document Production applications can process numeric, text and image content into print-ready and web-ready streams that can be reproduced using a predefined template on a variety of media. For instance, telecommunications companies can process data from a billing system into standard industry print streams to produce paper bills.">
+  <properties
+      key="TAM Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="5.2"/>
+  <properties
+      key="Frameworx Domain"
+      value="Customer Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

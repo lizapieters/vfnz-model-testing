@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Party Bill/Invoice Process Management"
+    id="id-02e6b97a6b544b7ab7c90356cc51ef11"
+    documentation="Make certain that there is capability so that the Bill Invoice Management processes can operate effectively and design and develop an enterprise's invoicing process.">
+  <properties
+      key="Process Identifier"
+      value="1.6.15.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Party Bill/Invoice Process Management makes certain that there is capability so that the Bill Invoice Management processes can operate effectively. It also designs and develops an enterprises invoicing process."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

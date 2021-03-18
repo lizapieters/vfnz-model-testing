@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Work Order Analysis"
+    id="id-4ce828aa5ee24ffa91f023b2271d5e68"
+    documentation="Work Order Analysis applications provide the necessary functionality to analyze the work order and determine what manual activities are necessary. For such manual activities proper dependencies are set.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="7.12.2"/>
+  <properties
+      key="Frameworx Domain"
+      value="Resource Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

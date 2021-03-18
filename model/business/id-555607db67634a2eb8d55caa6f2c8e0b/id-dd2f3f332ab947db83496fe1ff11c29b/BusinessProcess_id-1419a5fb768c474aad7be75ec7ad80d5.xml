@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enforce Party Privacy Profile"
+    id="id-1419a5fb768c474aad7be75ec7ad80d5"
+    documentation="Enforce the Party Privacy Profile, i.e. apply the Privacy Profile Rules for each element of PII defined in the Party Privacy Profile Type.">
+  <properties
+      key="Process Identifier"
+      value="1.6.7.3.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Enforce Party Privacy Profile process manages the application of the Data Subject Privacy Profile so that the Data Processor can comply with mandatory legislation, and the agreed wishes of the Data Subject, on each occasion involving the use of that Data Subjectâ€™s PII.. For each action performed by the Data Controller Party on the PII defined, the Data Controller must ensure this action is compliant with the Rules set by default and validated or amended by the Data Subject."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

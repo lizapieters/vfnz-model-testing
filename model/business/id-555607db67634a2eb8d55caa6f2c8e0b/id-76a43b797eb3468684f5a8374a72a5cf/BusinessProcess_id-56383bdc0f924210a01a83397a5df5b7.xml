@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Create Product Offering Price"
+    id="id-56383bdc0f924210a01a83397a5df5b7"
+    documentation="Set (create) a variety of prices such as recurring, non-recurring, discounts, allowances.">
+  <properties
+      key="Process Identifier"
+      value="1.2.7.2.2.1.1.1"/>
+  <properties
+      key="Category"
+      value="(7) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

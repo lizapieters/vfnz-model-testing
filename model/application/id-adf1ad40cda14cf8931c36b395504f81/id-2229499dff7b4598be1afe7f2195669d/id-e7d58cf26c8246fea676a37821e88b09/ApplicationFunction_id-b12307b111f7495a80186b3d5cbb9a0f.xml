@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Transformation and Formatting"
+    id="id-b12307b111f7495a80186b3d5cbb9a0f"
+    documentation="Data Transformation and Formatting application works as a mediation layer to enable Data Management applications to provide seamless interface to make the data ready for storage and make it available for consumption as per application specific format. It also provides functionalities to secure data for e.g. (encryption of credit/debit card details) as defined by data compliance guidelines.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="9.11.5"/>
+  <properties
+      key="Frameworx Domain"
+      value="Enterprise Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

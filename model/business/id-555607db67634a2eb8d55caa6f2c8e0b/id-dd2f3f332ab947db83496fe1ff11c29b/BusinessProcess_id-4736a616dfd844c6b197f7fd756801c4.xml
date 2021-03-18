@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Design Marketing Campaign Workflow"
+    id="id-4736a616dfd844c6b197f7fd756801c4"
+    documentation="Design the marketing campaign workflow which includes establishing and scheduling waves, or periodical steps in the campaign.">
+  <properties
+      key="Process Identifier"
+      value="1.1.15.3.4"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Design Marketing Campaign workflow designs the marketing campaign workflow which includes establishing and scheduling waves, or periodical steps in the campaign. Each wave is designed to take into account responses from those targeted by the campaign."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

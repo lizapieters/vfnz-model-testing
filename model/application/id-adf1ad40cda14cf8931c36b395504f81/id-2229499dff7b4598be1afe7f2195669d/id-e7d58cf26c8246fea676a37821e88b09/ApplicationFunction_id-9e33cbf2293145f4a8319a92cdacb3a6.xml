@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Role-Based Portal"
+    id="id-9e33cbf2293145f4a8319a92cdacb3a6"
+    documentation="The Role-Based Portal focuses on eliminating swivel chair operations, increasing the flexibility of the work distribution, driving desktop consistency and reducing cost due to functional duplication. It also promotes role and user based personalization at the agent/center/team level.The portal provides the ability to combine business functionality (portlets) into a specific role that comprises the agent�s end-to-end responsibilities.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="5.22.1"/>
+  <properties
+      key="Frameworx Domain"
+      value="Customer Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

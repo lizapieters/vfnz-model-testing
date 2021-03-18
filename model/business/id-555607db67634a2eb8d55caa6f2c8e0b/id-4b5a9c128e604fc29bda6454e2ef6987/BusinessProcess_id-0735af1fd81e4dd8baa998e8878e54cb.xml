@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Sales Prospect"
+    id="id-0735af1fd81e4dd8baa998e8878e54cb"
+    documentation="Match a sales prospect with the most appropriate products and ensure that a prospect is handled appropriately.">
+  <properties
+      key="Process Identifier"
+      value="1.1.11.3"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Manage Sales Prospect matches a sales prospect with the most appropriate products and ensure that a prospect is handled appropriately. A prospect represents a â€œpipelineâ€� of potential sales, each of which is expressed in terms of the probability of successful sales closure and an estimate of the total attainable revenue. The needs of a sales prospect are analyzed. Based on these needs, potential solutions are identified from an enterpriseâ€™s product catalog. The lifecycle of a prospect is tracked, and the outcome (win or loss) for a prospect is reported. A prospect is also assigned to the appropriate sales channel."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

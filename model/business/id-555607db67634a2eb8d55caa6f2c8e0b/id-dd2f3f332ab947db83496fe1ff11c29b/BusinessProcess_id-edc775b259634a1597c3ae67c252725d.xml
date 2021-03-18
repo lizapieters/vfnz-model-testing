@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Revenue and Cost Assurance Policy Framework"
+    id="id-edc775b259634a1597c3ae67c252725d"
+    documentation="Establish and manage a framework of policies and measurable controls that are used to manage the risk associated with revenue and cost assurance">
+  <properties
+      key="Process Identifier"
+      value="1.7.9.1.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of the Manage Revenue and Cost Assurance Framework process is to establish and manage a framework of policies and measurable controls that are used to manage the risk associated with revenue and cost assurance, and to optimize the enterpriseâ€™s appetite for revenue and cost assurance risk. These processes are responsible for, but not limited to: â€¢Establishing and managing a revenue and cost assurance policy framework which is aligned with the overall enterprise goals and objectives â€¢Developing a framework of controls and KPIs which achieves the defined revenue and cost assurance goals and objectives â€¢Gaining enterprise-wide commitment to and knowledge of the framework â€¢Regularly reviewing the revenue and cost assurance framework to ensure that its outcomes remain aligned with the enterpriseâ€™s objectives The Manage Revenue and Cost Assurance Framework process has a specific responsibility in developing and defining controls and Key Performance Indicators (KPIs) used for RA, in conjunction with operational and other processes elsewhere in the enterprise. Where processes elsewhere in the enterprise have an intrinsic capability to instrument their own performance and behavior (as an aspect of operating effectively within the business), the Manage Revenue and Cost Assurance Framework process makes use of this capability, but can also provide guidance to these processes in the form of modified, or additional, KPIs, required to support the overall role of Revenue and Cost Assurance . This can involve individual process elements throughout the enterprise (as appropriate for the various aspects of Revenue and Cost Assurance that apply), or may involve co-ordination across a number of process elements where Revenue and Cost Assurance acts to provide an integrated or coordinated view of the overall situation. With regard to KPI definition, the Manage Revenue and Cost Assurance Framework process establishes the objectives used to identify the minimum level of satisfactory performance required for a given control point or a process from an RA perspective, and works with other process element in the enterprise to effect this. With regard to development of Revenue and Cost Assurance controls, the Manage Revenue and Cost Assurance Framework process applies policy-based rules that represent the logical definition of comparisons performed on entities, such as bills and call detail records. These are used together with Revenue and Cost Assurance KPIs, to identify discrepancies from an RA perspective."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Network Risk Aggregation"
+    id="id-aa51f7cc4eda4835ac1002c61f787986"
+    documentation="The ability to consider a collective set of risk factors and represent them from a rationalized perspective.">
+  <properties
+      key="TMF_ID"
+      value="1.1.7.6.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

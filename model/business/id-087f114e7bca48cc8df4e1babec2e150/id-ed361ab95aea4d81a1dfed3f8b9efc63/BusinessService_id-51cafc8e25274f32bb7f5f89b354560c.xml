@@ -1,0 +1,30 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mobile - Visual Voicemail"
+    id="id-51cafc8e25274f32bb7f5f89b354560c"
+    documentation="Apple/Samsung API required&#xA;Voicemail enabled on network">
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Segment"
+      value="Consumer/Business"/>
+  <properties
+      key="Access/Service Type"
+      value="Mobile"/>
+  <properties
+      key="Comarch can support"
+      value="Yes"/>
+  <properties
+      key="Non-Comarch IT support needed"
+      value="TBC"/>
+  <properties
+      key="NaaS will support"
+      value="No"/>
+  <properties
+      key="Automated non-NaaS support"
+      value="No"/>
+  <properties
+      key="Unexpected"
+      value="true"/>
+</archimate:BusinessService>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResourceNumberSpecification"
+    id="id-d0b23f190b734ca9ad522003b9060452"
+    documentation="This class defines the specification for the resource number to admit a completion of its characteristics; since the number is a very complex and broad entity; with specific things like format; ranges;area code; etc. This class can be thought of as a template; which represents a generic specification for implementing a particular resource number."/>

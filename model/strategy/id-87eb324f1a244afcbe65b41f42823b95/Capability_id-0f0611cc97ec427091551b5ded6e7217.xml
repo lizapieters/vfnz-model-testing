@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Center Time Management"
+    id="id-0f0611cc97ec427091551b5ded6e7217"
+    documentation="Center Time Management supports all of the time management of a service provider Agent/CSR/LCM etc....including tracking of hours worked, hours spent in training and other activities. It includes all time attributes used in the scheduling of resources to meet center SLAs. This function would also track time associated with a specific activity whether it be a short (single contact) or long running, multiple contact and team related activity. This aspect of time may span center resources.">
+  <properties
+      key="TMF Category"
+      value="(4) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.22.2.1.2"/>
+  <properties
+      key="TMF Function"
+      value="Center Time Management"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

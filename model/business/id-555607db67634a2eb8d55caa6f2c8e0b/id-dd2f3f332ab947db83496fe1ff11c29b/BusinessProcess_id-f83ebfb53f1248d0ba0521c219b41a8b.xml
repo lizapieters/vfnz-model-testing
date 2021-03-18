@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Commit &amp; Approve Party Agreement"
+    id="id-f83ebfb53f1248d0ba0521c219b41a8b"
+    documentation="Gain enterprise and involved party(ies) commitment to the negotiated commercial agreement or the enterprise's for a template commercial agreement, and provide authorization to sign a agreement. In the case of an existing template this process gains acceptance of an agreement from another party.">
+  <properties
+      key="Process Identifier"
+      value="1.6.5.3.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Gain enterprise and involved party(ies) commitment to the negotiated commercial agreement or the enterprise's for a template commercial agreement, and provide authorization to sign a agreement. In the case of an existing template this process gains acceptance of an agreement from another party; for example, this may occur when a party completes self-on-boarding and acceptance of one or more agreements is required. For on-boarding agreements for another party's offering the applicable on-boarding processes will indicate that the offering, and if its product specification is being initially being on-boarded, is/are on-boarded."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

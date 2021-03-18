@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Decision/Location Matching"
+    id="id-e674d0c721ae44c4b95813c83c8db72f"
+    documentation="The ability to associate a decision with the location to which the decision pertains.">
+  <properties
+      key="TMF_ID"
+      value="1.3.10.6.2.2"/>
+  <properties
+      key="Level"
+      value="4"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

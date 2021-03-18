@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Shipment Access Constraints Interpretation"
+    id="id-abb437f4497a4cbe945c5ea67a5d00ae"
+    documentation="The Ability to understand imposed access rights limitations for a shipment.">
+  <properties
+      key="TMF_ID"
+      value="1.1.11.4.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

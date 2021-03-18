@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fallout Notification"
+    id="id-718e3230cd90413499a16d5e2e57a5bf"
+    documentation="Fallout Notification function provides the means to alert people or workgroups of some fallout situation. This can be done via a number of means, including email, paging, (Fallout management interface bus) etc. This function is done via business rules.">
+  <properties
+      key="Function Identifier"
+      value="20"/>
+  <properties
+      key="TAM Application Name"
+      value="Fallout Notification"/>
+  <properties
+      key="TAM Application Id"
+      value="11.2.6"/>
+  <properties
+      key="Constructed Id"
+      value="11.2.6.20"/>
+</archimate:ApplicationFunction>

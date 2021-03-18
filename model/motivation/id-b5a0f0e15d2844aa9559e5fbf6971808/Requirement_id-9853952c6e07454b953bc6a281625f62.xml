@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0745"
+    id="id-9853952c6e07454b953bc6a281625f62"
+    documentation="As customer, when I am required to give more information for an in-flight order, I want the abilty to be notified and fill in any forms or information digitally, so that its quick and easy for me and the order continues quickly.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0745"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Jared Mortlock"/>
+  <properties
+      key="Tribe"
+      value="Business"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Tracking"/>
+  <properties
+      key="Remarks"
+      value="as above but from customer side? To be discussed on separate workshop."/>
+  <properties
+      key="Module"
+      value="SC, EP, CNS, OM, CRM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

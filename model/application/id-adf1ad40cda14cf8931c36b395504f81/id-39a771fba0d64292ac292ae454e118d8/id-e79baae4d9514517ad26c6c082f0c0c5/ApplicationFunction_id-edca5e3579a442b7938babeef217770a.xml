@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Recreate all item per invoice"
+    id="id-edca5e3579a442b7938babeef217770a"
+    documentation="List all invoice items for a specific invoice">
+  <properties
+      key="Function Identifier"
+      value="62"/>
+  <properties
+      key="TAM Application Name"
+      value="Bill Inquiry"/>
+  <properties
+      key="TAM Application Id"
+      value="5.10.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.10.1.62"/>
+</archimate:ApplicationFunction>

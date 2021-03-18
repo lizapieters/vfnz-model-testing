@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transactional Document Delivery"
+    id="id-b8d4c3a72bd147b7914628ebc2819de8"
+    documentation="Make transactional documents available via paper, CD-ROM, DVD, EDI, electronic, etc, as specified by the customer.">
+  <properties
+      key="Function Identifier"
+      value="308"/>
+  <properties
+      key="TAM Application Name"
+      value="Document Delivery"/>
+  <properties
+      key="TAM Application Id"
+      value="5.2.3"/>
+  <properties
+      key="Constructed Id"
+      value="5.2.3.308"/>
+</archimate:ApplicationFunction>

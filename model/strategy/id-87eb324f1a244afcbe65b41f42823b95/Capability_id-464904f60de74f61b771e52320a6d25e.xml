@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Supplier/Partner Portal"
+    id="id-464904f60de74f61b771e52320a6d25e"
+    documentation="Supplier/Partner Portals provides a single entry point for suppliers and partners to interact with the service provider to conduct business.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="8.2.8"/>
+  <properties
+      key="TMF Function"
+      value="Supplier/Partner single point of contact"/>
+  <properties
+      key="TMF Maturity"
+      value="Supplier_Partner Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

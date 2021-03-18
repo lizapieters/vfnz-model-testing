@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Insurance Management"
+    id="id-d3068a51d64948a4bdf9b39b929fe532"
+    documentation="Assess and manage the insurable risks within an enterprise.">
+  <properties
+      key="Process Identifier"
+      value="1.7.2.5"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Insurance Management processes are responsible for assessing and managing the insurable risks within an enterprise. These processes identify areas and activities within the enterprise where risk aspects are insurable, and analyze the cost/benefits of undertaking specific insurance. These processes provide advice and consultancy to the enterprise relating to insurance of local activities and programs. These processes manage the engagement with the external insurance industry, and administer insurance policies and portfolios. Depending on the nature of the risk being insured, the Party Offering Development &amp; Retirement processes are used to select an appropriate insurer, in other cases where the number of insurance providers is small, the negotiation process may be directly managed by these processes."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Associate Product Offering with Product Offering Catalog"
+    id="id-17eed882a00a461fb199c7d9312fcca0"
+    documentation="Associate and disassociate a product offering to/from a product offering catalog.">
+  <properties
+      key="Process Identifier"
+      value="1.2.7.2.3.2.2"/>
+  <properties
+      key="Category"
+      value="(6) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Associate Product Offering with Product Offering Catalog associates a product offering and applicable product offering prices with a catalog. The product offering may have been developed by an enterprise or on-boarded from another party."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

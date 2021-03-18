@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResourceInstaller"
+    id="id-5b0e190ff15649b79e34b7d92c57665d"
+    documentation="An individual who installs PhysicalResources. It specifically doesnt provide all of the capabilities of a Technician role; but also represents a less costly PartyRole. Specifically; a ResourceInstaller is limited to simple physical installation of Equipment. A ResourceInstaller does not configure Resources or Services."/>

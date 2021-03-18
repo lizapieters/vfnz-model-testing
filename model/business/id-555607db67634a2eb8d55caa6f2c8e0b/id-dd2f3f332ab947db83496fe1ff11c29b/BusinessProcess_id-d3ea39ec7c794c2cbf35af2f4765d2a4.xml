@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Clean-up &amp; Archive Customer Identifying Information"
+    id="id-d3ea39ec7c794c2cbf35af2f4765d2a4"
+    documentation="After termination, provides â€˜clean-upâ€™ duplicates of customer identifying information that may exist within the organization. Profile and preference information for terminated customer relationships is archived if acceptable to the customer. All relevant parties are informed of the ended relationship. Other processes are triggered to dismantle the customer solution and servicing arrangements as necessary.">
+  <properties
+      key="Process Identifier"
+      value="1.3.4.2.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

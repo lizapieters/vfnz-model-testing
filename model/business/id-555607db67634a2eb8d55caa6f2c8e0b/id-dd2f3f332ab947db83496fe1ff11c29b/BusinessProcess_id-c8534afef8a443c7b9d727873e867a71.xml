@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Establish, Maintain and Manage the Support Plans"
+    id="id-c8534afef8a443c7b9d727873e867a71"
+    documentation="Establishing and managing the support facilities and maintaining the testing activities of resource performance control plans.">
+  <properties
+      key="Process Identifier"
+      value="1.5.4.2.7"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="â€¢ Establishing and managing facilities to support management of planned resource infrastructure and resource instance outages; â€¢ Establishing, maintaining and managing the testing of resource performance control plans to cater for anticipated resource performance disruptions;"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

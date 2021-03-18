@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API Authentication"
+    id="id-fc7c41d3bfa64ed39f6772d0581846d2"
+    documentation="Application Programming Interface Authentication function supports standard authentication and authorization protocols (WS-Federation, SAML, OAuth, etc.), for both internal and external applications, API developers and users. &#xA;Protect: The broker Protect task may impose access restrictions to some service consumers, in order to protect service enablers from abuse or undesired usage. Some common examples are the configuration of an IP address range restriction or a limit to the maximum message size accepted.">
+  <properties
+      key="Function Identifier"
+      value="680"/>
+  <properties
+      key="TAM Application Name"
+      value="API Gateway"/>
+  <properties
+      key="TAM Application Id"
+      value="10.3.1"/>
+  <properties
+      key="Constructed Id"
+      value="10.3.1.680"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Co-ordinate Enterprise Architecture"
+    id="id-7f8610905eb44d93a288e47bb6a775e8"
+    documentation="Details the processes used to capture, modify, communicate, and review the enterprise architecture and manage exceptions to it.">
+  <properties
+      key="Process Identifier"
+      value="1.7.1.3.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

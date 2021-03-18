@@ -1,0 +1,30 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mobile - Voice only"
+    id="id-81f127c3ed994c61ac21cee6315e3d7b"
+    documentation="No intention for voice only mobile product. For Business need to check TaaS (Government) specifically to see if this is an obligation under the current agreement, and if so would need to be there for H2. For private-sector this wouldn't be required.&#xA;25-09-2020 - Summer to find out for business. Kayne provided feedback that this is not required for Consumer. Ross stated that this feature needs to be modularly built">
+  <properties
+      key="Target Horizon"
+      value="TBC"/>
+  <properties
+      key="Segment"
+      value="Consumer/Business"/>
+  <properties
+      key="Access/Service Type"
+      value="Mobile"/>
+  <properties
+      key="Comarch can support"
+      value="Yes"/>
+  <properties
+      key="Non-Comarch IT support needed"
+      value="Yes"/>
+  <properties
+      key="NaaS will support"
+      value="Yes"/>
+  <properties
+      key="Automated non-NaaS support"
+      value="Yes"/>
+  <properties
+      key="Unexpected"
+      value="true"/>
+</archimate:BusinessService>

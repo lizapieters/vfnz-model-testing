@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProductFinancialAccountRelationship"
+    id="id-93a9fb12ad0b4255a47f1cf5a74297bc"
+    documentation="ProductFinancialAccountRelationship entity relates product charge to one or more CustomerAccount(s) via which associated charging information is maintained. ProductFinancialAccountRelationship uses rule information(from ChargeSplittingRule and ChargeAmountThreshold) and charge information held by FinancialChargeSpec and AtomicAppliedCustomerBillingRate to decide the charge relationship; such as which charge from one product usage should be directed to which CustomerAccount(s) and the charge amount."/>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LoyaltyProgramMember"
+    id="id-2ec2ae9478fa487fbf0cdf369985470a"
+    documentation="A LoyaltyProgramMember is defined on each LoyaltyAccount. A LoyaltyProgramMember is a type of PartyRole and is granted with the rights on the LoyaltyAccount such as to execute LoyaltyBurn used to realize a CustomerPayment."/>

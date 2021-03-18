@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Supply Chain Order Tracking Management"
+    id="id-f4b2189653784e4f9b8cd82ab9bc0dc0"
+    documentation="Supply Chain Order Tracking Management provides the necessary functionality to track the movement of shipments from point of origin through cross-docks, and to the final destination.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.10.5"/>
+  <properties
+      key="TMF Function"
+      value="Supply Chain Order and shipment Tracking"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

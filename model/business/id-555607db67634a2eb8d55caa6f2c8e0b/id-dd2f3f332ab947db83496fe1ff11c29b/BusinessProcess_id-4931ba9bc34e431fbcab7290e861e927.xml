@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Associate Related Available Capacity"
+    id="id-4931ba9bc34e431fbcab7290e861e927"
+    documentation="Associate available planned or actual capacity to another available capacity. For example, quarterly available capacity may be an aggregation of the three months in the quarter.">
+  <properties
+      key="Process Identifier"
+      value="1.8.2.2.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HostingPlatformRequirementSpec"
+    id="id-423513b2946f4cdc9586344fad768f3c"
+    documentation="HostingPlatformRequirementsSpec is used to represent the requirements that must be fulfilled by the platform on which the InstalledSoftware will run (e.g. compute; storage; network). The derived association /SoftwareSpecificatonRequires is used to document the set of requirements of a platform which can host the concerned software."/>

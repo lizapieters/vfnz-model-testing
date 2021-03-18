@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Access Rights Determination"
+    id="id-0b514a235bbc4452ba42fee24c114988"
+    documentation="The ability to determine if a customer may enter, view, modify, or otherwise proceed with a given task or point of entry, based on their authorization to proceed.">
+  <properties
+      key="TMF_ID"
+      value="1.1.2.4.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

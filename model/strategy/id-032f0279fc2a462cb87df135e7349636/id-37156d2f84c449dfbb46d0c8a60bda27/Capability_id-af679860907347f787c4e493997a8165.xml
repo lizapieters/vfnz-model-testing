@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Route Compliance Management"
+    id="id-af679860907347f787c4e493997a8165"
+    documentation="The Ability to verify and enforce that a route is managed and executed in accordance to the terms and conditions, preferences, policy, and good practice.">
+  <properties
+      key="TMF_ID"
+      value="1.1.10.3"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

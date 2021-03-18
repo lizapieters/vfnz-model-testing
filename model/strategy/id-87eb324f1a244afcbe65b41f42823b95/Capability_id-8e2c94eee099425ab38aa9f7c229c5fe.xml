@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Order Lifecycle Management"
+    id="id-8e2c94eee099425ab38aa9f7c229c5fe"
+    documentation="Customer Order Lifecycle Management provides the functionality necessary to track and manage a Customer Order from establishment to cancellation.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.3.6"/>
+  <properties
+      key="TMF Function"
+      value="Centralized Ordering Rules management Customer order cancelation Customer order change management Govern Ordering Activity Maintain customer order versioning Maintain pending customer orders"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

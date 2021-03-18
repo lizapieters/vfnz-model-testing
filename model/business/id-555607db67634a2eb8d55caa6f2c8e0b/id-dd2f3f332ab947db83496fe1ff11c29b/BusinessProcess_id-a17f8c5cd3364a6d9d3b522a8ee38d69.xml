@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Offering Pricing"
+    id="id-a17f8c5cd3364a6d9d3b522a8ee38d69"
+    documentation="Manage the lifecycle of standard pricing, policy-based pricing, algorithmic pricing, and feature/property-based pricing associated with product offering.">
+  <properties
+      key="Process Identifier"
+      value="1.2.7.2.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Product Offering Pricing manages all aspects of pricing for product offerings. This includes standard pricing, policy-based pricing, algorithmic pricing, and feature/property-based pricing. Standard pricing processes set the price, develop pricing plans, update prices, obtain approval for pricing, provide notifications of price changes, and remove prices. The other types of prices define various forms of rules that determine what price should be used under certain conditions. For example, policy-based pricing may determine if a customer qualifies for a discount based on what product offerings are ordered, algorithmic pricing defines matrices of properties/features used to determine a price, feature/property-based pricing determines a price based on the selection of one or more properties or features by a customer."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

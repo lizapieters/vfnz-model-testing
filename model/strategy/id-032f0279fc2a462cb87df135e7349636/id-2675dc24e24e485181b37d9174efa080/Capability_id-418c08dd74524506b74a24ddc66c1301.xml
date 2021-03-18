@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monetary Amount/Tax Matching"
+    id="id-418c08dd74524506b74a24ddc66c1301"
+    documentation="The ability to match a monetary amount to taxation(s).">
+  <properties
+      key="TMF_ID"
+      value="1.3.6.9.4.5"/>
+  <properties
+      key="Level"
+      value="4"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

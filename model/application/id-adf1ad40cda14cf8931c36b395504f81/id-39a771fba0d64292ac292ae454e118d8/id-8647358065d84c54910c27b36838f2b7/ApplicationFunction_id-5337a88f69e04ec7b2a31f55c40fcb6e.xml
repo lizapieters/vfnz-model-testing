@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fixed Assets Journaling"
+    id="id-5337a88f69e04ec7b2a31f55c40fcb6e"
+    documentation="Journal creation for Fixed Assets purchase, depreciation, disposal and transfers">
+  <properties
+      key="Function Identifier"
+      value="818"/>
+  <properties
+      key="TAM Application Name"
+      value="Fixed Assets"/>
+  <properties
+      key="TAM Application Id"
+      value="9.3.1.4"/>
+  <properties
+      key="Constructed Id"
+      value="9.3.1.4.818"/>
+</archimate:ApplicationFunction>

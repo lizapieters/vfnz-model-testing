@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Issue Party Order"
+    id="id-d370edaa69ba400190608b0d7bfc3932"
+    documentation="Generate a correctly formatted and specified party order and issue this to the selected party.">
+  <properties
+      key="Process Identifier"
+      value="1.6.8.5"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Initiate Party Order processes is responsible for generating a correctly formatted and specified Party order and issuing this to the selected party. A request for an order is passed to the from the Track &amp; Manage processes in the Customer, Service, and Resource domains. The Initiate Party Order contains the originating request identifier to allow for appropriate linking to the processes which originally caused the party order to be initiated."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

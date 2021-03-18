@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Channel Risk Level Determination"
+    id="id-2a538041a35a4b66bb3fd3e4a0e6c0af"
+    documentation="The ability to identify and define the level of risk associated with a channel.">
+  <properties
+      key="TMF_ID"
+      value="1.1.1.4.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

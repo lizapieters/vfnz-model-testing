@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Perform Party Debt Trend Analysis"
+    id="id-bd91a6b976c7427293ab27c9d6479949"
+    documentation="Conduct trend analysis on party debt.">
+  <properties
+      key="Process Identifier"
+      value="1.6.16.1.4.4"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Perform Party Debt Trend Analysis conducts trend analysis on party debt. Trend Analysis may be used to determine the effectiveness of party debt collection policies and the effectiveness of employing third party collection agencies."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Case Archival"
+    id="id-6f625772f01c4eeabeb31a5977847747"
+    documentation="Case Archival Applications provide appropriate functionality to archive and cases at an appropriate time after case closure.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.17.6"/>
+  <properties
+      key="TMF Function"
+      value="Archived Cases Retrieval Case Archiving"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

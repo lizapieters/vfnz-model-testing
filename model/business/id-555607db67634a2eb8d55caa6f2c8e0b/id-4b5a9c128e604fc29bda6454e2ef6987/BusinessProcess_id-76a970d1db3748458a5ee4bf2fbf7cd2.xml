@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enable Resource Provisioning"
+    id="id-76a970d1db3748458a5ee4bf2fbf7cd2"
+    documentation="Planning and deployment of new and/or modified resource infrastructure to ensure availability of sufficient resource infrastructure to support the Resource Provisioning processes, and monitoring, managing and reporting on the capability of the Resource Provisioning processes.">
+  <properties
+      key="Process Identifier"
+      value="1.5.4.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The responsibilities of the Enable Resource Provisioning processes are twofold - planning and deployment of new and/or modified resource infrastructure to ensure availability of sufficient resource infrastructure to support the Resource Provisioning processes, and monitoring, managing and reporting on the capability of the Resource Provisioning processes. The responsibilities of these processes include, but are not limited to: â€¢ Forecasting at an operational level resource infrastructure volume requirements and run-out timeframes; â€¢ Managing capacity planning associated with the deployment of new and/or modified resource infrastructure; â€¢ Establishing and monitoring of organizational arrangements to support deployment and operation of new and/or modified resource infrastructure; â€¢ Creating, deploying, modifying and/or upgrading of resource infrastructure deployment support tools (including Resource Inventory) and processes for new and/or modified resource infrastructure; â€¢ Developing and promulgating resource infrastructure capacity deployment rules and controls; â€¢ Authoring, reviewing and approving operational procedures developed by Resource Development &amp; Management processes prior to resource infrastructure deployment; â€¢ Testing and acceptance of new and/or modified resource infrastructure as part of the handover procedure from the Resource Development &amp; Management processes to Operations; â€¢ Detecting resource infrastructure operational limitations and/or deployment incompatibilities and providing requirements to address these aspects to Resource Development &amp; Management processes; â€¢ Scheduling, managing, tracking and monitoring of the roll-out, in accordance with approved plans, of the approved new and/or modified resource infrastructure; â€¢ Monitoring capacity utilization of deployed resource infrastructure to provide early detection of potential resource infrastructure shortfalls; â€¢ Monitoring of, and reporting on, resource infrastructure and resource instance currency and version management; â€¢ Reconfiguring and re-arranging under-utilized deployed resource infrastructure ;â€¢ Managing recovery and/or removal of obsolete or unviable resource infrastructure; â€¢ Reporting on deployed resource infrastructure capacity; â€¢ Tracking and monitoring of the Resource Provisioning Management processes and associated costs (including where resource infrastructure is deployed and managed by third parties), and reporting on the capability of the Resource Provisioning Management processes; â€¢ Establishing and managing resource provisioning notification facilities and lists to support the Resource Provisioning notification and reporting processes â€¢ Updating the Resource Inventory of any changes to the available resource infrastructure capacity."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

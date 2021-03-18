@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forecast Workforce Availability"
+    id="id-400ec8bd8ab24c8ca405cec31f8fbd4c"
+    documentation="Forecasting workforce availability on a daily, weekly, and longer period basis.">
+  <properties
+      key="Process Identifier"
+      value="1.5.5.2.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Forecasting workforce availability on a daily, weekly, and longer period basis, based on workload history, considering special events (extraordinary activities), staff vacation considerations, and distributing the available workforce to best meet the estimated load"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

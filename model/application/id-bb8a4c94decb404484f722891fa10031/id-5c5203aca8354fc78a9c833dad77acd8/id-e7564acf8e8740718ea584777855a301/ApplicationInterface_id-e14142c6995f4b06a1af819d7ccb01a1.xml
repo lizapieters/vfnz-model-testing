@@ -1,0 +1,39 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IoT Management solutions/providers"
+    id="id-e14142c6995f4b06a1af819d7ccb01a1"
+    documentation="list of OpenAPIs currently supported by the solution will be attached+ roadmap, or through TMF-like integration">
+  <properties
+      key="Stereotype"
+      value="abstract_interface"/>
+  <properties
+      key="Southbound Required"
+      value="Y"/>
+  <properties
+      key="Importance"
+      value="2"/>
+  <properties
+      key="Area"
+      value="IOT"/>
+  <properties
+      key="Interface Type"
+      value="Resource"/>
+  <properties
+      key="Pattern"
+      value="REST/Event"/>
+  <properties
+      key="FWA"
+      value="NA"/>
+  <properties
+      key="Mobile"
+      value="NA"/>
+  <properties
+      key="Broadband"
+      value="NA"/>
+  <properties
+      key="Common"
+      value="NA"/>
+  <properties
+      key="Unexpected"
+      value="true"/>
+</archimate:ApplicationInterface>

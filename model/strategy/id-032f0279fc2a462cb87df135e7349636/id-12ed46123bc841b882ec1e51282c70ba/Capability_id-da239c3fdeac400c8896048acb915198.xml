@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Incident/Channel Matching"
+    id="id-da239c3fdeac400c8896048acb915198"
+    documentation="The ability to associate incidents with channels.">
+  <properties
+      key="TMF_ID"
+      value="1.3.11.5.9"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

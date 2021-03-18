@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Billing Event Processing Mediation"
+    id="id-8c3a3ce82c0f433f93a9f18fd7c06a09"
+    documentation="Billing Event Processing Mediation converts records into a format compatible to the Billing System">
+  <properties
+      key="Function Identifier"
+      value="88"/>
+  <properties
+      key="TAM Application Name"
+      value="Billing Event Processing"/>
+  <properties
+      key="TAM Application Id"
+      value="5.20.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.20.1.88"/>
+</archimate:ApplicationFunction>

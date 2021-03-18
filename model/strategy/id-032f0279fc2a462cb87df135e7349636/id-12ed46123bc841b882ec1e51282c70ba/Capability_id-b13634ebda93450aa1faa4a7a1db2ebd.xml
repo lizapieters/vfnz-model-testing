@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Campaign State Management"
+    id="id-b13634ebda93450aa1faa4a7a1db2ebd"
+    documentation="The ability to determine, modify, and interpret the status or condition of a campaign.">
+  <properties
+      key="TMF_ID"
+      value="1.2.12.8.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

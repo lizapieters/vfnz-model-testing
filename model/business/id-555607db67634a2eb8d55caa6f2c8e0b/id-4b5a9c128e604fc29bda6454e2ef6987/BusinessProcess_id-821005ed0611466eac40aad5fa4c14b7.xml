@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Lifecycle Management Support"
+    id="id-821005ed0611466eac40aad5fa4c14b7"
+    documentation="Support the management of the lifecycle of a product and pricing associated with a product in the Product Inventory.">
+  <properties
+      key="Process Identifier"
+      value="1.2.11.7"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Product Lifecycle Management Support supports the management of the lifecycle of a product and pricing associated with a product. It can create a product, specify the involvement one or more parties have with it, updates information about the product including the status and relationships with Product Specification, Product Offering, Account and all related roles. The lifecycle of a product also includes prices associated with it which are also managed by this process."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource orders issuance"
+    id="id-90f7a43d207a417699e91b0ac79e1932"
+    documentation="The Resource Order Publication function issues valid and complete resource orders, and stores the order into an appropriate data store.&#xA;As part of order publication, additional data might be obtained or derived to support downstream functions that are not provided in the resource order request.">
+  <properties
+      key="Function Identifier"
+      value="491"/>
+  <properties
+      key="TAM Application Name"
+      value="Resource Order Publication"/>
+  <properties
+      key="TAM Application Id"
+      value="7.3.4"/>
+  <properties
+      key="Constructed Id"
+      value="7.3.4.491"/>
+</archimate:ApplicationFunction>

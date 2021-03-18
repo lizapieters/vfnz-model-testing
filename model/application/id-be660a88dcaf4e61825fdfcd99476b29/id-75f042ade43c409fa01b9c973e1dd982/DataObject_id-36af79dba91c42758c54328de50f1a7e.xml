@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ServiceDefinition"
+    id="id-36af79dba91c42758c54328de50f1a7e"
+    documentation="Represents a type of Service Specification introduced for the purposes of Service Fulfillment. It defines ALL the ServiceSpecCharacteristics (SSCs) that must be used to create corresponding Service instances. This includes the SSCs which are: globally set (the corresponding values are defined only in ServiceTemplates and are sometimes designated as â€œinvariantâ€�) and set per instance (since the ServiceDefinition does not contain any value for such SSCs; the corresponding values can be defined only over the Activation Interface and are sometimes designated as â€œvariantâ€�)"/>

@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Configuration Management"
+    id="id-6629806119344a7f820b551c9e96569b"
+    documentation="The Service Configuration Management application is similar to the service design/ assign functions outlined elsewhere in this publication, but supports aggregate customer facing services. To explain this area in general, it is necessary to see a clear difference between services and networks /resources. Services can be viewed as being comprised of a number of building blocks - e.g. bandwidth, security, maintenance packages, SLAs, QoS, specific features e.g. voicemail.. Service Configuration management might be either the set up of network / resource components for a customer, or a class of customers of a generic service build. Service configuration can be derived from order details in addition to inherent business rules from service specifications and the service view in the Service Inventory Management application.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="6.3.6"/>
+  <properties
+      key="TMF Function"
+      value="Compose a service configuration plan Cross service dependencies Service Configuration Service parameters allocation Service parameters reservation Update service inventory"/>
+  <properties
+      key="TMF Maturity"
+      value="Service Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Party Revenue Sharing Model Specification Negotiable Range"
+    id="id-9246224e5df749e181a116294e12c2e5"
+    documentation="Define, update, and remove a negotiable range associated with the specification of a party revenue sharing model.">
+  <properties
+      key="Process Identifier"
+      value="1.6.18.1.1.2"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Manage Party Revenue Sharing Model Negotiable Range defines, updates, and removes a negotiable range associated with the specification of a party revenue sharing model. Ranges may be expressed in percentages or some other quantitative measure that an enterprise will use to negotiate the aspects of a party revenue sharing model. For example, for a flat rate revenue sharing model an enterprise may be willing to share 70% of the product offering price with another party. The range can be based on the processes that an enterprise and a party provide. For example, if an enterprise only accepts an order for an offering while a party performs all other processes, such as fulfilling the order, accepting payment for it, and billing for it, it may be willing to share up to 90 percent of the revenue it receives for the offering. More complex ranges, such as for tiered and progressive revenue sharing models may be based on policy defined by an enterprise. For example, a tiered model may have a range of 60-70% revenue share for up to 100 product offerings acquired and a range of 80-90% for above 100 offerings. Ranges may also include a range of prices for an offering paired with revenue sharing ranges. To date there are no common processes that can be used to define policies defined by an enterprise."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

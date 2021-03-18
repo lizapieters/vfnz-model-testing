@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Configure Logging and Audit"
+    id="id-62b3b28bd6874f3b957c6b9ae552a159"
+    documentation="This process manages the logging and audit functions of the workforce management solution.">
+  <properties
+      key="Process Identifier"
+      value="1.5.5.3.8"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="â€¢{T}Establishing system event logging, rules, and events that should be handled â€¢{T}Configuring logging details and storage â€¢{T}Establishing audit functions and rules â€¢{T}Configuring notifications and post-functions (action to be performed when a task is complete)"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

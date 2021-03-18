@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enable Resource Data Collection &amp; Distribution"
+    id="id-fd4d3e3be6c9442589b7698055098dea"
+    documentation="Administering and management of the processes which enable the effective operation of the resource data collection and data distribution network, and monitoring, managing and reporting on the capability of the Resource Data Collection &amp; Distribution processes.">
+  <properties
+      key="Process Identifier"
+      value="1.5.4.4"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The responsibilities of the Enable Resource Data Collection &amp; Distribution processes are twofold - administering and management of the processes which enable the effective operation of the resource data collection and data distribution infrastructure, and monitoring, managing and reporting on the capability of the Resource Data Collection &amp; Distribution processes. The Resource Data Collection &amp; Distribution processes may be either scheduled activities, or may be triggered as a result of ad-hoc events. Responsibilities of these processes include, but are not limited to: â€¢ Administering and managing the scheduling of resource data collection and resource data distribution; â€¢ Managing the registration and access control processes used by other processes to gain access to the collected resource data; â€¢ Managing the registration and access control processes that enable processes to download resource data to be distributed to identified resource instances; â€¢ Establishing and managing resource data storage facilities, and associated management processes, within the resource data collection and resource data distribution infrastructure, to be used as temporary data holding facilities as required; â€¢ Tracking and monitoring of the Resource Data Collection and Distribution processes and associated costs, and reporting on the capability of the Resource Data Collection and Distribution processes â€¢ Identifying any technical driven shortcomings of the resource data collection and resource data distribution infrastructures, and providing input to Resource Development &amp; Management processes to rectify these issues. Note that the underlying resource infrastructure used for the actual transport of resource data are managed as appropriate by other processes within the Resource-Ops and Resource-SIP horizontal process groupings"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

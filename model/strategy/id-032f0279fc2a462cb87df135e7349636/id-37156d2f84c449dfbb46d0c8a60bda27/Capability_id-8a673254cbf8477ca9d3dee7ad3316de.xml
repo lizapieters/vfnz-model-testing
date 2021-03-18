@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Content Rights Management"
+    id="id-8a673254cbf8477ca9d3dee7ad3316de"
+    documentation="The ability to protect content to prevent unauthorized redistribution of the content and restrict the ways clients can copy content they've purchased.">
+  <properties
+      key="TMF_ID"
+      value="1.1.4.4"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

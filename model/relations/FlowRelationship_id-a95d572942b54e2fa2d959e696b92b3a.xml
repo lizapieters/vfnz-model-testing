@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plan(s) content"
+    id="id-a95d572942b54e2fa2d959e696b92b3a">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-f8601d35f60b44a6a8b864c979b2362d.xml#id-f8601d35f60b44a6a8b864c979b2362d"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-921559d2-d464-489e-b51d-f4c0ba3e801c.xml#id-921559d2-d464-489e-b51d-f4c0ba3e801c"/>
+</archimate:FlowRelationship>

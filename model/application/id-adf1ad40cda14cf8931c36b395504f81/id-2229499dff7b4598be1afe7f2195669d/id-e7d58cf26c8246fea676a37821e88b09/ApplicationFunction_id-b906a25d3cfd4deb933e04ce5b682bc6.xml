@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Storage and Archival"
+    id="id-b906a25d3cfd4deb933e04ce5b682bc6"
+    documentation="Data Storage and Archival application provides functionalities to manage the lifecycle of data. Including read, creation, updating, deletion and data archival as per compliance policies. This includes log information for audit and reporting purposes to ensure that the stored data follows the data compliance guidelines.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="9.11.2"/>
+  <properties
+      key="Frameworx Domain"
+      value="Enterprise Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

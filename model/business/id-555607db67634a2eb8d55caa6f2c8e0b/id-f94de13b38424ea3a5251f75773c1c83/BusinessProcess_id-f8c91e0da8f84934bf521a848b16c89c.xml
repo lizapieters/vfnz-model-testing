@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Create Revenue Assurance Trouble Report"
+    id="id-f8c91e0da8f84934bf521a848b16c89c"
+    documentation="Create a new revenue assurance trouble report.">
+  <properties
+      key="Process Identifier"
+      value="1.7.2.6.2.2"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of the Create Revenue Assurance Trouble Report process is to create a new revenue assurance trouble report, and based on requests from other processes, either create and forward modification requests for existing revenue assurance trouble reports or create and forward cancellation requests for existing revenue assurance trouble reports. A new revenue assurance trouble report may be created as a result of event notifications forwarded by the Monitor Revenue Assurance Controls process, or by requests arriving from other processes which have detected performance or fault conditions which may give rise to a revenue assurance leakage. If the revenue assurance trouble report is created, the Create Revenue Assurance Trouble Report processes are responsible for converting the received information into a form suitable for the Revenue Assurance processes, and for requesting additional information if required. Each revenue assurance trouble report should contain knowledge about the originator, the perceived severity level, the type of revenue assurance performance issue, any associated data on the revenue assurance performance issue, associated data on the possible cause and due date."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UsageVolumeChargingRule"
+    id="id-cf69e695541e4785a1a695c8b2101b48"
+    documentation="The UsageVolumeChargingRule specifies either credit or debit rules. It inherits from PolicyRule for specifying the event triggering it (Ex: each month); the condition to be checked (Ex: if the balance is lower than 10) and the action to apply if the condition is true. A credit action specifies the quantity that must credit the current balance. A debit action is a formula used for calculating the quantity that has to be decremented from the bucket according to a ProductUsage."/>

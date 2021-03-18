@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monetary Amount Management"
+    id="id-a3eee4d446b64bde9e73128d5a25941a"
+    documentation="The ability to establish, determine, identify, maintain a representation of value as expressed in a given currency.">
+  <properties
+      key="TMF_ID"
+      value="1.3.6.9"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

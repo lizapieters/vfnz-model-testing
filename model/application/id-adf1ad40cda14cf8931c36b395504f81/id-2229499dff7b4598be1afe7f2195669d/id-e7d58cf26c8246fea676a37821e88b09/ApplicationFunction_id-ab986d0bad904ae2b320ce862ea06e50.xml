@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transportation &amp; Travel Service"
+    id="id-ab986d0bad904ae2b320ce862ea06e50"
+    documentation="Online Reservations and Agent-Assisted Bookings providing a robust online booking tool.Transportation Management function that provide planning of materials to be shipped to and from different locations.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="9.9.5"/>
+  <properties
+      key="Frameworx Domain"
+      value="Enterprise Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

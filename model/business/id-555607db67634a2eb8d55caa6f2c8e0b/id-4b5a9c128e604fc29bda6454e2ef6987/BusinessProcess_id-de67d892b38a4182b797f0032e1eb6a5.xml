@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Offering Development &amp; Retirement"
+    id="id-de67d892b38a4182b797f0032e1eb6a5"
+    documentation="Develop and deliver new product offerings, their pricing, as well as catalogs that contain both.">
+  <properties
+      key="Process Identifier"
+      value="1.2.7.2"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Product Offering Development &amp; Retirement develops new product offerings and their associated features. Pricing for the offerings is also developed, such as standard pricing and feature-based pricing. The offerings and selected processes are included in product catalogs which are also developed by these processes. Note that this process is reused to support the development of product offerings on-boarded from other parties with whom an enterprises collaborates to deliver value to customers. This is done to remove the redundancy between this process and the Party Offering Development &amp; Retirement process. The focus of the Party Offering Development &amp; Retirement core process is the relationships that product offerings have with other parties."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

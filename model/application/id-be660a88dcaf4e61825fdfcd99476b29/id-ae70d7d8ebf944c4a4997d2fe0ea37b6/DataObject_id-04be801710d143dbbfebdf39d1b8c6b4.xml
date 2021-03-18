@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CompositeInstalledSoftware"
+    id="id-04be801710d143dbbfebdf39d1b8c6b4"
+    documentation="A CompositeInstalledSoftware represents software units that are made up of other software units (i.e.; instances of this class as well as the AtomicInstalledSoftware). This provides the semantics of collecting a set of components; each of which is individually manageable; and being able to manage the set of objects as a whole. An example is an operating system - this is manageable as a unit; but consists of individually manageable components. This containment is modeled using the CompositeInstalledSoftwareComprisedOf composition. From a finite state machine view; each CompositeInstalledSoftware element is manageable; installable; executable; and runnable. In addition; each CompositeInstalledSoftware element can be a FRU. This is the super-class for creating concrete subclasses that define groups of functionality (e.g.; set of features that work together to provide application-level functionality to the end-user)."/>

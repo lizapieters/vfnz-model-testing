@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Capacity Management"
+    id="id-dcf7c234a42744178e45a45c37acd5d7"
+    documentation="Specify available product capacity and capture product capacity demand for defined time periods.  The consumption of available capacity by demand is captured for a given time period.">
+  <properties
+      key="Process Identifier"
+      value="1.2.8"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Product Capacity Management specifies available product capacity and captures product capacity demand for defined time periods. The consumption of available product capacity by product demand is captured for a given time period. Available product capacity and/or product capacity demand may be adjusted based on consumption or other factors, such as reduced infrastructure availability. Available product capacity and product capacity demand can be specified as planned or actual. Note that this process reuses a set of generalized capacity management processes that can also be used to manage service capacity and capacity demand as well as resource capacity and capacity demand. The focus of this process is to associate capacity and capacity demand with product specifications, product offerings, and products."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Real Estate Property &amp; Building Portfolio and Lease Management"
+    id="id-48b114aaba0c4572bbe101548880f136"
+    documentation="Real estate property management prioritize to increase the building�s Net Operating Income and value.Building portfolios manages different types of property and in different real estate markets. Lease Management plans, tracks, manage and maintain all aspects of leased real estates.">
+  <properties
+      key="TMF Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.4.1.1"/>
+  <properties
+      key="TMF Function"
+      value="Building portfolios Management Property Lease Management Real Estate Property Management"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

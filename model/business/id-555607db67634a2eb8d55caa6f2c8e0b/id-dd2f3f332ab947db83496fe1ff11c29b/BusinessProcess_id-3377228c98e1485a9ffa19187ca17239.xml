@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Notify Cancelled Product Offering Purchase Impacted Party"
+    id="id-3377228c98e1485a9ffa19187ca17239"
+    documentation="Notify any impacted party or parties that a product offering purchase has been cancelled.">
+  <properties
+      key="Process Identifier"
+      value="1.2.9.7.4"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Notify Cancelled Product Offering Purchase Impacted Party notifies any impacted party or parties that a product offering purchase has been cancelled. Impacted parties may include a partner to whom an order has been sent to fulfill all or part of the product offering purchase."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

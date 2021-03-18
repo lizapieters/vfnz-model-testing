@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TechnologyAdministrator"
+    id="id-222f409aa0594669ad1041791bafbd52"
+    documentation="A PartyRole who manages and maintains Resources and Services. Potential subclasses of this class administer specific types of Resources and Services. In general; an Administrator can configure and provision many more features and functions of a Resource or a Service than a Technician can."/>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Journal Entry Accumulation"
+    id="id-211a7e96930a44a0be9e14860bf11bee"
+    documentation="Accumulates journal entries and maps them to the GL transaction based on criteria such as appropriate geographical accounting principles for sending downstream to the corporate general ledger.">
+  <properties
+      key="Function Identifier"
+      value="313"/>
+  <properties
+      key="TAM Application Name"
+      value="Journalization"/>
+  <properties
+      key="TAM Application Id"
+      value="5.9.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.9.2.313"/>
+</archimate:ApplicationFunction>

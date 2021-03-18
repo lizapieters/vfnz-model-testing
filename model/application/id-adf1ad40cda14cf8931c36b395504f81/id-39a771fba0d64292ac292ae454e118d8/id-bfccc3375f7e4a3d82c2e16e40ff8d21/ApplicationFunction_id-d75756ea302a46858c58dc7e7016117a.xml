@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Task Item Decomposition"
+    id="id-d75756ea302a46858c58dc7e7016117a"
+    documentation="Service Task Item Decomposition: By a request for an orchestration of a service the service needs to be analyzed and decomposed into the part-actions necessary to take to fulfill the requested orchestration. The Service may consist of several services and may use a number of Resources. It may also be controlled by several parameters for optional behaviors. This composition of the Service is given by configuration data available from Catalog applications and the Service Capability Orchestration application.">
+  <properties
+      key="Function Identifier"
+      value="963"/>
+  <properties
+      key="TAM Application Name"
+      value="Service Capability Orchestration"/>
+  <properties
+      key="TAM Application Id"
+      value="6.11"/>
+  <properties
+      key="Constructed Id"
+      value="6.11.963"/>
+</archimate:ApplicationFunction>

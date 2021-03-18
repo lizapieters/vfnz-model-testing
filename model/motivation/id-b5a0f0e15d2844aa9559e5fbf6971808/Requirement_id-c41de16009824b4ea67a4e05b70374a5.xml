@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1012"
+    id="id-c41de16009824b4ea67a4e05b70374a5"
+    documentation="As a customer, I want to be able to save events to my calendar, such as a pre-sale go live">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1012"/>
+  <properties
+      key="Status"
+      value="Potential gap"/>
+  <properties
+      key="Created by"
+      value="Gabrielle Paul"/>
+  <properties
+      key="Tribe"
+      value="Loyalty"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Interface"/>
+  <properties
+      key="Remarks"
+      value="[CLM] Currently not OOTB, this type of feature can be delivered as customization, for one of the projects we've implemented pre-order feature allowing customers to order exclusive products from loyalty app/web, can be also handled as passing over API information around such information so that external or Comarch delivered app can display it on callendar. in a calendar being a part of SC? might be realized by registering an activity visible on timeline with future date in general we didn't approach such functionality as a personal calendar in SC"/>
+  <properties
+      key="Module"
+      value="CLM/SC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

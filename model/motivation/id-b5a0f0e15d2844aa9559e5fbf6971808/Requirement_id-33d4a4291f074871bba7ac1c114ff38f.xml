@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0047"
+    id="id-33d4a4291f074871bba7ac1c114ff38f"
+    documentation="As a fraud manager, I want to apply fraud checks/measures to all purchases, to ensure we don't let fraudulent transactions occur">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0047"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1?"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Topic"
+      value="Fraud checks"/>
+  <properties
+      key="Remarks"
+      value="OOTB - credit scoring check. What other fraud checks do you think about? credit limit? number of devices purchased by the customer? This would be some difined rules like number of phones that can be purchased. Needs to be discussed with a fraud expert from VFNZ."/>
+  <properties
+      key="Module"
+      value="DS, SC, OM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="Not Applicable"/>
+</archimate:Requirement>

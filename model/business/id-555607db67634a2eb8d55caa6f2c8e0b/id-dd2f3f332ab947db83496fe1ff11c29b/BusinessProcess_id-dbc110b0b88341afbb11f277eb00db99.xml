@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Offering Lifecycle Management"
+    id="id-dbc110b0b88341afbb11f277eb00db99"
+    documentation="Develop and deliver new product offerings as well as enhancements to existing offerings and new features, ready for use by other processes.  Offerings may represent new entrants into the market that are based on new product specifications. The processes develop various pricing models for offerings and catalogs that contain the offerings.  Additionally the processes handle the exit of offerings from the market.&#xA;&#xA;Product offerings represent the types of services and resources made available to the market by an enterprise.">
+  <properties
+      key="Process Identifier"
+      value="1.2.7.2.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Product Offering Lifecycle Management develops and delivers new product offerings as well as enhancements to existing offerings and new features, ready for use by other processes. Offerings may represent new entrants into the market that are based on new product specifications. The processes develop various pricing models for offerings and catalogs that contain the offerings. Additionally the processes handle the exit of offerings from the market. Product offerings represent the types of services and resources made available to the market by an enterprise. The key measures of this process are how effectively the enterpriseâ€™s offerings are broadened by these offerings or new offering features. These processes also manage updates and enhancements to product offerings. Business case development tracking and commitment are key elements of this process. Note that some of these processes, such as Gather New Product Offering Ideas and Develop New Product Offering Business Proposal, may be performed in conjunction with the equivalent process in Product Specification Development &amp; Retirement. For example, if ideas for a new specification or feature are being developed ideas on how to offer it to the market may also be gathered; or if a new offering is being considered it may require new features defined for the specification or one or more new specifications to be developed for it."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

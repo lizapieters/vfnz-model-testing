@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Receivables and Collection activities"
+    id="id-327f540a2b3247a4980ff01296fc0b2f"
+    documentation="A Virtual Network Operators online access function to make them self sufficient for Receivables and Collection activities. Including the use of VNO/Dealer data fencing.">
+  <properties
+      key="Function Identifier"
+      value="403"/>
+  <properties
+      key="TAM Application Name"
+      value="Virtual Network Operators (Dealers)"/>
+  <properties
+      key="TAM Application Id"
+      value="3.4.5"/>
+  <properties
+      key="Constructed Id"
+      value="3.4.5.403"/>
+</archimate:ApplicationFunction>

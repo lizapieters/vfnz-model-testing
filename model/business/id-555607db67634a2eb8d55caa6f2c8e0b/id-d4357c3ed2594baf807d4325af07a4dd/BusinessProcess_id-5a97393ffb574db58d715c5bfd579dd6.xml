@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop Simple Feature/Property Product Offering Pricing"
+    id="id-5a97393ffb574db58d715c5bfd579dd6"
+    documentation="Associate or disassociate a product offering price with one or more features/properties upon which it is based.">
+  <properties
+      key="Process Identifier"
+      value="1.2.7.2.2.4.1"/>
+  <properties
+      key="Category"
+      value="(6) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

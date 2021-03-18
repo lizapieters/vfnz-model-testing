@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitor Sales &amp; Channel Practices"
+    id="id-eb12752bf9b248749334bac62b657e59"
+    documentation="These processes ensure that the enterprise can provide sales and channel capabilities as effectively as possible at all times. The monitoring captures issues such as compensation plans, product related sales training approaches and techniques, prospective customer identification methodologies, selling processes/methods and procedures for new products.">
+  <properties
+      key="Process Identifier"
+      value="1.1.5.1.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

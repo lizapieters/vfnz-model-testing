@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0501"
+    id="id-323a3629c5ff4475a5c8709ddf1a125a"
+    documentation="As a customer, I want to be able to turn off the approval process for chargeable activity, so that I don't have to be bothered with approving charges if I'm happy for my card to be automatically charged.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0501"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1?"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="use"/>
+  <properties
+      key="Topic"
+      value="Don't remind me again"/>
+  <properties
+      key="Remarks"
+      value="Is the approval process still considered? It was not mentioned during micropurchases workshop. Yes it’s needed on calls so you don’t get an IVR message every time and for some SMS scenarios, such as customer sending a text to China without the relevant add-on. Are there approvals for SMSes?"/>
+  <properties
+      key="Module"
+      value="SC, PC, PIM, OCS, CNS, OM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

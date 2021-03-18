@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer/Location Matching"
+    id="id-e8f983c5c22b4b5f9c54af199f1d9bc3"
+    documentation="The ability to associate a customer with one or more permanent or temporary locations.">
+  <properties
+      key="TMF_ID"
+      value="1.1.2.6.9"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

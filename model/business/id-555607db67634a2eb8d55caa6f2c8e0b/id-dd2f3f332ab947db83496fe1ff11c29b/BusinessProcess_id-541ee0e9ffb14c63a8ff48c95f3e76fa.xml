@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Remove Product Specification"
+    id="id-541ee0e9ffb14c63a8ff48c95f3e76fa"
+    documentation="Remove a product specification, either by deleting it or indicating it is no longer valid.">
+  <properties
+      key="Process Identifier"
+      value="1.2.7.1.5"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Remove Product Specification removes a product specification, either by deleting it or indicating it is no longer valid. When all associated Product Offerings have been deemed no longer viable and there are no Product Offerings planned the Product Specification is removed. Notifications are sent to Service Development &amp; Retirement and Resource Development and Retirement processes so that they can determine if the associated service and resource specifications should also be removed. Additionally a notification may be sent to the Party Offering Development &amp; Retirement process so that it can determine if any on-boarded specifications should also be removed."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

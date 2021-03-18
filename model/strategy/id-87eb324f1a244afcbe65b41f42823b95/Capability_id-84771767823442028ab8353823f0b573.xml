@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Self Empowered Fulfillment"
+    id="id-84771767823442028ab8353823f0b573"
+    documentation="Customer self empowered fulfillment applications provide an internet technology driven interface to the customer to undertake a variety of fulfillment functions directly for themselves. These applications interact to provide fully automated service or assisted service over all customer self management touch points. These applications tend enable rapid order-to-activation while reducing operating costs through improved efficiency and integrated flow-through-fulfillment. Today�s communications products and services carry commodity oriented attributes requiring easy activation, amendment and consumption, rapid and comprehensive introduction to customers while bringing together customer consumption interests and service provider�s business interests in a seamless and consistent manner.&#xA;&#xA;It is assumed that the user is not as savvy as the employee at the call center. The customer experience should support a simple flow that capitalizes from the advanced application flows defined by the order management applications (cf. Order Management Applications).">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.4.1"/>
+  <properties
+      key="TMF Function"
+      value="Assigned products maintenance Business customer self service of Eligibility Corporate self service Equipment management Corporate self service Mass changes Customer hierarchy driven self service ordering Guided selling driven view for offer eligibility Rate plan amendment Self Service Self service Access to Call center agents Self service Account creation for anonymous user Self Service Bulk ordering Self service Check Availability Self service Check Compatibility Self Service Check Eligibility Self Service customer SLA preferences capture Self Service Installation preferences capture Self Service Knowledge Management Access Self Service Order Status Enquiry Self Service Product catalogue and Offerings browsing Self Service Quote Price information Self Service Reports on fulfillment and SLA aspects Self Service Shopping cart driven order management"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

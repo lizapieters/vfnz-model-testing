@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Order History Management"
+    id="id-7d25ccd6f2fa4a548a70d87636e10de1"
+    documentation="The ability to record, retain, and retrieve order information changes over time.">
+  <properties
+      key="TMF_ID"
+      value="1.1.8.13.4"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Information Management"
+    id="id-bf70bf48dc0f40529859f4fad996f426"
+    documentation="Customer Information Management ensures the delivery of a consistent, accurate and complete customer view to operational and analytical touch-points across the service provider enterprise, thus enabling the optimization of key business processes and the leverage of new revenue opportunities. Customer information is typically scattered across mixed environment with fragmented, isolated customer data which needs to be consolidated, directly or using data federation. A Customer Information Management application, using context sensitive business logic, synchronizes customer information across all of service provider systems and reconciles customer data inconsistencies. Customer Information Management traditionally lies within the boundaries of Master Data Management (MDM), however, it is not mandatory.">
+  <properties
+      key="TAM Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="5.1"/>
+  <properties
+      key="Frameworx Domain"
+      value="Customer Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

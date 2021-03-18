@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Party Bill/Invoice Management"
+    id="id-656aa8f5d9a8418cac8c481fbb67f42a"
+    documentation="Manage the party bill/invoice process, control bills/invoices, manage the lifecycle of bills/invoices, and perform bill/invoice trend analysis.&#xA;&#xA;A bill is a notice for payment which is supposed to be preceded by an invoice in most cases. An invoice typically does not summarize to total outstanding payment or payments due.  A bill typically contains the payment due date and balance.">
+  <properties
+      key="Process Identifier"
+      value="1.6.15"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Party Bill/Invoice Management manages the party bill/invoice process, controls bills/invoices, manages the lifecycle of bills/invoices. A bill is a notice for payment which is supposed to be preceded by an invoice in most cases. An invoice typically does not summarize to total outstanding payment or payments due. A bill typically contains the payment due date and outstanding payment or advanced payment. Party Bill/Invoice Process Management makes certain that there is capability so that the Bill Invoice Management processes can operate effectively. It also designs and develops an enterprises invoicing process. Party Bill/Invoice Control establishes and maintains party bill invoice formats, and any interaction with specific parties to modify the format. It maintains lists of parties who are eligible for receiving bills/invoices. Party Bill/Invoice Lifecycle Management generates bills/invoices for products that were provided by an enterprise on behalf of another party. It also receives bills/invoices for products that were provided by another party on an enterprise's behalf. Major Differentiation Factors for a separate Invoice Generation: â€¢ Invoice Timeliness - Generation happen monthly but often also biweekly. In contrast to Retail where it is critical customer's invoice is being generating on time, (Cost of Infrastructure, ability to re-invoice, apply adjustments) and dependency on reconciliation (often manually externally driven), requires â€¢ Invoice Accuracy â€“ The tolerance for accepting differences between the balance of two invoices is much higher than for retail. By implication checks and balances The Invoice document does not summarize to total outstanding payment or payments due. The Bill contains the payment due date and Balance. Interconnect charges may be incurred for all call attempts rather than just those that succeed and are charged to the retail customer. Further Sub processes impacted Tax Jurisdiction Applied -The process of applying Taxes according to applicable Jurisdictions for National and Multinational Customers applicable for various services. In certain countries it is standard practice to outsource sub functions of Tax Determinations to specialized external entities. Interconnect charges may be incurred for all call attempts rather than just those that succeed and are charged to the retail customer. Reflect the whole route of the call, not just the origination and termination points. As a consequence, for example the Interconnect Invoice will be generated from â€¢ Data &amp; Voice CDRs that is only billable for Interconnect providers. E.g.: Outgoing calls (revenue shared), Outgoing Transit calls, Incoming calls, etc. The model simplifies it in terms of a balance in MOU (minutes of use). The Outgoing calls are the expense and Incoming calls are the revenue for the Telecom Provider."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

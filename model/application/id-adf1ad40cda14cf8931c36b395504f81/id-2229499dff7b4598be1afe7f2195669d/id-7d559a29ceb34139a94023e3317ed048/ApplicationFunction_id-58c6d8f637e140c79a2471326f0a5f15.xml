@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Catalog Management"
+    id="id-58c6d8f637e140c79a2471326f0a5f15"
+    documentation="Catalog Management is a cross domain, multilayer application that operates as a master repository for componentized entities of products, services and / or resources within one or more domains of a service provider�s environment. Catalog Management includes the abilities to create and design new entities, map entity definitions, manage complex rules, support componentization of entities and manage their relationships and dependencies. Additional aspects include versioning, change management, enhanced viewing, as well as editing and tracking capabilities">
+  <properties
+      key="TAM Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="11.1"/>
+  <properties
+      key="Frameworx Domain"
+      value="Common Domain Cross Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

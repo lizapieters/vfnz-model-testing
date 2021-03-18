@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inquiry/Customer Matching"
+    id="id-07fbca8dc8d84c798ce87d2df516e505"
+    documentation="The ability to associate an inquiry with a customer.">
+  <properties
+      key="TMF_ID"
+      value="1.3.12.5.9"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

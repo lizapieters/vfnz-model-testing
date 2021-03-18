@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer order change management"
+    id="id-09d50854f9c84513b78a2d092e8ef4fc"
+    documentation="Order Change Management � Amend pending order resulted from customer change requests or provisioning system limitation, revalidate the order. Including">
+  <properties
+      key="Function Identifier"
+      value="208"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Order Lifecycle Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.3.6"/>
+  <properties
+      key="Constructed Id"
+      value="5.3.6.208"/>
+</archimate:ApplicationFunction>

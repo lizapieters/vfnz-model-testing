@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identify Loyalty Program Requirements"
+    id="id-e24f432c780840f3805e4ff8b35b569a"
+    documentation="Identify the core objectives and needs of a loyalty program, such as fitting the program into an enterprise's culture and the human resources needed to operate the program.">
+  <properties
+      key="Process Identifier"
+      value="1.1.19.1.1.2"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Identify Loyalty Program Requirements identifies the core objectives and needs of a loyalty program. Core objectives may include key success factors for a successful program and the time frame for meeting them, fitting the program into an enterprise's brand vision, fitting it into an enterprises' culture, and aligning it with current sales channel strategies. Needs may include identifying marketing database support, human resources to develop and support the loyalty program, and financial resources."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

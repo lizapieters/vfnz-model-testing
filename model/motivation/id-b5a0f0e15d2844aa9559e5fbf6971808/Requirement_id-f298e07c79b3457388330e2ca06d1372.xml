@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0970"
+    id="id-f298e07c79b3457388330e2ca06d1372"
+    documentation="As Head of Tax I want to know that the new Comarch system will generate debit/credit note functionality.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0970"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Julia Rose"/>
+  <properties
+      key="Tribe"
+      value="Finance / Tax"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Manage"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Tax"/>
+  <properties
+      key="Remarks"
+      value="Credit/debit to be clarified, if this is credit/debit note or adjustment for &quot;+/-&quot;? This BUC refers to adjustments in BS terminology, to make sure that the appropriate tax rate is applied in the adjustment. Credit note is also in scope, but not yet sure if it is OK, that credit note has no tax."/>
+  <properties
+      key="Module"
+      value="BS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

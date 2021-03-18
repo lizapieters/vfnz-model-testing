@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Campaign Aggregation"
+    id="id-ec75b36ee339446c96281a10dd16b852"
+    documentation="The ability to group campaigns.">
+  <properties
+      key="TMF_ID"
+      value="1.2.12.5.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

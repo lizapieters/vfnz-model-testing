@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Channel Performance Threshold Measurement"
+    id="id-ec8fc3390e2c466e830d4bcee9882f72"
+    documentation="The ability to determine if a channel is exceeding or falling short of an acceptable threshold of performance.">
+  <properties
+      key="TMF_ID"
+      value="1.1.1.6.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

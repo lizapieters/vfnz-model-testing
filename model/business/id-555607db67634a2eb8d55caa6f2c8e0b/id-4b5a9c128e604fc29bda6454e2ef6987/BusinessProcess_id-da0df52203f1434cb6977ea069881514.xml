@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Service Capability Delivery"
+    id="id-da0df52203f1434cb6977ea069881514"
+    documentation="Manage the provision, implementation and roll-out of the new or enhanced service capability, and associated operational support processes.">
+  <properties
+      key="Process Identifier"
+      value="1.4.2.6"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Manage Service Capability Delivery processes manage the provision, implementation and roll-out of the new or enhanced service capability and associated operational support processes. These processes are predominantly program/project management process functions, and require the detailed management and co-ordination of the delivery of individual service infrastructure components, and any underlying resource infrastructure capability delivery, to achieve the delivery of the overall service capability. These processes are responsible to ensure that the quality of the implemented service capability meets the design specifications. These processes leverage the Engaged Party domains necessary to establish any new sourcing arrangements for the delivery of service components. These processes develop the detailed delivery, implementation and roll-out timetables, and track the expenditure and staff resource usage to deliver the service components, and provide any reporting necessary to keep stakeholders informed of progress. They are responsible for ensuring that the financial aspects of the approved business proposals are met."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

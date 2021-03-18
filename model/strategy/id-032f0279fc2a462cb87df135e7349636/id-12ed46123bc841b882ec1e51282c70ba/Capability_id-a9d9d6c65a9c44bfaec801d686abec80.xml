@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trip Enforcement"
+    id="id-a9d9d6c65a9c44bfaec801d686abec80"
+    documentation="The Ability to ensure compliance with agreed terms.">
+  <properties
+      key="TMF_ID"
+      value="1.1.6.2.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0657"
+    id="id-eafdf97429eb4ee39cccd9c63475f3a0"
+    documentation="The Collections solution shall enable business data to be reported.&#xD;&#xA;Including:&#xD;&#xA;1.&#x9;Collections inflow / outflow  &#xD;&#xA;2.&#x9;Roll rates&#xD;&#xA;3.&#x9;Aged debt and movement&#xD;&#xA;4.&#x9;Collector performance (payment received as promised)&#xD;&#xA;5.&#x9;Treatment path performance&#xD;&#xA;6.&#x9;Delinquency analysis&#xD;&#xA;7.&#x9;Actions scheduled / completed (suspend, deactivate, reactivate, close)&#xD;&#xA;8.&#x9;DCA allocation &amp; performance&#xD;&#xA;9.&#x9;Write-off&#xD;&#xA;10.&#x9;Payment arrangement / plans&#xD;&#xA;11.&#x9;Payment extension / promise to pay&#xD;&#xA;12.&#x9;Never paid&#xD;&#xA;13.&#x9;Medical dependency&#xD;&#xA;14.&#x9;Disputes&#xD;&#xA;15.&#x9;Complaints&#xD;&#xA;16.&#x9;Fraud&#xD;&#xA;17.&#x9;Refuse to pay&#xD;&#xA;18.&#x9;Hardship (can’t pay)&#xD;&#xA;19.&#x9;Sale of Debt (selection criteria)">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0657"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Jasmin Khambata"/>
+  <properties
+      key="Tribe"
+      value="Collections"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Collections"/>
+  <properties
+      key="Remarks"
+      value="Requirement clear"/>
+  <properties
+      key="Module"
+      value="REP,BS,CRM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

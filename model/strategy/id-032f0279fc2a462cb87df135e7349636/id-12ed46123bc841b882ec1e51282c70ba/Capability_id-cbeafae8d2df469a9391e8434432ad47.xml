@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer/Partner Matching"
+    id="id-cbeafae8d2df469a9391e8434432ad47"
+    documentation="The ability to associate a customer with a partner that has a formal or other type of relationship to that customer.">
+  <properties
+      key="TMF_ID"
+      value="1.1.2.6.7"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

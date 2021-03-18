@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Handle Broker Roaming Agreement"
+    id="id-d1aa742d633748b69d1bf977a63a893a"
+    documentation="Handle Broker Roaming Agreement process handles Revenue Model brokerage (negotiation, preparation, agreement and documentation)of a roaming agreement on behalf of a PLMN.">
+  <properties
+      key="Process Identifier"
+      value="1.6.15.4.8.1"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Handle Broker Roaming Agreement process handles Revenue Model brokerage (negotiation, preparation, agreement and documentation)of a roaming agreement on behalf of a PLMN. It is often partially outsourced. Such process entails the involvement of an external entity versed/specialized in knowing going market rated that is involved during the revenue model negotiations (guiding or consulting) to get optimum conditions for the CSP hiring it services. Note that Optimum conditions for one specific CSP does not equate to optimum conditions for one or more other parties involved. Represents the Revenue perspective and affected collateral sub clauses in other areas. (i.e. this process focuses on the brokering the interests of the revenue management domain is not strictly concentrating on the legal or contractual perspective from Agreements/Contracts)."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

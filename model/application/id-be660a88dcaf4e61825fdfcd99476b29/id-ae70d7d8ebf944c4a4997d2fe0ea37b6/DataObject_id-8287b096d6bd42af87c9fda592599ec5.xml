@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NumberPortabilityPolicyRule"
+    id="id-8287b096d6bd42af87c9fda592599ec5"
+    documentation="This is a sub-class of PolicyRule in order to obtain the conditions; events and actions; which help especially for the penalty fees when certain conditions dont apply. The policies approach is to only be applied and be considered for the number portability itself; depending of the type of the request based on the BusinessInteractionType."/>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Location Search Function"
+    id="id-ddbcab75428649489451d60b371efb95"
+    documentation="As part of the Location Management provide the ability to search for a provided location/address, including the ability to return near matches if an exact match is not found.">
+  <properties
+      key="Function Identifier"
+      value="432"/>
+  <properties
+      key="TAM Application Name"
+      value="Location Management"/>
+  <properties
+      key="TAM Application Id"
+      value="7.15"/>
+  <properties
+      key="Constructed Id"
+      value="7.15.432"/>
+</archimate:ApplicationFunction>

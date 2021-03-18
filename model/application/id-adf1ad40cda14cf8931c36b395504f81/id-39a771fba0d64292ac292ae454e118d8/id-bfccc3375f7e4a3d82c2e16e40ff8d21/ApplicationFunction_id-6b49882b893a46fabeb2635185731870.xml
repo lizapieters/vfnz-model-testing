@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Test result interpretation policies management"
+    id="id-6b49882b893a46fabeb2635185731870"
+    documentation="Service Test Strategy and Policy Management interpretation of test results functions provide the necessary functionality to manage how the test results should be interpreted.&#xA;Strategies can range from simple (e.g. - check the status of a router) to complex (e.g. - perform an end-to-end test on a circuit and sectionalize the problem).">
+  <properties
+      key="Function Identifier"
+      value="566"/>
+  <properties
+      key="TAM Application Name"
+      value="Service Test Strategy and Policy Management"/>
+  <properties
+      key="TAM Application Id"
+      value="6.8.1"/>
+  <properties
+      key="Constructed Id"
+      value="6.8.1.566"/>
+</archimate:ApplicationFunction>

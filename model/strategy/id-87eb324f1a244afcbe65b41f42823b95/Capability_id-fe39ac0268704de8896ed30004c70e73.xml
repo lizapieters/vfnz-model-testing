@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Order Establishment"
+    id="id-fe39ac0268704de8896ed30004c70e73"
+    documentation="Customer Order Establishment applications provide the necessary functionality to establish a valid customer order.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.3.1"/>
+  <properties
+      key="TMF Function"
+      value="Channel guidance and data capture Customer Order Completion Customer Order Eligibility Customer Order Validation Offer and Product Configuration"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer/Customer Matching"
+    id="id-a4dc59a327ea451db5b970f997439909"
+    documentation="The ability to associate one customer with another based on a relationship, including, for example, relationships among family members under a common agreement.">
+  <properties
+      key="TMF_ID"
+      value="1.1.2.6.6"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

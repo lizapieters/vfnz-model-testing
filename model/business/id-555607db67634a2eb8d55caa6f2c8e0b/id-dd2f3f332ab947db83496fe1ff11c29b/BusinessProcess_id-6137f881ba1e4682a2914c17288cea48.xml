@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define Security and Privacy Domains"
+    id="id-6137f881ba1e4682a2914c17288cea48"
+    documentation="Define Security and Privacy Domains boundaries that limit any policies and intents.  While some domain boundaries may be set at the discretion of the enterprise, many other are imposed by regulation or law.">
+  <properties
+      key="Process Identifier"
+      value="1.6.1.1.5"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Define Security and Privacy Domains boundaries that limit any policies and intents. Note: Enterprises need to define and manage any boundaries that limit any policies and intents. While some domain boundaries may be set at the discretion of the enterprise, many other are imposed by regulation or law. In either case, the domains defined will need constant review and analysis to ensure that business plans and risks are kept within acceptable levels of uncertainty while evolving."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

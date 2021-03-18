@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Inventory Retrieval"
+    id="id-2ebf28fffb5c408db4c40fac6469b8ba"
+    documentation="This function allows for client operations support (service assurance and billing systems) to retrieve part or all of the resource inventory known to the target OSS. &#xA;This feature may allow the following selection criteria:&#xA;� retrieval of a specified set of one or more sub-trees&#xA;� exclusion or inclusion of specified object types from the selected sub-tree &#xA;� further filtering based on attribute matching &#xA;� retrieval of only the object instances that have been modified after a provided date and time &#xA;� For the selected objects, this feature may allow the client operations support (service assurance and billing systems) to specify what specific attributes and relationships shall be returned. This (the attributes and relationships to be returned) would be the same for all objects of the same type.">
+  <properties
+      key="Function Identifier"
+      value="470"/>
+  <properties
+      key="TAM Application Name"
+      value="Resource Inventory Management"/>
+  <properties
+      key="TAM Application Id"
+      value="7.2"/>
+  <properties
+      key="Constructed Id"
+      value="7.2.470"/>
+</archimate:ApplicationFunction>

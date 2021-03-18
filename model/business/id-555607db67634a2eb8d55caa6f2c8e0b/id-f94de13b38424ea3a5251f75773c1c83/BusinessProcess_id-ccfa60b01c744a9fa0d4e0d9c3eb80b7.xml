@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Apply MVNO Tax"
+    id="id-ccfa60b01c744a9fa0d4e0d9c3eb80b7"
+    documentation="Applies/Receives Tax Details from MVNO and apply against records, according to applicable Billing Policy">
+  <properties
+      key="Process Identifier"
+      value="1.6.15.4.3.1"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Process of Applying Tax for Corporates (incl. spanning national borders, multiple destinations and multicurrency)"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

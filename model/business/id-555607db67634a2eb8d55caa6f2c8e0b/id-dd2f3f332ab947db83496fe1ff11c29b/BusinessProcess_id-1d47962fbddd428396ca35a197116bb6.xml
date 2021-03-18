@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analyze and Decompose Work Order"
+    id="id-1d47962fbddd428396ca35a197116bb6"
+    documentation="This process analyzes and decomposes a Work Order into work items according to Work Catalog, and groups them for optimal execution.">
+  <properties
+      key="Process Identifier"
+      value="1.5.5.5.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The scope of the Analyze and Decompose Work Order process includes the following: â€¢{T}Decomposing work orders into elementary dispatchable manual activities (i.e., work items). Decomposition may be performed according to decomposition rules or by conditional instantiation of work items from work order specification. â€¢{T}Establishing materials, parts, tools, and equipment required to perform manual activities â€¢{T}Restructuring and correlating (grouping) decomposed Work Orders or work items in order to create new ones, containing manual activities (work items) combined on the basis of predefined criteria such as skills required, location, etc."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

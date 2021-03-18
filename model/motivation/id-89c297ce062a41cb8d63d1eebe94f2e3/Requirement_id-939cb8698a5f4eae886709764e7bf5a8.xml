@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1096"
+    id="id-939cb8698a5f4eae886709764e7bf5a8"
+    documentation="As a customer I want to see a history of my payments, so that I can understand payments I have made and what I have owing">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1096"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Self Service"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="self service"/>
+  <properties
+      key="Topic"
+      value="Account/User Management"/>
+  <properties
+      key="Remarks"
+      value="OOTB finantial documents"/>
+  <properties
+      key="Module"
+      value="SC, BS?"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

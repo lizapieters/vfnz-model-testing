@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Payment Interface Refunds Transaction Support"
+    id="id-bf5c4d2f4ca243cd9427e0862f512dfb"
+    documentation="Supports refund transactions based on the saved payment transaction details.">
+  <properties
+      key="Function Identifier"
+      value="322"/>
+  <properties
+      key="TAM Application Name"
+      value="Payment Interface Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.9.4.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.9.4.1.322"/>
+</archimate:ApplicationFunction>

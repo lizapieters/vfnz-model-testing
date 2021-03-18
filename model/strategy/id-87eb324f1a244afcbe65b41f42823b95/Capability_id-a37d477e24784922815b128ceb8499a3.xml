@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Journalization"
+    id="id-a37d477e24784922815b128ceb8499a3"
+    documentation="Journalization applications provide the capability to analyze and translate customer financial activities into records that can then be sent to the corporate general ledger.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.9.2"/>
+  <properties
+      key="TMF Function"
+      value="Financial Code Assignment Journal Entry Accumulation Journal Record Creation"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

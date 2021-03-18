@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Catalog Change management"
+    id="id-b3a3e7d8b2e844239b3fe1cffcb7f57f"
+    documentation="Manage the implications of catalog changes to determine the consequences of any given change.  In addition, catalog users should be able to track and locate the history of changes in the catalog in an easy and accessible manner.">
+  <properties
+      key="Function Identifier"
+      value="1"/>
+  <properties
+      key="TAM Application Name"
+      value="Catalog Management"/>
+  <properties
+      key="TAM Application Id"
+      value="11.1"/>
+  <properties
+      key="Constructed Id"
+      value="11.1.1"/>
+</archimate:ApplicationFunction>

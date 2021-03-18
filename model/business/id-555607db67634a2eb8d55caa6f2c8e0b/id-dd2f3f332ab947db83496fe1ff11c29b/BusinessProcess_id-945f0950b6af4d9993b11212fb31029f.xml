@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Remove Party Revenue Sharing Model"
+    id="id-945f0950b6af4d9993b11212fb31029f"
+    documentation="Remove a party revenue sharing model when it is no longer of interest to an enterprise.">
+  <properties
+      key="Process Identifier"
+      value="1.6.18.1.4"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Remove Party Revenue Sharing Model removes a party revenue sharing model when it is no longer of interest to an enterprise. This may take place as part of removing a party revenue sharing agreement. The removal may be physical or logical by changing the validity period or the status of the model."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

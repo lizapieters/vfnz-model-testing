@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Billing Inquiry, Dispute &amp; Adjustment Management"
+    id="id-1421a7e143274e1b80ccd8d02eef22e6"
+    documentation="This is a front end application for managing billing inquiries, disputes, and adjustments. Billing inquiries are provided by Bill Calculation. Open dispute cases can be handled by Case Management system or internally. The financial activities are performed by Receivables Management.">
+  <properties
+      key="TAM Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="5.10"/>
+  <properties
+      key="Frameworx Domain"
+      value="Customer Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Track Product Inventory Usage"
+    id="id-6dc620fb63724c969067c6f7f02279c6"
+    documentation="Tracking and monitoring of the usage of, and access to, the product inventory repository and associated costs, and reporting on the findings">
+  <properties
+      key="Process Identifier"
+      value="1.2.11.5"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="3"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

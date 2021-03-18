@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0085"
+    id="id-e0a61378f2834b48b8cafb0c868db5e4"
+    documentation="As a customer, I want to be able to repair my device, so that I can get it fixed if it's broken">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0085"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="2"/>
+  <properties
+      key="Base_Old"
+      value="2"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Help"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Help"/>
+  <properties
+      key="Topic"
+      value="Device repair"/>
+  <properties
+      key="Remarks"
+      value="how is the device repair flow managed overall? Is there ane external system for repairs? There is an online option to call for repair."/>
+  <properties
+      key="Module"
+      value="AIF, SC, OM, BR"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="REQ_OSS_39 REQ_OSS_391 REQ_OSS_395"/>
+</archimate:Requirement>

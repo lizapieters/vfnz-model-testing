@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Report Aged Party Debt Portfolio"
+    id="id-f7dbe0d2e3644d8e8cfba2c3eab012c2"
+    documentation="Produce aged party debt portfolio report to assist in managing party debt and candidates for write-off.">
+  <properties
+      key="Process Identifier"
+      value="1.6.16.1.4.3.1"/>
+  <properties
+      key="Category"
+      value="(6) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Report Aged Party Debt Portfolio produces an aged party debt portfolio report to assist in managing party debt and candidates for write-off. The report may include age of the debt as well as the probability of collecting the debt based on policies defined by Define Party Debt Collection Policies."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

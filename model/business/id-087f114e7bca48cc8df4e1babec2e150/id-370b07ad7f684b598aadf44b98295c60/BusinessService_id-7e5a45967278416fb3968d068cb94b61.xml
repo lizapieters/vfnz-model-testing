@@ -1,0 +1,30 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OTT - Disney+"
+    id="id-7e5a45967278416fb3968d068cb94b61"
+    documentation="0">
+  <properties
+      key="Target Horizon"
+      value="TBC"/>
+  <properties
+      key="Segment"
+      value="Consumer/Business"/>
+  <properties
+      key="Access/Service Type"
+      value="0"/>
+  <properties
+      key="Comarch can support"
+      value="0"/>
+  <properties
+      key="Non-Comarch IT support needed"
+      value="0"/>
+  <properties
+      key="NaaS will support"
+      value="0"/>
+  <properties
+      key="Automated non-NaaS support"
+      value="0"/>
+  <properties
+      key="Unexpected"
+      value="true"/>
+</archimate:BusinessService>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Track and Monitor Logistics and Manage Resource Inventory"
+    id="id-870a747125e6489fb4d23377bfb211da"
+    documentation="Tracking and monitoring of the usage of, and access to, the specific process and associated costs of the specific processes, and reporting on the findings">
+  <properties
+      key="Process Identifier"
+      value="1.5.4.6.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Managing the registration and access control processes that enable supplier and/or third party processes to create, modify, update, delete and/or download relevant details into inventory systems associated with any of the above processes;"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Perform Audit Tests"
+    id="id-57d799acf8844ceeb24ddde9c3828699"
+    documentation="Ensuring the party inventory repository accurately captures and records all identified party details, through use of automated or manual audits;">
+  <properties
+      key="Process Identifier"
+      value="1.6.21.3"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Ensuring the resource inventory repository accurately captures and records all identified resource infrastructure and resource instance details, through use of automated or manual audits;"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

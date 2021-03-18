@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0871"
+    id="id-5a965667864841d8a74c28140b68cb15"
+    documentation="As a Revenue Assurance Analyst I want be able to access and report on all of our rated usage both domestic and international so that we are can confirm that all the rates are correct and that we are not overcharging or undercharging our customers or have any negative margin scenarios">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0871"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Samuel Pachoud"/>
+  <properties
+      key="Tribe"
+      value="Finance / Revenue &amp; Network Assurance"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Reporting"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Usage reconciliation"/>
+  <properties
+      key="Remarks"
+      value="Reted CDRs feed from Comarch is needed DX: Note require hourly"/>
+  <properties
+      key="Module"
+      value="REP"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

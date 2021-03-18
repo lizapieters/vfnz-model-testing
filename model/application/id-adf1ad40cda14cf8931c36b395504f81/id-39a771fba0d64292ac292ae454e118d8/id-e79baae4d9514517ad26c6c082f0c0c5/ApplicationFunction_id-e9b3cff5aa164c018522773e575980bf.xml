@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Recommended Action Closed loop followup"
+    id="id-e9b3cff5aa164c018522773e575980bf"
+    documentation="Closed loop functionality to learn from whether the recommended action was accepted or not, including functionality to avoid proactive backfire (i.e. ensuring a customer reach out action doesn�t result in confusion and more calls to the call center)">
+  <properties
+      key="Function Identifier"
+      value="241"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Recommended Action"/>
+  <properties
+      key="TAM Application Id"
+      value="5.5.15"/>
+  <properties
+      key="Constructed Id"
+      value="5.5.15.241"/>
+</archimate:ApplicationFunction>

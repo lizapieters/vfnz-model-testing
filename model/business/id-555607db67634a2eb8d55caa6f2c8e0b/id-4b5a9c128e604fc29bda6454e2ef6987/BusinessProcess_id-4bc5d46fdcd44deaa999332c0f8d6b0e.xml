@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Close Party Performance Degradation Report"
+    id="id-4bc5d46fdcd44deaa999332c0f8d6b0e"
+    documentation="Close a party performance degradation report when the performance of the party product has been resolved.">
+  <properties
+      key="Process Identifier"
+      value="1.6.11.4"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Close Party Performance Degradation Report closes a party performance degradation report when the performance of the party product has been resolved. These processes monitor the status of all open party performance degradation reports, and recognize that a party performance degradation report is ready to be closed when the status is changed to cleared."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

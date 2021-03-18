@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1075"
+    id="id-3aca963b98e54c93be31cfc31e74d6f2"
+    documentation="As a customer I would like to be able to initiate a chatbot session at anytime within the app/web whilst logged in, so that I can get support via the channel I need">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1075"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="2"/>
+  <properties
+      key="Base_Old"
+      value="2"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Help"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="help"/>
+  <properties
+      key="Topic"
+      value="Self-Service"/>
+  <properties
+      key="Remarks"
+      value="SC: by integration with chat Details of the chat/help solution needed - impact on DS and EP also"/>
+  <properties
+      key="Module"
+      value="SC, EP, DS, AIF"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

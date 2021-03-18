@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Detect impact on Party Inventory Infrastructure and Update"
+    id="id-052d89f59405499683b7b25df09de8fd"
+    documentation="Receiving and sending related information over  communication channel in order to update the party Inventory.">
+  <properties
+      key="Process Identifier"
+      value="1.6.6.1.5"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="â€¢ Updating the party Inventory of any changes to the party infrastructure deployment requests and progress; â€¢ Updating supplier/partner product and/or service information, etc. to support the Party Requisition Management processes"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

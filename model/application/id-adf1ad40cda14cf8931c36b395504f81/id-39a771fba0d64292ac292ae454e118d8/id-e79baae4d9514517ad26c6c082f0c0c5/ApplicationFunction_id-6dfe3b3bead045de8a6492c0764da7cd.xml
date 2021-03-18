@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transactional Document Multiple account statement generation"
+    id="id-6dfe3b3bead045de8a6492c0764da7cd"
+    documentation="Aggregates multiple accounts, and generates an appropriate invoice/billing statement (if a billing statement).">
+  <properties
+      key="Function Identifier"
+      value="335"/>
+  <properties
+      key="TAM Application Name"
+      value="Transactional Document Generator"/>
+  <properties
+      key="TAM Application Id"
+      value="5.2.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.2.2.335"/>
+</archimate:ApplicationFunction>

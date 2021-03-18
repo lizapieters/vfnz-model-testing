@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Billing Account Configuration Management"
+    id="id-e394c187f4a94f349f6129a7f909a988"
+    documentation="Billing Account Configuration Management provides the necessary capability to create and update billing accounts. It also provides the ability to modify billing account parameters.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.13.1"/>
+  <properties
+      key="TMF Function"
+      value="Create billing accounts Modify billing accounts Update specific billing account information"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

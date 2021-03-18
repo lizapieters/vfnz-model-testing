@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Investment Risk Threshold Determination"
+    id="id-359cce9b0f7b4bb487c0cbeb7b3df7d2"
+    documentation="The ability to identify and define the level of acceptable risk associated with an investment or set of investments.">
+  <properties
+      key="TMF_ID"
+      value="1.2.6.4.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

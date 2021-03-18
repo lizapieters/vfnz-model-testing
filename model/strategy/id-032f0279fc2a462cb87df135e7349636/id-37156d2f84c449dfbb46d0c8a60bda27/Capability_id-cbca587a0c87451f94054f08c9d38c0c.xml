@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Partner Definition"
+    id="id-cbca587a0c87451f94054f08c9d38c0c"
+    documentation="The ability to establish a new partner. The ability to identify and record the existence of a partner for the purposes of engaging with that partner on an ongoing basis. Partner to include Vendors, Suppliers, Provider, &amp; Partners (E.g. Partner Type).">
+  <properties
+      key="TMF_ID"
+      value="1.1.9.1"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

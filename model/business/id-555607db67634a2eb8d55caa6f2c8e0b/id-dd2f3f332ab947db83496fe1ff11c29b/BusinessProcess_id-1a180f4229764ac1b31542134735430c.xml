@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ensure Service Capability Costs"
+    id="id-1a180f4229764ac1b31542134735430c"
+    documentation="These processes are responsible for ensuring that the financial aspects of the approved business proposals are met.">
+  <properties
+      key="Process Identifier"
+      value="1.4.2.6.6"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

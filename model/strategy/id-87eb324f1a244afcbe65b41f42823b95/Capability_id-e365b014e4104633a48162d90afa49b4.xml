@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fallout Notification"
+    id="id-e365b014e4104633a48162d90afa49b4"
+    documentation="Fallout Notification applications provides the means to alert people or workgroups of some fallout situation. Email, paging, rules for notification alert">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="11.2.6"/>
+  <properties
+      key="TMF Function"
+      value="Fallout Notification"/>
+  <properties
+      key="TMF Maturity"
+      value="Cross Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

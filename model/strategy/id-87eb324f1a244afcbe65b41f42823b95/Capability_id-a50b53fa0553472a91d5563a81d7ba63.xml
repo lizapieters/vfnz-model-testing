@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Quality Collection &amp; Monitoring"
+    id="id-a50b53fa0553472a91d5563a81d7ba63"
+    documentation="Service Quality Collection &amp; Monitoring applications provide the necessary functionality to continuously collect and monitor service quality as determined by Service Quality Model Establishment.The collected data is logged and made available for further analysis, and present quality level made available as notifications for immediate action in case of significant deviation.Collects service quality related information from established sources, including service performance management, service problem management, third parties, and customers">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="6.9.2"/>
+  <properties
+      key="TMF Function"
+      value="Service Quality Collection &amp; Monitoring"/>
+  <properties
+      key="TMF Maturity"
+      value="Service Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

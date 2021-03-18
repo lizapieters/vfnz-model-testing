@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Discounts Calculation"
+    id="id-4292b3001a6444e0b68113f2c8ae2f5a"
+    documentation="The Discounts Calculation provides appropriate functionality to apply discounts to charges.Discount Calculation provides appropriate functionality to apply discounts or recalculate discounts in the context of appropriate billing events. Discount Calculation also considers the results of aggregation and balance management functions (based on a certain balance, different discounts are applied) in the process of calculating discounts.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="5.15.2"/>
+  <properties
+      key="Frameworx Domain"
+      value="Customer Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

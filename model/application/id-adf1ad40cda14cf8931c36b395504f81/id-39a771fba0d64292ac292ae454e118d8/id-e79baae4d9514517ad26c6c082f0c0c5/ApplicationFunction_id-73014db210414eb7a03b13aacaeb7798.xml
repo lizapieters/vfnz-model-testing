@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Configure the Privacy Rules Values"
+    id="id-73014db210414eb7a03b13aacaeb7798"
+    documentation="A Privacy Dashboard function to define default and updated values for the Privacy Profile including the values for the Privacy Rules, and the default Privacy Profile for each Privacy Profile Type.">
+  <properties
+      key="Function Identifier"
+      value="665"/>
+  <properties
+      key="TAM Application Name"
+      value="Privacy Profile Type Creation"/>
+  <properties
+      key="TAM Application Id"
+      value="5.23.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.23.1.665"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Service Restoration"
+    id="id-d2c0730071014358a71a7cf71e6b27e5"
+    documentation="Based on the nature of the service failure leading to the associated service alarm event notification, this restoration process might be triggered.  It reports successful restoration of normal operation or an unsuccessful attempt at restoration to Track &amp; Manage Service Problem through updates to the associated Service Trouble report.">
+  <properties
+      key="Process Identifier"
+      value="1.4.6.3.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

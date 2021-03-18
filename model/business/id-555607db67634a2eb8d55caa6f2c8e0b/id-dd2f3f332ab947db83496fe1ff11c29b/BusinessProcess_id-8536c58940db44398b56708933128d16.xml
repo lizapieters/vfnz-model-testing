@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Track and Monitor Resource Repository Capabilities"
+    id="id-8536c58940db44398b56708933128d16"
+    documentation="Monitoring and reporting on the usage and access to the resource inventory, and the quality of the data maintained in it.">
+  <properties
+      key="Process Identifier"
+      value="1.5.4.5.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="â€¢ Tracking and monitoring of the usage of, and access to, the resource inventory repository and associated costs, and reporting on the findings;"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

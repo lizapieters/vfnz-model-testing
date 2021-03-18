@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contact Channel Management"
+    id="id-4c7719855ee041ff85a8fca02bb77742"
+    documentation="Contact Channel Management encompasses the means by which customers of a given service provider contactService Providersas well as how service provider agents communicate internally. It also includes the means to transfer the communication from one channel to another. Contact Channel Management addresses the routing, queuing and assignment of new active customer requiests based on center utilization and available agents with the appropriate Skill assignment.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.22.3"/>
+  <properties
+      key="TMF Function"
+      value="0"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

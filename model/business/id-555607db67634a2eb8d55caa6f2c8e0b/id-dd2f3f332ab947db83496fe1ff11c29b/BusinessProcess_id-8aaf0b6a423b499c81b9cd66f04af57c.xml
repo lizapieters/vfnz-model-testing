@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Perform Supplier Billing"
+    id="id-8aaf0b6a423b499c81b9cd66f04af57c"
+    documentation="Perform Supplier Party Billing process  manages settlement of goods delivered as part of the  Value Chain (Typically physical goods). Example includes simcards, Handset, marketing collaterals etc.">
+  <properties
+      key="Process Identifier"
+      value="1.6.15.4.9"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Perform Supplier Party Billing process manages settlement of goods delivered as part of the Value Chain (Typically physical goods). Example includes simcards, Handset, marketing collaterals etc."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

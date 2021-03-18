@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Resource Development"
+    id="id-50701c567ce64ec2b6a84c658f6efa3c"
+    documentation="Ensure the co-coordinated delivery in line with the approved business case of all required resource classes/components capabilities for that business case across the enterprise">
+  <properties
+      key="Process Identifier"
+      value="1.5.3.5"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Manage Resource Development processes ensure the co-coordinated development in line with the approved business case of all required resource classes/components for that business case across the enterprise. These processes ensure that all operational processes and procedures, resource changes (e.g. network and/or IT resources), operational procedures, testing tools and procedures, etc. required to support the new resource class/component are identified and developed. These processes ensure that the necessary documentation and training packages are produced to support the operation of the new resource class. These processes also ensure that the required service level agreements and operational level agreements are developed and agreed for each resource class deployed, and that any other parties operational support has been identified and agreed. These processes have both program/project management aspects and technical/operational specification aspects, with the detailed management of individual resource class deployment managed by the Manage Resource Deployment processes. Note that management of major new or enhanced infrastructure delivery to support product and offer development is managed within the Resource Capability Delivery process. Note that delivery of resource classes/components within the context of existing commercial arrangements is managed through the Party Offering Development &amp; Retirementprocess. If new related parties are required, theParty Tender Management and Party Agreement Management processes are used to deliver the necessary commercial arrangements"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

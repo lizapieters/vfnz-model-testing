@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Loyalty Program Management"
+    id="id-ac62b2ab105941b09c46c6d20f53a380"
+    documentation="Define all aspects of a loyalty program, such as requirements and objectives of a loyalty program, determine the benefits to participants. Develop a program, prototype it, test it, rollout/launch it, amend and evaluate it, and terminate it when it is no longer viable for an enterprise. &#xA;&#xA;Manage all operational aspects of running a loyalty program. Enable parties to become a members of a program, earn currency and rewards, and redeem currency. Manage a loyalty program account, leave a program, and provide operational reports.">
+  <properties
+      key="Process Identifier"
+      value="1.1.19"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Loyalty Program Management develops and retires loyalty programs and manages the operations of them. Development and retirement defines all aspects of a loyalty program, such as requirements and objectives of the loyalty program, determines the benefits to participants. It develops a program, prototypes it, tests it, rollouts/launches it, amends and evaluates it, and terminates it when it is no longer viable for an enterprise. Loyalty Program Operation manages all operational aspects of running a loyalty program. It enables a party to become a members of a program, earn currency and rewards, and redeem currency. It manages a loyalty program account, enables a participant to leave a program, and provides operational reports. Participants who can be customers and partners, each with its own loyalty program. There can be more than one loyalty program for each. Typically loyalty programs only are developed for customers. However, other parties, such as partners who have on-boarded an enterprise's product offering(s) or those who offer their offerings on an enterprise's marketplace, should also be rewarded for their loyalty. The reason is that they also provide revenue either directly or indirectly to an enterprise."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

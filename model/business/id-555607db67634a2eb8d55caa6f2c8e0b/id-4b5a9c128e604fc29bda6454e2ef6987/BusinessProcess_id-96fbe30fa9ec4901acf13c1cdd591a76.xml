@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Report Resource Performance"
+    id="id-96fbe30fa9ec4901acf13c1cdd591a76"
+    documentation="Monitor the status of resource performance degradation reports, provide notifications of any changes and provide management reports">
+  <properties
+      key="Process Identifier"
+      value="1.5.9.4"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of the Report Resource Performance processes is to monitor the status of resource performance degradation reports, provide notifications of any changes and provide management reports. These processes are responsible for continuously monitoring the status of resource performance degradation reports and managing notifications to other processes in the Resource-Ops and other layers, and to other parties registered to receive notifications of any status changes. Notification lists are managed and maintained by the Enable Resource Performance Management processes. These processes record, analyze and assess the resource performance degradation report status changes to provide management reports and any specialized summaries of the efficiency and effectiveness of the overall Resource Performance Management process. These specialized summaries could be specific reports required by specific audiences."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

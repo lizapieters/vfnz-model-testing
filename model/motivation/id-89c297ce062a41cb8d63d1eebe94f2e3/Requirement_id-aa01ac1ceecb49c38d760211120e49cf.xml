@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0660"
+    id="id-aa01ac1ceecb49c38d760211120e49cf"
+    documentation="As a terminals manager, I want to establish drop shipping fulfillment for hardware purchases so that I can offer endless aisles in store">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0660"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="2"/>
+  <properties
+      key="Base_Old"
+      value="2"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="buy"/>
+  <properties
+      key="Topic"
+      value="Terminals"/>
+  <properties
+      key="Remarks"
+      value="Drop ship: pay for a device in store even if it is not directly available in this shop. The agent orders the device in the name for the customer from the warehouse. Then the device is shipped to the customer."/>
+  <properties
+      key="Module"
+      value="AP, AIF, OM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProdOfferPriceAction"
+    id="id-553f008a8c8b460b9dcb06a6889b6aaf"
+    documentation="The outcome of the successful evaluation of a PolicyStatement (that is; one that has met its condition(s)). The outcome is expressed in terms of the price of a ProductOffering. A ProdOfferPriceAction is a type of PolicyAction."/>

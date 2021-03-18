@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicyEventComposite"
+    id="id-1694734ad500493ebc70ea575e16cf83"
+    documentation="This is a base class that represents the occurrence of a composite event. A composite event is an event that is made up of a set of PolicyEventAtomic and/or PolicyEventComposite entities. Like a PolicyEventAtomic; a PolicyEventComposite can also be used to trigger the evaluation of the condition clause of a PolicyRule."/>

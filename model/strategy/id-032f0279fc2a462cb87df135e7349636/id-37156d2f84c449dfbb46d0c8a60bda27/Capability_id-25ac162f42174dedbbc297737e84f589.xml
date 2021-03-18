@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Shipment Information Management"
+    id="id-25ac162f42174dedbbc297737e84f589"
+    documentation="The Ability to capture, organize, track, report on, or otherwise disseminate basic attributes, data, and other perspectives about a shipment.">
+  <properties
+      key="TMF_ID"
+      value="1.1.11.7"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Compliance and Policy Management"
+    id="id-22b5cbc8b2da4666bd9ec21e7d4fa3a8"
+    documentation="Data Compliance and Policy management application provides functionalities to define and manage the data compliance policies and rules e.g. the data privacy, data security and policies for trust management etc. It makes the policies and rules available for use by other Data Management applications.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.11.4"/>
+  <properties
+      key="TMF Function"
+      value="Compliance and Policy Management Access Data Compliance and Policy Configuration Data Compliance and Policy distribution"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

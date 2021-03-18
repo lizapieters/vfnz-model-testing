@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Shelf"
+    id="id-8813d5555464480686a2d31e200e1dfc"
+    documentation="A Shelf is a type of EquipmentHolder that is designed to hold various types of Equipment. It has a logical identifier that is often relative to the Bay that contains the Shelf (i.e.; the unique identifier for a Shelf is often a concatenation of the network element identifier; the Bay identifier; and the Shelf identifier). Note that the logical identifier of a Shelf is typically associated with the Device (i.e.; the NetworkElement). Compare this to a Rack; whose logical identifier is NOT associated with the Device. This means that the Shelf IS explicitly a part of the logical model of a network. Often; a Shelf is used to contain not just pluggable components (e.g.; Cards; Power Supplies; etc.) but also cabling (e.g.; both fiber and wire); with optional connections to external fuse; alarm; and other types of panels."/>

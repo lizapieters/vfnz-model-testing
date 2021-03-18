@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1098"
+    id="id-3d2151beef7c4dc7a93cdfb1c4906a69"
+    documentation="As a customer if i buy/get a reward i want to be able to 'share on social media' from app or web, so that I can tell friends and family about the great deal I got">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1098"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1?"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Use"/>
+  <properties
+      key="Topic"
+      value="Marketing and Campaign Management"/>
+  <properties
+      key="Remarks"
+      value="[CCM]Sharing partial content of e-mail over social media? [CLM] Rewards visible in SC which social media? facebook, something else? We have experience with facebook integration in SC without AIF invlolvement"/>
+  <properties
+      key="Module"
+      value="CLM, SC, PC, OM, CCM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

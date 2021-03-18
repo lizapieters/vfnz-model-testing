@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API Gateway Logging"
+    id="id-9a4aec8647f241bbb9b10f3a8da94b97"
+    documentation="Application Programming Interface Gateway Logging function log task enables the logging of any request or response at any time during the processing of a strategy. The function should be able to execute synchronously or asynchronously, and target a designated file system path, database server, HTTP URL, or email address. If configurable to run only for a specific request or response message of a specific user (or user role) the task can be targeted to a specific operation of a specific service enabler. These granularities together with the possibility to deliver the log information in different channels offer great flexibility for both operation and debug scenarios. Including CDR creation of Call Detail Record for calculating API usage fee.">
+  <properties
+      key="Function Identifier"
+      value="684"/>
+  <properties
+      key="TAM Application Name"
+      value="API Gateway"/>
+  <properties
+      key="TAM Application Id"
+      value="10.3.1"/>
+  <properties
+      key="Constructed Id"
+      value="10.3.1.684"/>
+</archimate:ApplicationFunction>

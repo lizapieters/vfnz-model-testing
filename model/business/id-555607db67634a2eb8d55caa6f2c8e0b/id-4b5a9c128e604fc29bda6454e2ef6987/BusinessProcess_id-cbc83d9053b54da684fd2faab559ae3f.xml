@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provide Party Advice of Charge/Rate"
+    id="id-cbc83d9053b54da684fd2faab559ae3f"
+    documentation="Provide advice of charge/rate to a party.">
+  <properties
+      key="Process Identifier"
+      value="1.6.17.4"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Provide Party Advice of Charge/Rate provides advice on rates, in real-time, an estimate or value of the charge or rate for a specific usage or product offering request. The advice is usually based upon performing a full rating process for the request. The accuracy of the advice underlies the complexity of the product offering - so that a 100% accurate advice of charge might not always be available in real-time. In these cases alternatives are usually sought (for example presentation / product type offering change. Advice of charge can be provided pre-, during or post event. Advice of charge can be used/utilized by several different end-to-end processes"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

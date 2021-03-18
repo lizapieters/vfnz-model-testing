@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0904"
+    id="id-0c56ed43225f45f4aa88455188e42528"
+    documentation="As a customer who is paying by invoice, when I have extra money, I want to be able to pay several months in advance, so that don;t have to worry about my bills for a while.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0904"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Rudolf Arada"/>
+  <properties
+      key="Tribe"
+      value="Business"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Pay in advance"/>
+  <properties
+      key="Remarks"
+      value="EP: requirement clear BS: is not this requirement contradictory to another one where we force refunds in order to avoid money laundering? See: REQ_BSS_1113"/>
+  <properties
+      key="Module"
+      value="BS, SC, EP"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicyDecisionPoint"
+    id="id-fcc2203dbf564a49b53a4de89a4cf716"
+    documentation="A PolicyDecisionPoint is a type of PolicyApplication. It makes policy decisions for itself or for other entities that request such decisions; such as PolicyEnforcementPoints (PEPs) and PolicyExecutionPoints (PXPs). One or more PolicyDecisionPoints are contained in a PolicyServer. PDPs use policies to configure or answer queries from policy-capable network elements or from an operator of the PBNM system. An example of a query is an RSVP admission request - a decision must be made to either accept or reject the request by the receiving network element. Since the network element doesnt have any idea about the overall state of the network; it makes a request of the PDP; asking the PDP if the RSVP request should be allowed. Thus; the PDP serves as the interface between the network and higher level processes."/>

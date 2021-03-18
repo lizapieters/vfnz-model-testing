@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="InvolvementIdentificationRole"
+    id="id-dfdd812c12b5442abfdcbbcdf4b119de"
+    documentation="The InvolvementIdentificationRole entity is used to represent the specific information (e.g. rights and restrictions) related to a point of integration of a given InvolvementIdentification instance in its specific InvolvementRole. This class contains the point of integration with authorization (EIM team responsibility)"/>

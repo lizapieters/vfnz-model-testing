@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0513"
+    id="id-63f053eaed28439280bf26a19d53a1e6"
+    documentation="As a customer, I want to be able to check what stores have stock of the hardware I'm interested in purchasing, so I can decide where I want to buy it.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0513"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="2"/>
+  <properties
+      key="Base_Old"
+      value="2"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Topic"
+      value="Check stock in store"/>
+  <properties
+      key="Remarks"
+      value="Is there one central stock for all shops or decicated stocks for some areas? There is one central warehouse from which stores are supplied. Warehouse and stores currently use different systems/partners. Expected for DX is to have one integration point around stock availability managed by the distribution partner. Is reservation the part of the ordering process (buy) or separate? Part of the ordering process."/>
+  <properties
+      key="Module"
+      value="AIF, DS, SC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

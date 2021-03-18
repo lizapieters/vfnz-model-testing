@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Billing Administration"
+    id="id-2f96dcaff246437f8ae5e5995f5f72f3"
+    documentation="The Billing Administration function manages the data that are necessary to perform the bill calculation : billing cycle data, management of runs, groups and cycles of invoicing.">
+  <properties
+      key="Function Identifier"
+      value="316"/>
+  <properties
+      key="TAM Application Name"
+      value="Bill Cycle Run Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.15.5"/>
+  <properties
+      key="Constructed Id"
+      value="5.15.5.316"/>
+</archimate:ApplicationFunction>

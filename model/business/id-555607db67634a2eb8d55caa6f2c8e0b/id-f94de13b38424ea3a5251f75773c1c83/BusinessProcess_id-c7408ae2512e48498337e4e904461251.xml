@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gather &amp; Analyze New Product Offering Ideas"
+    id="id-c7408ae2512e48498337e4e904461251"
+    documentation="Research and analyze demographic, customer, technology and marketing information to identify new product offering opportunities.">
+  <properties
+      key="Process Identifier"
+      value="1.2.7.2.1.1"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Gather &amp; Analyze New Product Offering Ideas researches and analyzes demographic, customer, technology and marketing information to identify new product offering opportunities such as a new entrant (based on an existing product specification or a new product specification), enhanced feature(s) to an existing offering, or a new bundle of offerings, that will be introduced to the market. These processes undertake the necessary analysis to identify potential opportunities, compare current capabilities with the identified opportunities, and as a result of the analysis develop new opportunity concepts. Requirements from the sales organization relating to enhancements to support their desired offers are also captured by these processes. The concepts include an analysis of the customer value proposition."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

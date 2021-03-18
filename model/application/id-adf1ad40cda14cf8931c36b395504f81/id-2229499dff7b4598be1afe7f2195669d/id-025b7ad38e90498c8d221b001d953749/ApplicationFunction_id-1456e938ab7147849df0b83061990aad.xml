@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Center Efficiency Tools"
+    id="id-1456e938ab7147849df0b83061990aad"
+    documentation="Center Efficiency Tools provides various non-portlet enabled scripts and tools for the agent to automate specific tasks.This function can also include terminal and system emulators (Citrix, Attachmate, etc).">
+  <properties
+      key="TAM Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="5.22.1.2"/>
+  <properties
+      key="Frameworx Domain"
+      value="Customer Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

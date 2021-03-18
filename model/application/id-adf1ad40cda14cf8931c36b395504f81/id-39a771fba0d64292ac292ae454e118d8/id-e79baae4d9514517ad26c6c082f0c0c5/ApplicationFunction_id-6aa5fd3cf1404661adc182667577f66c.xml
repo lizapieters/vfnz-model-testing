@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Invoice Totals Calculation"
+    id="id-6aa5fd3cf1404661adc182667577f66c"
+    documentation="Provides subtotals and totals at various levels.">
+  <properties
+      key="Function Identifier"
+      value="311"/>
+  <properties
+      key="TAM Application Name"
+      value="Invoice Generation"/>
+  <properties
+      key="TAM Application Id"
+      value="5.15.7"/>
+  <properties
+      key="Constructed Id"
+      value="5.15.7.311"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Establish Market Strategy"
+    id="id-3390d426a6a44869a15bac61f995c259"
+    documentation="Develop and document the enterprise market strategy">
+  <properties
+      key="Process Identifier"
+      value="1.1.1.2"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Establish Market Strategy processes result in agreement across the enterprise with respect to the markets in which the enterprise will participate, the objectives to be achieved, and the broad strategies to be followed to achieve the objectives. A key subset of the market strategy is the development of appropriate sales strategies to support the market strategy. These processes also identify the areas across the enterprise responsible for the achievement of specific objectives."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

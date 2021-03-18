@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Receive Party Bill Inquiry"
+    id="id-c81d1130d1fd477385db811bfa2d2dce"
+    documentation="Receive a party bill inquiry.">
+  <properties
+      key="Process Identifier"
+      value="1.6.20.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Receive Party Bill Inquiry creates a party bill inquiry. A party bill inquiry may be created as a result of a specific party initiated bill inquiry or complaint. It may also request and receive additional information from a party if needed to further process the inquiry."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

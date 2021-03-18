@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OSS Inventory/Data Synchronization"
+    id="id-42f912de0d4a4426910074e4e336645d"
+    documentation="OSS Inventory/Data Synchronization Management represents the function that ensure OSS Inventory data generated in each application is available to other applications as required.">
+  <properties
+      key="Function Identifier"
+      value="738"/>
+  <properties
+      key="TAM Application Name"
+      value="OSS Inventory/Data Synchronization Management"/>
+  <properties
+      key="TAM Application Id"
+      value="7.4.4"/>
+  <properties
+      key="Constructed Id"
+      value="7.4.4.738"/>
+</archimate:ApplicationFunction>

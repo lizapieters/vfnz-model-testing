@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Perform Party Rating"
+    id="id-b272b1f1d6dd40c48f472d14ed3c3bd8"
+    documentation="Calculate the value of the product, before, during or after the rendering of the product.">
+  <properties
+      key="Process Identifier"
+      value="1.6.17.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Perform Party Rating calculates the value of a product, before, during or after the rendering of the product, based on parameters of the request (type, quantity, and so forth), parameters of the party (tariffs, price plans, accumulated usage, contracts, and so forth) and other parameters (time-of-day, taxes, and so forth). The same request maybe rated differently for different parties based on their purchased offers or product agreements."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

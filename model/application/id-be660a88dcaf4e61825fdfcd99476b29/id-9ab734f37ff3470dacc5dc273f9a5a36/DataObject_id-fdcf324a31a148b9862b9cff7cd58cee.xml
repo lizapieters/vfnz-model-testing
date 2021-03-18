@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicyExecutionPoint"
+    id="id-fdcf324a31a148b9862b9cff7cd58cee"
+    documentation="A PolicyExecutionPoint is an entity that is used to execute a prescribed set of PolicyActions on a set of PolicyTargets. The combination of a PolicyExecutionPoint and a PolicyEnforcementPoint enable the act of executing a decision (made by a PolicyDecisionPoint) to be separated from the act of ensuring that the executing actions were performed correctly; and had the desired results."/>

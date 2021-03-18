@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Human Resource Performance Threshold Setting"
+    id="id-bddfb395ecb2499389e9e9b3a2871b29"
+    documentation="The ability to determine targeted upper and lower levels of a human resource’s performance.">
+  <properties
+      key="TMF_ID"
+      value="1.3.8.3.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

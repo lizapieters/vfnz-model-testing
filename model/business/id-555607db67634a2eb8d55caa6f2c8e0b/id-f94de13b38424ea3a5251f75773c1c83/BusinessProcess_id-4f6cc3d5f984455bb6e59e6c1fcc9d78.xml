@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gather Intelligence"
+    id="id-4f6cc3d5f984455bb6e59e6c1fcc9d78"
+    documentation="Intelligence Gathering is the process by which threats to the business are understood via information analysis from a variety of sources, both internal and external.">
+  <properties
+      key="Process Identifier"
+      value="1.7.2.3.3.1"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Intelligence Gathering is one of two primary proactive process groups by which fraud management practices are able to aggressively address fraud issues, preferably before those issues are executed against the operator. Intelligence gathering processes and methods serve as one of the operatorâ€™s first lines of defense to fraud attacks, and are a critical path to understanding threats currently outside the operatorâ€™s business. Four sub processes comprise Intelligence Gathering: 1. External Sources: Intelligence about fraud attacks, methods to detect, methods to correct, and possible legality issues are collected and managed within this process step. Sources may include: a. Other operators: Collective information about fraud attacks is frequently shared between operators as a best practice to help protect everyone b. LEAs: Law Enforcement Agencies â€“ where information about legality of the threats, punishment available by law, methods to detect, etc., may be obtained c. Industry support bodies: Fraud protection forums including TM Forum, GSM Fraud Forum, CFCA, FIINA; Credit bureaus d. Other industries: General utilities, healthcare, insurers, etc., where identity theft practices and other frauds also occur 2. Customer Behavior Analysis: By understanding behaviors that lead to fraud activity, patterns associated with these behaviors can be identified and isolated. Once isolated, patterns of activities across all customers may be monitored for similar patterning that would lead to alarms and analysis much earlier in an attempted fraud activity. 3. Customer Contacts: Frequently fraud activities conducted by an individual or syndicate (defined for this instance as an organized group) will also involve other parties that may not be directly associated with the fraud, but are knowledgeable of the activity. While the individual(s) initiating the fraud may be isolated and the attack halted, care should be taken to understand the associated parties within the communications patterns of the initiating fraudsters. Attacks may resume via these individuals, and therefore close monitoring of this chain of parties is warranted. Note that none of these individuals (that either started the attack or were part of the communications patterns) may be direct customers of the targeted operator. 4. Whistleblower: A â€œWhistleblowerâ€� is defined as an individual that identifies fraud activity to an operator. This individual is most often an internal employee (revealing internal fraud activity), but may also be an external party otherwise unaffiliated with the operator. Several operators have encouraged internal whistle blowing by offering incentives as part of normal operator policy to reward those people that bring fraud attacks to the attention of the fraud management team."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

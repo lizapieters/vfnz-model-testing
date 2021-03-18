@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ComplexTaxDefinition"
+    id="id-85cbce469976400baf4230ed959f892c"
+    documentation="A ComplexTaxDefinition is defined by one or many TaxRules. It can be a Tax based on the age of the building or a tax with a different rate according to the amount."/>

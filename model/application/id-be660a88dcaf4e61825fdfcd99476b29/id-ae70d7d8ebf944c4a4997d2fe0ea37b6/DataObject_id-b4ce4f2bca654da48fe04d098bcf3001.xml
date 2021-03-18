@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResourceCatalog"
+    id="id-b4ce4f2bca654da48fe04d098bcf3001"
+    documentation="A ResourceCatalog is a collection of ResourceCandidates representing ResourceSpecifications. ResourceCandidates define the underlying resources. ResourceCandidates can be exposed to one or more ResourceCatalogs to be utilized to configure or incorporated in one or more ServiceCandidates or ProductOfferings. A ResourceCatalog contents can expose a collection of ResourceCandidates to be utilized internal/external to an enterprise."/>

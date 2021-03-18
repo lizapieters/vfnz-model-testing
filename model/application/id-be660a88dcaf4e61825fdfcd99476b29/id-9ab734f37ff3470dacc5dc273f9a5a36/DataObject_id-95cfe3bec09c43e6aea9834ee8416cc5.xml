@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VariableCustom"
+    id="id-95cfe3bec09c43e6aea9834ee8416cc5"
+    documentation="There are two subclasses of PolicyVariable; called VariableCustom and VariableStandard. The VariableCustom class defines a set of standardized policy variables for use in an application-specific manner. The term custom means that such variables are explicitly designed to work with attributes that are not in any VariableStandard subclasses. This is an abstract base class that provides two basic attributes to define custom variables that can be used in an application-specific fashion."/>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CSR Conversational scripting"
+    id="id-204d483b57ce4fb3af4a0741f50926b2"
+    documentation="Conversational scripting � Displays recommended text and scripting to guide agents in specific conversations/dialogue tailored to each customer interaction. Also provides branching based on customer answers.">
+  <properties
+      key="Function Identifier"
+      value="280"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Service Representative Toolbox"/>
+  <properties
+      key="TAM Application Id"
+      value="5.6"/>
+  <properties
+      key="Constructed Id"
+      value="5.6.280"/>
+</archimate:ApplicationFunction>

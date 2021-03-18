@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Change Project management"
+    id="id-a6590ada75ee4d099f74df34c75cc444"
+    documentation="Function for resource change project management including 1: Support project management of build projects. 2: Coordinate project activities with the suppliers. 3: Provides the orchestration between planning duties and to manual network engineering activities. 4: Provide jeopardy management, 5: Engineering management (Work Orders, Parts and Event coordination)">
+  <properties
+      key="Function Identifier"
+      value="450"/>
+  <properties
+      key="TAM Application Name"
+      value="Resource Change Management"/>
+  <properties
+      key="TAM Application Id"
+      value="7.5.1"/>
+  <properties
+      key="Constructed Id"
+      value="7.5.1.450"/>
+</archimate:ApplicationFunction>

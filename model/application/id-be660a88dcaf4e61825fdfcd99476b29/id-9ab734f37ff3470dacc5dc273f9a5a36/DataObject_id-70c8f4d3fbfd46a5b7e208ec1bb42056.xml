@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicyConfigValidationRole"
+    id="id-70c8f4d3fbfd46a5b7e208ec1bb42056"
+    documentation="This is a concrete base class that defines the concept of various types of roles used to describe processes that control configuration verification processes; and their use in the model. A PolicyConfigValidationRole refines the generic concepts of a PolicyConfigRole. Specifically; this base class is used to describe different processes required to validate changes made to a configuration of a Managed Object."/>

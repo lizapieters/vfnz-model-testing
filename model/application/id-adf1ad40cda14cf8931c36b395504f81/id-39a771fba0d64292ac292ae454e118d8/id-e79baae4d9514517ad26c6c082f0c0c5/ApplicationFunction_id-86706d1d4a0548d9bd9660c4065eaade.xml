@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Channel Customer search"
+    id="id-86706d1d4a0548d9bd9660c4065eaade"
+    documentation="Customer search - search the existing customer base using various criteria (name, address, subscriber number, equipment id, billing account number, etc.) and find the customer record to add the order (using Customer Information Management).">
+  <properties
+      key="Function Identifier"
+      value="122"/>
+  <properties
+      key="TAM Application Name"
+      value="Channel Guidance and Data Capture"/>
+  <properties
+      key="TAM Application Id"
+      value="5.3.1.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.3.1.1.122"/>
+</archimate:ApplicationFunction>

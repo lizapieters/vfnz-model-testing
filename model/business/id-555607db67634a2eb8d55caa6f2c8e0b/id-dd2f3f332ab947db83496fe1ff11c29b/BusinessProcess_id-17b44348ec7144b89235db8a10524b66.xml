@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Track, Monitor and Report Resource Provisioning"
+    id="id-17b44348ec7144b89235db8a10524b66"
+    documentation="Tracking and monitoring the resource provisioning processes and provide the reporting support.">
+  <properties
+      key="Process Identifier"
+      value="1.5.4.1.8"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="â€¢ Tracking and monitoring of the Resource Provisioning Management processes and associated costs (including where resource infrastructure is deployed and managed by third parties), and reporting on the capability of the Resource Provisioning Management processes; â€¢ Establishing and managing resource provisioning notification facilities and lists to support the Resource Provisioning notification and reporting processes;"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

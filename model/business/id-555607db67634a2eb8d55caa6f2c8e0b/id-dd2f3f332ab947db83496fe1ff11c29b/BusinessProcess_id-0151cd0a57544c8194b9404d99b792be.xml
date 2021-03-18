@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Update Party Account Balance"
+    id="id-0151cd0a57544c8194b9404d99b792be"
+    documentation="Update a party account balance, such as applying charges to the balance or making a credit/debit adjustments">
+  <properties
+      key="Process Identifier"
+      value="1.6.16.2.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

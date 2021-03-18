@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Work Item/Channel Matching"
+    id="id-aa481ecd4c704ea6ba8a81e56013e2a9"
+    documentation="The ability to associate a work item with a channel for its production and delivery.">
+  <properties
+      key="TMF_ID"
+      value="1.3.10.1.6.4"/>
+  <properties
+      key="Level"
+      value="4"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0869"
+    id="id-8a6480c347774f12894b4b0b66231c78"
+    documentation="As a Revenue Assurance Analyst, I we want to be able to reconcile all of the Inbound traffic from Switch to Syniverse rated and all outbound traffic from Syniverse to Rated in BRM / Comarch. This will allow us to ensure that we are not losing or overcharging any of our roaming revenue and will help us with our Roaming Margin Assurance.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0869"/>
+  <properties
+      key="Status"
+      value="Duplicate"/>
+  <properties
+      key="Created by"
+      value="Samuel Pachoud"/>
+  <properties
+      key="Tribe"
+      value="Finance / Revenue &amp; Network Assurance"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Reporting"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Roaming usage reconciliation"/>
+  <properties
+      key="Remarks"
+      value="As far as we know the roaming solution for DX will remain in Syniverse/VRS. For foreigh roamers in VFNZ all data for such reconciliation would probably come from Syniverse. No data available in Comarch. For VFNZ customers roaming outside NZ, Comarch should provide information about revenue we charge the customers. Rest probably should also come from Syniverse Kiri: Checked with Saurabh; usage will still be mediated thru comarch and sent to syniverse, but we need the raw feed from teh switch and a post mediated feed from comarch mediation. Have updated the requirement so its clear Moved to IPB BUCs"/>
+  <properties
+      key="Module"
+      value="IPB, MD"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Retire from Number Portability"
+    id="id-745e7303092042cbb2469cb08426a854"
+    documentation="The Retire from Number Portability process is responsible for issuing and receiving requests for Number Portability Retirement.">
+  <properties
+      key="Process Identifier"
+      value="1.5.4.7.4"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Retire from Number Portability process is responsible for issuing and receiving requests for Number Portability Retirement. This process allows to send back telephone numbers that were previously ported in, and receive telephone numbers that were previously ported out. Responsibilities of these processes include, but are not limited to: â€¢Â Â Â Â  Issuing Retirement request to send back previously ported in telephone numbers â€¢Â Â Â Â  Receiving Retirement request of previously ported out telephone numbers â€¢Â Â Â Â  Validating RetirementÂ request"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

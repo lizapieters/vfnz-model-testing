@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Party Relationship Management"
+    id="id-1dccd83c015b4351bc0fa5f056f24294"
+    documentation="Support the lifecycles (development and retirement) of an enterprise's relationships with parties.">
+  <properties
+      key="Process Identifier"
+      value="1.6.3.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Party Relationship Management manages the lifecycles of an enterprise's relationships with parties. A relationship with new parties may be required to broaden the services a service provider offers, to improve performance, for outsourcing and out-tasking requirements, and so forth. These processes also manage the termination and re-establishment of a relationship with other parties, as well as evaluating the viability of continuing the relationship with the party according to party agreements."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

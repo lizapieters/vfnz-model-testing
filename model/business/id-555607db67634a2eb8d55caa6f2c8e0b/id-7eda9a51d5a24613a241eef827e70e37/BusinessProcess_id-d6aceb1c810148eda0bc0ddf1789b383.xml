@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SM&amp;O Support &amp; Readiness"
+    id="id-d6aceb1c810148eda0bc0ddf1789b383"
+    documentation="Manage service infrastructure, ensuring that the appropriate service capacity is available and ready to support the SM&amp;O Fulfillment, Assurance and Billing processes">
+  <properties
+      key="Process Identifier"
+      value="1.4.4"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="SM&amp;O Support &amp; Readiness processes manage service infrastructure, ensuring that the appropriate service capacity is available and ready to support the SM&amp;O Fulfillment, Assurance and Billing processes in instantiating and managing service instances, and for monitoring and reporting on the capabilities and costs of the individual SM&amp;O FAB processes. The responsibilities of these processes include, but are not limited to: â€¢ Supporting the operational introduction of new and/or modified service infrastructure; â€¢ Managing and ensuring the ongoing quality of the Service Inventory; â€¢ Applying service capacity rules from Infrastructure Lifecycle Management processes; â€¢ Analyzing availability and quality over time on service infrastructure and service instances, including trend analysis and forecasting; â€¢ Ensuring the operational capability of the SM&amp;O processes â€¢ Maintaining rating and tariff information for service infrastructure and service instances. . Conducting Vulnerability Management; . Conducting Threat Assessments; . Conducting Risk Assessments; . Conducting Risk Mitigation; . Conducting Secure Configuration Activities"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

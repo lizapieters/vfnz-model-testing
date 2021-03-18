@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Partner History Management"
+    id="id-f0dfba119c79461d840a94d4d8c2d9c0"
+    documentation="The ability to manage a chronological order of events, points of engagement, and other actions or decisions related to a partner.">
+  <properties
+      key="TMF_ID"
+      value="1.1.9.8.4"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

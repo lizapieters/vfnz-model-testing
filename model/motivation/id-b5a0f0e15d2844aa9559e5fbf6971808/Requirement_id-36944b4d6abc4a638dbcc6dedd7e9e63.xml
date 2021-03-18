@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1100"
+    id="id-36944b4d6abc4a638dbcc6dedd7e9e63"
+    documentation="As a customer I want to see my top used data sites and be recommended options with this (e.g 70% of your data was used on social media, netflix etc), so that I can understand how I am using my data">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1100"/>
+  <properties
+      key="Status"
+      value="Potential gap"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="y"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Self Service"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Self Service"/>
+  <properties
+      key="Topic"
+      value="Account/User Management"/>
+  <properties
+      key="Remarks"
+      value="NEW: OOTB Comarch delivers classified data via regula data export (kafka). Information if this is netflix or social media must be delivered by the network. is it correc assumtion that Comarch responsibility end on it and top used data report will not be created by Comarch? Second part of the requirment is 4 Recommendation engine. It is Base1?"/>
+  <properties
+      key="Module"
+      value="SC, REP, RE, OCS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

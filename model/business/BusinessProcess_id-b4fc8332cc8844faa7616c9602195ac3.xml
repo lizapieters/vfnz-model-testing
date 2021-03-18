@@ -1,0 +1,17 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Domain"
+    id="id-b4fc8332cc8844faa7616c9602195ac3"
+    documentation="The Customer domain represents individuals or organizations that obtain products from an enterprise, such as a service provider.">
+  <properties
+      key="Process Identifier"/>
+  <properties
+      key="Category"/>
+  <properties
+      key="Extended Description"
+      value="The Customer domain represents individuals or organizations that obtain products from an enterprise, such as a service provider. It represents of all types of contact with the customer, the management of the relationship, and the administration of customer data. Customer also includes customer bills for products, collection of payment, overdue accounts, and the billing inquiries and adjustments made as a result of inquiries."/>
+  <properties
+      key="Maturity Level"/>
+  <properties
+      key="Frameworx Status"/>
+</archimate:BusinessProcess>

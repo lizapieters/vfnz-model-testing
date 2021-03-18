@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0162"
+    id="id-3ad362f5838b4adc9070a9a4b9797d34"
+    documentation="As a customer, I want to be able to add/change/remove my credit/debit card at any time, so that I can pay Vodafone">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0162"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Use"/>
+  <properties
+      key="Topic"
+      value="Manage payments"/>
+  <properties
+      key="Remarks"
+      value="Does the payment provider support adding new credit card without actual payment? Can there be multiple cards stored per billing account (user)? At Comarch payment details are stored in context of an account. Can we we assume there is only one card active at a time on this level? Expectation is to be able to register multiple cards per one account. To be discussed during the customer hierarchy session to see if the default model in Comarch is enough."/>
+  <properties
+      key="Module"
+      value="SC, PIM, AIF"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="Yes"/>
+</archimate:Requirement>

@@ -1,0 +1,39 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reccomendation Engines"
+    id="id-9a746a63d60d4236be8abad0b0a57ce2"
+    documentation="To be discussed further.&#xA;Preferred approach TMF620 and TMF680, potentially more TMF OpenAPIs (from range of APIs existing in BSS/oSS) - e.g. customer information, product inventory (e.g. TMF 620,629, 637, 633, 638&#xD;, 658, 671,680, 683, Campaigns, Search).&#xA;Potentially external recommendation engine will use data from BSS/OSS PostgreSQL staging database or Kafka.&#xA;Potential target system - Google recommendation AI. To have product catalog which can integrate into enterprise search.">
+  <properties
+      key="Stereotype"
+      value="abstract_interface"/>
+  <properties
+      key="Southbound Required"
+      value="Y"/>
+  <properties
+      key="Importance"
+      value="1"/>
+  <properties
+      key="Area"
+      value="Data and AI"/>
+  <properties
+      key="Interface Type"
+      value="Core"/>
+  <properties
+      key="Pattern"
+      value="REST/Event"/>
+  <properties
+      key="FWA"
+      value="Y"/>
+  <properties
+      key="Mobile"
+      value="Y"/>
+  <properties
+      key="Broadband"
+      value="Y"/>
+  <properties
+      key="Common"
+      value="Y"/>
+  <properties
+      key="Unexpected"
+      value="true"/>
+</archimate:ApplicationInterface>

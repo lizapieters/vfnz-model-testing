@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Value Profiling prediction"
+    id="id-c5f6d30440ac4087a588cc5c9cac875d"
+    documentation="The Customer Value Profiling function comprises predictive Scoring of the new customer behaviour: using a predictive model based on the histories of customers having the similar profile, determine the expected evolution of the customer value and his lifetime. Customer scoring is performed when customers sign up a contract, then enriched and updated by events occurring during the customer lifecycle (e.g revenue generated, usage patterns, payment behaviour�). The output of customer scoring could be a risk level or an opportunity.">
+  <properties
+      key="Function Identifier"
+      value="231"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Profiling"/>
+  <properties
+      key="TAM Application Id"
+      value="5.5.11"/>
+  <properties
+      key="Constructed Id"
+      value="5.5.11.231"/>
+</archimate:ApplicationFunction>

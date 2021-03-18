@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Calculate Sales Party Commissions"
+    id="id-ad21a94a7dd4421caf80a6c6e0d746ea"
+    documentation="Calculate Sales Party Commissions  process calculate commissions  due of a party. The sales party can be dealer or retailer.  It determines cost and revenue based on contracts sold, inventory turnover and  cash received on behalf.">
+  <properties
+      key="Process Identifier"
+      value="1.6.15.4.5"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Calculate Sales Party Commissions process calculate commissions due of a party. Commission rates, commission schemes and rewards in the agreement are used to calculate the commissions. It determines cost and revenue based on contracts sold, inventory turnover and cash received on behalf. Dealers are managed as channels through commission rates, commission schemes and rewards for the same products and sales channels. Handling dealers require definition of Dealer internal organizational hierarchies .Due to the fact that sales commissions needs to be handled in a unified way, internal sales force commissions (i.e. for POS) may also managed here centrally. Commissions needs to be handled in a unified way. An interface needs to be provided to view commissions. It is necessary to provide, on a rolling basis, for commissions earned at any point throughout the month as well as commissions split over organizational hierarchies."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

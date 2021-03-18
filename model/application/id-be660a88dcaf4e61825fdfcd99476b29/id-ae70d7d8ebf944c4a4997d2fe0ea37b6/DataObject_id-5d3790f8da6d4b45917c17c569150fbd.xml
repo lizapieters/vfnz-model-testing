@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CompoundResourceSpec"
+    id="id-5d3790f8da6d4b45917c17c569150fbd"
+    documentation="The CompoundResourceSpec used to define the invariant characteristics and behavior (attributes; methods; constraints; and relationships) of a CompoundResource. The key difference between a CompoundResourceSpec and either a PhysicalResourceSpec and a LogicalResourceSpec is that a PhysicalResourceSpec and LogicalResourceSpec define templates for specifying the invariant characteristics and behavior of PhysicalResources and LogicalResources; respectively. Optionally; one or more CompoundResourceSpecs may also be specified. Thus; a CompoundResourceSpec is in effect a shorthand notation for specifying complementary PhysicalResourceSpecs and / or LogicalResourceSpecs."/>

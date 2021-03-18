@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Order Exception Management"
+    id="id-53eb1a9f94c4434ebe8773bf3ddd8e7d"
+    documentation="The ability to take an action (pre-defined) in case of order placement or settlement failure.">
+  <properties
+      key="TMF_ID"
+      value="1.1.8.8"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

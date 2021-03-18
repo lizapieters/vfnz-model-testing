@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Test Services"
+    id="id-5cb7fc8e7ac54d3ea7efc9710f0d63ea"
+    documentation="Resource Test Services applications provides the means to access the testing capabilities.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="7.11.4"/>
+  <properties
+      key="TMF Function"
+      value="Automated invocation of resource test services Manual resource test services initiation and control"/>
+  <properties
+      key="TMF Maturity"
+      value="Resource Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

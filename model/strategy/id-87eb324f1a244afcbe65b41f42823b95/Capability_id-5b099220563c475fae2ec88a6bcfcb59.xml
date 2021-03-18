@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Campaign Analytics"
+    id="id-5b099220563c475fae2ec88a6bcfcb59"
+    documentation="The Campaign Analytics applications are responsible for analyzing existing and prospective customers to help design appropriate product recommendations.">
+  <properties
+      key="TMF Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="3.9.1.1"/>
+  <properties
+      key="TMF Function"
+      value="Campaign Analytics"/>
+  <properties
+      key="TMF Maturity"
+      value="Market_Sales Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

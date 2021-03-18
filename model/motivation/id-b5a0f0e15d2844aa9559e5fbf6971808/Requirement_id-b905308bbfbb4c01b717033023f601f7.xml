@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1150"
+    id="id-b905308bbfbb4c01b717033023f601f7"
+    documentation="As a customer, I want to be able to use my saved card to pay for products/services when I'm authenticated, so I can purchase things easily">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1150"/>
+  <properties
+      key="Status"
+      value="Potential gap"/>
+  <properties
+      key="Created by"
+      value="Gabrielle Paul"/>
+  <properties
+      key="Tribe"
+      value="Loyalty"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Setup"/>
+  <properties
+      key="Topic"
+      value="Billing and Invoicing"/>
+  <properties
+      key="Remarks"
+      value="[CLM] To be clarified what scenario should be covered from loyalty perspective, integrations with payment gateways is used frequently in CLM for example to buy points/benefits- also partial &quot;Saved card&quot; to be clarified, what type of services can be bought by this card?"/>
+  <properties
+      key="Module"
+      value="CLM, PC, OM, SC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

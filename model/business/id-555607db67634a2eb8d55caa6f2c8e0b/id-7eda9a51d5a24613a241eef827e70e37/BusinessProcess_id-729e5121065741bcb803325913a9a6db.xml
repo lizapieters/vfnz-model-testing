@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Capability Delivery"
+    id="id-729e5121065741bcb803325913a9a6db"
+    documentation="Use the capability definition or requirements to deploy new and/or enhanced technologies and associated resources.">
+  <properties
+      key="Process Identifier"
+      value="1.5.2"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Resource Capability Delivery processes use the capability definition or requirements to deploy new and/or enhanced technologies and associated resources. The objectives of these processes is to ensure that network, application and computing resources are deployed, according to the plans set by Resource Development. They deliver the physical resource capabilities necessary for the ongoing operations, and long term well-being of the enterprise, and ensure the basis on which all resources and services will be built. Using automation may enhance resource capability delivery. Responsibilities of the Resource Capability Delivery processes include, but are not limited to: â€¢ Planning resource supply logistics (warehousing, transport, etc.) â€¢ Planning the Resource Installation â€¢ Contracting and Directing the Resource Construction where needed â€¢ Verifying the Resource Installation â€¢ Handover the Resource Capability to Operations through interactions with the Manage Resource Class Configuration Logical network configurations (such as resource elements integration) are as important to the network resources as the physical aspects. All aspects must be planned and considered in the design and implementation of the network, including infrastructure owned by the enterprise, and by supplier/partners, other physical resources and logical elements. Logical network configuration may be designed digitally in order to make sure all the resources are aligned and planned proactively."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

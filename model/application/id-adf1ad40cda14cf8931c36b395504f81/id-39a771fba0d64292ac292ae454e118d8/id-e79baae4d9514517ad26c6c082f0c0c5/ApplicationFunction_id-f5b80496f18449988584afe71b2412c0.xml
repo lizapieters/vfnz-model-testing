@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Assigned products maintenance"
+    id="id-f5b80496f18449988584afe71b2412c0"
+    documentation="Assigned products maintenance. At product level, it permits to define and update :&#xA;- product characterisitics&#xA;- links with the related service or resource (handsets, SIM cards, ...) needed to deliver the product, ...">
+  <properties
+      key="Function Identifier"
+      value="180"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Self Empowered Fulfillment"/>
+  <properties
+      key="TAM Application Id"
+      value="5.4.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.4.1.180"/>
+</archimate:ApplicationFunction>

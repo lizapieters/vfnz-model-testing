@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Order/Asset Matching"
+    id="id-58d2eba5585241b6b2d4ad172108cf72"
+    documentation="The ability to associate an order with an asset.">
+  <properties
+      key="TMF_ID"
+      value="1.1.8.12.13"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

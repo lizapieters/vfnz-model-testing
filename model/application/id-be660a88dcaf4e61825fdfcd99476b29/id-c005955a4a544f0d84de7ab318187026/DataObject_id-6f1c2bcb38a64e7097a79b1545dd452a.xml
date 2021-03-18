@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProductConfigSpecAction"
+    id="id-6f1c2bcb38a64e7097a79b1545dd452a"
+    documentation="A ProductConfigSpecAction specifies changes from one ProductConfigSpec to one or many ProductConfigSpec. It is described by a ProductActionType such as create; update; remove... It might be implied by one or many AllowedProductActions."/>

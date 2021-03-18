@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Invoke bill calculation on demand"
+    id="id-d9e974031fce457a9f00cd930808b590"
+    documentation="The function will invoke a bill calculation on demand for e.g. a purchase.">
+  <properties
+      key="Function Identifier"
+      value="61"/>
+  <properties
+      key="TAM Application Name"
+      value="Bill Inquiry"/>
+  <properties
+      key="TAM Application Id"
+      value="5.10.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.10.1.61"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0243"
+    id="id-4e268ce13db145b6962524ef81ba2d9f"
+    documentation="As a customer, I want to be able to unlink a product from my account, so that I can manage it separately.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0243"/>
+  <properties
+      key="Status"
+      value="Abandoned"/>
+  <properties
+      key="Created by"
+      value="Diane Watson"/>
+  <properties
+      key="Tribe"
+      value="Consumer Home"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="prio2"/>
+  <properties
+      key="Base"
+      value="1?"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Manage my services"/>
+  <properties
+      key="Remarks"
+      value="Old requirement. Abandoned."/>
+  <properties
+      key="Module"
+      value="SC, PIM, BR, TUM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

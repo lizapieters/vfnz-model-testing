@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Strategy State Management"
+    id="id-e90058b1a0d94f22bd36058ede95bf5e"
+    documentation="The ability to determine, modify, and interpret the status or condition of a strategy.">
+  <properties
+      key="TMF_ID"
+      value="1.2.9.9.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

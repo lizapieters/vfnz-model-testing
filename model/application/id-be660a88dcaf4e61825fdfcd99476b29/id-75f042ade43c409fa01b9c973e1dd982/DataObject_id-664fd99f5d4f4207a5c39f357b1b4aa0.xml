@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AdministerServiceDetails"
+    id="id-664fd99f5d4f4207a5c39f357b1b4aa0"
+    documentation="A Service (CustomerFacing or ResourceFacing) that a particular Party; playing a PartyRole; administers. From a business perspective; the Owner has to either appoint or give permission to the Administrator to administer the Service that is owned. This is done using the GrantsServiceAdminRights association class."/>

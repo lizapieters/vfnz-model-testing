@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Order State Management"
+    id="id-c61ab48fb3614c28b56fac1711e31eb2"
+    documentation="The ability to define and maintain the various conditions or state that an order is in at a specific time.">
+  <properties
+      key="TMF_ID"
+      value="1.1.8.13.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

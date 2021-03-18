@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitor Engaged Elements"
+    id="id-6dbad3c9faf449569cc6918c9d23fc12"
+    documentation="Monitor Engaged Elements process monitors the status of elements and, or, progress of the engaged elements' development.">
+  <properties
+      key="Process Identifier"
+      value="1.8.5.2.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Monitor Engaged Elements process monitors status of elements and, or, the progress of the engaged elements' development. For example, in the illustrated onboarding process in 1.8.5.2 extended description the status of each of the individual elements is recorded."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

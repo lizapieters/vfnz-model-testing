@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop Stock/Inventory Management Policies"
+    id="id-acd1b36069f44d669617fc91401c5c2b"
+    documentation="Develop corporate policies, in conjunction with Asset Management processes which provide the inventory information resource, relating to locations of, and levels of, stock/inventory holdings.">
+  <properties
+      key="Process Identifier"
+      value="1.7.5.3.4"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResourcePort"
+    id="id-7e6d0fe086ba45c887340dfe7c05b7f1"
+    documentation="The ResourcePort class was defined because many of the ITU and IETF specifications refer to a port; but use this as both a physical as well as a logical concept. This will enable the semantics of the ITU and IETF specifications to be correctly mined The ResourcePort class abstracts the concept of a set of Ports from G.805; and is a type of ResourceElement that consists only of logical termination points (TrailTerminationPointSource; TrailTerminationPointSink; and TrailTerminationPointBiDirectional; to be precise) and PhysicalPorts. This enables the ResourcePort to take on the physical and logical characteristics of a port as defined in G.805."/>

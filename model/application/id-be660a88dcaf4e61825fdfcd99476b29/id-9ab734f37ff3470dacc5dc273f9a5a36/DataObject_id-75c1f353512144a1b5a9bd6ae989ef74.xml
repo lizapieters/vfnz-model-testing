@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DSCPVariable"
+    id="id-75c1f353512144a1b5a9bd6ae989ef74"
+    documentation="This class represents using the value of the DSCP byte as part of a condition expression. Thus; only BitStringValue and IntegerValue classes can be used in the value portion of the condition expression with this PolicyVariable."/>

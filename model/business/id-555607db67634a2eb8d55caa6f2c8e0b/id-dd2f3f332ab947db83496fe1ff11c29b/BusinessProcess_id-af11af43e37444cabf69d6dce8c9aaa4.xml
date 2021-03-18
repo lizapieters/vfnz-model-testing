@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plan Serious Incident Management"
+    id="id-af11af43e37444cabf69d6dce8c9aaa4"
+    documentation="Serious incident management planning which defines the operational roles and responsibilities, and proactively defines the operational procedures and escalation criteria which are initiated when abnormal operation circumstances occur. Note that serious incident management is used instead of crisis management as serious disruption can occur to the business through events which would not normally be classified as a crisis.">
+  <properties
+      key="Process Identifier"
+      value="1.7.2.1.4"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

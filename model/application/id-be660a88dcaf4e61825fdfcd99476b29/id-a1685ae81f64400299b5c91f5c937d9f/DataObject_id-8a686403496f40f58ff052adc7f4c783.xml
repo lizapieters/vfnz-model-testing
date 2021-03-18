@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WorkSpecificationRole"
+    id="id-8a686403496f40f58ff052adc7f4c783"
+    documentation="This is an abstract base class that defines a WorkSpecification in terms of a set of roles which are then used to characterize the invariant functionality of the Work. For example; a specification of cable layout work can have the role of network build; or the role of a service fulfillment task."/>

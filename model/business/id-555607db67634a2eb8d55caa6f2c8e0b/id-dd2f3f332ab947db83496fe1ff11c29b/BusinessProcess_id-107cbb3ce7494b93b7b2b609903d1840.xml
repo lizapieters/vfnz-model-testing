@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reassign / Reconfigure Service or Service Parameters"
+    id="id-107cbb3ce7494b93b7b2b609903d1840"
+    documentation="Based on the information determined within the Analyze Service Quality processes and the nature of the specific service degradation, this process may re-assign services or re-configure service parameters.">
+  <properties
+      key="Process Identifier"
+      value="1.4.7.3.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

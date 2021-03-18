@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Privacy Consent"
+    id="id-1df6878dd1434311a525b411e9844053"
+    documentation="Privacy Consent (End-user): feature used to obtain consent from the Data Subject at the time of an evolution of the Privacy Profile. This can be initiated by the Data Subject when s/he wants to create a new usage of its PII, or by the Service when requiring an evolution of the Privacy Profile to deliver a new scenario.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.23.3"/>
+  <properties
+      key="TMF Function"
+      value="Privacy Consent Agreement"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

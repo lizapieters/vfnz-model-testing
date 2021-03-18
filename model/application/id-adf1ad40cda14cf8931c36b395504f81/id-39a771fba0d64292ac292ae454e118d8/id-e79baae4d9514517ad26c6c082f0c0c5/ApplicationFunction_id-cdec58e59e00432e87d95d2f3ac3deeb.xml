@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financial transaction settlement"
+    id="id-cdec58e59e00432e87d95d2f3ac3deeb"
+    documentation="Submits authorized transactions to the financial institutions for settlement.">
+  <properties
+      key="Function Identifier"
+      value="324"/>
+  <properties
+      key="TAM Application Name"
+      value="Payment Settlement"/>
+  <properties
+      key="TAM Application Id"
+      value="5.9.4.3"/>
+  <properties
+      key="Constructed Id"
+      value="5.9.4.3.324"/>
+</archimate:ApplicationFunction>

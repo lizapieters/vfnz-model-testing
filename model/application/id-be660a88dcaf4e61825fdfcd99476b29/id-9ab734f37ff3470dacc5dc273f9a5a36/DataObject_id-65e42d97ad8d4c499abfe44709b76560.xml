@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EntitySpecificationType"
+    id="id-65e42d97ad8d4c499abfe44709b76560"
+    documentation="An EntitySpecificationType is a classification that groups EntitySpecifications. Multiple EntitySpecificationTypes can be related to each other using the association through EntitySpecificationTypeRelationship."/>

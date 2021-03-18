@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define Payment Method Type"
+    id="id-d83886ee745344be9b732ff6bd6f62b4"
+    documentation="Define a specification that represents a method by which a payment may be made by a party.">
+  <properties
+      key="Process Identifier"
+      value="1.6.16.1.2.1.1"/>
+  <properties
+      key="Category"
+      value="(6) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Define Payment Method Type define a specification that represents a method by which a payment may be made by a party. It also defines attributes other than base attributes/properties that are specific to a certain payment method. For example, information used to verify the identity of a party making a payment. These other properties are supported by a generalized set of processes that support the definition of these properties, called characteristics."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

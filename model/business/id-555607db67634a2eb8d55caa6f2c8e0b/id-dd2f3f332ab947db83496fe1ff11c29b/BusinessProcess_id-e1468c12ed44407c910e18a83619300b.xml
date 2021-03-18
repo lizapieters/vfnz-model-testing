@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Perform First in Service Testing"
+    id="id-e1468c12ed44407c910e18a83619300b"
+    documentation="This process initiates first-in testing using automated remote testing capabilities, and adds additional information to an open Service Trouble report based on the first-in testing.">
+  <properties
+      key="Process Identifier"
+      value="1.4.6.4.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

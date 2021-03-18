@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop Product Offering Catalog"
+    id="id-2b096d5182db44998f47f53b03b05fca"
+    documentation="Define, update, and remove a product offering catalog.">
+  <properties
+      key="Process Identifier"
+      value="1.2.7.2.3.2"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Develop Product Offering Catalog defines, updates, and removes a product offering catalog. It associates a product offering and applicable product offering prices with a catalog. The product offering may have been developed by an enterprise or on-boarded from another party."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

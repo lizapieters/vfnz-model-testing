@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Associate Product Offering and Price with Product Offering Agreement"
+    id="id-b97390231ab64ba1bd418f83fda790f2"
+    documentation="Associate a product offering and price(s) with a product offering template agreement and the product offering and price(s) with the terms/conditions.">
+  <properties
+      key="Process Identifier"
+      value="1.2.7.2.4.2"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

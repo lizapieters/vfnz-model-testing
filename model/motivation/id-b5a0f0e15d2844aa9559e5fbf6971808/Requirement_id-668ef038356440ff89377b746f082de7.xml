@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1507"
+    id="id-668ef038356440ff89377b746f082de7"
+    documentation="As a product owner, I want to keep track of customer selections during the purchase journey including items that have been removed, so that I can notify the customer of any special offers that maybe of interest at a later stage.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1507"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Diane Watson"/>
+  <properties
+      key="Tribe"
+      value="Consumer Home"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="prio2"/>
+  <properties
+      key="Base"
+      value="1?"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Notice"/>
+  <properties
+      key="Topic"
+      value="Eshop"/>
+  <properties
+      key="Remarks"
+      value="REP: How the required data should be provided on BSS side ? available for user on system screens? database level ? particular report/export ? (if Yes - what format is required/expected ?)"/>
+  <properties
+      key="Module"
+      value="DS, REP"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

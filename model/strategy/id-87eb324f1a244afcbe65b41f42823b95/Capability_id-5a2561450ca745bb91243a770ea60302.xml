@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Inventory Reconciliation / Synchronization"
+    id="id-5a2561450ca745bb91243a770ea60302"
+    documentation="This function entails reconciliation of the data in a Service Inventory Management system with inventory discovered from another source and/or synchronization of mismatched service inventory records. &#xA;&#xA;When new service inventory information is discovered, the Service Inventory Reconciliation / Synchronization system will try to match the newly discovered information with an entity or entities already existing in the Service Inventory.&#xA;&#xA;If no match is found, the Service Inventory Reconciliation / Synchronization system will typically assume that a new entity has been discovered and add the entity to the inventory. Alternately, as decided by the service provider as part of their procedures, the Service Inventory Reconciliation system may record this event as an exception, implicitly or explicitly triggering a workflow to resolve the exception. For example, this may happen if the service provider always expects to have the planned service inventory in their Service Inventory Management systems before the actual services are activated.&#xA;&#xA;If a match is found and there are no unexpected discrepancies, the Service Inventory Reconciliation / Synchronization system will update the inventory as needed. For example, records may be updated to fill in missing attributes or update attribute values which have changed. If a match is found and there are unexpected discrepancies, the Service Inventory Reconciliation system will typically raise an exception so that service provider personnel can correct the problem. Exceptions may be managed within the application itself, via a report, or via a generalized worklist tool.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="6.2.2"/>
+  <properties
+      key="TMF Function"
+      value="Service-Resource Relationship Reconciliation / Synchronization"/>
+  <properties
+      key="TMF Maturity"
+      value="Service Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

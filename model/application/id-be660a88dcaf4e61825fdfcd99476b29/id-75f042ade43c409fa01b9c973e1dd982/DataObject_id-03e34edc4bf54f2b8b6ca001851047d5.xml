@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OwnsServiceDetails"
+    id="id-03e34edc4bf54f2b8b6ca001851047d5"
+    documentation="A Service (CustomerFacing or ResourceFacing) that a particular PartyRole owns. Note that this is a very different relationship than the AdministersServiceDetails association class. The OwnsServiceDetails association class defines the PartyRole that is the owner of the Service. Here; â€œownerâ€� is the person or group that is responsible (e.g.; organizational; financial; and so forth) for the Service."/>

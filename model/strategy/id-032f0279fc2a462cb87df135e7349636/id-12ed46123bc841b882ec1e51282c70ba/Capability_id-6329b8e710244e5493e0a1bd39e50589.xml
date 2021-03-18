@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financial Transaction Recording"
+    id="id-6329b8e710244e5493e0a1bd39e50589"
+    documentation="The ability to record and maintain both the monetary and non-monetary details associated with a financial transaction that assures its overall integrity.">
+  <properties
+      key="TMF_ID"
+      value="1.3.6.7.5"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

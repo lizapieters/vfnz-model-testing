@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Select Outbound Purchase Party"
+    id="id-a937c2480a53469b84d2685ac3dde125"
+    documentation="Select the party or parites to whom an outbound product offering purchase in the form of an product offering order will be sent.">
+  <properties
+      key="Process Identifier"
+      value="1.2.9.1.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Select Outbound Purchase Party identifies the most appropriate party or parties, to whom a product offering purchase may be sent. The selection of the party is based on the particular product, service and/or resource requirements and the feasibility of a party being able to meet the requirements."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

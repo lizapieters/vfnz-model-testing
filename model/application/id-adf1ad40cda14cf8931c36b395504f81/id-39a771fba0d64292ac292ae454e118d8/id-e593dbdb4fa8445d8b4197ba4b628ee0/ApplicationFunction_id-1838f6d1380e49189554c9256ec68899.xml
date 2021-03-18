@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Work Order Re-assigning"
+    id="id-1838f6d1380e49189554c9256ec68899"
+    documentation="Initiating re-assignments as needed based on changing priorities, technician progress on other job assignments, etc.">
+  <properties
+      key="Function Identifier"
+      value="549"/>
+  <properties
+      key="TAM Application Name"
+      value="Work Order Tracking &amp; Management"/>
+  <properties
+      key="TAM Application Id"
+      value="7.12.4"/>
+  <properties
+      key="Constructed Id"
+      value="7.12.4.549"/>
+</archimate:ApplicationFunction>

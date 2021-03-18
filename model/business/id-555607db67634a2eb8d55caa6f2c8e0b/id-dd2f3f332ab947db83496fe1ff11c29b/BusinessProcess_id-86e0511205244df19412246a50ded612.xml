@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop Party Relationship"
+    id="id-86e0511205244df19412246a50ded612"
+    documentation="Provide an initial welcome to a party, create an initial engagement plan, provide information useful to a party's success, and provide training.">
+  <properties
+      key="Process Identifier"
+      value="1.6.3.1.6"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Develop Party Relationship provides an initial welcome to the party with whom a relationship has started. It creates an initial engagement plan which includes rules of engagement, initial plans for training, and describes the on-boarding process in more detail. Material is provided to a party that they should find useful as their relationship with an enterprise continues to be developed, such as downloadable resources and brochures/datasheets/whitepapers. It also provide online and in person training, ongoing training on new solutions, new marketing strategies, and so forth."/>
+  <properties
+      key="Maturity Level"
+      value="1"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

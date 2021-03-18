@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Party Billing Events Management"
+    id="id-d0fae165caec4a3abe5ccacf8481734b"
+    documentation="Enrich, guide, distribute, mediate, summarize, accumulate, and analyze party billing events.">
+  <properties
+      key="Process Identifier"
+      value="1.6.19"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Party Billing Event Management enriches, guides, distributes, mediates, summarizes, accumulates, and analyzes billing events. These processes may occur in real-time, near real-time, or may be executed on a periodic basis. Party billing events include the acquisition of a product offering that is used to determine charges to another party. For example, an enterprise may charge a fee to another party for collecting payments based on sales of the party's offerings in an enterprise's marketplace. Events can also include the need for periodic billing of a recurring product rate. For example, a listing fee charged to another party that lists its products in an enterprise's market place. Guiding ensures that the event used in the billing processes are appropriately related to the correct party billing account and products. The billing events are edited and, if necessary, reformatted (mediated) to meet the needs of subsequent processes. The billing events may also be enriched with additional data during this process. Note that this process is typically performed to support outbound party bills/invoices and is not applicable to bills/invoices received from another party."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

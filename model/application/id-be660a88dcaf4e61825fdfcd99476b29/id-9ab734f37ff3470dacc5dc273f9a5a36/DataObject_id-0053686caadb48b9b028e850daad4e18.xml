@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EventTriggerDetails"
+    id="id-0053686caadb48b9b028e850daad4e18"
+    documentation="This is a class that implements the semantics needed for the IsTriggeredBy aggregation. This aggregation defines the set of Events that can be used to trigger the evaluation of this PolicyRule."/>

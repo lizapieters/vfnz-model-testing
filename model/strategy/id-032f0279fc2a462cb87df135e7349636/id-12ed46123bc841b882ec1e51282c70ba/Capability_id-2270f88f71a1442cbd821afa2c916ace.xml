@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Network/Asset Matching"
+    id="id-2270f88f71a1442cbd821afa2c916ace"
+    documentation="The ability to associate a network with an asset.">
+  <properties
+      key="TMF_ID"
+      value="1.1.7.8.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

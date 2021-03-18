@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0185"
+    id="id-850f240901a64e13adf254cc4ca0b87c"
+    documentation="As a customer, I want to be able to send and receive SMS to/from free &amp; chargeable shortcodes, so that I can use the service I want to">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0185"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1?"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Use"/>
+  <properties
+      key="Topic"
+      value="MO &amp; MT Shortcodes"/>
+  <properties
+      key="Remarks"
+      value="Are price tables for chargable shortcodes fixed or we should receive them from some integration or directly in the incoming event? Not fixed. Charged based on B-number destination group. Thava to check the details. The rates are probably managed outside and will need to be synched to Comarch. Another question: how the payment is done in case of subscription model? Micropurchases? Yes. Details discussed on a separate session."/>
+  <properties
+      key="Module"
+      value="OCS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="Yes"/>
+</archimate:Requirement>

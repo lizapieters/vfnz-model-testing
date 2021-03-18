@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Suggest Marketing Communication Change"
+    id="id-24a80f0facf846ffa697ba11c249bbbe"
+    documentation="Feedback suggested marketing communication changes to re-enforce the marketing communication or to adapt its message to become more effective.">
+  <properties
+      key="Process Identifier"
+      value="1.1.14.5.4"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Suggest Marketing Communication Change feeds back suggested marketing communication changes to re-enforce the marketing communication or to adapt its message to become more effective. This is based in part on the analysis of marketing communication metrics."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

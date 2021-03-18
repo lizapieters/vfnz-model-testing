@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Workforce Configuration and Setup"
+    id="id-dd0535c2287a4a869ab8ef6bcbee7fc4"
+    documentation="Workforce Configuration and Setup applications provide the necessary functionality to appropriately configure the Workforce Management application, including the setup of working areas, staff information, activity types and related information, etc.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="7.12.5"/>
+  <properties
+      key="TMF Function"
+      value="Geographical work areas management Workforce appointment schedule configuration. Workforce dispatchability management Workforce Forecasting Workforce manual activities classification Workforce staff availability management Workforce technician training management"/>
+  <properties
+      key="TMF Maturity"
+      value="Resource Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inquiry State Management"
+    id="id-7f1797798e924847986f2f1521f9363b"
+    documentation="The ability to determine, modify, and interpret the status or condition of an inquiry.">
+  <properties
+      key="TMF_ID"
+      value="1.3.12.6.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

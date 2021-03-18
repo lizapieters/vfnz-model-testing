@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0814"
+    id="id-64468fb168bf4a67a4943cadf73a4409"
+    documentation="As a Fraud Manager I want our customer databases to force the user to enter a note of explanation for access every time they exit a customer's account to ensure tight controls around customers' personal information">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0814"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Caroline Carver"/>
+  <properties
+      key="Tribe"
+      value="Privacy, Fraud and Compliance"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="y"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Manage"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Fraud"/>
+  <properties
+      key="Remarks"
+      value="The note of explanation should be entered after the interaction (when leaving the screen), unless it was previously entered for such interaction. It should be forced before a user is allowed to switch context to another customer. OOTB extension is needed to register Activiti everytime a user access customer data (enters 360 view of the customer)"/>
+  <properties
+      key="Module"
+      value="CRM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="Not Applicale"/>
+</archimate:Requirement>

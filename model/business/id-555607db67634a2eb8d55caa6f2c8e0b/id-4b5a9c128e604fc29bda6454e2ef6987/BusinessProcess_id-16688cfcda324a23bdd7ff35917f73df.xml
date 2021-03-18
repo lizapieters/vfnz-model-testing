@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security Management"
+    id="id-16688cfcda324a23bdd7ff35917f73df"
+    documentation="Security Management processes assess threats to the enterprise and provide capabilities and controls to minimize the threats identified. These processes are responsible for setting Security Management corporate policies, guidelines, best practices and auditing for compliance by the enterprise.Â  In the information and communications technology (ICT) service provider domain, Security Management is a systematic and continuous series of processes and behaviors which assure the confidentiality, availability, and integrity of the Enterpriseâ€™s critical ICT assets.">
+  <properties
+      key="Process Identifier"
+      value="1.7.2.2"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Security Management processes assess threats to the enterprise and provide capabilities and controls to minimize the threats identified. These processes are responsible for setting Security Management corporate policies, guidelines, best practices and auditing for compliance by the enterprise. In the information and communications technology (ICT) service provider domain, Security Management is a systematic and continuous series of processes and behaviors which assure the confidentiality, availability, and integrity of the Enterpriseâ€™s critical ICT assets. For ICT service providers, such assets can also include customer and partner data and resources. Effective Security Management is essential for an ICT service provider to meet its fiduciary and legal obligations, business/mission objectives, and customer expectations. Security Management addresses both internal and external sources of security threats as it provides computer network protection and defensive services. Security Management processes include:1) Prevention; 2) Monitoring ; 3) Analysis; 4) Detection 5) Incident Management. Security management deals with enterprise exposure to loss of value or reputation through threats or security violations. Proactive Security Management processes identify areas of threat to the enterprise (covering both internal and external sources of threat), and monitor industry trends and best practice approaches to ensure that the enterprise remains at the forefront of security management threat minimization. Areas of threat can be physical (e.g. break-ins or terrorist incident, inappropriate use of network) or logical (e.g. inappropriate access to and use of information technology). The processes support the categorization and prioritization of areas of threat. These processes define the policies, guidelines, practices and procedures to be followed and provide assistance to the enterprise operational areas to deploy appropriate physical infrastructure, procedures and monitoring capabilities. Reactive Security management processes deal with the establishment of tools and data collection capabilities to capture details of operation activity, analysis of monitored activity to detect potential threats/security violations, and forensic investigations to determine whether the potential threat is imminent or a security violation has occurred, and the potential or actual perpetrators. Security Management processes interface to external security, police and/or investigative organizations. These processes strongly interact with Fraud Management and have common elements and information services and communications specific elements. Security Management processes are implemented at many levels of the enterprise and at the user, system/network, etc. levels. Note that the actual security monitoring, control and management procedures and facilities are embedded in the operational infrastructure and processes defined and deployed within the SIP and Operations process areas. Note that Audit Management processes provide assurance that the necessary control structures are in place, and provide an estimate to the extent to which the procedures are followed and are effective."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

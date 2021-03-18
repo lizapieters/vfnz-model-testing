@@ -1,0 +1,42 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MMS Campaign Manager"
+    id="id-ad6720a43b01457ab5ab604469b197a9"
+    documentation="MMS Campaign Manager">
+  <properties
+      key="StatusForLookUp"
+      value="Decommissioned"/>
+  <properties
+      key="Owner"
+      value="AndrewH"/>
+  <properties
+      key="Level of Service"
+      value="Business Standard"/>
+  <properties
+      key="Product / Service"
+      value="mobile"/>
+  <properties
+      key="Segment"
+      value="Common"/>
+  <properties
+      key="DX Association"
+      value="Replaced Fully"/>
+  <properties
+      key="Existing Retained or Replaced"
+      value="Replace"/>
+  <properties
+      key="Dig Future Module"
+      value="Billing Mediation (MD), Convergent Charging &amp;amp; Billing &amp;amp; Revenue Management (OCS &amp;amp; BS)"/>
+  <properties
+      key="Legacy BSS Stack Served"
+      value="C3"/>
+  <properties
+      key="TAM App ID"
+      value="3.9.1"/>
+  <properties
+      key="TAM Domain"
+      value="Market_Sales Domain"/>
+  <properties
+      key="TAM Application"
+      value="Campaign Management"/>
+</archimate:ApplicationComponent>

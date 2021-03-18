@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="General Ledger Account Reconciliation"
+    id="id-5dc254fcce9a4fa9bbef231cd83f3aec"
+    documentation="General Ledger Account Reconciliation applications provide the required functionality to support comparisons between balances in the general ledger and other subsidiary ledgers to assure that accounts are correct.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.3.9"/>
+  <properties
+      key="TMF Function"
+      value="Accounts Payable Reconciliation Accounts Receivable Reconciliation Balance Sheet and Income Statement Accounts Reconciliation Fixed Assets Reconciliation Investment Accounts Reconciliation Payroll function Reconciliation"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

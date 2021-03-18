@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1210"
+    id="id-5308a4e8a938436a8d02a61646c4774c"
+    documentation="As a customer, I want to be able to add multiple products, services, devices etc. to a mini cart to calculate the total cost in real time.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1210"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Choose"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Topic"
+      value="eShop"/>
+  <properties
+      key="Remarks"
+      value="DS: UX to be aligned, has impact on the process. Multiple items can be added to the basket at the same time, but more info is needed to set some boundaries. Flow should be as easy as possible"/>
+  <properties
+      key="Module"
+      value="DS, SC, PC, OM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

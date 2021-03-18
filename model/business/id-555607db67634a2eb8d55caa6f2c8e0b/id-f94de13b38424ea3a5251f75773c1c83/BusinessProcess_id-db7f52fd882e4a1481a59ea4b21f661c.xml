@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prepare Common Agreement Attributes"
+    id="id-db7f52fd882e4a1481a59ea4b21f661c"
+    documentation="Prepare common agreement attributes, such as the agreement number, its date, period, statement of intent.">
+  <properties
+      key="Process Identifier"
+      value="1.6.5.1.1.1"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Prepare Common Agreement Attributes prepares common agreement attributes, such as the agreement number, its date, period, statement of intent, locations to which the agreement applies, and so forth."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

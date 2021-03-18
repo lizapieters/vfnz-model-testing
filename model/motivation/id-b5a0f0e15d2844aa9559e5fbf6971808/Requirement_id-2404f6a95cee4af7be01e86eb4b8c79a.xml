@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1081"
+    id="id-2404f6a95cee4af7be01e86eb4b8c79a"
+    documentation="As an Owner customer with ENDUSER accounts that I am responsible for I want to easily complete settings for my end user accounts (notifications of renewal, overage, permissions etc (send notification to me or send notication to 021XXXXXX etc), so that I can manage what services they can access">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1081"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="2"/>
+  <properties
+      key="Base_Old"
+      value="2"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Self Service"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="self service"/>
+  <properties
+      key="Topic"
+      value="Interaction/Usability"/>
+  <properties
+      key="Remarks"
+      value="SC: Roles and privileges can be configured during implementation, not by end users themselves. &quot;Owner customer account&quot; - admin - can create subscription users, change their data (including those influencing notifications) and assigne one of pre-configured roles to them. PIM/TUM/BR: OOTB Owner can assign role out of predefined roles to the user and can grant to the user access to particular sunscription CNS: notification settings excamples ignored here (require decomposition)"/>
+  <properties
+      key="Module"
+      value="SC, PIM, TUM, BR, CNS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

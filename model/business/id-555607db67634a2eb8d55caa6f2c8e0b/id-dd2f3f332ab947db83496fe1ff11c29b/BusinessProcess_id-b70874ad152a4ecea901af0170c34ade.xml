@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Party Revenue Sharing Model Specification"
+    id="id-b70874ad152a4ecea901af0170c34ade"
+    documentation="Manage the lifecycle of the specification, or definition, of a party revenue sharing model.">
+  <properties
+      key="Process Identifier"
+      value="1.6.18.1.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Define Party Revenue Sharing Model Specification manages the lifecycle of the specification, or definition, of a party revenue sharing model. It includes ranges expressed in percentages or some other quantitative measure that an enterprise will use to negotiate the aspects of a party revenue sharing model. For example, for a flat rate revenue sharing model an enterprise may be willing to share 70% of the product offering price with another party. The range can be based on the processes that an enterprise and a party provide. For example, if an enterprise only accepts an order for an offering while a party performs all other processes, such as fulfilling the order, accepting payment for it, and billing for it, it may be willing to share up to 90 percent of the revenue it receives for the offering."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

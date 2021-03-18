@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitor Resource Alarms Events"
+    id="id-89ed0194393944b6b975d3292596465a"
+    documentation="This process is responsible for collecting and monitoring events and alarms provided by resources though systems and monitoring tools.">
+  <properties
+      key="Process Identifier"
+      value="1.5.8.1.6"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="This process is responsible for collecting and monitoring events and alarms provided by resources though systems and monitoring tools."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

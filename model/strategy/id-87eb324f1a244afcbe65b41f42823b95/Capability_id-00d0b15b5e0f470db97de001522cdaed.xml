@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RA Monitoring"
+    id="id-00d0b15b5e0f470db97de001522cdaed"
+    documentation="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0 Transitional//EN&quot;>&lt;HTML>&lt;HEAD>&lt;META content=&quot;text/html; charset=utf-8&quot; http-equiv=Content-Type>&lt;META name=GENERATOR content=&quot;MSHTML 8.00.6001.19088&quot;>&lt;/HEAD>&lt;BODY>&lt;P>RA Monitoring applications provide the necessary functionality to collect and monitor datafrom within fulfillment, assurance, and billing, as well as information from supplier/partner transactions. This includes data collectedfrom the product, service, and resource (network) layers.&lt;/P>&#xA;&lt;P>&amp;nbsp;RA Monitoring applications alsopull data from multiple sources and bash the results. These applications also analyze processes (both interprocess and intraprocess) for RA anomalies.&lt;/P>&#xA;&lt;P>&amp;nbsp;RA Monitoring looks for situations that are outside of the established baselines and triggers alerts when those situations are detected for further analysis.RA Monitoring looks for both &quot;immediate&quot; anomalies as well as predicts anomaliesvia trend analysis.&lt;/P>&#xA;&lt;P>RA Monitoring can also consider proactive measures such as acceptance testing of new or updated products, business or system flows, etc.&lt;/P>&lt;/BODY>&lt;/HTML>">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.1.3"/>
+  <properties
+      key="TMF Function"
+      value="RA Monitoring Anomaly Detection RA Monitoring Data Collection"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

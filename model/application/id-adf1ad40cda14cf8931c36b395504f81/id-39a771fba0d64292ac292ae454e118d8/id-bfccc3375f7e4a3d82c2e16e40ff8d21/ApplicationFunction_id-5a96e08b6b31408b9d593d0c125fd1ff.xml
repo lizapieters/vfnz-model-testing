@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Data aggregation and trending"
+    id="id-5a96e08b6b31408b9d593d0c125fd1ff"
+    documentation="Aggregation and trending of collected Service Performance Data">
+  <properties
+      key="Function Identifier"
+      value="602"/>
+  <properties
+      key="TAM Application Name"
+      value="Service Performance Monitoring"/>
+  <properties
+      key="TAM Application Id"
+      value="6.7.1"/>
+  <properties
+      key="Constructed Id"
+      value="6.7.1.602"/>
+</archimate:ApplicationFunction>

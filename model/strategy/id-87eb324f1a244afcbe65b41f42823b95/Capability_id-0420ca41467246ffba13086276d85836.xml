@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collection Policy Definition and Configuration"
+    id="id-0420ca41467246ffba13086276d85836"
+    documentation="Collection Policy defines a path of collection activities to be executed in escalated order. A set of rules classify customer accounts and associates them to the appropriate collection policy.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.14.1"/>
+  <properties
+      key="TMF Function"
+      value="Collection Flows Creation Collection Rules Definition"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Application of Payments"
+    id="id-49cbd2627440469b97b89fc26fb2bd5b"
+    documentation="Application of paymens receives customer payments from various sources and applies them to customer account balances. It also performs activities, such as Payment Allocation to balances and Transfers of funds between accounts.">
+  <properties
+      key="Function Identifier"
+      value="31"/>
+  <properties
+      key="TAM Application Name"
+      value="A/R Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.9.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.9.1.31"/>
+</archimate:ApplicationFunction>

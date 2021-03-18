@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Governmental &amp; Regulatory Tracking &amp; Reporting"
+    id="id-4c99e4a1a9c541809679836421ba6bd6"
+    documentation="Governmental &amp; Regulatory Tracking &amp; Reporting provides the necessary functionality to track the implementation of governmental &amp; regulatory rules or requirements, along with the means to report as required to various Legal and Regulatory bodies.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="9.2.3"/>
+  <properties
+      key="Frameworx Domain"
+      value="Enterprise Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

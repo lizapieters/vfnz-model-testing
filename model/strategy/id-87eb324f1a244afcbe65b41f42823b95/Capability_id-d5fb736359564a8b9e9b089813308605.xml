@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Supplier/Partner Order Management"
+    id="id-d5fb736359564a8b9e9b089813308605"
+    documentation="Supplier/Partner Order Management provides the necessary functionality to manage orders placed with a supplier/partner. This includes orders placed in conjunction with a customer order as well as orders placed as part of service provider expansions of product, service, or network. Expansions can include purchases of inventory for future use by the service provider (e.g. � the service provider asks for a batch of SIM cards to replenish their SIM card inventory).A Supplier/Partner Order can also include a simple transaction with a partner concerning an application purchased via a product catalog, and the app is delivered (maybe just a download to the customer�s phone).">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="8.2.2"/>
+  <properties
+      key="TMF Function"
+      value="Goods Receipt Supplier/Partner Order Handling Supplier/Partner Requisition Management"/>
+  <properties
+      key="TMF Maturity"
+      value="Supplier_Partner Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

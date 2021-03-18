@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0216"
+    id="id-0e9382e8a22d40d5a6532d6c9c75995b"
+    documentation="As a customer, I want to be able to cancel my services at any time">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0216"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Diane Watson"/>
+  <properties
+      key="Tribe"
+      value="Consumer Home"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="prio2"/>
+  <properties
+      key="Base"
+      value="1?"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Change"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Stop"/>
+  <properties
+      key="Topic"
+      value="Service cancellation"/>
+  <properties
+      key="Remarks"
+      value="Is it about termination of an active service? Then why not Lifecycle=&quot;Stop&quot;?"/>
+  <properties
+      key="Module"
+      value="SC, OM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="REQ_OSS_29, REQ_OSS_27, REQ_OSS_145, REQ_OSS_28, REQ_OSS_41, REQ_OSS_68, REQ_OSS_93, REQ_OSS_99, REQ_OSS_105, REQ_OSS_110, REQ_OSS_112, REQ_OSS_117, REQ_OSS_123, REQ_OSS_134, REQ_OSS_163"/>
+</archimate:Requirement>

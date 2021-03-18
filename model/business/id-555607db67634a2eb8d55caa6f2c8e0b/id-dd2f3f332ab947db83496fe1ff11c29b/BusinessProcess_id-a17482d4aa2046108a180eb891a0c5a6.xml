@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generate Resource Trouble"
+    id="id-a17482d4aa2046108a180eb891a0c5a6"
+    documentation="This process creates a new resource trouble report.">
+  <properties
+      key="Process Identifier"
+      value="1.5.8.7.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

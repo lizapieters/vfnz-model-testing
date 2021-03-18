@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="partial period (prorating) handling."
+    id="id-dc2ac7078b5743509df976c47e3c1831"
+    documentation="This function handles partial rating period, i.e. prorating.">
+  <properties
+      key="Function Identifier"
+      value="185"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Bill Charge Calculation"/>
+  <properties
+      key="TAM Application Id"
+      value="5.15.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.15.1.185"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1099 Processing"
+    id="id-854b10b52b7b496a97e3b2d7d1e9db00"
+    documentation="Corporate Tax function to calculate and submit tax filings for &quot;1099 Processing&quot; for all service provider companies and affiliates.">
+  <properties
+      key="Function Identifier"
+      value="852"/>
+  <properties
+      key="TAM Application Name"
+      value="Corporate Tax"/>
+  <properties
+      key="TAM Application Id"
+      value="c"/>
+  <properties
+      key="Constructed Id"
+      value="9.3.6.852"/>
+</archimate:ApplicationFunction>

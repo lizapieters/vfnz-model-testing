@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Risk Management"
+    id="id-ec92e0ca4637438095e282336b1a65b6"
+    documentation="The ability to evaluate the risk associated with entering into an agreement with a customer.">
+  <properties
+      key="TMF_ID"
+      value="1.1.2.3"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

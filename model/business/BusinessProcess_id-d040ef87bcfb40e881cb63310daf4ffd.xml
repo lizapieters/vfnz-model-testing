@@ -1,0 +1,17 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Domain"
+    id="id-d040ef87bcfb40e881cb63310daf4ffd"
+    documentation="The Resource domain is concerned with the definition, development, and operational aspects of the applications, computing, and networks which represent the infrastructure of an enterprise.">
+  <properties
+      key="Process Identifier"/>
+  <properties
+      key="Category"/>
+  <properties
+      key="Extended Description"
+      value="The Resource domain is concerned with the definition, development, and operational aspects of the applications, computing, and networks which represent the infrastructure of an enterprise. Resource management has three important objectives. The first is to associate Resources to Products and Services, and provide a detailed enough set of Resource entities to facilitate this association. The second is to ensure that Resources can support and deliver Products offered by the enterprise. Management of Resources involves planning, configuration, and monitoring to capture performance, usage, and security information. This also includes the ability to reconfigure Resources in order to fine tune performance, respond to faults, and correct operational deficiencies in the infrastructure. Resources also provide usage information which is subsequently aggregated to the customer level for billing purposes. The final objective of Resource Management is to enable strategy and planning processes to be defined."/>
+  <properties
+      key="Maturity Level"/>
+  <properties
+      key="Frameworx Status"/>
+</archimate:BusinessProcess>

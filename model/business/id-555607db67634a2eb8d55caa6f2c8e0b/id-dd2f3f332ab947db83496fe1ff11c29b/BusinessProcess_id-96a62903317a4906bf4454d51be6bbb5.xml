@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provide Supporting Procedures and Quality Management Support"
+    id="id-96a62903317a4906bf4454d51be6bbb5"
+    documentation="Establishing, managing and maintaining the supporting facilities and quality management support for resource performance management processes.">
+  <properties
+      key="Process Identifier"
+      value="1.5.4.2.9"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="â€¢ Establishing and managing resource performance notification facilities and lists to support the Resource Performance Management notification and reporting processes â€¢ Supporting the Support Service Quality Management process. In order to improve efficiency of notification process, this process may be done in a automated way and provide proactive notifications to the facilities."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

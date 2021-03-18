@@ -1,0 +1,30 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Urgent/Standard Delivery Fee"
+    id="id-a52218f645c14bddb41f36783312a7ab"
+    documentation="To understand if API available and vendor (NZ Post, Uber?). Needs commercial agreement and understanding of business intent.&#xA;05-10-2020 Update from Kiri Harris - Uber is in scope based on the Consumer Home squad">
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Segment"
+      value="Consumer/Business"/>
+  <properties
+      key="Access/Service Type"
+      value="N/A"/>
+  <properties
+      key="Comarch can support"
+      value="TBC"/>
+  <properties
+      key="Non-Comarch IT support needed"
+      value="NO"/>
+  <properties
+      key="NaaS will support"
+      value="N/A"/>
+  <properties
+      key="Automated non-NaaS support"
+      value="N/A"/>
+  <properties
+      key="Unexpected"
+      value="true"/>
+</archimate:BusinessService>

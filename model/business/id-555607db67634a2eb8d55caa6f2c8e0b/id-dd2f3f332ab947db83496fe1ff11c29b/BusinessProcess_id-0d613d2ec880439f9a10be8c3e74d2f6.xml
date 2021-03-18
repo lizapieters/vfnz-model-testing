@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Create Party Problem"
+    id="id-0d613d2ec880439f9a10be8c3e74d2f6"
+    documentation="Create a party problem as a result of a specific party initiated problem.">
+  <properties
+      key="Process Identifier"
+      value="1.6.10.1.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

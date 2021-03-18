@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Command and control"
+    id="id-ee974ad9bc284147847f9ebd50850fd3"
+    documentation="Command and control the various resource test devices or network elements required to perform resource testing">
+  <properties
+      key="Function Identifier"
+      value="505"/>
+  <properties
+      key="TAM Application Name"
+      value="Resource Test Command and Control"/>
+  <properties
+      key="TAM Application Id"
+      value="7.11.3"/>
+  <properties
+      key="Constructed Id"
+      value="7.11.3.505"/>
+</archimate:ApplicationFunction>

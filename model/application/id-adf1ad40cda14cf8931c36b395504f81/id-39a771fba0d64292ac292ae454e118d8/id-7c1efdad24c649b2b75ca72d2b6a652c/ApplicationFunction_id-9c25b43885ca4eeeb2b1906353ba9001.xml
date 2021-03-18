@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Event/Message Caching"
+    id="id-9c25b43885ca4eeeb2b1906353ba9001"
+    documentation="Enterprise Application Integration function for Caching and Distributed Caching, of events and messages to provide performance and scalability to applications.">
+  <properties
+      key="Function Identifier"
+      value="673"/>
+  <properties
+      key="TAM Application Name"
+      value="Enterprise Application Integration"/>
+  <properties
+      key="TAM Application Id"
+      value="10.1"/>
+  <properties
+      key="Constructed Id"
+      value="10.1.673"/>
+</archimate:ApplicationFunction>

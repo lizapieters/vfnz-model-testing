@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Job State Management"
+    id="id-25e58e1130a3414f8e333f31b21f30a9"
+    documentation="The ability to determine, modify, and interpret the status or condition of a job.">
+  <properties
+      key="TMF_ID"
+      value="1.3.7.9.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

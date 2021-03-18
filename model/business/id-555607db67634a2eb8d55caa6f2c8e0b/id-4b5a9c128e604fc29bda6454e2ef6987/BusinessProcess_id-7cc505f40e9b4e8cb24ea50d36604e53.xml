@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Party Agreement Commercial Negotiations"
+    id="id-7cc505f40e9b4e8cb24ea50d36604e53"
+    documentation="Manage the commercial negotiations between the enterprise negotiation team and the selected party or parties, or with competitors in a regulated market.">
+  <properties
+      key="Process Identifier"
+      value="1.6.5.2"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Manage Party Agreement Commercial Negotiations manages the commercial negotiations between the enterprise negotiation team and the selected party or parties, or with competitors in a regulated market. These processes manage the establishment of the negotiating strategy, and the determination of the negotiating parameters. The processes also manage the negotiating timetables and determination of the enterprise negotiating team."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

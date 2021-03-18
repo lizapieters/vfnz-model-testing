@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Facility/Plan Matching"
+    id="id-80e606e882044eb5819d55d88b2758b7"
+    documentation="The ability to associate a facility with a plan.">
+  <properties
+      key="TMF_ID"
+      value="1.3.14.7.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

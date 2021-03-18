@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Partner Type Management"
+    id="id-c99f411d1e0849a7ad29fe0b071b4431"
+    documentation="The ability to determine and modify the category of a partner.">
+  <properties
+      key="TMF_ID"
+      value="1.1.9.8.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

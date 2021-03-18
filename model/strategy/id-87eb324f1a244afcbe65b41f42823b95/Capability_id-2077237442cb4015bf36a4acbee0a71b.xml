@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cash Reconciliation &amp; Escheatment"
+    id="id-2077237442cb4015bf36a4acbee0a71b"
+    documentation="Cash Reconciliation &amp; Escheatment applications provide the required functionality to perform bank statement reconciliations, manage unclaimed checks, and recover unclaimed funds payable to the service provider.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.3.8"/>
+  <properties
+      key="TMF Function"
+      value="Bank Statement Reconciliation Escheatment of unclaimed checks support Reconciliation &amp; Escheatment to Accounts Payable Integration Recovery of unclaimed funds support Replacement check approval support"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

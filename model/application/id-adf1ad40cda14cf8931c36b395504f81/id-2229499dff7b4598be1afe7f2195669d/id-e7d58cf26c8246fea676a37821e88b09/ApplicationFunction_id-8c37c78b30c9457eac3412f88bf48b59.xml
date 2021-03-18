@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Program Management"
+    id="id-8c37c78b30c9457eac3412f88bf48b59"
+    documentation="Customer Loyalty Program Management is responsible for administration of the customer loyalty programs. This includes program rules and registration, management of customer loyalty profiles within the loyalty program, and all communication with the customer regarding the loyalty program.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="5.21.1"/>
+  <properties
+      key="Frameworx Domain"
+      value="Customer Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

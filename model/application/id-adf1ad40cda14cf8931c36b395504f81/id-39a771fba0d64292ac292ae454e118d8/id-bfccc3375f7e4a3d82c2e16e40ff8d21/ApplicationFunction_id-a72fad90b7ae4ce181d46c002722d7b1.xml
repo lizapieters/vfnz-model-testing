@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service end to end test configuration Setting and Tearing"
+    id="id-a72fad90b7ae4ce181d46c002722d7b1"
+    documentation="Setting up and tearing down the end to end test configuration for service testing">
+  <properties
+      key="Function Identifier"
+      value="578"/>
+  <properties
+      key="TAM Application Name"
+      value="Service Test Lifecycle Management"/>
+  <properties
+      key="TAM Application Id"
+      value="6.8.2"/>
+  <properties
+      key="Constructed Id"
+      value="6.8.2.578"/>
+</archimate:ApplicationFunction>

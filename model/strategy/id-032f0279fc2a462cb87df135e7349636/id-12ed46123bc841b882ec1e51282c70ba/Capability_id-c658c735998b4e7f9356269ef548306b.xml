@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Incident/Human Resource Matching"
+    id="id-c658c735998b4e7f9356269ef548306b"
+    documentation="The ability to associate incidents with a human resource.">
+  <properties
+      key="TMF_ID"
+      value="1.3.11.5.17"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

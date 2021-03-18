@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Determine Access Provider"
+    id="id-6e63cc425a8b4d4a840e5dedba05d051"
+    documentation="The Determine Access Provider function selects an access provider among identified available access providers or access technologies at the given location, based on business rules.">
+  <properties
+      key="Function Identifier"
+      value="735"/>
+  <properties
+      key="TAM Application Name"
+      value="Determine Access Provider"/>
+  <properties
+      key="TAM Application Id"
+      value="6.3.9.3.4"/>
+  <properties
+      key="Constructed Id"
+      value="6.3.9.3.4.735"/>
+</archimate:ApplicationFunction>

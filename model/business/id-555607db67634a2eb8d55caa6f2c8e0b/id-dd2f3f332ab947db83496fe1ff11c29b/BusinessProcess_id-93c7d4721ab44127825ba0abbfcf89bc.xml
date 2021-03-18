@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analytics Consumer &amp; Distribution Management"
+    id="id-93c7d4721ab44127825ba0abbfcf89bc"
+    documentation="The desire to monetize on the Big Data Analytics by Industry requires data analytics to be made available not only for internal use within the organization but also for external consumers. This process mainly focuses on management of consumer of analytics and how the analytics results will be made available to them. Where the consumer could be an application, Business unit or external entity.">
+  <properties
+      key="Process Identifier"
+      value="1.7.8.1.4"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="â€œAnalytics Consumer &amp; Distribution Managementâ€� process provides capability to manage the consumer of analytics and how the analytics reports will be made available to the various consumers covering both offline and online analytics request. The process encompasses â€œRepresentation Managementâ€�, â€œManage Analytics Consumerâ€� and â€œManage Analytics Distributionâ€� processes to ensures that the desired analytics results are made available to the right consumer through the right channel, on right time and it is presented in the format as expected by the consumer of analytics."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

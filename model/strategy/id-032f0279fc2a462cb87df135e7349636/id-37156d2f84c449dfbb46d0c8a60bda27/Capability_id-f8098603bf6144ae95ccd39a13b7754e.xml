@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Information Validation and Verification"
+    id="id-f8098603bf6144ae95ccd39a13b7754e"
+    documentation="The ability to ensure that information has been examined, tested, and otherwise determined to be fit for its intended use according to a defined set of policies.">
+  <properties
+      key="TMF_ID"
+      value="1.3.1.4"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

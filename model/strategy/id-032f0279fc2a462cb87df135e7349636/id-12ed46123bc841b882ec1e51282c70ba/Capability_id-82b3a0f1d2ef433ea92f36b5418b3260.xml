@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Route Risk Level Determination"
+    id="id-82b3a0f1d2ef433ea92f36b5418b3260"
+    documentation="The Ability to identify and define the level of risk associated with a route.">
+  <properties
+      key="TMF_ID"
+      value="1.1.10.4.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

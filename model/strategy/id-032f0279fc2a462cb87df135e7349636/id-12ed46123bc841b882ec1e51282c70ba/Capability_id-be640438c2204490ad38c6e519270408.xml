@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Location State Management"
+    id="id-be640438c2204490ad38c6e519270408"
+    documentation="The ability to determine, modify, and interpret the status or condition of a location.">
+  <properties
+      key="TMF_ID"
+      value="1.3.3.9.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

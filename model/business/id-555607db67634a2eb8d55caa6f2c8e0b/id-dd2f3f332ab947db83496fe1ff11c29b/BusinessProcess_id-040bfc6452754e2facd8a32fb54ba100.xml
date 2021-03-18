@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identify Security Threat Surfaces"
+    id="id-040bfc6452754e2facd8a32fb54ba100"
+    documentation="Identify Security Threat Surfaces that could potentially be used to compromise the value of trust in the organization.">
+  <properties
+      key="Process Identifier"
+      value="1.6.1.1.6"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Identify Security Threat Surfaces that could potentially be used to compromise the value of trust in the organization. Note: Enterprises need to identify and continuously manage all avenues that could potentially be used to compromise the value of trust in the organization. The nature and severity of the threat will inform and shape any policies and responses that the organization arranges."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

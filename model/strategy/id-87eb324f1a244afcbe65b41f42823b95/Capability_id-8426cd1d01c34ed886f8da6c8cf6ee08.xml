@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Problem Reporting"
+    id="id-8426cd1d01c34ed886f8da6c8cf6ee08"
+    documentation="Customer Problem Reporting applications provide the necessary functionality to report on the status of open/ closed customer problems.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.8.6"/>
+  <properties
+      key="TMF Function"
+      value="Generate customer problem lifecycle tracking reports Generate customer problem operations and metrics reports"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

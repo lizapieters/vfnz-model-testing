@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Test Lifecycle Management"
+    id="id-b66eb217cdaa45c3b771a7d3c81a8d11"
+    documentation="Service Test Lifecycle Management applications provides the necessary functionality to manage the end-to-end lifecycle of a test of a resource.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="6.8.2"/>
+  <properties
+      key="TMF Function"
+      value="End-to-End Test Management Management of service testing rules Reporting of service test results Retrieval of appropriate service inventory data Service end to end test configuration Setting and Tearing Service end to end test execution Service end to end test results interpretation Service end to end test scheduling Service test resources acquisition and management"/>
+  <properties
+      key="TMF Maturity"
+      value="Service Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

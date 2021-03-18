@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerProductOrder"
+    id="id-850f3abc790642e2b17a6493200d602f"
+    documentation="A Customer might place orders with the Service Provider. This is represented by the CustomerProductOrder. CustomerProductOrder / CustomerProductOrderItem are sub-classes from ProductOrder / ProductOrderItem. For further details about PartyOrder / PartyOrderItem refer to the EngagedParty guide book. A PartyOrder is a type of BusinessInteration that represents a communication used to procure or update one or many Products in the context of a ProductOffering through all its PartyOrderItems. The particularity of the CustomerProductOrder is to procure or update Products for Customer even if the CustomerProductOrder might be placed by the Service Provider when applying precautionary measures in case of bad debt."/>

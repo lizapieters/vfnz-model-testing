@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PurchaseProductOffering"
+    id="id-caef853c93764946ab6b57ec928c7f68"
+    documentation="A PartyRoleProductOffering describes a ProductOffering made available by a PartyRole and the involvement the PartyRole has with the ProductOffering. A PurchaseProductOffering is a type of PartyRoleProductOffering where the ProductOffering is bought by the Service Provider."/>

@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Wholesale / Interconnect Billing"
+    id="id-8b93fd9fae984ad29cfcc934d5952f1f"
+    documentation="Wholesale billing applications include a variety of capabilities. Traditionally this area included inter-carrier settlements capabilities and this was later extended to interconnect billing applications. In today�s competitive markets and complex value chains, it has expanded further to include among others Roaming, wholesale operators, resellers, Mobile Virtual Network Operators, Content Providers and E-Commerce. There is now an array of applications in the area providing charging, billing, and settlement capabilities on a raw data basis, individual transaction basis and bulk basis across a variety of services and platforms. These applications work across a variety of platforms and support a wide range of services, preferably in one single system. Wholesale applications need to adhere to international standards such as TAP and RAP files, which are processed in Roaming solutions.">
+  <properties
+      key="TAM Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="8.3"/>
+  <properties
+      key="Frameworx Domain"
+      value="Business Partner Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

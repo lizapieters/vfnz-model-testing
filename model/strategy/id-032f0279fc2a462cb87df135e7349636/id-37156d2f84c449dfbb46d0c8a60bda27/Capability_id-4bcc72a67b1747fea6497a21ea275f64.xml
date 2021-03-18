@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Content Lifecycle Management"
+    id="id-4bcc72a67b1747fea6497a21ea275f64"
+    documentation="The ability to make decisions concerning the content over time, between the time they are acquired or created until they are destroyed or otherwise end their status as content.">
+  <properties
+      key="TMF_ID"
+      value="1.1.4.3"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

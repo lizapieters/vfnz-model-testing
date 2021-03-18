@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PEPDirectionDetails"
+    id="id-c7a480c0ca5c46c39a7f211c6f539c12"
+    documentation="This class implements the semantics of the DirectsEnforcementOf association. This association defines the set of PolicyEnforcementPoints that are managed by this PolicyDecisionPoint.This association defines the set of PolicyEnforcementPoints that a given PolicyDecisionPoint can direct. The semantics of this association are implemented using the PEPDirectionsDetails association class. The cardinality of this association is 1 on the PolicyDecisionPoint side and 1..n on the PolicyEnforcementPoint side. This means that a PolicyDecisionPoint can provide decisions for one or more PolicyEnforcementPoint (note that without a PolicyEnforcementPoint a PolicyDecisionPoint is useless). However; if multiple PolicyDecisionPoints are allowed to tell a given PolicyEnforcementPoint what to do; then there is no guarantee that the PolicyDecisionPoints wont conflict with each other. Thus; there can only be one PolicyDecisionPoint for a given PolicyEnforcementPoint."/>

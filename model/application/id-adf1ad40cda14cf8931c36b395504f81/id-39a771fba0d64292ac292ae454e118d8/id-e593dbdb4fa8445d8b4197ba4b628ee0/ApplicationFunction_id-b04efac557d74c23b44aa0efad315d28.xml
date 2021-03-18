@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Inventory Reconciliation"
+    id="id-b04efac557d74c23b44aa0efad315d28"
+    documentation="This function entails a reconciling function for the inventory with inventory discovered from another source (typically, the network). When new inventory information is discovered, this is tried to be matched with an entity or entities already known and updated accordingly and if there is no match then new information is created. It can work periodically or on demand in real-time.">
+  <properties
+      key="Function Identifier"
+      value="469"/>
+  <properties
+      key="TAM Application Name"
+      value="Resource Inventory Management"/>
+  <properties
+      key="TAM Application Id"
+      value="7.2"/>
+  <properties
+      key="Constructed Id"
+      value="7.2.469"/>
+</archimate:ApplicationFunction>

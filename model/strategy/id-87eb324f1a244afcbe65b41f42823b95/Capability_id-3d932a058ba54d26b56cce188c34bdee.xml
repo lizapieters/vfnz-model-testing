@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collection Policy Execution and Monitoring"
+    id="id-3d932a058ba54d26b56cce188c34bdee"
+    documentation="Collection Policy Execution and Monitoring starts with the decision for whether to initiate a collection process for an account. Once a collection decision has been taken, the appropriate collection policy is selected. There are many events that may change the collection activities For example � customer paid, customer back out from a payment arrangement, customer status has been changed or a manual intervention in the collection process. All these require constant monitoring and process execution modifications.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.14.2"/>
+  <properties
+      key="TMF Function"
+      value="Collection Action Payment agreement and promises Collection Actions- Issue write off Collection Actions- Outside Collection Agency Referrals Collection Actions-Business and follow-up activities Collection Actions-Update financial scoring: Collection Actions - Charges Collection Decision Engine Collection Execution Monitoring Collection Policy Decision and Monitoring Collection Policy Manual Intervention Collection Treatment Collection Treatment Management CSR assignment collection treatment Debt Management Automatic Penalty charging Debt Management Financial Scoring Initiate dunning strategy Manage the dunning and event process"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

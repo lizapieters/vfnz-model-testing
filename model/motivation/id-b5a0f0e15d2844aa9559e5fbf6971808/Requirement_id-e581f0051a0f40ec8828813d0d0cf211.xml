@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1212"
+    id="id-e581f0051a0f40ec8828813d0d0cf211"
+    documentation="As a customer, I want to choose one package in one click that includes both hardware, plans, add ons, VAS etc. that meet my needs">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1212"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="2"/>
+  <properties
+      key="Base_Old"
+      value="1 &amp; 2"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Choose"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Topic"
+      value="Plans"/>
+  <properties
+      key="Remarks"
+      value="Predefined basket - bundled offers with multiple items can be configured in PC Some more details will be collected during PC workshops"/>
+  <properties
+      key="Module"
+      value="PC, DS, SC, OM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

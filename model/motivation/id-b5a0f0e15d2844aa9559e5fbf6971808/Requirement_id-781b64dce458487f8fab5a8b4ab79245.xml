@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0503"
+    id="id-781b64dce458487f8fab5a8b4ab79245"
+    documentation="As a product manager, I want to always ensure I can charge the customer's registered credit/debit card for a chargeable activity they are performing, so that I'm never left in a bad debt situation (excluding interest free). For example, micropurchase call to Bahamas at $10/minute, should we reserve funds on customer's card in 5 min blocks? Micropurchase donation text should secure funds on customer's card before donation is made.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0503"/>
+  <properties
+      key="Status"
+      value="Potential gap"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1?"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="use"/>
+  <properties
+      key="Topic"
+      value="Charge in advance/reserve funds"/>
+  <properties
+      key="Remarks"
+      value="Technical details to be discussed during the dedicated session"/>
+  <properties
+      key="Module"
+      value="OCS, BS, AIF"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

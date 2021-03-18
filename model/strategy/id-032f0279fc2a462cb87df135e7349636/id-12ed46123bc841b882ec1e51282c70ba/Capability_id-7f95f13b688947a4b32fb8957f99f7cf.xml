@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plan/Plan Matching"
+    id="id-7f95f13b688947a4b32fb8957f99f7cf"
+    documentation="The ability to match a plan with a plan with inter dependencies or related by portfolio.">
+  <properties
+      key="TMF_ID"
+      value="1.2.7.6.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

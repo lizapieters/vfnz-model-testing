@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0879"
+    id="id-a89f56f2ed9c47a3aab4465715e4b23e"
+    documentation="As a Revenue Assurance Analyst I want be able to access and report on all network usage based on network element with a low level of granularity (cell site etc) so that we can ensure our customer usage trends based on the hour of the day and day of the week for each individual network element we have are in line with expectations so that we can determine if there is any network activity that could be resulting in revenue loss via poor performance or fraudulent customer behaviour.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0879"/>
+  <properties
+      key="Status"
+      value="Not Comarch BSS Solution"/>
+  <properties
+      key="Created by"
+      value="Samuel Pachoud"/>
+  <properties
+      key="Tribe"
+      value="Finance / Revenue &amp; Network Assurance"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Reporting"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Network usage reporting"/>
+  <properties
+      key="Remarks"
+      value="Looks like a requirement for NaaS"/>
+  <properties
+      key="Module"
+      value="OSS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="Yes?"/>
+</archimate:Requirement>

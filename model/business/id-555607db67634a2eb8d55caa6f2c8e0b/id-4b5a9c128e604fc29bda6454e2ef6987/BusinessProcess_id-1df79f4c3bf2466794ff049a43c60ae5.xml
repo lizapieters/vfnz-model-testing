@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Management"
+    id="id-1df79f4c3bf2466794ff049a43c60ae5"
+    documentation="Data management execute and implement management policies to provide capabilities to manage the data quality, security and Compliance, storage and presentation &amp; distribution of data within and outside the enterprise.">
+  <properties
+      key="Process Identifier"
+      value="1.7.8.5"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Data management aims to implement management policies to provide capabilities to manage the data quality, data security and compliance, data storage, and manage the presentation and distribution of data within and outside the enterprise. Data management comprises all the disciplines related to managing data as a valuable resource"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

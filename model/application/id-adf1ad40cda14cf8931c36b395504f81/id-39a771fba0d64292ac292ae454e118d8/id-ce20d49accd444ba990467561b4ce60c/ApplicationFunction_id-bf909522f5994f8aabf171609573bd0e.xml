@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Catalog Entity state management"
+    id="id-bf909522f5994f8aabf171609573bd0e"
+    documentation="The ability to manage the state of an entity during its lifecycle (e.g. planned, deployed, in operation, replaced by, locked�)">
+  <properties
+      key="Function Identifier"
+      value="8"/>
+  <properties
+      key="TAM Application Name"
+      value="Catalog Management"/>
+  <properties
+      key="TAM Application Id"
+      value="11.1"/>
+  <properties
+      key="Constructed Id"
+      value="11.1.8"/>
+</archimate:ApplicationFunction>

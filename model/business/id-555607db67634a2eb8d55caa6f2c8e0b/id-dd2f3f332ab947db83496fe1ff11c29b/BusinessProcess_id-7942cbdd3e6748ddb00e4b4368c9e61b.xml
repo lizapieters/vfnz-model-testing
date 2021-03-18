@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provide Resource Recovery Proposal Notification"
+    id="id-7942cbdd3e6748ddb00e4b4368c9e61b"
+    documentation="Where recovery of services is likely to impact other in-use specific services, this process is responsible for providing appropriate notification of the recovery proposal.">
+  <properties
+      key="Process Identifier"
+      value="1.5.6.8.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

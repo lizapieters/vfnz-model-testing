@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Request Service Performance Degradation Report Creation and Update"
+    id="id-17f6a0c7c1ed497db9d001dc637dfade"
+    documentation="This process generates the respective resource trouble report creation request(s) to Create Resource Trouble Report based on specific service performance degradation reports where analysis the root cause is related to resources.  It modifies information in an existing service performance degradation report based on assignments, and modifies the service performance degradation report status.">
+  <properties
+      key="Process Identifier"
+      value="1.4.7.6.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

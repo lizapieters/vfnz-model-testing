@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Offering Availability"
+    id="id-c478b03c859e4ae995c8ffc4c7c0f227"
+    documentation="Offering Availability apply business rules to determine what offerings are available at the customer location.">
+  <properties
+      key="TMF Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.3.1.5"/>
+  <properties
+      key="TMF Function"
+      value="Customer Product &amp; Service Subscription Check Marketed Product Check Product Availibility Area Check Service Feasibility Check"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PhysicalEncryptionRole"
+    id="id-ac15fa96fe76484389d902cab6695822"
+    documentation="This is a physical role that a device has. It enables us to correlate physical components that are used to encrypt traffic with the logical capability of encrypting."/>

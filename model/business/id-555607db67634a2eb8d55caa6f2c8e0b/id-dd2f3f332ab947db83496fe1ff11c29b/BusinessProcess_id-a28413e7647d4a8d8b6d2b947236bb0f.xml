@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Suggest Marketing Campaign Change"
+    id="id-a28413e7647d4a8d8b6d2b947236bb0f"
+    documentation="Feedback suggested marketing campaign changes to adapt it to become more effective.">
+  <properties
+      key="Process Identifier"
+      value="1.1.15.5.4"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Suggest Marketing Campaign Change feeds back suggested marketing campaign changes to adapt it to become more effective. This is based in part on the analysis of marketing campaign metrics."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

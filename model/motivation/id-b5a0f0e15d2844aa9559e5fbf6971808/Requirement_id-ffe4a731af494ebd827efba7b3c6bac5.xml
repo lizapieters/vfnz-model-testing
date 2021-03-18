@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0998"
+    id="id-ffe4a731af494ebd827efba7b3c6bac5"
+    documentation="As a customer, I want to be able to get additional benefits for engaging in games within the app">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0998"/>
+  <properties
+      key="Status"
+      value="Potential gap"/>
+  <properties
+      key="Created by"
+      value="Gabrielle Paul"/>
+  <properties
+      key="Tribe"
+      value="Loyalty"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Get"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Gamification"/>
+  <properties
+      key="Remarks"
+      value="We need more detailed scenarios what kind of &quot;games&quot; and benefits you want to grant. [CLM] Possible to issue benefits, vouchers, coupons, opt in to the offers as well as reward for particular behaviour- survey fill in for example, CLM OOTB, pottentially additional integration for gamification module"/>
+  <properties
+      key="Module"
+      value="CLM/CMA"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agree Resource Infrastructure Requirements"
+    id="id-f98e20c7f8fe43c395df496dbca4894a"
+    documentation="These processes obtain agreement to  the detailed resource infrastructure requirements to guide the definition of the service capabilities required by the enterprise. The processes include any interaction with cross-enterprise and cross-domain coordination and management functions to ensure that the demand distributions capture the needs of relevant stakeholders. Coordination and management function may use automated processes to improve efficiency and shorten TTM.">
+  <properties
+      key="Process Identifier"
+      value="1.5.2.1.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define Party Debt Collection Policies"
+    id="id-00fac3e085f1495abcc5935fea23bb34"
+    documentation="Develop party debt collection policies used by the debt recovery process.">
+  <properties
+      key="Process Identifier"
+      value="1.6.16.1.4.1.2"/>
+  <properties
+      key="Category"
+      value="(6) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Define Party Debt Collection Policy develops and manages (modifies/removes) party debt collection policies used by the debt recovery process. A policy may represent rules to apply when attempting to recover a party debt or to identify when party debt collection activities should commence. For example, the events that trigger dunning rules evaluation, the conditions to evaluate and the actions that must be done, such as SMS, letters, outbound calls, barring/unbarring actions, late fees, penalties, and so forth."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

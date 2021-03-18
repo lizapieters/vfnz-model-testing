@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Involve External Party in Party Problem Assessment"
+    id="id-c6fc05b70594474fb6b823fdf4540c5c"
+    documentation="Involve an external party in the assessment of a party problem.">
+  <properties
+      key="Process Identifier"
+      value="1.6.10.2.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Involve External Party in Party Problem Assessment involves an external party in the assessment of a party problem if necessary. The need for their involvement is communicated to them and their acceptance, or not, is received. The external party then becomes involved in the assessment process when their response indicates acceptance of the request. External parties are engaged by an enterprise in assessing a received party problem by interacting with them when a problem assessment requires: - A higher level expertise and/or higher level support is required to resolve a problem - An enterprise has outsourced specific activities to another party which are needed as part of solving and resolving problems, for example outsourced field maintenance - A product has been purchased from another party - A product or product component is owned and maintained by an external party."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

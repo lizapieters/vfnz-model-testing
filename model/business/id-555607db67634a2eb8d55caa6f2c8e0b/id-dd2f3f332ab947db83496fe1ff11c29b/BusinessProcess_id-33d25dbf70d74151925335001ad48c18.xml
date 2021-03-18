@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analyze Product Information"
+    id="id-33d25dbf70d74151925335001ad48c18"
+    documentation="Identify new product offerings, review existing product offerings, research information about product offering ideas.">
+  <properties
+      key="Process Identifier"
+      value="1.2.1.1.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Analyze Product information processes focus on research of information relating to product ideas and opportunities and identify product opportunities based on analysis of the external and internal information sources. These processes are responsible for analysis to identify new product offerings as well as review of existing product offerings. If new resource and/or service infrastructure is needed then this process interacts with the processes that develop resource strategies and/or service strategies to insure new product offerings can be developed. Similarly interaction with market/sales strategy processes may result if new sales channels or market segments are needed."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResourceRoleDetails"
+    id="id-a238110e7f0344589eaf657dae43feef"
+    documentation="This class implements the semantics of the ResourceTakesOnRoles aggregation. It also serves as the parent class for defining the classes that implement the RolesDescribePhysicalResource; RolesDescribeLogicalResource; and RolesDescribeCompoundResource aggregations. These three classes are named RolesDescribePhysicalResourceDetails; RolesDescribeLogicalResourceDetails; and RolesDescribeCompoundResourceDetailsm respectively."/>

@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Problem Lifecycle Management"
+    id="id-c581c31a6e634310801725443b05bbd4"
+    documentation="Customer Problem Lifecycle Management applications provides the necessary functionality to manage the end-to-end lifecycle of the customer problem as defined and configured by the service provider.Note: All customer incidents/cases may be tracked, if so determined by the service provider.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="5.8.2"/>
+  <properties
+      key="Frameworx Domain"
+      value="Customer Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0602"
+    id="id-dcf96995adaf41ee9f7b1172a6967fca"
+    documentation="As a customer, I want to be able to refer a friend or family member to Vodafone where we get rewarded for doing so, so that I can encourage others to join Vodafone">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0602"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="y"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Use"/>
+  <properties
+      key="Topic"
+      value="Refer a friend"/>
+  <properties
+      key="Remarks"
+      value="OOTB we can use Subscription Groups feature where a customer can invite a familiy members or a friends (configurable types of grupus) to own group. This can automatilly grant the discount to the group members or make special products aviable for ordering to the group members. Parked for customer structure dedicated session where Comarch would demo this solution. Comarch to deliver documentation."/>
+  <properties
+      key="Module"
+      value="SC, SG, PC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

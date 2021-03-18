@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Information Model Creation"
+    id="id-949b8a2dfe02428e8673ad510de8e62c"
+    documentation="Resource Information Model creation function allows Service Providers to create information base in the resource inventory of the managed resources along its attributes. This function uses the standardized information model (e.g. TM Forum Information Framework) for the resources to be managed. The specific details will depend on the particular resources (e.g., particular types of managed elements and equipments) and associated technologies.">
+  <properties
+      key="Function Identifier"
+      value="468"/>
+  <properties
+      key="TAM Application Name"
+      value="Resource Inventory Management"/>
+  <properties
+      key="TAM Application Id"
+      value="7.2"/>
+  <properties
+      key="Constructed Id"
+      value="7.2.468"/>
+</archimate:ApplicationFunction>

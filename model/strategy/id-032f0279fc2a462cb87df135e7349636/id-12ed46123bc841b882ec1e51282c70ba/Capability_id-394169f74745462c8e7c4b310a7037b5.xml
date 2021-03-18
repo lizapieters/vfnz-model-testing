@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Access Management"
+    id="id-394169f74745462c8e7c4b310a7037b5"
+    documentation="The ability to control who, internally or externally, can view customer information.">
+  <properties
+      key="TMF_ID"
+      value="1.2.2.7.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

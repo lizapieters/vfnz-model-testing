@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Notify T&amp;M Root Cause Resource Trouble"
+    id="id-53e0dec5da874d228b1392dabb13ffbf"
+    documentation="This process makes the results of the root cause analysis available to other processes. It updates the open resource trouble report, as required during the assessment, and when the root cause has been identified. This process notifies the Track &amp; Manage Resource Trouble processes.">
+  <properties
+      key="Process Identifier"
+      value="1.5.8.2.6"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

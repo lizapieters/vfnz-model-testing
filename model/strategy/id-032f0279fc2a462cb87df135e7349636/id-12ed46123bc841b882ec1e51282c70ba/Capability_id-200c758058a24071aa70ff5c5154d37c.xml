@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Shipment Type Management"
+    id="id-200c758058a24071aa70ff5c5154d37c"
+    documentation="The Ability to determine, modify, and interpret the category or classification of a shipment.">
+  <properties
+      key="TMF_ID"
+      value="1.1.11.7.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

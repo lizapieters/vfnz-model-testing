@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Internal Sales Portals"
+    id="id-2062a833ea6b41e8b8b7ac5762710478"
+    documentation="Internal Sales Portals provide sales tools to internal sales groups.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="3.7.2"/>
+  <properties
+      key="TMF Function"
+      value="Internal sales portal function"/>
+  <properties
+      key="TMF Maturity"
+      value="Market_Sales Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

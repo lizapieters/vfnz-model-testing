@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Party Offering Development &amp; Retirement"
+    id="id-17352c2522e64b89b1879798bb2c9e83"
+    documentation="Manage on-boarding and off-boarding another party's product specifications and product offerings that a required to facilitate the business model of the enterprise.">
+  <properties
+      key="Process Identifier"
+      value="1.6.4"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Party Offering Development &amp; Retirement supports the management of on-boarding and off-boarding another party's product specifications and product offerings that a required to facilitate the business model of the enterprise. It also manages the involvement the enterprise has with a product specification and product offering. For example, the enterprise may accept an order for one of its offerings, but it may be fulfilled by another party. Note: - Product Specification Development &amp; Retirement and Product Offering Development &amp; Retirement processes are used to manage most of the lifecycle of product specifications and product offerings. This is done to eliminate redundant processes. For example, the Product Offering Pricing processes are used to manage the prices associated with on-boarded product offerings. - This process therefore focuses on managing the relationship that parties, including the enterprise, have with product specifications and product offerings as well as the impact of off-boarding specifications and offerings on a provider's service and resource infrastructure."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

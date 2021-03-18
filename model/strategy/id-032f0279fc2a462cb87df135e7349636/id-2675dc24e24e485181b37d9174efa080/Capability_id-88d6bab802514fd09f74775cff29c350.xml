@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financial Transaction/Channel Matching"
+    id="id-88d6bab802514fd09f74775cff29c350"
+    documentation="The ability to associate a financial transaction with a channel(s) on which it occurred.">
+  <properties
+      key="TMF_ID"
+      value="1.3.6.7.6.3"/>
+  <properties
+      key="Level"
+      value="4"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

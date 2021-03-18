@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Party Payment Method Management"
+    id="id-e3e94c91209545518a7c78a21dd91e94"
+    documentation="Define and manage the various types of payment methods and the methods by which an individual party may make an inbound and/or outbound payment.&#xA;Define and manage the various types of payment methods and the methods by which an individual party may make an inbound and/or outbound payment.">
+  <properties
+      key="Process Identifier"
+      value="1.6.16.1.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Party Payment Method Management defines and manages the various types of payment methods and the methods by which an individual party may make an inbound and/or outbound payment. The types of payment methods are defined explicitly or via the use of payment method specifications. Payment method specifications enable new types of payments to be dynamically defined and used by parties to make payments. The methods by which an individual party may make an inbound and/or outbound payment is considered to be part of a party's overall profile. Party Payment Method Management defines and manages the various types of payment methods and the methods by which an individual party may make an inbound and/or outbound payment. The types of payment methods are defined explicitly or via the use of payment method specifications. Payment method specifications enable new types of payments to be dynamically defined and used by parties to make payments. The methods by which an individual party may make an inbound and/or outbound payment is considered to be part of a party's overall profile. As a example, receiving EDI payments (usually daily), attributing to account and where necessary split payments according to agreed mechanisms over multiple accounts."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

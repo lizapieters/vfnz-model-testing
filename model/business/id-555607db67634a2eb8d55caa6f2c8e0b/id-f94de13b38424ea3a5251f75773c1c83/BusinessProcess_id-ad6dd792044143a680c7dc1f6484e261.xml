@@ -1,0 +1,20 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Authenticate Party Identity on Access"
+    id="id-ad6dd792044143a680c7dc1f6484e261">
+  <properties
+      key="Process Identifier"
+      value="1.6.3.1.7.3"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Authenticate Party Identity on Access ensures identification upon access is corroborated . Authentication is key interaction with parties as they engage with an organization. Effective authentication will deliver both an acceptable experience for the party, and ensure that the enterprise trust regime is not compromised"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

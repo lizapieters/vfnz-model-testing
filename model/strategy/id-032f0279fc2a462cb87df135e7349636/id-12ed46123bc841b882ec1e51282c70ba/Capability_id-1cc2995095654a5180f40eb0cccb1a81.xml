@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Policy/Policy Matching"
+    id="id-1cc2995095654a5180f40eb0cccb1a81"
+    documentation="The ability to associate policies with other policies, such as defining a set of rules based on legislation.">
+  <properties
+      key="TMF_ID"
+      value="1.2.3.8.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

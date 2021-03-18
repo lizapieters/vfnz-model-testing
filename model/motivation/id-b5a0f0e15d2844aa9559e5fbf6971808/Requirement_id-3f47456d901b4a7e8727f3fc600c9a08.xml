@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1465"
+    id="id-3f47456d901b4a7e8727f3fc600c9a08"
+    documentation="As a customer who gets manually assessed, I want to be notified after my assessment has been completed and be given a personalised link to finish my purchase journey (with my chosen interest free device or alternative options or with plan only based on my assessment result)">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1465"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1?"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Fraud and Credit Check management"/>
+  <properties
+      key="Remarks"
+      value="Need more discussion"/>
+  <properties
+      key="Module"
+      value="OM, DS, SC, PC, CNS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

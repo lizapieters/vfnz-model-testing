@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Interface Management"
+    id="id-e032bace1c0e4272b7e4093f1a99dcbd"
+    documentation="Managing all interfaces between the enterprise and potential and existing customers.">
+  <properties
+      key="Process Identifier"
+      value="1.3.5.9"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Customer Interface Management processes are responsible for managing all interfaces between the enterprise and potential and existing customers. They deal with contact management, understanding the reason for contact, directing customer contacts to the appropriate process, contact closure, exception management, contact results analysis and reporting. CRM contact may be related to one or several of Service Fulfillment, Service Assurance (service quality management and trouble or problem management) and Billing related customer enquiries or contacts."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

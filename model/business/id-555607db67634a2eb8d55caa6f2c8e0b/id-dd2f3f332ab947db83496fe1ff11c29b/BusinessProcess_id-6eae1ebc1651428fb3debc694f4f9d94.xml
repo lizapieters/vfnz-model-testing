@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Asses impact of service business plan"
+    id="id-6eae1ebc1651428fb3debc694f4f9d94"
+    documentation="Assess the impacts of new and modified service requirements on systems and establish functions and benefits">
+  <properties
+      key="Process Identifier"
+      value="1.4.1.5.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Asses impact of service business plan processes assess the impacts that new or modified service requirements will cause on the installed service infrastructure and workforce, and supporting resource infrastructure, and establish the functions and benefits that new or modified service will provide to users"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

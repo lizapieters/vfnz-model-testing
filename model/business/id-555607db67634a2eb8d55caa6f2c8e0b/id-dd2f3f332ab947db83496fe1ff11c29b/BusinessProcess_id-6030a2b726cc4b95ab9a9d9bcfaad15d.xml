@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Terminate Loyalty Program"
+    id="id-6030a2b726cc4b95ab9a9d9bcfaad15d"
+    documentation="Identify an existing loyalty program which is unviable or has reached its end of life. It manages the processes to exit it from the market.">
+  <properties
+      key="Process Identifier"
+      value="1.1.19.1.9"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Terminate Loyalty Program reuses Manage Product Offering Exit sub-processes to identify an existing loyalty program which is unviable or that has reached its end of life. It manages the process to exit it from the market. It analyzes an existing loyalty program to identify if it is economically or strategically, identify participants impacted by any exit, develop participant specific exit or migration strategies, develop infrastructure transition and/or replacement strategies, and manage the operational aspects of the exit process. A business proposal identifying the competitive threats, risks and costs may be required as part of developing the exit strategy. It includes any interaction with cross-enterprise co-ordination and management functions to ensure that the needs of all stakeholders are identified and managed. Note that in the sub-processes customers refer to any loyalty program participant, not only customers who may be participants."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

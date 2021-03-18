@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CompositeProjectDeliverable"
+    id="id-fbbb1fbdd863487fa3d56937ae2b4450"
+    documentation="A type of ProjectDeliverable that is formed by aggregating other ProjectDeliverables; which may be composite or atomic ProjectDeliverables."/>

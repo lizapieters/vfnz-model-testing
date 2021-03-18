@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Intellectual Asset Management"
+    id="id-d2cc6d4dc469415c97463cd890e54fc5"
+    documentation="Create, read, update and delete to enable the life cycle management for Internal &amp; external intellectual assets used by the enterprise.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.6.1"/>
+  <properties
+      key="TMF Function"
+      value="Intellectual Asset Management Intellectual Asset Sharing Management Intellectual Asset Usage Tracking Patent Administration Patent, Invention &amp; Trademark Collection Patent, Invention &amp; Trademark Management"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

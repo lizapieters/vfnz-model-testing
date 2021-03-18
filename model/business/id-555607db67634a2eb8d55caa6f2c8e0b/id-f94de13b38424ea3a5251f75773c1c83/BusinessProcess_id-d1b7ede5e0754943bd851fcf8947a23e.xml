@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verify Product Proper Product Use"
+    id="id-d1b7ede5e0754943bd851fcf8947a23e"
+    documentation="Verify whether the product is being used correctly.">
+  <properties
+      key="Process Identifier"
+      value="1.6.10.2.4.1"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Verify Product Proper Product Use verifies whether the product is being used correctly. This may be done via interaction with the using party who explains how the product is being used and then comparing the use to how the product should be used. If the interaction determines improper use, and the party now understands how to properly use the product and demonstrates its proper use this process notifies the Identify Party Problem Root Cause that improper use was the root cause of a party problem."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

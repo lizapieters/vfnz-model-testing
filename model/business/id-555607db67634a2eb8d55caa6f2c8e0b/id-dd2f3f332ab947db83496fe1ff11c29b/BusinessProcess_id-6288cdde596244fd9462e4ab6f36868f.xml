@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Install and Commission Resource"
+    id="id-6288cdde596244fd9462e4ab6f36868f"
+    documentation="This process is responsible for installing and commissioning specific resources, and updating the resource inventory as part of these processes">
+  <properties
+      key="Process Identifier"
+      value="1.5.6.1.5"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

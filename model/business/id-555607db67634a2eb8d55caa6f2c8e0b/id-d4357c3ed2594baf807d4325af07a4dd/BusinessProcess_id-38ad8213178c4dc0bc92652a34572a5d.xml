@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Design Loyalty Program Card"
+    id="id-38ad8213178c4dc0bc92652a34572a5d"
+    documentation="Design loyalty program card or cards (if tiers used) and contract with an internal organization or external party to produce the card or cards.">
+  <properties
+      key="Process Identifier"
+      value="1.1.19.1.3.1.3"/>
+  <properties
+      key="Category"
+      value="(6) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Design Loyalty Program Card designs a loyalty program card or cards (if tiers used) and contract with an internal organization or external party to produce the card or cards. If an external party is used the Party Tender Management (if a party has not been identified) and/or the Party Agreement Management enter into an agreement with the party to produce the card(s)."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

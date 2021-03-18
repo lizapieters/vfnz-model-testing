@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Channel Risk Aggregation"
+    id="id-1d601c3b53484c258d33215fd49c477c"
+    documentation="The ability to consider a collective set of risk factors about a channel and represent them from a rationalized perspective.">
+  <properties
+      key="TMF_ID"
+      value="1.1.1.4.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

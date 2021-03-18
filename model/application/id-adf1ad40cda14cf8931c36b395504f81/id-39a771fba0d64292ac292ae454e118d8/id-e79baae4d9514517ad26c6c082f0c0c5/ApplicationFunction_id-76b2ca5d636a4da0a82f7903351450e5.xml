@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financial reconciliation"
+    id="id-76b2ca5d636a4da0a82f7903351450e5"
+    documentation="Supports the reconciliation process with financial institutions">
+  <properties
+      key="Function Identifier"
+      value="325"/>
+  <properties
+      key="TAM Application Name"
+      value="Payment Settlement"/>
+  <properties
+      key="TAM Application Id"
+      value="5.9.4.3"/>
+  <properties
+      key="Constructed Id"
+      value="5.9.4.3.325"/>
+</archimate:ApplicationFunction>

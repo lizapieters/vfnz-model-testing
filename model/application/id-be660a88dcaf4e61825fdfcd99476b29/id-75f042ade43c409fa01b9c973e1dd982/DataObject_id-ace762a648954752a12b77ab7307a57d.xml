@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CoS3BundleSpec"
+    id="id-ace762a648954752a12b77ab7307a57d"
+    documentation="The definition of the Class of Service settings for a specific ServiceBundle. ServiceBundles are related to ServicePackages via the packageContainsServiceBundles aggregation. Thus; this enables different CoS settings to be associated with a ServicePackage; which is what the Customer acquires via a Product. For example; a specification for CoS1 could be used for VoIP; CoS2 could be used for mission-critical applications; CoS3 could be used for all other applications that are not mission-critical but require better than best-effort delivery; and CoS4 could define best effort service delivery."/>

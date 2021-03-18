@@ -1,0 +1,39 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kylo"
+    id="id-e171ae55c1f94cb696c9459ed5271c79"
+    documentation="Kylo">
+  <properties
+      key="StatusForLookUp"
+      value="Decommissioned"/>
+  <properties
+      key="Owner"
+      value="Business"/>
+  <properties
+      key="Level of Service"
+      value="Basic Systems"/>
+  <properties
+      key="Product / Service"
+      value="Common"/>
+  <properties
+      key="Segment"
+      value="Common"/>
+  <properties
+      key="DX Association"
+      value="TBD"/>
+  <properties
+      key="Existing Retained or Replaced"
+      value="Retained"/>
+  <properties
+      key="Legacy BSS Stack Served"
+      value="Common"/>
+  <properties
+      key="TAM App ID"
+      value="8.2.8"/>
+  <properties
+      key="TAM Domain"
+      value="Supply Partner Domain"/>
+  <properties
+      key="TAM Application"
+      value="Supplier/Partner Portal"/>
+</archimate:ApplicationComponent>

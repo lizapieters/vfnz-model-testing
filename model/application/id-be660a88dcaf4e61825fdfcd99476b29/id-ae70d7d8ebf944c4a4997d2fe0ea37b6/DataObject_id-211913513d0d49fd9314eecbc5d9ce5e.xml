@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MemoryComponent"
+    id="id-211913513d0d49fd9314eecbc5d9ce5e"
+    documentation="This class represents memory devices that are implemented as Chips. Note that this only represents the physical packaging of the Memory Chip - the logical functionality is defined in a separate class; called Memory; that is part of the LogicalResource model."/>

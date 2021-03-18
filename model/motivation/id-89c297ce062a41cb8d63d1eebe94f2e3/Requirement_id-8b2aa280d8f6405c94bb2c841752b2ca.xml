@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0590"
+    id="id-8b2aa280d8f6405c94bb2c841752b2ca"
+    documentation="As a customer, I want to be able to update the payment method for my interest free payment agreement, so I can ensure it does not default">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0590"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Diane Watson"/>
+  <properties
+      key="Tribe"
+      value="Consumer Home"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="prio2"/>
+  <properties
+      key="Base"
+      value="1?"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Change IF payment card"/>
+  <properties
+      key="Remarks"
+      value="The card should be assigned per service? similar to REQ_BSS_0162 Card should relate to particular servie, e.g. one card for interest free the other card for subscription Parked for customer hierarchy workshop"/>
+  <properties
+      key="Module"
+      value="SC, BR"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define Party Product Offering Involvement"
+    id="id-fff7a41f1d43449f9612f255f66fd08b"
+    documentation="On-board a product offering from the another party's catalog to the enterpriseâ€™s inventory of product offerings and its catalogs.">
+  <properties
+      key="Process Identifier"
+      value="1.6.4.1.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Define Party Product Offering Involvement on-boards a product offering from the another party's catalog to the enterpriseâ€™s inventory of product offerings and its catalogs. It also manages the relationships between an enterprises product offering and that of another party; for example a relationship that indicates an enterprises orders an offering from another party. Until an on-boarding agreement is approved the product offering is marked as tentatively on-boarded. Once the agreement is approved the offering is marked as on-boarded. It defines the involvement from a process perspective that a party, including the enterprise, has with its offering. For example, if a party takes an order, fulfills it after taking the order, accepts payment, receives payment, after sales service provided for the offering after it is acquired, and so forth. It also manages the enterprise's relationship with a product offering and its relationship with those provided by another party. For example, an enterprise may make an offering available on behalf of another party or acquire an offering for re-sale from another party. It is also used to modify the involvement associated with a party's, including the enterprise, product offerings. For example, if the party who accept payments for a purchased product offering changes."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

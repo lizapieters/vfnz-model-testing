@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Message/Event Matching"
+    id="id-a4e81fc6ab3f48a989e86cca36a5916e"
+    documentation="The ability to associate messages with an event.">
+  <properties
+      key="TMF_ID"
+      value="1.2.1.6.5"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

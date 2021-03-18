@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Archive Party Bill/Invoice"
+    id="id-646cc1a7a8604e03a91f938cb78f3608"
+    documentation="Store a party bill/invoice for a period of time to address regulation and/or internal requirements.">
+  <properties
+      key="Process Identifier"
+      value="1.6.15.3.4.1"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

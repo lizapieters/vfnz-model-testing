@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Task Item Configuration and Onboarding"
+    id="id-e895aff379bd4037872b7953ab12e520"
+    documentation="Service Task Item Configuration and Onboarding: When a software based service is added (on boarded), this onboarding may be automated. There are several systems in the infrastructure that needs to be aware and integrated with the new service. The �Service Configuration and Onboarding� function will configure the on boarded service and the relevant systems to establish integration automatically, when requested.">
+  <properties
+      key="Function Identifier"
+      value="964"/>
+  <properties
+      key="TAM Application Name"
+      value="Service Capability Orchestration"/>
+  <properties
+      key="TAM Application Id"
+      value="6.11"/>
+  <properties
+      key="Constructed Id"
+      value="6.11.964"/>
+</archimate:ApplicationFunction>

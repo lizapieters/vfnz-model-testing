@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="On-Account Data"
+    id="id-740f98ac02c04a3b92997b7c30c3b6ce">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-c5052aa9c98e49b9a5357c6a2f0df454.xml#id-c5052aa9c98e49b9a5357c6a2f0df454"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-69c87dff8ce24a778c5589795acfa67a.xml#id-69c87dff8ce24a778c5589795acfa67a"/>
+</archimate:FlowRelationship>

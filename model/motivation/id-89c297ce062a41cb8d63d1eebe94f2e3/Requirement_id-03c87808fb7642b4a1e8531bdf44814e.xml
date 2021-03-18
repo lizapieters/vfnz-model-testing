@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0060"
+    id="id-03c87808fb7642b4a1e8531bdf44814e"
+    documentation="As a product owner, I want a customer's new subscription cycle to begin when they activate their SIM card, so they don't lose any days of their plan during the delivery period.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0060"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Setup"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Topic"
+      value="Pre provisioning plan start date"/>
+  <properties
+      key="Remarks"
+      value="Cycle should count from the moment of manual activation. Open pont: is this manual activation step necessary for business 4/11 aib: It is assumed that BSS will send the activation date/time to OSS. OSS will then hold the request until the requested date/time. Once the requested date/time is reached OSS will trigger the request to NaaS and will send the response/status change back to BSS. BSS can decide when to charge/bill the customer."/>
+  <properties
+      key="Module"
+      value="AIF, SC, OM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="REQ_OSS_31"/>
+</archimate:Requirement>

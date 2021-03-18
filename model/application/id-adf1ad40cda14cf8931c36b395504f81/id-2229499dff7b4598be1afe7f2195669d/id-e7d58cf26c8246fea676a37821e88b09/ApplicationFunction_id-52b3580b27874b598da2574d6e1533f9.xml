@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Case Tracking &amp; Management"
+    id="id-52b3580b27874b598da2574d6e1533f9"
+    documentation="The Case Tracking &amp; Management application handles the cases based on the definition and configuration established via the Case Definition and Configuration application. The Case Tracking &amp; Management application creates and manages case worklists and oversees the transfer (dispatch or assignment) of the case to appropriate internal applications or work groups, as well as affiliates or partners&amp; tracks the case until closed and notifies appropriate parties or applications when the case has been closed/completed.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="5.17.4"/>
+  <properties
+      key="Frameworx Domain"
+      value="Customer Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Create Port In Request"
+    id="id-000b94c722b2458ea07a7035123eab33"
+    documentation="The Create Port In Request is responsible for receiving and process Port In requests issued by customer orders.">
+  <properties
+      key="Process Identifier"
+      value="1.5.4.7.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Create Port In Request is responsible for receiving and process Port In requests issued by customer orders. The process allows a customer to come up with his/her number from a third CSP. Â  Responsibilities of these processes include, but are not limited to: â€¢Â Â Â Â  Issuing and reception of Port In request â€¢Â Â Â Â  Validating Port In request â€¢Â Â Â Â  Adding additional information toÂ Port InÂ request â€¢Â Â Â Â  Managing Port InÂ communication flow with Number Portability Clearinghouse"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

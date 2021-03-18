@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Message/Financial Account Matching"
+    id="id-7719eac6a6ff4b5aa93d40044bb91554"
+    documentation="The ability to associate messages with financial accounts.">
+  <properties
+      key="TMF_ID"
+      value="1.2.1.6.15"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Order/Facility Matching"
+    id="id-f794dfcb2edf4711b67cda653035952f"
+    documentation="The ability to associate an order with a facility.">
+  <properties
+      key="TMF_ID"
+      value="1.1.8.12.11"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

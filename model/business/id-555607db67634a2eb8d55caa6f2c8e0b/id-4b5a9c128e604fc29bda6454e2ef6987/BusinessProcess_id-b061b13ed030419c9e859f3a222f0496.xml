@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Undertake QoS/SLA Performance Trend Analysis"
+    id="id-b061b13ed030419c9e859f3a222f0496"
+    documentation="Not used for this process element">
+  <properties
+      key="Process Identifier"
+      value="1.2.6.9"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Undertake trend analysis, and producing reports, of the QoS performance of groups of like purchased product offerings to identify any longer term deterioration;"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

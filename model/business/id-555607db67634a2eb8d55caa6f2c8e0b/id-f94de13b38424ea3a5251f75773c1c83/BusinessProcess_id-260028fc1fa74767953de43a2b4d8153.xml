@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Suggest Capacity Demand Adjustment"
+    id="id-260028fc1fa74767953de43a2b4d8153"
+    documentation="Suggest adjustments to planned or actual capacity demand based on monitoring results.">
+  <properties
+      key="Process Identifier"
+      value="1.8.2.5.2.3"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Suggest Capacity Demand Adjustment determines what planned or actual capacity demand adjustments to suggest based on monitoring results. These are communicated to the Adjust Capacity process. For example, an increase in sales may mean that planned and actual capacity demand needs to be increased; a decrease in sales may mean that planned and actual capacity demand should be reduced. This may also have an impact on service and resource capacity and capacity demand. In case of using prediction model, suggested capacity demand adjustment may be predicted and planned in advanced for a specific time period in advanced to assure adjustment plan can meet capacity requirement."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

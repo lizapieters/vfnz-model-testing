@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop Sales Prospect"
+    id="id-2ebe9241f34043a4ad1c6c46bfcaf4b3"
+    documentation="Initiate interaction with a sales prospect, analyzes a prospect's needs and identifies potential solutions for them.">
+  <properties
+      key="Process Identifier"
+      value="1.1.11.3.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Develop Sales Prospect initiates contact with a sales prospect to acknowledge their interest via the Customer or Party Interaction Management process. It also analyzes a prospect's needs and identifies one or more potential product offerings for them. Offerings may expand or change any suggested product offerings that have already been provided to them."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

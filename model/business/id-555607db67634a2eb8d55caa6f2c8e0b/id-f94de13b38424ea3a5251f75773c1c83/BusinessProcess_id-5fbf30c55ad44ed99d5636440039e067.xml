@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Policy-based Product Offering Pricing"
+    id="id-5fbf30c55ad44ed99d5636440039e067"
+    documentation="Develop product offering pricing specific policy components used to determine the price of a product offering and to define cross-offering price policy rules.">
+  <properties
+      key="Process Identifier"
+      value="1.2.7.2.2.2"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Policy-based Product Offering Pricing develops product offering pricing specific policy components used to determine the price of a product offering and to define cross-offering price policy rules. This process develops pricing specific product offering price policy conditions, actions, variables and values. The price of a product is often dependent upon the procurement of another product for a particular price, another product offering, or another product offering of the same type. For example, if a premium software package is purchased then two from a choice of five other software packages are provided free. As with other pricing processes this process interacts with the Provide Product Offering Price Notification and Obtain Product Offering Price Approval processes to provide notifications and gain approval of any actions taken by this process. Note that this process is meant to use generic policy processes to define the base policy. These processes represent product offering pricing specific extensions to them. To date the generic processes have not yet been developed."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

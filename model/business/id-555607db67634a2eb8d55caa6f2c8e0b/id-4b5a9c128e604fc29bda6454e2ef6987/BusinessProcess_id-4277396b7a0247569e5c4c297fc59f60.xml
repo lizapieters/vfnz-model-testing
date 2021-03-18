@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Notify Customer Data Change"
+    id="id-4277396b7a0247569e5c4c297fc59f60"
+    documentation="Notify other processes that customer data has been changed">
+  <properties
+      key="Process Identifier"
+      value="1.3.6.3"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The purpose of this process is notify other processes that customer data has been changed. Other processes (mostly long-lived processes) might need to know about such changes in order to adapt to such changes. In addition some processes which gather the data for centralized systems (such as Data Warehouse or Master Data Management) should be notified about such changes."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

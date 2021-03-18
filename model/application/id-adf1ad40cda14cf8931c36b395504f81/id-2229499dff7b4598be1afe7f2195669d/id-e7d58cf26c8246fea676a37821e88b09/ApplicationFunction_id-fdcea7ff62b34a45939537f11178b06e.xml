@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Capital Lease Management"
+    id="id-fdcea7ff62b34a45939537f11178b06e"
+    documentation="Capital Lease Management applications provide the required functionality to enable the service provider Capital Services legal entity to support business customer purchases of our products and services by converting one-time, upfront costs into monthly payments.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="9.3.3"/>
+  <properties
+      key="Frameworx Domain"
+      value="Enterprise Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

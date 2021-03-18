@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Shipment Risk Level Determination"
+    id="id-289db68a54e44e819a36f5e694fe2dd5"
+    documentation="The Ability to identify and define the level of risk associated with a shipment.">
+  <properties
+      key="TMF_ID"
+      value="1.1.11.3.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

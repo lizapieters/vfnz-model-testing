@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Network Risk Management"
+    id="id-2d2d8f7797f74d048ca2b1c952e6ded0"
+    documentation="The ability to identify, assess, aggregate, articulate, and incorporate various exposures to harm, danger, or loss associated with a network.">
+  <properties
+      key="TMF_ID"
+      value="1.1.7.6"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

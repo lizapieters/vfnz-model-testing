@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Subscription Management"
+    id="id-211c1aba1c914133b65b29a955375e1e"
+    documentation="Customer Subscription Management provides the functionality necessary to store and make available the products and services presently being used by the customer.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.1.5"/>
+  <properties
+      key="TMF Function"
+      value="Customer Subscription repository"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

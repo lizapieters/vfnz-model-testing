@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Policy/Authored Item Matching"
+    id="id-3b6852065d6e420eb99879cc4e34f6fb"
+    documentation="The ability to associate a policy with an authored item.">
+  <properties
+      key="TMF_ID"
+      value="1.2.3.8.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

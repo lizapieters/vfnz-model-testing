@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legal Matter/Meeting Matching"
+    id="id-37522b87102445f5aa591c6f5502a5d4"
+    documentation="The ability to associate a legal proceeding with a specific event, meeting, hearing, or other occurrence concerning a legal proceeding.">
+  <properties
+      key="TMF_ID"
+      value="1.3.2.5.11"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Perform Soft Collections"
+    id="id-6a2a9fe3bffe4c46bf4d269906d51f4a"
+    documentation="Perform Soft Collections process acts as early warning of party that displays behavior that will result in them entering into collections if behavior is not addressed.">
+  <properties
+      key="Process Identifier"
+      value="1.6.16.1.5"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Perform Soft Collections process acts as early warning of party that displays behavior that will result in them entering into collections if behavior is not addressed. Based on late payment behavior, the party have not yet entered the formal collection process, but the resulting credit score drop from having an account in collections will directly impact future financial plans, as it may cause you to be denied large rebates, extended service offerings, especially if the collection is recent or remains unpaid (or both)."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

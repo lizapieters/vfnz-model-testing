@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="List all invoices"
+    id="id-d61d620207724a72a994f8d27b9d99f6"
+    documentation="The Listing all invoices function will list all invoices for a customer both over time and for customers with multiple invoices.">
+  <properties
+      key="Function Identifier"
+      value="63"/>
+  <properties
+      key="TAM Application Name"
+      value="Bill Inquiry"/>
+  <properties
+      key="TAM Application Id"
+      value="5.10.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.10.1.63"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Offer Configuration"
+    id="id-fbb2c9f6488545bfaacaef28f2e98cbf"
+    documentation="The Offer configuration function enables the configuration of the commercial offer chosen by the customer. The configuration verifies the technical / functional / commercial pre-requisites, compatibility constraints of this offer against the customer Installed Products. This function invokes a network function in order to check the technical feasibility and resource availability.">
+  <properties
+      key="TMF Category"
+      value="(4) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.3.1.2.2"/>
+  <properties
+      key="TMF Function"
+      value="Enable and verify Offer to Customer Handle inter product dependency"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

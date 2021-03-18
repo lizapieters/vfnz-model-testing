@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aggregates charges from different sources"
+    id="id-4e56e1d9febf4ba4b1454b23010791e8"
+    documentation="This function determines charges,( including reccuring, one time and usage charges) for purchased products and services in a given bill run based on the customer price plan set at time of the customer order/contract negotiation.">
+  <properties
+      key="Function Identifier"
+      value="183"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Bill Charge Calculation"/>
+  <properties
+      key="TAM Application Id"
+      value="5.15.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.15.1.183"/>
+</archimate:ApplicationFunction>

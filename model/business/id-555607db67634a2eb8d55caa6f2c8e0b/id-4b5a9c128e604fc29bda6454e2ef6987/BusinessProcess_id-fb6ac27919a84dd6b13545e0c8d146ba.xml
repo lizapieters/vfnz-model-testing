@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Produce &amp; Distribute Bill"
+    id="id-fb6ac27919a84dd6b13545e0c8d146ba"
+    documentation="Physical production and distribution of bills to customers in accordance with the specified billing cycle.">
+  <properties
+      key="Process Identifier"
+      value="1.3.9.3"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The purpose of the Produce &amp; Distribute Customer Bill Invoice process is the physical production and distribution of bills to customers in accordance with the specified billing cycle. This process is responsible for all activities associated with ensuring a physical bill is delivered to customers. The responsibilities of the process include, but are not limited to: â€¢ Establishing and managing the physical bill production cycle; â€¢ Establishing the requirements for, and managing the agreed commercial arrangements with, appropriate outsourced suppliers of the production and distribution capabilities; â€¢ Delivery of invoice information to the physical production processes; â€¢ Coordinating with promotional processes for any billing insertions to be included with the bill; â€¢ If internal processes are used, managing availability of paper and envelope volumes to meet the needs of the physical production process; â€¢ If internal production facilities are used, managing the production runs to create the bills â€¢ Quality management of the physical production and distribution processes. Note that in the above processes for establishing arrangements with outsourced other parties that the other party Capability Delivery processes are used as the vehicle for creating the commercial agreements."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

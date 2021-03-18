@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Workforce Development"
+    id="id-656e1a6425a546f982199e3b5a954382"
+    documentation="Develop employees to meet the needs of the business.">
+  <properties
+      key="Process Identifier"
+      value="1.7.7.4"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Workforce Development processes focus on development of employees to meet the needs of the business. These processes include competency modeling, skills assessment, job and employee strength profiling, succession planning, training development and delivery, career development, work design, employee recruitment, etc. These processes support both the overall enterprise and the needs of individual business units or functions."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

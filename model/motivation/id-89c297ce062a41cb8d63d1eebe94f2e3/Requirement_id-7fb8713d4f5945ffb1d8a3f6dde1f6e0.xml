@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0187"
+    id="id-7fb8713d4f5945ffb1d8a3f6dde1f6e0"
+    documentation="As a customer, I want to be able to use Txt a Park, so that I can use the service if I want to">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0187"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="N/A"/>
+  <properties
+      key="Base_Old"
+      value="N/A"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Use"/>
+  <properties
+      key="Topic"
+      value="Txt A Park"/>
+  <properties
+      key="Remarks"
+      value="Details discussed on a separate session."/>
+  <properties
+      key="Module"
+      value="OCS, AIF, PC, OM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="Yes"/>
+</archimate:Requirement>

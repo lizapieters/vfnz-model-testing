@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Payment"
+    id="id-19eaff9ff18b44c6905c76bf2e3012da"
+    documentation="The purpose of payment application is to accept customer payment via the customer service representative (CSR).">
+  <properties
+      key="TMF Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.6.3.2"/>
+  <properties
+      key="TMF Function"
+      value="CSR Balance/Invoice Payment CSR Pre-paid Recharge"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

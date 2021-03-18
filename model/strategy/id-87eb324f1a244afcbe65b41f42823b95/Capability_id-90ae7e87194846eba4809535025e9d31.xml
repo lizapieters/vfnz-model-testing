@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Capability Orchestration"
+    id="id-90ae7e87194846eba4809535025e9d31"
+    documentation="Resource Capability Orchestration application will perform automated Resource Task Item decomposition, integration of one or more resources, coordination, and management in resource deployment, resource instantiation and resource element updating. The application function fulfills the needs of orchestration for Operation Support &amp; Readiness, Fulfilment and Assurance domains applications in the Resource Layer with regards to Hybrid ecosystem.">
+  <properties
+      key="TMF Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="7.16"/>
+  <properties
+      key="TMF Function"
+      value="Resource Configuration and Onboarding Resource Instantiation and Lifecycle management support Resource Task Item Decomposition Resource Task Item Policy Control Configuration Resource Task Item Sequence Carry Through Resource Task Item Sequence Carry Through configuration Resource Task Item Sequence Control Resource Task Item Sequence Control Configuration"/>
+  <properties
+      key="TMF Maturity"
+      value="Resource Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

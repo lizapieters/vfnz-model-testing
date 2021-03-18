@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Human Resource/Payment Matching"
+    id="id-d315eaf0ce3848b18c83436857247a22"
+    documentation="The ability to associate a human resource with a payment.">
+  <properties
+      key="TMF_ID"
+      value="1.3.8.7.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

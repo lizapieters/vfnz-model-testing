@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analyze Customer or Other Party Trends"
+    id="id-d31d541399d64d43be300d142dd482c5"
+    documentation="Use ongoing analysis of customer or other party trends, such as usage, problems, complaints, to identify when the current product offerings may no longer be appropriate or when the opportunity for a larger sale arises.">
+  <properties
+      key="Process Identifier"
+      value="1.1.9.4.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Analyze Customer or Other Party Trends uses ongoing analysis of customer or other party trends, such as usage, problems, complaints, to identify when the current product offerings may no longer be appropriate, or when the opportunity for a larger sale arises. The purpose is to ensure that the value of the relationship with a customer or other party is maximized by selling additional or more of the existing, product offerings."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

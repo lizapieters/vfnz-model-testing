@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Facility Access Constraints Interpretation"
+    id="id-cfc556667458418a8b8d7ded9540b57f"
+    documentation="The ability to understand imposed access rights limitations for a given facility or set of facilities.">
+  <properties
+      key="TMF_ID"
+      value="1.3.14.4.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SOX compliance Auditing"
+    id="id-bff191684c334dfbadd938cc704bb5d2"
+    documentation="Auditing function for SOX compliance">
+  <properties
+      key="Function Identifier"
+      value="871"/>
+  <properties
+      key="TAM Application Name"
+      value="Auditing"/>
+  <properties
+      key="TAM Application Id"
+      value="9.3.10"/>
+  <properties
+      key="Constructed Id"
+      value="9.3.10.871"/>
+</archimate:ApplicationFunction>

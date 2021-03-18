@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0155"
+    id="id-d07c7630fc704872a7276cc62067c03e"
+    documentation="As a customer, I want to be able to change plan at any time, so that I have flexibility I need within Vodafone">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0155"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Use"/>
+  <properties
+      key="Topic"
+      value="Change plan"/>
+  <properties
+      key="Remarks"
+      value="OOTB, unused data buckets are remained? A nice to have: yes, the unused data bucket should be moved to the new plan for the remaining days. This and the following BUCs apply to subscription model. What about pre-paid and MVNO? There will be separate usecases about MVNOs."/>
+  <properties
+      key="Module"
+      value="SC, OM, PC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="Maybe"/>
+</archimate:Requirement>

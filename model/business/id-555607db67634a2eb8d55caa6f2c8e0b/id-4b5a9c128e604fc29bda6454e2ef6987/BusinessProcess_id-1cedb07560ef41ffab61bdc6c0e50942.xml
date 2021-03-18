@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Party Privacy Profile Agreement"
+    id="id-1cedb07560ef41ffab61bdc6c0e50942"
+    documentation="Establish the agreement between the Data Controller and the Data Subject">
+  <properties
+      key="Process Identifier"
+      value="1.6.7.4"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Party Privacy Profile Agreement and Amendment processes aims to provide processes to Data Subject Party to create the agreement between the Data Controller and the Data Subject on Privacy Policy Rules values, initialized by default in the Privacy Profile Type Development, and potentially modified by the Data Subject within Consent screens or Dashboard. This Process is used to prove the conformance with Laws&amp;Regulation, particularly showing the explicit consent and information about the Purposes and Retention of any PII&quot; It creates the agreement regarding the Privacy Management of a Data Subject. When subscribing to a service or product, or when a relationship is created with any Engaged Party , this Party has to agree with a Privacy Policy, originally coming from the default privacy policy of the company. Depending on the flexibility of the PII privacy attributes, the Party can agree on some parameters or change the setting to increase or decrease the Rules openness. It corresponds to the electronic version of the Terms of Service and Privacy Policy related to a Company and Service provided by this Company."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

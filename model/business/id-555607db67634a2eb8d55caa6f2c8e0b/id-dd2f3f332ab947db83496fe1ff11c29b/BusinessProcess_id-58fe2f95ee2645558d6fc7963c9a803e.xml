@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identify Data Collection Issues and Report"
+    id="id-58fe2f95ee2645558d6fc7963c9a803e"
+    documentation="Managing and Identifying any Data Collection capability issues and providing warnings.">
+  <properties
+      key="Process Identifier"
+      value="1.5.4.4.4"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="â€¢ Identifying any technical driven shortcomings of the resource data collection and resource data distribution infrastructures, and providing input to Resource Development &amp; Management processes to rectify these issues."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

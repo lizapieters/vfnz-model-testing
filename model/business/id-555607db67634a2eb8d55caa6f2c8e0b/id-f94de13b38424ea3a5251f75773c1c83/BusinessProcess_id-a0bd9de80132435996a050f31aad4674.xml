@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resolve Party Revenue Share Discrepancy"
+    id="id-a0bd9de80132435996a050f31aad4674"
+    documentation="Contacts a party regarding a discrepancy, work with the party to identify the cause of the discrepancy, and determine how to resolve the discrepancy.">
+  <properties
+      key="Process Identifier"
+      value="1.6.18.4.2.2"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Resolve Party Revenue Share Discrepancy contacts a party regarding a discrepancy, works with the party to identify the cause of the discrepancy, and determines how to resolve the discrepancy. Because different forms of information can be provided by a party other processes may be involved. For example, if an bill/invoice is provided by a party then the Party Bill Inquiry Handling process may be invoked; if a payment is provided then the Party Payment Handling process may be invoked; if a revenue share notification is provided then the Identify Party Revenue Share Adjustment process may be invoked."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Task Item Policy Control Configuration"
+    id="id-99d02d7e82f84d68a50c92fe99bea24e"
+    documentation="Define and configure the policies which will be implemented during the Service task item lifecycle.">
+  <properties
+      key="Function Identifier"
+      value="995"/>
+  <properties
+      key="TAM Application Name"
+      value="Service Capability Orchestration"/>
+  <properties
+      key="TAM Application Id"
+      value="6.11"/>
+  <properties
+      key="Constructed Id"
+      value="6.11.995"/>
+</archimate:ApplicationFunction>

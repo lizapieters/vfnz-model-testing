@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define Additional Catalog Specification Attributes"
+    id="id-310fbd645469443ea5e488ac0a7fed83"
+    documentation="Define, update, and remove additional attributes associated with a catalog specification.">
+  <properties
+      key="Process Identifier"
+      value="1.8.1.1.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Define Additional Catalog Specification Attribute defines, updates, and removes additional attributes, called characteristics, using a generalized set of processes to create the attributes. This process focuses on associating/disassociating them with a catalog specification, as well as update and removal of the attributes. For example, an additional attribute may represent the media, such as web, paper, electronic, used to publish the catalog."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

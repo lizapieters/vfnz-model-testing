@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Service Research"
+    id="id-bfb51cbd956c4a65b0e2d341707b5aa0"
+    documentation="Manage internally driven research investigations and activities which are used to provide detailed assessment or investigation of new and emerging service capabilities">
+  <properties
+      key="Process Identifier"
+      value="1.4.1.2"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Manage Service Research processes manage internally driven research investigations and activities which are used to provide detailed assessment or investigation of new and emerging service capabilities. The actual research activity may be totally internally delivered, or may be outsourced to external parties to perform the actual research activity. These processes manage the administration of the research activity, management of any research prioritization processes, define the assessment methodologies, administer any actual research contracts with external parties, and develop and manage any intellectual property and patent administration required for the service research activity. Note that the commercial arrangements with external parties are developed within the Engaged Party domain processes. Note that the actual legal arrangements, analysis and litigation surrounding intellectual property is managed within the Legal Management processes in the Enterprise Management process area."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

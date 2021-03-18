@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Facility Access Constraints Definition"
+    id="id-b4a743795ad1403c9aa409a59d76f1ea"
+    documentation="The ability to define and impose limitations of access rights to a given facility or set of facilities.">
+  <properties
+      key="TMF_ID"
+      value="1.3.14.4.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

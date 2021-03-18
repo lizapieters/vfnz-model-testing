@@ -1,0 +1,39 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Social Sentiment"
+    id="id-4f92fc078c374b9ab0ed642238d02ced"
+    documentation="UI integration. To be discussed. Assuming that customer has a social network profile, and his nickname is registered in CRM, the CRM will be able to fetch from Brandwatch &quot;Social status&quot; information and display on 360 view.">
+  <properties
+      key="Stereotype"
+      value="abstract_interface"/>
+  <properties
+      key="Southbound Required"
+      value="Y"/>
+  <properties
+      key="Importance"
+      value="1.x"/>
+  <properties
+      key="Area"
+      value="Digital"/>
+  <properties
+      key="Interface Type"
+      value="Marketing"/>
+  <properties
+      key="Pattern"
+      value="REST"/>
+  <properties
+      key="FWA"
+      value="NA"/>
+  <properties
+      key="Mobile"
+      value="NA"/>
+  <properties
+      key="Broadband"
+      value="NA"/>
+  <properties
+      key="Common"
+      value="NA"/>
+  <properties
+      key="Unexpected"
+      value="true"/>
+</archimate:ApplicationInterface>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Human Resource/Job Matching"
+    id="id-efa91ccdae8b4bcf9cbe41168e291566"
+    documentation="The ability to associate human resources with a job.">
+  <properties
+      key="TMF_ID"
+      value="1.3.8.7.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Maintain customer order versioning"
+    id="id-3f0402a2ef074c8686a3bd80775e5239"
+    documentation="Order Versioning Maintenance - Maintain order versioning including Tracking &amp; Logging of the changes made to a purchased product.">
+  <properties
+      key="Function Identifier"
+      value="212"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Order Lifecycle Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.3.6"/>
+  <properties
+      key="Constructed Id"
+      value="5.3.6.212"/>
+</archimate:ApplicationFunction>

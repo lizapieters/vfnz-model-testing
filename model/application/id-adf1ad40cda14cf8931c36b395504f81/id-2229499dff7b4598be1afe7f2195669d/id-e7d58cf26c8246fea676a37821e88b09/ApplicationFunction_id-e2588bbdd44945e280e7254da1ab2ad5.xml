@@ -1,0 +1,33 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RA Reporting"
+    id="id-e2588bbdd44945e280e7254da1ab2ad5"
+    documentation="RA Reporting provides the functionality to report on the status of Revenue Assurance activities, including the status of issues currently being monitored, analyzed, and remedied.  RA Reporting also reports on data derived from the fulfillment, assurance, and billing data collected for monitoring.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="9.1.6"/>
+  <properties
+      key="Frameworx Domain"
+      value="Enterprise Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+  <properties
+      key="Function Identifier"
+      value="767"/>
+  <properties
+      key="TAM Application Name"
+      value="RA Reporting"/>
+  <properties
+      key="TAM Application Id"
+      value="9.1.6"/>
+  <properties
+      key="Constructed Id"
+      value="9.1.6.767"/>
+</archimate:ApplicationFunction>

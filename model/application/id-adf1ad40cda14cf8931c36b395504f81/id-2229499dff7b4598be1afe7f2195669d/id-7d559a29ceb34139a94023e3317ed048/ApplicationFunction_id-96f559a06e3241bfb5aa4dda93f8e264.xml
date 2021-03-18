@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sales &amp; Marketing Reporting"
+    id="id-96f559a06e3241bfb5aa4dda93f8e264"
+    documentation="Overview: Sales &amp; Marketing Reporting provides insight into multiple aspects of Sales &amp; Marketing, including closed loop marketing, sales metrics, forecasting, sales workflow, funnel and pipeline activities and order handoffs.">
+  <properties
+      key="TAM Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="3.12"/>
+  <properties
+      key="Frameworx Domain"
+      value="Market Sales Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

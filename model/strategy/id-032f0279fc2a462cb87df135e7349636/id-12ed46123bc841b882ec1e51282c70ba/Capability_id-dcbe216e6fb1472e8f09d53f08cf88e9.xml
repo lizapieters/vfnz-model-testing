@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inquiry/Agreement Matching"
+    id="id-dcbe216e6fb1472e8f09d53f08cf88e9"
+    documentation="The ability to associate an inquiry with an agreement.">
+  <properties
+      key="TMF_ID"
+      value="1.3.12.5.16"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0055"
+    id="id-1e6c1597eef1462698005465f542a84f"
+    documentation="As an agent or chatbot, I want to be able to see and track a customer's order, so that I can assist them if they contact us I can help them">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0055"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="2"/>
+  <properties
+      key="Base_Old"
+      value="2"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Topic"
+      value="Order tracking"/>
+  <properties
+      key="Remarks"
+      value="What kind of chatbot is mentioned here? We don't see this on the integration list. Answer: yes, this will be an external chatbot. To be confirmed which one (probably Amazon Connect). To be discussed what details are needed to be passed to this system and in which places of the system should be connected."/>
+  <properties
+      key="Module"
+      value="AIF, CRM, OM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="Not Applicable"/>
+</archimate:Requirement>

@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collection"
+    id="id-758a4a0d5f024bdba872ac0119d7c267"
+    documentation="The purpose of collection application is to support the customer service representative (CSR) in collection activities. Most of the collection activities are executed automatically through Collection Management.">
+  <properties
+      key="TMF Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.6.3.1"/>
+  <properties
+      key="TMF Function"
+      value="Automated Collection Collection agent reassignment Collection inquiries Force account into collection Manual intervention in collection treatment Pause collection treatment Perform manual collection activities Resume collection treatment Stop collection treatment"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

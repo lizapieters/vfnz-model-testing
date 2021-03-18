@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Performance Management"
+    id="id-e6e715c188ef48a897daa57d56518c1a"
+    documentation="Manage, track, monitor, analyze, improve, and report on the performance of specific products.">
+  <properties
+      key="Process Identifier"
+      value="1.2.6"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Product Performance Management involves managing, tracking, monitoring, analyzing, improving and reporting on the performance of specific products. This includes undertaking proactive monitoring regimes of groups of similar purchased products as required to ensure ongoing performance within agreed parameters over time ."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

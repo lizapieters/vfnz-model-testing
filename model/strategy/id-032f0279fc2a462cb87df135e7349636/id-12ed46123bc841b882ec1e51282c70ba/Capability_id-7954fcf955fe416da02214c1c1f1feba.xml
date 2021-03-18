@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Strategy Risk Threshold Determination"
+    id="id-7954fcf955fe416da02214c1c1f1feba"
+    documentation="The ability to identify and define the level of acceptable risk associated with a strategy or set of strategies.">
+  <properties
+      key="TMF_ID"
+      value="1.2.9.6.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Close Party Order"
+    id="id-3595edacb931434da4682e85d83625a4"
+    documentation="Close a party order when it has been successfully completed">
+  <properties
+      key="Process Identifier"
+      value="1.6.8.7"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of the Close Party Order processes is to close a party order when it has been successfully completed. These processes monitor the status of all open party orders, and recognize that a party order is ready to be closed when the status is changed to completed. ."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

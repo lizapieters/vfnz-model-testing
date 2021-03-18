@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Adjust Available Capacity"
+    id="id-467d1dc48ba54777b8bb5cbb8f3c2b9e"
+    documentation="Analyze suggested planned and actual capacity adjustments. Make agreed upon adjustments based on the analysis. Advanced analytics tools and AI may help to analyze suggested planned and actual capacity adjustment.&#xA;Agreement process may be an automated process across domains to increase speed and accuracy of the decisions.">
+  <properties
+      key="Process Identifier"
+      value="1.8.2.6.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

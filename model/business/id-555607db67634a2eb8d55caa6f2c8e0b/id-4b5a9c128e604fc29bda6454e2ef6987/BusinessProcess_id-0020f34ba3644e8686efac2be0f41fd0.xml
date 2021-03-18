@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitor Resource Performance"
+    id="id-0020f34ba3644e8686efac2be0f41fd0"
+    documentation="Monitor received resource performance information and undertake first-in detection.">
+  <properties
+      key="Process Identifier"
+      value="1.5.9.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of the Monitor Resource Performance processes is to monitor received resource performance information and undertake first-in detection. The responsibilities of the processes include, but are not limited to: â€¢Undertaking the role of first in detection by monitoring the received specific resource performance data; â€¢Comparing the received specific resource performance data to performance standards set for each specific resource (available from the Resource Inventory); â€¢Assessing and recording received specific resource performance data which is within tolerance limits for performance standards, and for which continuous monitoring and measuring of specific resource performance is required; â€¢Recording the results of the continuous monitoring for reporting through the Report Resource Performance processes; â€¢Detecting performance threshold violations which represent specific resource failures due to abnormal performance; â€¢Passing information about resource failures due to performance threshold violations to Resource Trouble Management to manage any necessary restoration activity as determined by that process; â€¢Passing information about potential specific service performance degradations arising from specific resource degradations to Service Quality Management to manage any necessary restoration activity as determined by that process; â€¢Detecting performance degradation for specific resources which provide early warning of potential issues; â€¢Forwarding resource performance degradation notifications to other Resource Performance Management processes, which manage activities to restore normal specific resource performance â€¢Logging specific resource performance degradation and violation details within the repository in the Manage Resource Inventory processes to ensure historical records are available to support the needs of other processes."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

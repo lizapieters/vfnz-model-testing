@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HR Management"
+    id="id-c29692340d6e45ca97af27b09fc072ec"
+    documentation="HR Management provides the necessary functionality formanaging the service provider's workforce. This includes themeansfor improving workforce efficiency and productivity, planning futureworkforce needs, finding and developing the right talent, educating theworkforce to ensure each employee has the right skills and aligning corporatestrategies with team and individual goals">
+  <properties
+      key="TAM Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="9.2"/>
+  <properties
+      key="Frameworx Domain"
+      value="Enterprise Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

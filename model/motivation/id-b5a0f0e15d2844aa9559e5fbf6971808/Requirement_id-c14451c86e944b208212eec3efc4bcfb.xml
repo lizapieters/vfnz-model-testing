@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0607"
+    id="id-c14451c86e944b208212eec3efc4bcfb"
+    documentation="As a customer in a Vodafone store, I want to be able to have my card details saved for subscription billing after presenting them at POS, so that I can quickly buy a subscription without having to enter in my details manually.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0607"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Katie Desai"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="y"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Setup"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="setup"/>
+  <properties
+      key="Topic"
+      value="Save card details from POS for subscription billing"/>
+  <properties
+      key="Remarks"
+      value="to be investigated. Can be solved by integration with a payment provider?"/>
+  <properties
+      key="Module"
+      value="PIM, AP"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

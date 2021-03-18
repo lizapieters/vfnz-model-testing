@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TaxJurisdiction"
+    id="id-2618a5ceb7ba4041b05fb3af5d6b017e"
+    documentation="TaxJurisdiction is a specific party role played by an organization that has the authority to levy tax. The geographic area over which tax can be levied is derived from the base PartyRole class relationship to AdministrativeArea."/>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API Catalog Management"
+    id="id-bfbe8f825143465586005656753c2783"
+    documentation="Application Programming Interface Catalog Management function  is a technical/commercial API Catalogue as an implementation of Catalog Management (11.1) containing metadata related to: API creation driven by project definition templates and configuration wizards, API dependencies registry, API search, API contracts management, API proxies and stubs code-generators, etc.">
+  <properties
+      key="Function Identifier"
+      value="686"/>
+  <properties
+      key="TAM Application Name"
+      value="API Management"/>
+  <properties
+      key="TAM Application Id"
+      value="10.3"/>
+  <properties
+      key="Constructed Id"
+      value="10.3.686"/>
+</archimate:ApplicationFunction>

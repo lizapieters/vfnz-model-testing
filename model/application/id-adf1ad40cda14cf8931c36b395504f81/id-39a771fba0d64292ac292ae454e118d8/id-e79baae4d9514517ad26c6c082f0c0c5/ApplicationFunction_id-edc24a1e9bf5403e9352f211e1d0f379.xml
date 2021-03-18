@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Order Item Decomposition"
+    id="id-edc24a1e9bf5403e9352f211e1d0f379"
+    documentation="Customer Order Item Decomposition function prepares the customer order structure for breakdown into customer order items.">
+  <properties
+      key="Function Identifier"
+      value="723"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Order Item Decomposition"/>
+  <properties
+      key="TAM Application Id"
+      value="5.3.11.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.3.11.1.723"/>
+</archimate:ApplicationFunction>

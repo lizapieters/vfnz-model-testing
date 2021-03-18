@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Report Balanced Scorecard, etc."
+    id="id-fa441ae1ec9c4311b5352a40d764c170"
+    documentation="Provide regular reporting to senior management and the Board on the status of all defined performance metrics on a regular basis (usually monthly). These processes check that the goals defined for the enterprise are on track and being met. These processes produce the enterprise Balanced Scorecard. Also produce summary reports.">
+  <properties
+      key="Process Identifier"
+      value="1.7.3.4.4"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

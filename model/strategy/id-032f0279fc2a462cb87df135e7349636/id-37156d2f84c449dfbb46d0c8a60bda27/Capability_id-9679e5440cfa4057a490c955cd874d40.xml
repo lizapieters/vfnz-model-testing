@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financial Risk Determination"
+    id="id-9679e5440cfa4057a490c955cd874d40"
+    documentation="The ability to determine, define, and monitor threats and vulnerabilities related to the financial condition of the business.">
+  <properties
+      key="TMF_ID"
+      value="1.3.6.3"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

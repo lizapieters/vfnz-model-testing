@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Value Profiling segmentation"
+    id="id-7ca489b048694673b651edcc719689b8"
+    documentation="The Customer Value Profiling function comprises segmentation based on the customer value and/or lifetime value: Regrouping of the customers in relevant sets (even subsets) for Marketing. The segmentation criteria use the customer value, the customer lifetime value, the product and service uses (consumption behaviours).">
+  <properties
+      key="Function Identifier"
+      value="232"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Profiling"/>
+  <properties
+      key="TAM Application Id"
+      value="5.5.11"/>
+  <properties
+      key="Constructed Id"
+      value="5.5.11.232"/>
+</archimate:ApplicationFunction>

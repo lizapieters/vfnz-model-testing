@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Problem Management"
+    id="id-e069cb82a2a54bfca55feaa4e79bc61c"
+    documentation="Service Problem Management applications are responsible for receiving service affecting customer problems as well as network troubles/faults, relating the various problems, and resolving them in an efficient manner. The present operational status is made available as notifications for immediate action in case of significant operational deviation.">
+  <properties
+      key="TAM Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="6.5"/>
+  <properties
+      key="Frameworx Domain"
+      value="Service Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

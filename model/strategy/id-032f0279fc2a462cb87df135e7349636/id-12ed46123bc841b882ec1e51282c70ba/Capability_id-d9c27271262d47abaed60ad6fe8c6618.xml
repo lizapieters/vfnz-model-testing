@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agreement Term Management"
+    id="id-d9c27271262d47abaed60ad6fe8c6618"
+    documentation="The ability to establish, modify, and interpret a legally enforceable condition set forth within the bounds of an agreement.">
+  <properties
+      key="TMF_ID"
+      value="1.1.5.2.4"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Workforce Configuration and Setup"
+    id="id-5f5674ab831e44a1a6821c632f37c412"
+    documentation="Workforce Configuration and Setup applications provide the necessary functionality to appropriately configure the Workforce Management application, including the setup of working areas, staff information, activity types and related information, etc.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="7.12.5"/>
+  <properties
+      key="Frameworx Domain"
+      value="Resource Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

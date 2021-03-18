@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fallout dashboard auto logon capability"
+    id="id-bfd5abe8e195437d89a27d46323c6bb4"
+    documentation="Auto logon capability into various applications needed to analyze and fix fallout">
+  <properties
+      key="Function Identifier"
+      value="23"/>
+  <properties
+      key="TAM Application Name"
+      value="Fallout Technician Dashboard"/>
+  <properties
+      key="TAM Application Id"
+      value="11.2.4"/>
+  <properties
+      key="Constructed Id"
+      value="11.2.4.23"/>
+</archimate:ApplicationFunction>

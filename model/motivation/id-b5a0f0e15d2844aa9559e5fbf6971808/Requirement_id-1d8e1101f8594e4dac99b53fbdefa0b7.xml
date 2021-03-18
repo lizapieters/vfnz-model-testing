@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0967"
+    id="id-1d8e1101f8594e4dac99b53fbdefa0b7"
+    documentation="As Head of Tax I want to know that the new Comarch system will correctly calculate GST on supplies made by Vodafone NZ as an agent for another supplier.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0967"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Julia Rose"/>
+  <properties
+      key="Tribe"
+      value="Finance / Tax"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Tax"/>
+  <properties
+      key="Remarks"
+      value="What do you mean by &quot;as an agent for another supplier&quot;, should we seetle with MVNO? Waiting for input from Umesh/Julia"/>
+  <properties
+      key="Module"
+      value="BS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

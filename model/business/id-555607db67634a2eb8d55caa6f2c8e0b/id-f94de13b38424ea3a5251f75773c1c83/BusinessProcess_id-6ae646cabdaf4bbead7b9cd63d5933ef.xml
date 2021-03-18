@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Handle Carrier Cramming Content Partner Disputes"
+    id="id-6ae646cabdaf4bbead7b9cd63d5933ef"
+    documentation="Process that handles Content Business Party Cramming through identification, alarming (where some services are subcontracted), and correction. Carrier Cramming Content Partner Disputes process is responsible for detecting Cramming, triggering a Cramming Investigation against a Business Party and Tracking the resultant correction, resolution  or dispute.">
+  <properties
+      key="Process Identifier"
+      value="1.6.15.4.6.1"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Cramming is a form of fraud in which small (often indiscernible) charges are added to a bill by a third party without the subscriber's consent or disclosure. These may be disguised as a tax or some other common fee, and may be several euros/dollars/ other currency or even just a few cents. This process describes the actions that are taken towards the 1) partner, 2) affected partners 3) public communication. Since cramming is occurring often, and are almost impossible to avoid, most mature CSPs have a predefined process for handling it. Sub Processes include Carrier Cramming Content Partner Escalations - Financial Escalation procedure and corrective financial actions if cramming is not rectified over a longer period of time."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

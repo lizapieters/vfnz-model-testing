@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Accept Party Order"
+    id="id-7baf81d6479542fdae2e9b359b8e87aa"
+    documentation="These processes report and document on acceptance, and record final acceptance of party deliveries.">
+  <properties
+      key="Process Identifier"
+      value="1.6.8.4.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="These processes report and document on acceptance, and record final acceptance of party deliveries. The actual performance of any acceptance testing and/or commissioning activities by the service provider is managed within the appropriate process(es) as required. The party delivery acceptance may involve co-ordination with internal processes, where the supplied specific resource, service or product forms part of a composite, or is to be onward shipped."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

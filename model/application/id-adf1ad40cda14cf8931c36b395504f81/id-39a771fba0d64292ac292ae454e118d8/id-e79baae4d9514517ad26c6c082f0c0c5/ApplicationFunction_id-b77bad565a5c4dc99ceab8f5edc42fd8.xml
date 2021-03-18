@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resolving Customer Problem Support"
+    id="id-b77bad565a5c4dc99ceab8f5edc42fd8"
+    documentation="Support Problem resolution with the following data to resolve the customer problem: &#xA;o Customer Topology and inventory type data (e.g., logical and physical inventory) &#xA;o Customer Information including the business organizational hierarchy &#xA;o Change Management data &#xA;o Customer Service Order data">
+  <properties
+      key="Function Identifier"
+      value="219"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Problem Diagnostics"/>
+  <properties
+      key="TAM Application Id"
+      value="5.8.3"/>
+  <properties
+      key="Constructed Id"
+      value="5.8.3.219"/>
+</archimate:ApplicationFunction>

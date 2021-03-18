@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Update Network Service"
+    id="id-29bb71a7a9904bd6b94ed750300a0938"
+    documentation="Update configuration of a constituent instances of network service.">
+  <properties
+      key="Process Identifier"
+      value="1.5.8.3.8.8"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of &quot;Update Network Service&quot; process is to activate deployed network connectivity which are constituents of healed network service."/>
+  <properties
+      key="Maturity Level"
+      value="2"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

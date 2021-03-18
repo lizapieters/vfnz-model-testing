@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Configuration Specification Management"
+    id="id-e54f7b3557f44af5ac7d6306dba9b13c"
+    documentation="Define, modify, and remove a configuration specification that defines how an entity, such as a product, service, or resource functions.">
+  <properties
+      key="Process Identifier"
+      value="1.8.3.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Configuration Specification Management defines, modifies, and removes a configuration specification that defines how an entity, such as a product, service, or resource functions. A configuration specification can be associated with a policy that determines if the specification should be used, contains parameters that represent the details of how an entity functions, constraints that can be used to select the value of a parameter, as well as relationships that a configuration specification has with one or more other configuration specifications."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

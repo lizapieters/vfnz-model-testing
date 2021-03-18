@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Party Payment Method"
+    id="id-0f1ec8eefa3d462d94c57f6e9b915dc5"
+    documentation="Define and manage a method by which an individual party may make an inbound and/or outbound payment.">
+  <properties
+      key="Process Identifier"
+      value="1.6.16.1.2.2"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Manage Party Payment Method defines and manages a method by which an individual party may make an inbound and/or outbound payment. The payment method may be described by a party payment method specification. Payment methods include cash, check, various bank cards, such as debit and credit cards, and various forms of digital payment methods, such as PayPal. A payment method may also be associated with a party payment plan when a plan is set up for a party."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

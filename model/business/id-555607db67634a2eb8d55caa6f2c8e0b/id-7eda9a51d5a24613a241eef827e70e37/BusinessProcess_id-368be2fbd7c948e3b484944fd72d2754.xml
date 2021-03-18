@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Development &amp; Retirement"
+    id="id-368be2fbd7c948e3b484944fd72d2754"
+    documentation="Develop new, or enhance existing technologies and associated resource types, so that new Services can be developed.">
+  <properties
+      key="Process Identifier"
+      value="1.5.3"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Resource Development &amp; Retirement processes develop new, or enhance existing technologies and associated resource types, so that new Products are available to be sold to customers. They use the capability definition or requirements defined by Resource Strategy &amp; Planning They also decide whether to acquire resources from outside, taking into account the overall business policy in that respect. These processes also retire or remove technology and associated resource types, which are no longer required by the enterprise. Resource types may be built, or in some cases leased from other parties. To ensure the most efficient and effective solution can be used, negotiations on network level agreements with other parties are paramount for both building and leasing. These processes interact strongly with Product and Engaged Party Development processes."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

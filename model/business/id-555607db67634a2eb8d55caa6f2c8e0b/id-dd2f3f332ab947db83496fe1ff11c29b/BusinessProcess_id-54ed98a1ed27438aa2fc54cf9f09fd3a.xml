@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Track, Monitor and Manage Service Problem Processes"
+    id="id-54ed98a1ed27438aa2fc54cf9f09fd3a"
+    documentation="Track, monitor and assess the service performance management processes and associated costs and report.">
+  <properties
+      key="Process Identifier"
+      value="1.4.4.3.4"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="â€¢ Tracking and monitoring of the Service Problem Management processes and associated costs, and reporting on the capability of the Service Problem Management processes;"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

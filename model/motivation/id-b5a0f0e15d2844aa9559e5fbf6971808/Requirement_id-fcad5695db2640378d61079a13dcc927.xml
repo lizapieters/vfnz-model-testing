@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0899"
+    id="id-fcad5695db2640378d61079a13dcc927"
+    documentation="As a Treasury Analyst I want visibility of what has been journalled to the clearing journal so that we can reconcile">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0899"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Catherine McMurtrie"/>
+  <properties
+      key="Tribe"
+      value="Finance / Treasury"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="y"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Reporting"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Treasury/Payments"/>
+  <properties
+      key="Remarks"
+      value="This is about general ledger and subledger accounts. Kiri to check how to approach this in case of subscription model"/>
+  <properties
+      key="Module"
+      value="BS, REP"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

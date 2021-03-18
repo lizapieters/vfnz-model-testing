@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Warehouse stock level projections"
+    id="id-5eb7d458f9a34b83ab9ce08e0472f2b6"
+    documentation="Warehouse stock level projections coordinate the availability and deployment of resources to their in-service locations while seeking to minimize stocking levels">
+  <properties
+      key="Function Identifier"
+      value="481"/>
+  <properties
+      key="TAM Application Name"
+      value="Resource Logistics"/>
+  <properties
+      key="TAM Application Id"
+      value="7.5.4"/>
+  <properties
+      key="Constructed Id"
+      value="7.5.4.481"/>
+</archimate:ApplicationFunction>

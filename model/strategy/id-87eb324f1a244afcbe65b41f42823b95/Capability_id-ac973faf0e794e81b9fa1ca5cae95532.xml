@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Test Strategy and Policy Management"
+    id="id-ac973faf0e794e81b9fa1ca5cae95532"
+    documentation="Resource Test Strategy and Policy Management applications provides the necessary functionality to manage the rules that define the strategies for conducting various resource tests.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="7.11.1"/>
+  <properties
+      key="TMF Function"
+      value="Resource Test result interpretation policy management Resource Test rules defining"/>
+  <properties
+      key="TMF Maturity"
+      value="Resource Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

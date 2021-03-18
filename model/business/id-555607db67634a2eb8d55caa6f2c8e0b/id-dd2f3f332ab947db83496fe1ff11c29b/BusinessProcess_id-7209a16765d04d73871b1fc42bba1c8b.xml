@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Clear Service Performance Degradation Report Status"
+    id="id-7209a16765d04d73871b1fc42bba1c8b"
+    documentation="This process informs the Close Service Performance Degradation Report process by modifying the Service Performance Degradation Report status to cleared when the specific service performance quality issues have been resolved.">
+  <properties
+      key="Process Identifier"
+      value="1.4.7.6.6"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

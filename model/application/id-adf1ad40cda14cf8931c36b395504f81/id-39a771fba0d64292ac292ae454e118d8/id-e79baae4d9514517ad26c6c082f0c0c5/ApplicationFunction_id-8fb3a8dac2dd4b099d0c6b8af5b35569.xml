@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CSR Front End Payment Support"
+    id="id-8fb3a8dac2dd4b099d0c6b8af5b35569"
+    documentation="A CSR payment function provides front end functionality for the CSR in their day to day billing related activities.">
+  <properties
+      key="Function Identifier"
+      value="171"/>
+  <properties
+      key="TAM Application Name"
+      value="CSR Billing"/>
+  <properties
+      key="TAM Application Id"
+      value="5.6.3"/>
+  <properties
+      key="Constructed Id"
+      value="5.6.3.171"/>
+</archimate:ApplicationFunction>

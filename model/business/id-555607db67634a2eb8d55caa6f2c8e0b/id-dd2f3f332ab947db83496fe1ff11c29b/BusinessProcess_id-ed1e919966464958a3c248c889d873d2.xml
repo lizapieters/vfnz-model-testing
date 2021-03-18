@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Amend Loyalty Program"
+    id="id-ed1e919966464958a3c248c889d873d2"
+    documentation="Amend a loyalty program's earning methods, rewards, tiers, partners, and so forth.">
+  <properties
+      key="Process Identifier"
+      value="1.1.19.1.8"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Amend Loyalty Program amends any aspect of a loyalty program, such as earning methods, rewards, tiers, partners, and so forth. It uses the Develop Loyalty Program sub-processes to make the updates (amendments) to the program. It interacts with Marketing Communications to let the market and participants know about updates to program, such as addition of co-branded card and changes in rewards. It also obtains approval for the amendments and, if updates are substantial, may go through the Loyalty Program Acceptance Testing and Loyalty Program Launch/Rollout processes."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

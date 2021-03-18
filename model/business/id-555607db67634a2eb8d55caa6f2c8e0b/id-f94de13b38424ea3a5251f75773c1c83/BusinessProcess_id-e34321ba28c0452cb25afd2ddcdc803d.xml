@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Convert Roaming Standard"
+    id="id-e34321ba28c0452cb25afd2ddcdc803d"
+    documentation="Convert Roaming Standard Process handles different settlement and billing formats, signaling standards, switching incompatibilities, proprietary extensions and other technology issues.">
+  <properties
+      key="Process Identifier"
+      value="1.6.15.4.8.2"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Convert Roaming Standard Process handles different settlement and billing formats, signaling standards, switching incompatibilities, proprietary extensions and other technology issues."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collection Actions- Issue write off"
+    id="id-b108276ca5e54d2db1854c9699f1f052"
+    documentation="Issue write-offs (in order to close the dunning file) and to inform the Account Receivable system about the entries to be done.">
+  <properties
+      key="Function Identifier"
+      value="154"/>
+  <properties
+      key="TAM Application Name"
+      value="Collection Policy Execution and Monitoring"/>
+  <properties
+      key="TAM Application Id"
+      value="5.14.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.14.2.154"/>
+</archimate:ApplicationFunction>

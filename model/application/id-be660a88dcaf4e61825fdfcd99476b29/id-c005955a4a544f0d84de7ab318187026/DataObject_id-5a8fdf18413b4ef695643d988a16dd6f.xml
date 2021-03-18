@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LoyaltyEvent"
+    id="id-5a8fdf18413b4ef695643d988a16dd6f"
+    documentation="The different types of LoyaltyEvent may be event that occurs on BillingAccount (Ex: amount of Invoice; recurring charge); on PartyRole (Ex: CustomerProductOrder amount); on Products (Ex: monthly international usage volume)."/>

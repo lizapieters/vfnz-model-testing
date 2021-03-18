@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitor Planned Capacity Demand"
+    id="id-d400f8d3b65045229a52e1f9b99e4453"
+    documentation="Monitor planned capacity demand and provide results to the Suggest Capacity Demand Adjustment process.">
+  <properties
+      key="Process Identifier"
+      value="1.8.2.5.2.1"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Monitor Planned Capacity Demand monitors planned capacity demand and provides results to the Suggest Capacity Demand Adjustment process. Monitoring includes analyzing planned capacity, what has been allocated to planned capacity demand, and planned capacity demand. It may result in identifying the need for an increase or decrease in planned capacity demand. It also looks at other sources, such as sales forecasts that may impact both capacity and demand. For example, if sales forecasts for an offering increases then planned demand for the offering should be increased as a result."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

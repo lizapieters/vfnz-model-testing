@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LogicalResourceSpecVersion"
+    id="id-96696257f8e64431b465889bbffc86a8"
+    documentation="The purpose of this class is to be able to track LogicalResourceSpecifications separately from other types of ResourceSpecifications. Note that this class inherits the modifiesResourceSpec aggregation; and therefore can be used with the corresponding LogicalResourceSpecification class."/>

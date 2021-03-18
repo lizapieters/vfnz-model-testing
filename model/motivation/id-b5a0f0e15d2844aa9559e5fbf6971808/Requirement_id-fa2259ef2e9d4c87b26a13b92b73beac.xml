@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0643"
+    id="id-fa2259ef2e9d4c87b26a13b92b73beac"
+    documentation="The Collections solution shall hold the following customer data:&#xA;1.&#x9;Identity (name, address, date of birth)&#xA;2.&#x9;Authentication details (username, password, PINs)&#xA;3.&#x9;Contact details (email, fixed, mobile)&#xA;4.&#x9;Primary contact (in case of multiple contact options)&#xA;5.&#x9;Preferred method / time of contact (esp. for pre-delinquency)">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0643"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Jasmin Khambata"/>
+  <properties
+      key="Tribe"
+      value="Collections"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Collections"/>
+  <properties
+      key="Remarks"
+      value="Will need to discuss the actual data in more detail in LLD specifically with a reference to some privacy requirements and what customer details we can or want to capture Why would you like to hold authentication details in Collection solution? User has to be authenticated when calls VF. VFNZ AP: To be confirmed how user has to be authenticated"/>
+  <properties
+      key="Module"
+      value="BS,TUM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

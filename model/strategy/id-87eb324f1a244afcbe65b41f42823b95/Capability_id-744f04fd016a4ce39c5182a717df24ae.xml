@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transportation &amp; Travel Service"
+    id="id-744f04fd016a4ce39c5182a717df24ae"
+    documentation="Online Reservations and Agent-Assisted Bookings providing a robust online booking tool.Transportation Management function that provide planning of materials to be shipped to and from different locations.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.9.5"/>
+  <properties
+      key="TMF Function"
+      value="Online Travel Booking Tool Transportation Management"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

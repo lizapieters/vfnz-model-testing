@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Maturity Assessment"
+    id="id-e33fca5c120e4889b744142b712b91e0"
+    documentation="Define the maturity matrix, analyze Key Capability Indicators, and determine maturity level for each dimension.">
+  <properties
+      key="Process Identifier"
+      value="1.7.8.2"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Maturity Assessment Processes defines the maturity matrix, analyze Key Capability Indicators, and determines the maturity level for each dimension."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

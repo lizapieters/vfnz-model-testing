@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transfer Party Account Balance Amount"
+    id="id-44451737f79c41378161897ce348772f"
+    documentation="Transfer an amount from one party account balance to another party account balance">
+  <properties
+      key="Process Identifier"
+      value="1.6.16.2.5"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

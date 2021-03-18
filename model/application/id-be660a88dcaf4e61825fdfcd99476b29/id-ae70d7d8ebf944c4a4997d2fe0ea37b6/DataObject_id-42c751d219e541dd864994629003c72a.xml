@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SystemCard"
+    id="id-42c751d219e541dd864994629003c72a"
+    documentation="This is a type of Card that is dedicated to providing system functions. Main processor boards and controller boards are examples of this type of Card. The SID differentiates between this and other types of Cards; such as NetworkCards and MemoryCards."/>

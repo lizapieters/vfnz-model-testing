@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RevenueAssuranceResponseSpec"
+    id="id-2579343cbb594447ac8738e9bfa65d31"
+    documentation="The invariant characteristics of a RevenueAssuranceResponse. Each related RevenueAssuranceResponse instance will have the same invariant characteristics. However; the values associated with other characteristics of the instantiated RevenueAssuranceResponse are specific to each instance."/>

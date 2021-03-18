@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Party Bill/Invoice Archive"
+    id="id-7d02f13d396c425da18a1782b9dd924e"
+    documentation="Store a party bill/invoice for a period of time to address regulation and/or internal requirements, during which it can be accessed to support any party, such as a government/regulator agency or internal party, inquiries about a bill/invoice.">
+  <properties
+      key="Process Identifier"
+      value="1.6.15.3.4"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Manage Party Bill/Invoice Archive Additionally temporarily stores a party bill/invoice for a period of time to address regulation and/or internal requirements, during which it can be accessed to support any party or regulator agency inquiries about a bill/invoice. It handles the receipt and query of a regulatory/government request or from some other party (internal and external), fulfilling the information request (either predetermined or unique) for a specific party. This can be due to bankruptcy or investigations of other nature, and may lead to the providing financial information for a party. Typically the bills/invoices over a given period, such as a year, are requested, but the requests can be varied in nature, for example balances, payment regularity, and so forth. These processes are usually only known to people with sufficient security clearance."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

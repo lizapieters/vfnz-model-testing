@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Activate Resource"
+    id="id-5f69f9191b36495c8151c8e3cb76ae2f"
+    documentation="This process assesses and plans the approach to be undertaken for activation.  It re-uses standard activation processes applicable to specific resources.   It provides notifications as required if the activation activity requires a planned outage or is likely to initiate false specific resource alarm event notifications.   At the successful conclusion of this activity, the status of the specific resources will be changed from allocated to activated, which means they are in-use.">
+  <properties
+      key="Process Identifier"
+      value="1.5.6.2.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PhysicalDeviceAtomic"
+    id="id-656f75941e1b4af6af28600e38f0d76a"
+    documentation="This is a concrete base class for representing hardware devices that can be managed that contains no sub-ordinate devices. In other words; this physical device is a stand-alone physical device. This class represents a convenient aggregation point for combining different aspects of a device (e.g.; its physical composition as well as the set of services that it offers). It also enables the device itself to have a physical manifestation. Examples of this class include routers and switches; computers; and other end-devices that are managed."/>

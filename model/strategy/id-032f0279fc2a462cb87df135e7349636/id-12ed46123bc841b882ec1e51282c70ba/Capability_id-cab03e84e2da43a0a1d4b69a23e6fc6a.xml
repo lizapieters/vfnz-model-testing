@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Incident Risk Level Determination"
+    id="id-cab03e84e2da43a0a1d4b69a23e6fc6a"
+    documentation="The ability to identify and define the level of risk associated with an incident.">
+  <properties
+      key="TMF_ID"
+      value="1.3.11.3.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

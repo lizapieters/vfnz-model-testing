@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PerformanceSpecification"
+    id="id-b1e2afdca63441f3b5fb64d03d88085e"
+    documentation="The invariant characteristics that define a measure that deterimines how a Service and/or Resource is functioning. Each related Performance instance will have the same invariant characteristics. However; the values associated with other characteristics of the instantiated Performance entity are specific to each instance."/>

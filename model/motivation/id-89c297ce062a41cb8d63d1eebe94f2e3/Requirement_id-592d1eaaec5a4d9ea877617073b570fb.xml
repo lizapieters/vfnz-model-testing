@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0659"
+    id="id-592d1eaaec5a4d9ea877617073b570fb"
+    documentation="As a website manger, I want stock levels of products (hardware, SIM cards, accessories) to be automatically linked to our warehouse &amp; store stock levels, so that we only allow customers to purchase products which are in stock, or the customer knows they're purchasing something on back order with estimated delivery date.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0659"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1 &amp; 2"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Topic"
+      value="Terminals"/>
+  <properties
+      key="Remarks"
+      value="Integration with stock assumed."/>
+  <properties
+      key="Module"
+      value="AIF, DS, SC"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

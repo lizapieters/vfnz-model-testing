@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Problem Prioritization"
+    id="id-4a8e88dc864e45828d7b3fc5e8a495aa"
+    documentation="Prioritization of currently open service problems, giving consideration to problem impact, service level agreement, etc. The function will send notifications to operations applications for manual or automatic mitigation or correction.">
+  <properties
+      key="Function Identifier"
+      value="610"/>
+  <properties
+      key="TAM Application Name"
+      value="Service Problem Analysis"/>
+  <properties
+      key="TAM Application Id"
+      value="6.5.3"/>
+  <properties
+      key="Constructed Id"
+      value="6.5.3.610"/>
+</archimate:ApplicationFunction>

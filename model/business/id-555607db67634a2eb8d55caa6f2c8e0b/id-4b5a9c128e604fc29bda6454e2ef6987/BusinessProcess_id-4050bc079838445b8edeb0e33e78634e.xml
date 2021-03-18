@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Initiate Party Performance Degradation Report"
+    id="id-4050bc079838445b8edeb0e33e78634e"
+    documentation="Report specific performance issues to a party.">
+  <properties
+      key="Process Identifier"
+      value="1.6.11.5"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Initiate Party Performance Degradation Report reports specific performance issues to a party. These performance issues are passed to the Party Performance Management processes from either the Service Quality Management and Resource Performance Management Track and Manage processes as well as from Monitor &amp; Control Party Performance. The party performance degradation report contains the originating service and/or resource performance degradation report or performance degradation report identifier to allow for appropriate linking to the processes which originally caused the party performance degradation report to be initiated."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

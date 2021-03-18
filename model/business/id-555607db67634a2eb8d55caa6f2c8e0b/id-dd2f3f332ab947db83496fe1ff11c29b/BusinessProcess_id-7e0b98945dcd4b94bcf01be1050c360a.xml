@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provide Party Problem Change Notification"
+    id="id-7e0b98945dcd4b94bcf01be1050c360a"
+    documentation="Manage party problem notifications to other processes and to other parties.">
+  <properties
+      key="Process Identifier"
+      value="1.6.10.7.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Provide Party Problem Change Notification manages party problem notifications to other processes and to other parties. A notification may be made to other processes and/or to other parties, including partners, registered to receive notifications of any status changes. Note that lists of contacts related to a process such as this can be maintained by a generalized process such as Process Management &amp; Support that is part of Enterprise Effectiveness Management in the Enterprise domain."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

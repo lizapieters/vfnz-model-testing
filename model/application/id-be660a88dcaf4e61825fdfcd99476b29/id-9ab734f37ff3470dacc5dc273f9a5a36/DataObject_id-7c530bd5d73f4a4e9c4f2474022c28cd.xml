@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BrokerCoordinationDetails"
+    id="id-7c530bd5d73f4a4e9c4f2474022c28cd"
+    documentation="This class implements the semantics of the BrokerCoordinates association; which defines which PolicyServers are coordinated by which PolicyBrokers. This association defines the set of PolicyServers that this PolicyBroker coordinates the actions of."/>

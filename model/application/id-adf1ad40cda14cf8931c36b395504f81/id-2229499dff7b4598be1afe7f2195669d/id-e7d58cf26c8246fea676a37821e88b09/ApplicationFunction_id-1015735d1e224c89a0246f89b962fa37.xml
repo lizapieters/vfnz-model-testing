@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Jeopardy Management"
+    id="id-1015735d1e224c89a0246f89b962fa37"
+    documentation="This is a function that should be found in any process or workflow management system and warns when a delay in the due date of a task or process step will prevent subsequent tasks from starting, or affect the overall end date of the process.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="7.5.3"/>
+  <properties
+      key="Frameworx Domain"
+      value="Resource Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Open Customer SLA violation tracking"
+    id="id-9298ab94776b4e779505a673edbb6644"
+    documentation="Customer SLA Violation Management function to track and manage open Customer SLA  issues.">
+  <properties
+      key="Function Identifier"
+      value="299"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer SLA Violation Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.18.4"/>
+  <properties
+      key="Constructed Id"
+      value="5.18.4.299"/>
+</archimate:ApplicationFunction>

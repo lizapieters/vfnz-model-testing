@@ -1,0 +1,39 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Natural Language Processing/Natural Language Understanding"
+    id="id-75b61311b6a04214b211bfc6f3d83f93"
+    documentation="VF ongoing commitment to provide all inclusive tools">
+  <properties
+      key="Stereotype"
+      value="abstract_interface"/>
+  <properties
+      key="Southbound Required"
+      value="Y"/>
+  <properties
+      key="Importance"
+      value="1.x"/>
+  <properties
+      key="Area"
+      value="Data and AI"/>
+  <properties
+      key="Interface Type"
+      value="0"/>
+  <properties
+      key="Pattern"
+      value="0"/>
+  <properties
+      key="FWA"
+      value="0"/>
+  <properties
+      key="Mobile"
+      value="0"/>
+  <properties
+      key="Broadband"
+      value="0"/>
+  <properties
+      key="Common"
+      value="0"/>
+  <properties
+      key="Unexpected"
+      value="true"/>
+</archimate:ApplicationInterface>

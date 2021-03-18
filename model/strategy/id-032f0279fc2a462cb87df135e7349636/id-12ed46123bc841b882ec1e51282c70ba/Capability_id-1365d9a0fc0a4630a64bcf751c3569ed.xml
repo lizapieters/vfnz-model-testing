@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Network Modeling"
+    id="id-1365d9a0fc0a4630a64bcf751c3569ed"
+    documentation="The ability to create approximations of a network, or particular parts, in order to determine feasibility and/or applicability of the design.">
+  <properties
+      key="TMF_ID"
+      value="1.1.7.2.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

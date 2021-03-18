@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Shipment/Route Matching"
+    id="id-588dec71e8394aba8868ed0e3a4c2606"
+    documentation="The Ability to associate a shipment with a route.">
+  <properties
+      key="TMF_ID"
+      value="1.1.11.6.5.6"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

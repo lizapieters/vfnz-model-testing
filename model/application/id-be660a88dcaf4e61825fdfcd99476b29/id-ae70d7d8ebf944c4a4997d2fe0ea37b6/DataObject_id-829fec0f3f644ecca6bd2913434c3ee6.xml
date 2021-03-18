@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CardOnCardDetails"
+    id="id-829fec0f3f644ecca6bd2913434c3ee6"
+    documentation="This association class represents the semantics of the CardOnCard aggregation. It defines an attribute that describes how the Card is mounted on or plugged into the other Card.This aggregation defines Cards that can accept (but not require) an additional Card to augment the base functionality of the hosting Card."/>

@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0983"
+    id="id-e46feb6e96fb49478fe7ac23fb600c0c"
+    documentation="As a Billing Specialist, I require the ability to choose mail as an option for invoice deliery (as an exception for specific large customers, not available to all)">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0983"/>
+  <properties
+      key="Status"
+      value="Abandoned"/>
+  <properties
+      key="Created by"
+      value="Kurt Harniss"/>
+  <properties
+      key="Tribe"
+      value="Finance &amp; Business / Billing"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Billing"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Billing"/>
+  <properties
+      key="Remarks"
+      value="We assume that pdfs are created and sent to printhouse, correct? Kiri: update that Jared advised printed bills are not in scope of DX."/>
+  <properties
+      key="Module"
+      value="EP,CRM, BS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

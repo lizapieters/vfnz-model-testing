@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Account details to BI reporting"
+    id="id-2bfa59ab4bfc44e8aa33228bc1e31c6f"
+    documentation="Financial Reporting also prepares account revenue details to be gathered into Business Intelligence data warehouse to facilitate decision support.">
+  <properties
+      key="Function Identifier"
+      value="730"/>
+  <properties
+      key="TAM Application Name"
+      value="Financial Reporting"/>
+  <properties
+      key="TAM Application Id"
+      value="5.9.3"/>
+  <properties
+      key="Constructed Id"
+      value="5.9.3.730"/>
+</archimate:ApplicationFunction>

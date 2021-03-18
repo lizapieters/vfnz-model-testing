@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Quality Collection &amp; Monitoring"
+    id="id-aefddf27b0ca4b8d80599b0f4c74bac0"
+    documentation="Service Quality Collection &amp; Monitoring collects service quality related information from established sources, including service performance management, service problem management, third parties, and customers. Collected data is logged for further analysis and monitored for direct notification in case of significant quality deviation.">
+  <properties
+      key="Function Identifier"
+      value="620"/>
+  <properties
+      key="TAM Application Name"
+      value="Service Quality Collection &amp; Monitoring"/>
+  <properties
+      key="TAM Application Id"
+      value="6.9.2"/>
+  <properties
+      key="Constructed Id"
+      value="6.9.2.620"/>
+</archimate:ApplicationFunction>

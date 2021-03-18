@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IPVersionVariable"
+    id="id-9c5280182cae49838b8f670c3846268a"
+    documentation="This class represents filtering on a particular version of the IP protocol as part of a condition expression. Thus; only BitStringValue and IntegerValue classes can be used in the value portion of the condition expression with this PolicyVariable."/>

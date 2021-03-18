@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PhysicalFirewallRole"
+    id="id-003cfcbef5ef446f8a48bb6c24318620"
+    documentation="This is a physical role that a device can play. It enables us to correlate physical components that are used to perform firewall functions with the logical capability of acting as a firewall."/>

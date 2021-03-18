@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Account"
+    id="id-c79fedf62d88409495069ff531843b51"
+    documentation="An Account specifies basic attributes and relationships that describes an account. An Account aims to register all Credits and Debits according to criteria. It carries one or many Balances (results of Credits and Debits) and might use one or many Currencies."/>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Party Training and Education"
+    id="id-436ca5e03b124ae689a157bfcc0805e2"
+    documentation="Assess an enterprise's training needs, design training plans, develop training, conduct and evaluate training and results.">
+  <properties
+      key="Process Identifier"
+      value="1.6.13"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Party Training and Education assesses an enterprise's training needs from needs assessment to training goals. It designs training plans and learning objectives and develops training activities and materials to support the plans and objectives. It conducts the training with parties to be trained and evaluates training and results, such as return on training investment. Detailed process that further describe Party Training and Education can be found at http://managementhelp.org/training/index.htm#phase4. this process interacts with Party Special Event Management when training is conducted by an enterprise at an internal or external site."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

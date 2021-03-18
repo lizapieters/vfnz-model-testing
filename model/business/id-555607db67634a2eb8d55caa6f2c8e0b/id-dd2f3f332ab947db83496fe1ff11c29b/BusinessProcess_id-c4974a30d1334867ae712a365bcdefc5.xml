@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitor, Report and Release Mgmt. of Resource Infrastructure and Capacity Utilization"
+    id="id-c4974a30d1334867ae712a365bcdefc5"
+    documentation="Monitoring and reporting the capacity utilization of existing infrastructure.">
+  <properties
+      key="Process Identifier"
+      value="1.5.4.1.6"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="â€¢ Monitoring capacity utilization of deployed resource infrastructure to provide early detection of potential resource infrastructure shortfalls; â€¢ Monitoring of, and reporting on, resource infrastructure and resource instance currency and version management; In order to improve efficiency and accuracy of monitoring process, different domains' capacity utilization may be monitored at the same time in a single monitoring platform. A prediction model based on different factors may be applied to master capacity monitoring."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

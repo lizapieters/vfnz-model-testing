@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Resource Exit"
+    id="id-9fe92a5c4b1d4a0b8245da8a37c46cf0"
+    documentation="Identify existing resource classes which are unviable and manage the processes to exit the Resource from the market.">
+  <properties
+      key="Process Identifier"
+      value="1.5.3.7"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Manage Resource Exit processes identify existing resource classes which are unviable and manage the process to exit the Resource from the services they support. The processes analyze existing resource classes to identify economically or strategically unviable classes, identify products, services classes &amp; customers impacted by any exit, develop specific exit or migration strategies, develop resource infrastructure transition and/or replacement strategies, and manage the operational aspects of the exit process. A business proposal identifying the competitive threats, risks and costs may be required as a part of developing the exit strategy. These processes include any interaction with cross-enterprise co-ordination and management functions to ensure that the needs of all stakeholders are identified and managed."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

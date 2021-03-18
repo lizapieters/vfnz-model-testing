@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Service Improvement Notification and Authorization"
+    id="id-19c880d2bf1b41669ebb00b59b63c47a"
+    documentation="Where activity to improve service quality performance is likely to impact other in-use specific services, this process is responsible for providing appropriate notification of the improvement proposal and ensuring authorization is received to proceed with the service improvement plan. When the service improvement activity is about to commence, this process is responsible for notifying when service improvement activity is commencing and when it is completed.">
+  <properties
+      key="Process Identifier"
+      value="1.4.7.3.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

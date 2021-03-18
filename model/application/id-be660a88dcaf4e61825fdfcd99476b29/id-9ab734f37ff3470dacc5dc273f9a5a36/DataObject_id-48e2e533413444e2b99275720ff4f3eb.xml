@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="InvolvementIdentification"
+    id="id-48e2e533413444e2b99275720ff4f3eb"
+    documentation="A (concrete) base class for the PartyUser and ResourceUser actors entities representing the identity of an actor involved in a role; this class can also represent a user which its type (party or resource) is unknown."/>

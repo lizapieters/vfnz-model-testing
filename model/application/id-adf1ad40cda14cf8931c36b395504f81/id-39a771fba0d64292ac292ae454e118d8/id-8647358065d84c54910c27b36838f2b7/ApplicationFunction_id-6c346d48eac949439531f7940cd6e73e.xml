@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identification Card Management"
+    id="id-6c346d48eac949439531f7940cd6e73e"
+    documentation="Identification card management with card creation and cancellation, and integration to authentication and authority systems.">
+  <properties
+      key="Function Identifier"
+      value="896"/>
+  <properties
+      key="TAM Application Name"
+      value="Employee Identification Management"/>
+  <properties
+      key="TAM Application Id"
+      value="9.5.1.1"/>
+  <properties
+      key="Constructed Id"
+      value="9.5.1.1.896"/>
+</archimate:ApplicationFunction>

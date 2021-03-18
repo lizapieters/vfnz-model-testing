@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop Required Processes &amp; Procedures for Services"
+    id="id-1270ce7e6da44635a95bc343bb6b0bc8"
+    documentation="These processes ensure that all operational processes and procedures, IT systems changes, network changes, channel changes, operational procedures, testing tools and procedures, etc. required to support the new service class/component are developed.">
+  <properties
+      key="Process Identifier"
+      value="1.4.3.5.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

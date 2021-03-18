@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Remittance Details Access"
+    id="id-ec87033a52b94ae4b30aaed7b6a02279"
+    documentation="Provides remittance details to the bill accounts receivable management application within the service provider billing system.">
+  <properties
+      key="Function Identifier"
+      value="327"/>
+  <properties
+      key="TAM Application Name"
+      value="Payment Validation &amp; Authorization"/>
+  <properties
+      key="TAM Application Id"
+      value="5.9.4.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.9.4.2.327"/>
+</archimate:ApplicationFunction>

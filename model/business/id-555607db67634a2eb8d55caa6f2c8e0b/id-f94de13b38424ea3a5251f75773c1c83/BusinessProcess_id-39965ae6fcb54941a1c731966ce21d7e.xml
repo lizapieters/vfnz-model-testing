@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop Metric Definitions"
+    id="id-39965ae6fcb54941a1c731966ce21d7e"
+    documentation="Characterize and maintain a Metric at high level: identification, description, categorization, dependencies.">
+  <properties
+      key="Process Identifier"
+      value="1.7.3.4.5.1"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Metric Definition Development defines and maintains various identifications and names, high-level descriptions, status data, categories, grouping, hierarchies, and dependencies with respect to other Metrics."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

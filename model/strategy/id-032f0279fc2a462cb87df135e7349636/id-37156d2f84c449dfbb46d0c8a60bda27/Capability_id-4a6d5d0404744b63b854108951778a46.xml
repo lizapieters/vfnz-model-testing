@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Incident Root Cause Determination"
+    id="id-4a6d5d0404744b63b854108951778a46"
+    documentation="The ability to assess, track down, and articulate the initiating source of an incident.">
+  <properties
+      key="TMF_ID"
+      value="1.3.11.2"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

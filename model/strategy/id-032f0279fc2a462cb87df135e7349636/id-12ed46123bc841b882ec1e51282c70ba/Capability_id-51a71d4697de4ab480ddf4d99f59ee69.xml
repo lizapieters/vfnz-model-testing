@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Shipment/Inquiry Matching"
+    id="id-51a71d4697de4ab480ddf4d99f59ee69"
+    documentation="The Ability to associate a shipment with an inquiry.">
+  <properties
+      key="TMF_ID"
+      value="1.1.11.6.9"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

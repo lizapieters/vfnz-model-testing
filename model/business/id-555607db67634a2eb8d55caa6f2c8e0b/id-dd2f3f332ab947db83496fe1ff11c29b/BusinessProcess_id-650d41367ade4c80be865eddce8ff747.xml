@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop Sales Lead"
+    id="id-650d41367ade4c80be865eddce8ff747"
+    documentation="Initiate interaction with a sales lead, record additional information about a lead, and makes updates to a lead's information.">
+  <properties
+      key="Process Identifier"
+      value="1.1.11.2.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Develop Sales Lead initiates contact with a sales lead to acknowledge their interest via the Customer or Party Interaction Management process. It records more party information about a sales lead, such as offerings that are of interest, and updates any information about a lead based on interaction(s) with them."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResourceAlarm"
+    id="id-ee77170161264993a3677a217507f604"
+    documentation="The ResourceAlarm entity contains information about a given alarm condition of an alarmed Managed Object. Note that the automatic Object Creation notification generation is disabled as a specific New Alarm notification is generated for a new alarm."/>

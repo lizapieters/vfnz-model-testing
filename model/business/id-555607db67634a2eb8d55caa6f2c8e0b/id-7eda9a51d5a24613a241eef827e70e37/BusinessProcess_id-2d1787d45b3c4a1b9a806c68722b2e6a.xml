@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Configuration Specification and Configuration Management"
+    id="id-2d1787d45b3c4a1b9a806c68722b2e6a"
+    documentation="Define, modify, and remove a configuration specification that defines how an entity, such as a product, service, or resource functions. Configure or create a new version of a configuration for an entity, such as a product, service, or resource, as defined by a configuration specification. Modify a configuration and values for configuration parameters, and remove a configuration.">
+  <properties
+      key="Process Identifier"
+      value="1.8.3"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Configuration Specification and Configuration Management defines, modifies, and removes a configuration specification that defines how an entity, such as a product, service, or resource functions. This process also configures or creates a new version of a configuration for an entity, such as a product, service, or resource, as defined by a configuration specification. It also modifies a configuration and values for configuration parameters, and removes a configuration. Domain specific configuration management processes, such as Product Configuration Management contain only the processes specific to them. For example, associating a product specification with product configuration specification and a product with a product configuration. Generalized processes such as this eliminate redundant processes used to create domain specific configuration management processes."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

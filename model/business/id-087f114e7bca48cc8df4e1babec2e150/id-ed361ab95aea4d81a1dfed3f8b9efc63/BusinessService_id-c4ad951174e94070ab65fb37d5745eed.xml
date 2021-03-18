@@ -1,0 +1,30 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mobile - Restricted plans (example - Kids Plan)"
+    id="id-c4ad951174e94070ab65fb37d5745eed"
+    documentation="Is there a need to restrict incoming calls&#xA;currently only considered outgoing calls&#xA;Alec to check if Comarch OCS can support it. Needs IN.&#xA;25-09-2020 - Ross requested that the feature should be generically named to &quot;Restricted plans&quot;. This feature should include Access restrictions - white list">
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Segment"
+      value="Consumer/Business"/>
+  <properties
+      key="Access/Service Type"
+      value="Mobile"/>
+  <properties
+      key="Comarch can support"
+      value="TBC"/>
+  <properties
+      key="Non-Comarch IT support needed"
+      value="Yes"/>
+  <properties
+      key="NaaS will support"
+      value="Yes"/>
+  <properties
+      key="Automated non-NaaS support"
+      value="TBC"/>
+  <properties
+      key="Unexpected"
+      value="true"/>
+</archimate:BusinessService>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Validate Satisfaction of Customer"
+    id="id-186b9da920384a52b1b2f43c1aa4fd4f"
+    documentation="This process ensures that the customer is satisfied that the solution that was actually delivered meets original or updated expectations and agreements and that the solution is operable by the customer.">
+  <properties
+      key="Process Identifier"
+      value="1.3.4.1.4.2"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

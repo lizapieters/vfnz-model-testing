@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0043"
+    id="id-358f35e9c4ea468aaeec55bc527a3833"
+    documentation="As a customer, when I buy via a channel that requires delivery/pickup, I want to be able to choose the delivery/pickup option that best suits me">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0043"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="2"/>
+  <properties
+      key="Base_Old"
+      value="2"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Topic"
+      value="Delivery options"/>
+  <properties
+      key="Remarks"
+      value="OOTB Do you have a central warehouse or we should be able to present stock levels per each shop? Stock levels per shop needed. Expectation is that Comarch would integrate with external system (Brightpoint?). A the moment it is not sure if required APIs are available. Details to be discussed during AIF sessions."/>
+  <properties
+      key="Module"
+      value="DS, SC, OM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="REQ_OSS_294"/>
+</archimate:Requirement>

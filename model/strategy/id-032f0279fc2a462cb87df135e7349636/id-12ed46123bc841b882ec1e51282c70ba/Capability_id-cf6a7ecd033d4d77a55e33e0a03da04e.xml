@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer History Management"
+    id="id-cf6a7ecd033d4d77a55e33e0a03da04e"
+    documentation="The ability to manage a chronological order of events, points of engagement, and other actions or decisions related to a customer.">
+  <properties
+      key="TMF_ID"
+      value="1.1.2.7.4"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

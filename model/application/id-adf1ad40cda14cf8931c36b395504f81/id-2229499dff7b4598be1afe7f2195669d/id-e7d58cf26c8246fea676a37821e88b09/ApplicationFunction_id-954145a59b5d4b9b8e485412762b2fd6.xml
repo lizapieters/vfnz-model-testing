@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PKI and Digital Certificates"
+    id="id-954145a59b5d4b9b8e485412762b2fd6"
+    documentation="Enabling users to securely and privately exchange data using digital certificates that are obtained and shared through a trusted authority, and enabling secure authentication of devices equipped with digital certificates. This is achieved by Public Key Infrastructure systems that provides digital certificates that can identify an individual, an organization or a device&amp; and include directory services that can store and, when necessary, revoke the certificates">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="9.5.6"/>
+  <properties
+      key="Frameworx Domain"
+      value="Enterprise Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

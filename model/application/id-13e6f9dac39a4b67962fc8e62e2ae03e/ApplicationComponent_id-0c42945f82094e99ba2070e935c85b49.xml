@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eIDV"
+    id="id-0c42945f82094e99ba2070e935c85b49"
+    documentation="Experian eIDV; Drivers license check">
+  <properties
+      key="StatusForLookUp"
+      value="Active"/>
+</archimate:ApplicationComponent>

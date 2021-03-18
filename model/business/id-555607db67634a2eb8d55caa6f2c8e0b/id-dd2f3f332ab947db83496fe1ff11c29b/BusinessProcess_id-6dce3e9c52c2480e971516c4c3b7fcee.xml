@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Capacity Plan Order Handling Infrastructure"
+    id="id-6dce3e9c52c2480e971516c4c3b7fcee"
+    documentation="Capacity planning associated with the deployment of new and/or modified customer order handling infrastructure;">
+  <properties
+      key="Process Identifier"
+      value="1.3.1.2.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

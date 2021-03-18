@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SecVulnerabilityScoringSystem"
+    id="id-fe2bfd4201cc4cbb8b3f0029ae5a88a8"
+    documentation="A standardized method for vulnerability measurement and severity scoring. Notes: Three scoring specifications have been created; one for each of the categories of system vulnerabilities defined by NIST SCAP. They include the Common Vulnerability Scoring System (CVSS) which address software flaw vulnerabilies (introduced in 2004/v2 in 2007); the Common Misuse Scoring System (CMSS) which was designed for measuring and scoring misuse vulnerabilities. And the Common Configuration Scoring System (CCSS) which addresses software security configuration issue vulnerabilities."/>

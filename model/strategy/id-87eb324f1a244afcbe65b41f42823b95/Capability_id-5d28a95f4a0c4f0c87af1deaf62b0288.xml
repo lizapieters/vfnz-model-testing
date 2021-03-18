@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Supplier/Partner Relationship Management"
+    id="id-5d28a95f4a0c4f0c87af1deaf62b0288"
+    documentation="Supplier/Partner Relationship Management provides the necessary functionality to manage the relationship with partners, including establishment andtermination of contracts and accounts. It includes strategic andoperational aspects of the relationship.Many types of supplier/partner relationships must be supported, including service providers, equipment suppliers, and other business partners. Supplier/Partner Relationship Management does not handle wholesale arrangements. &#xA;&#xA;Some parties, such as application developers, may interact with the service provider in multiple roles. For example, when the developer is using the service provider's application development environment, they are a customer of the service provider. When in a role of a customer, this relationship is managed like any other customer meaning not within the supplier/partner suite of applications. Application developers may also be supplier/partners of the service provider atsuch time that they offer a product for sale within the service provider's environment.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="8.2.1"/>
+  <properties
+      key="TMF Function"
+      value="Contract Management Identification of Potential Partners Partner Account Creation and Management"/>
+  <properties
+      key="TMF Maturity"
+      value="Supplier_Partner Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Partner Management"
+    id="id-c2ec52933d5b454980275dc340af0b9d"
+    documentation="The ability to control, predict, process, or organize an individual or organization that has, plans to have, or has had a legally binding agreement with the Business. Partner to include Vendors, OEM, Suppliers, Provider, &amp; Partners (E.g. Partner Type).">
+  <properties
+      key="TMF_ID"
+      value="1.1.9"/>
+  <properties
+      key="Level"
+      value="1"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

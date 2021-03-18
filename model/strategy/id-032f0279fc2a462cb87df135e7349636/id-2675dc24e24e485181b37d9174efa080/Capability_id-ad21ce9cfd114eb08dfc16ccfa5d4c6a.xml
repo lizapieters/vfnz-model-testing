@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Decision/Decision Matching"
+    id="id-ad21ce9cfd114eb08dfc16ccfa5d4c6a"
+    documentation="The ability to associate a decision with another decision.">
+  <properties
+      key="TMF_ID"
+      value="1.3.10.6.2.1"/>
+  <properties
+      key="Level"
+      value="4"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

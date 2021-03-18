@@ -1,0 +1,39 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Marketplaces"
+    id="id-4f1e4f15b45e49bb93ee16a82fa05c1b"
+    documentation="In scope of the solution there is E-Shop allowing to sell products configured in solution's Product Catalog. There are also Marketplace use cases- customers able to buy Office 365 product or devices.&#xA;Here we assume that an external Marketplace solution such as Appdirect can fetch products from the solution's Product Catalog, sell them, and register orders using solution's REST API.">
+  <properties
+      key="Stereotype"
+      value="abstract_interface"/>
+  <properties
+      key="Southbound Required"
+      value="Y"/>
+  <properties
+      key="Importance"
+      value="2"/>
+  <properties
+      key="Area"
+      value="BSS"/>
+  <properties
+      key="Interface Type"
+      value="Core"/>
+  <properties
+      key="Pattern"
+      value="REST/Event/DevOps"/>
+  <properties
+      key="FWA"
+      value="NA"/>
+  <properties
+      key="Mobile"
+      value="NA"/>
+  <properties
+      key="Broadband"
+      value="NA"/>
+  <properties
+      key="Common"
+      value="NA"/>
+  <properties
+      key="Unexpected"
+      value="true"/>
+</archimate:ApplicationInterface>

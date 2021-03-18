@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Issues and store service orders"
+    id="id-f8b5ed03952d4e518d768d9bd247e2bf"
+    documentation="The Service Order Publication function issues valid and complete service orders, and stores the order into an appropriate data store.&#xA;As part of order publication, additional data might be obtained or derived to support downstream functions that are not provided in the service order request.">
+  <properties
+      key="Function Identifier"
+      value="594"/>
+  <properties
+      key="TAM Application Name"
+      value="Service Order Publication"/>
+  <properties
+      key="TAM Application Id"
+      value="6.3.8"/>
+  <properties
+      key="Constructed Id"
+      value="6.3.8.594"/>
+</archimate:ApplicationFunction>

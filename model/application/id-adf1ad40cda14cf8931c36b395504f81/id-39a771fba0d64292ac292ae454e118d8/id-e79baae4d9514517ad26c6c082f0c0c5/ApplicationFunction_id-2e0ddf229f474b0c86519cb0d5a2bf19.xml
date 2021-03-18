@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contact Channel Work Assignment"
+    id="id-2e0ddf229f474b0c86519cb0d5a2bf19"
+    documentation="Contact Channel Work Assignment provides the functionality required to match the request to the appropriate agent.  The assignment is based on criteria such as type of customer, nature of call, skill requirements, availability, etc.">
+  <properties
+      key="Function Identifier"
+      value="162"/>
+  <properties
+      key="TAM Application Name"
+      value="Off-Line Contact Channel Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.22.3.3"/>
+  <properties
+      key="Constructed Id"
+      value="5.22.3.3.162"/>
+</archimate:ApplicationFunction>

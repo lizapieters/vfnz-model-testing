@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product &amp; Offer Capability Delivery"
+    id="id-feaf2d8acc3e4761b920de5fc1c7e445"
+    documentation="Manage the delivery and build of new or changed Product &amp; Offer and delivery capabilities within an enterprise.">
+  <properties
+      key="Process Identifier"
+      value="1.2.2"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Based on the Product strategy for the enterprise, the Product &amp; Offer Capability Delivery processes manage the delivery and build of new or changed Product offering and delivery capabilities within an enterprise. It also handles their requisite infrastructure, where the technologies, scope or type/depth of infrastructure is significantly different to that currently employed in the enterprise. e.g. introduction of Third-generation Mobile Telephony networks."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

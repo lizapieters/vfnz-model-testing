@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Remove Party Profile Type"
+    id="id-1596a74f29f94f82a8155c211f42b84c"
+    documentation="Remove a party  profile type and/or one or more of its attributes, either by deleting it or indicating it is no longer valid.">
+  <properties
+      key="Process Identifier"
+      value="1.6.3.3.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Remove Party Profile Type removes a party profile type and/or one or more of its attributes, either by deleting it or indicating it is no longer valid. Care must be taken when deleting a profile type and/or one or more of its attributes, because any party profiles or party profile attribute(s) related to them may also be deleted or could lose their context. Often the choice is to mark the profile type and/or attribute(s) as no longer valid to preclude collecting it for any more parties."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

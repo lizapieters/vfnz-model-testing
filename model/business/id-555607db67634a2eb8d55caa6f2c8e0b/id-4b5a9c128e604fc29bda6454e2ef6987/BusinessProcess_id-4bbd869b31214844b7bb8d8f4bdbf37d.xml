@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Party Privacy Management Definition"
+    id="id-4bbd869b31214844b7bb8d8f4bdbf37d"
+    documentation="Define the Privacy Management that applies to the category of Data Subject Party (i.e. a ProfileType of a PartyRole)">
+  <properties
+      key="Process Identifier"
+      value="1.6.7.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Party Privacy Management Definition processes manage the definition of the Privacy Management that applies to a particular category of Data Subject Party. It is used to determine the legal elements the Data Controller Party wants to apply and use, such as jurisdiction, location, Regulation, and standards."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

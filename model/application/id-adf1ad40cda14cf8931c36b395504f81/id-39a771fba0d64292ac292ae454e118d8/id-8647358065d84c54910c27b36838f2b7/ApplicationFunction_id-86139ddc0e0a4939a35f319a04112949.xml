@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Expense Data Downloading"
+    id="id-86139ddc0e0a4939a35f319a04112949"
+    documentation="Employee Expense Reimbursement function for downloads of expense data from credit cards and P-cards">
+  <properties
+      key="Function Identifier"
+      value="829"/>
+  <properties
+      key="TAM Application Name"
+      value="Employee Expense Reimbursement"/>
+  <properties
+      key="TAM Application Id"
+      value="9.3.2"/>
+  <properties
+      key="Constructed Id"
+      value="9.3.2.829"/>
+</archimate:ApplicationFunction>

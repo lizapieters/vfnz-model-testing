@@ -1,0 +1,39 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Store Locator"
+    id="id-8b49dafe6a2448e28e178ca3b7312c69"
+    documentation="Store Locator">
+  <properties
+      key="StatusForLookUp"
+      value="Active"/>
+  <properties
+      key="Owner"
+      value="AndrewH"/>
+  <properties
+      key="Level of Service"
+      value="Business Standard"/>
+  <properties
+      key="Product / Service"
+      value="Common"/>
+  <properties
+      key="Segment"
+      value="Common"/>
+  <properties
+      key="DX Association"
+      value="Unrelated"/>
+  <properties
+      key="Existing Retained or Replaced"
+      value="Retained"/>
+  <properties
+      key="Legacy BSS Stack Served"
+      value="Common"/>
+  <properties
+      key="TAM App ID"
+      value="8.2.5"/>
+  <properties
+      key="TAM Domain"
+      value="Supply Partner Domain"/>
+  <properties
+      key="TAM Application"
+      value="Supplier/Partner Reconciliation Management"/>
+</archimate:ApplicationComponent>

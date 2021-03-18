@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Number Tracking and Reporting"
+    id="id-0b6e25c381474e24928f1619448f3f9e"
+    documentation="Provides functionality to track numbers and perform number reporting.">
+  <properties
+      key="Function Identifier"
+      value="440"/>
+  <properties
+      key="TAM Application Name"
+      value="Network Number Inventory Management"/>
+  <properties
+      key="TAM Application Id"
+      value="7.13.1"/>
+  <properties
+      key="Constructed Id"
+      value="7.13.1.440"/>
+</archimate:ApplicationFunction>

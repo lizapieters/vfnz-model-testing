@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Specify Agreement Parties"
+    id="id-0d5906896d7d42468c500c1ed6be73c1"
+    documentation="Specify the parties engaged in the agreement, such as an enterprise and a partner.">
+  <properties
+      key="Process Identifier"
+      value="1.6.5.1.1.2"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Specify Agreement Parties specifies the parties engaged in the agreement, such as an enterprise and a partner. In cases of an agreement with a customer a regulatory body who approves the agreement may also be involved. The roles for parties involved in the agreement are also defined, such as various approvers or reviewers, as well as if the role is involved in authorizing the agreement."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

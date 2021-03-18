@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Workforce Schedule Management"
+    id="id-c765380cb67f4c14a370b7a40d8732ba"
+    documentation="Workforce Schedule Management applications provide the necessary functionality to manage the work schedule, appointment schedule and resource scheduleof the dispatchable workforce.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="7.12.1"/>
+  <properties
+      key="TMF Function"
+      value="Workforce Scheduling"/>
+  <properties
+      key="TMF Maturity"
+      value="Resource Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

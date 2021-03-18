@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Order Completion"
+    id="id-1b8bc482344940418f2a0f14c0d59fe0"
+    documentation="Completes the service order when all resource orders have been completed.">
+  <properties
+      key="Function Identifier"
+      value="595"/>
+  <properties
+      key="TAM Application Name"
+      value="Service Order Tracking &amp; Management"/>
+  <properties
+      key="TAM Application Id"
+      value="6.3.2.2"/>
+  <properties
+      key="Constructed Id"
+      value="6.3.2.2.595"/>
+</archimate:ApplicationFunction>

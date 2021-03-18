@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0190"
+    id="id-a3936654684d4cc1a7e1e0566d8e2263"
+    documentation="As a Privacy, Fraud and Compliance Representative&#xA;I want access to a Fraud Management Capability within a group/role locked down access&#xA;So I can view and edit the database as required&#xA;&#xA;Acceptance Criteria:&#xA;Given I have access to the Fraud Management Capability&#xA;When I access the capability&#xA;Then:&#xA;1) I can view records in the Fraud Management Capability including a unique Fraud ID per fraud order transaction&#xA;2) I can manually add a record in the Fraud Management Capability&#xA;3) I can manually update a record in the Fraud Management Capability&#xA;4) I can manually delete a record in the Fraud Management Capability&#xA;5) I can maintain records of blacklisted fields: email address, contact names, IP address, contact number, service address, delivery address, billing address and addresses that the DOT fraud rules can use in identifying fraudulent orders">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0190"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Tim Munnik"/>
+  <properties
+      key="Tribe"
+      value="OSS Squad"/>
+  <properties
+      key="Target Horizon"
+      value="0"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="0"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Use"/>
+  <properties
+      key="Topic"
+      value="BSS | Fraud Detection | Management"/>
+  <properties
+      key="Remarks"
+      value="Is the &quot;Fraud Management Capability&quot; a system outside of Comarch?"/>
+  <properties
+      key="Module"
+      value="0"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="N/A"/>
+</archimate:Requirement>

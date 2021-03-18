@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define Party Profile Type"
+    id="id-7258d018196a451184ed01a7ab835b4e"
+    documentation="Define a type of party profile and its attributes to be collected about parties and/or a role a party plays.">
+  <properties
+      key="Process Identifier"
+      value="1.6.3.3.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Define Party Profile Type defines a type of party profile and its attributes to be collected about parties and/or a role a party plays. This includes specifying the permitted values associated with a party profile attribute, such as interests/hobbies, education, product offering preferences. Demographic information can also be linked to a party profile type's attributes. This process also enables changes to be made to any of these aspects for a demographics' definition. This process may also relate a party profile type to a market segment for grouping parties into segments or to marketing campaigns and product offerings to target parties for them."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

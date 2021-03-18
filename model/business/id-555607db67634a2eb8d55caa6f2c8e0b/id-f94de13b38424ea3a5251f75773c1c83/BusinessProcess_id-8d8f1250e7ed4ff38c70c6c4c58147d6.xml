@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Metric Measure"
+    id="id-8d8f1250e7ed4ff38c70c6c4c58147d6"
+    documentation="Manage the execution (on-demand or recurring) of Metric measurements: collection, storage, evaluation of consequences, notifications.">
+  <properties
+      key="Process Identifier"
+      value="1.7.3.4.5.4"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Metric Measure Management manages the on-demand or recurring execution of Metric collection jobs for sets of selected objects, manages storage of measured Metric values, evaluates threshold rules (comparison to threshold values), and executes consequences if any (perform actions, send notifications)."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

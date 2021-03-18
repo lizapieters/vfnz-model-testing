@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Specific Party Revenue Handling"
+    id="id-94f632a9a4bc4498a4a2b10f5428d7f5"
+    documentation="Specific Parties Revenue Handling process performs specific revenue model actions that do not follow the generic Billing Invoice procedure. Different revenue management methods are applied towards different parties due to different billing  and settlement.">
+  <properties
+      key="Process Identifier"
+      value="1.6.15.4"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Specific Parties Revenue Handling process performs specific revenue model actions that do not follow the generic Billing Invoice procedure. Different revenue management methods are applied towards different parties due to different billing and settlement. Include: Perform Roaming Party Billing Handle Interconnect Party Billing Handle MVNO&amp;MVNE Billing Calculate Sales Party Commissions Handle Content Party Billing Execute Party Billing on Behalf Perform 3rd Party Billing Handle Clearing House Billing Perform Supplier Billing"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

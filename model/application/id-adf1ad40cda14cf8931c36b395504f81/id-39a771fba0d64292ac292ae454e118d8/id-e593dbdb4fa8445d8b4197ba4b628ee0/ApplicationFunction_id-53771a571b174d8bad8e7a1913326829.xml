@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Work and work orders coordination"
+    id="id-53771a571b174d8bad8e7a1913326829"
+    documentation="Function for coordinating work between dependent or related work orders for Resource dispatchable staff.">
+  <properties
+      key="Function Identifier"
+      value="545"/>
+  <properties
+      key="TAM Application Name"
+      value="Work Order Tracking &amp; Management"/>
+  <properties
+      key="TAM Application Id"
+      value="7.12.4"/>
+  <properties
+      key="Constructed Id"
+      value="7.12.4.545"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Records Retention Management"
+    id="id-4067d3656bb84c639d153c62dd22cb1a"
+    documentation="Record Retention Management assure compliance with the retention aspects of federal and state laws,legal requirements or expectations, enterprise policies and procedures for themanagement of data and information.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.9.2"/>
+  <properties
+      key="TMF Function"
+      value="Record Retention Management"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

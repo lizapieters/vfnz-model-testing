@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Problem Resolution"
+    id="id-801423fa46724fe2aab9b38bf1b905e2"
+    documentation="Customer Problem Resolution applications provide the necessary functionality to automatically resolve a customer reported or affected problem back to the original state (ie, restore service). This maybe done through fault resolution or implementing a bypass to the problem.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.8.4"/>
+  <properties
+      key="TMF Function"
+      value="0"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

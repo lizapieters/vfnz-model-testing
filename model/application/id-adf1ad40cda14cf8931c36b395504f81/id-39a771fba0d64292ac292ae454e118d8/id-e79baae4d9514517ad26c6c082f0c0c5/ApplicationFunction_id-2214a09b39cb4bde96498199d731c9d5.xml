@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer order cancelation"
+    id="id-2214a09b39cb4bde96498199d731c9d5"
+    documentation="Customer Order Cancelation can optionally support Cancel for order completed by Service Order Management (this capability is dependent on the Service Order Management system�s ability to roll back service provisioning).">
+  <properties
+      key="Function Identifier"
+      value="209"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Order Lifecycle Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.3.6"/>
+  <properties
+      key="Constructed Id"
+      value="5.3.6.209"/>
+</archimate:ApplicationFunction>

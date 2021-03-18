@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Network resources discovery"
+    id="id-ed1d9b3710b244a280bf188adabd3ea5"
+    documentation="The resource Discovery functions are responsible for discovering the resources and their details through a management channel. These functions may either directly communicate with the Network resources or communicate through a Resource Domain Manager. The functions should be able to support either retrieving the overall resource information or the detailed resource information which can include sub-components.">
+  <properties
+      key="Function Identifier"
+      value="464"/>
+  <properties
+      key="TAM Application Name"
+      value="Resource Discovery"/>
+  <properties
+      key="TAM Application Id"
+      value="7.4.1"/>
+  <properties
+      key="Constructed Id"
+      value="7.4.1.464"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define Configuration Specification Parameter"
+    id="id-1de1eea55cc04b3ca174dd3da11c3c9c"
+    documentation="Define a parameter associated with a configuration specification and any policy that governs the selection of a value for the parameter.">
+  <properties
+      key="Process Identifier"
+      value="1.8.3.1.1.2"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Define Configuration Specification Parameter creates a parameter associated with a configuration specification. Configuration parameters are attributes that provide details on how an entity will function. For example, the format of a video, such as standard or high definition. The use of particular value for a parameter can be governed by a policy. Note that this process is meant to use generic policy processes to define a base policy and associate the parameter to the policy. To date the generic processes have not yet been developed. Note that this process also uses a generalized set of processes to create the parameter, called characteristics. To date the generic processes have not yet been developed."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

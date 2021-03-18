@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Enterprise Architecture Toolsets and Associated Standards"
+    id="id-72a459f0f6d04e76b6a4cd487ae77958"
+    documentation="Define and select the toolsets used to capture the enterprise architecture (e.g. UML tools), and develop any required standards or reference framework to be used with the tools.">
+  <properties
+      key="Process Identifier"
+      value="1.7.1.3.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

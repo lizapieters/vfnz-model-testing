@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Order Management"
+    id="id-b9525caf50354869ac2cff0ba71f31bb"
+    documentation="The ability to place, validate, cancel, change, track, fulfill and otherwise manage a request by one party to another to buy, sell, or exchange goods or services.">
+  <properties
+      key="TMF_ID"
+      value="1.1.8"/>
+  <properties
+      key="Level"
+      value="1"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

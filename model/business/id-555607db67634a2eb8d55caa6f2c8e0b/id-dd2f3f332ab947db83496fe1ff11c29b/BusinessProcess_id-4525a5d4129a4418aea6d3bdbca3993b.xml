@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trigger Defined Action"
+    id="id-4525a5d4129a4418aea6d3bdbca3993b"
+    documentation="This process triggers a well-defined action based on specific resource alarm event notification information as well as the non-arrival of resource alarm event notification information after a specific time interval has elapsed.  This process is also responsible for monitoring and triggering the appropriate action when a resource alarm event record is not cleared within a pre-defined period of time.">
+  <properties
+      key="Process Identifier"
+      value="1.5.8.1.5"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

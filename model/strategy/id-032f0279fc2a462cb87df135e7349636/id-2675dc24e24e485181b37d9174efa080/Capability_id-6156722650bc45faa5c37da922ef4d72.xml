@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Work Item/Work Queue Matching"
+    id="id-6156722650bc45faa5c37da922ef4d72"
+    documentation="The ability to associate a work item with a work queue.">
+  <properties
+      key="TMF_ID"
+      value="1.3.10.1.6.3"/>
+  <properties
+      key="Level"
+      value="4"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

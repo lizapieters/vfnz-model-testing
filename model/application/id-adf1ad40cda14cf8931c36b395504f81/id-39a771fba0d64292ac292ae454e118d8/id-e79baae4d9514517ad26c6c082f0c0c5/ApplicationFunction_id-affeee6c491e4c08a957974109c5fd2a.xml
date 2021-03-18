@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="transactional Document Input Binding Rules to Template"
+    id="id-affeee6c491e4c08a957974109c5fd2a"
+    documentation="Define the binding rules between the input data and the template format">
+  <properties
+      key="Function Identifier"
+      value="331"/>
+  <properties
+      key="TAM Application Name"
+      value="Transactional Document Formatter"/>
+  <properties
+      key="TAM Application Id"
+      value="5.2.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.2.1.331"/>
+</archimate:ApplicationFunction>

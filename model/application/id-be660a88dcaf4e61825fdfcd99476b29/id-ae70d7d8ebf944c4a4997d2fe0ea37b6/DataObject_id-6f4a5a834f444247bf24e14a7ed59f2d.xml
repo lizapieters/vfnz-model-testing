@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NetworkCard"
+    id="id-6f4a5a834f444247bf24e14a7ed59f2d"
+    documentation="This is a type of Card that is dedicated to providing networking functions; such as routing and forwarding. Line cards and port adapter cards are examples of this type of card. The SID differentiates between this and other types of Cards; such as NetworkCards and MemoryCards."/>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PhysicalDeviceRole"
+    id="id-aefe6a867d774706a99446ea670dfead"
+    documentation="This is an abstract base class that defines the different types of physical roles that a PhysicalDevice can take on. This enables us to correlate different logical roles to physical hardware. For example; the logical capability of encryption may need dedicated physical hardware. The PhysicalDeviceRole Encryption enables us to model this dependency."/>

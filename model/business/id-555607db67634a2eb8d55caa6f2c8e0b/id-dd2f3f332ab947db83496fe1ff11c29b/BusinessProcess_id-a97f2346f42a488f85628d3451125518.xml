@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Data Distribution"
+    id="id-a97f2346f42a488f85628d3451125518"
+    documentation="Manage Data Distribution process provides capabilities to tailor /format the data and make it available for consumption by other processes within and outside the enterprise. It provides processes to Manage Offline and Online Data Distribution.">
+  <properties
+      key="Process Identifier"
+      value="1.7.8.5.7"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Manage Data Distribution process ensures that the data is made available to distribute within and outside the enterprise both through offline and online mode. It ensures the data are distributed as per the requirement. Additionally it uses the various other processes of data governance to ensure that security, compliance and quality of data is maintained while distributing data. It provides processes to Manage Offline and Online Data Distribution."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Loyalty Program Score Balance Management"
+    id="id-b4f765633cb14a5581900afe4f9fcf2f"
+    documentation="The Score Management component calculates the score according to accumulation/decrease rules. When a customer subscribes to the loyalty program with more than one SIM or other �traffic objects�, the Score Management accumulates the points into a single balance. The loyalty score could decrease for one of the following events: prize purchase, points expiry or points deletion by Call Centre. The functionality may also include the visualization of Score details (date, description event type, points, final score) via different contact Channels (e.g. via Web, IVR, Call Centre).">
+  <properties
+      key="Function Identifier"
+      value="198"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Loyalty Balance Management"/>
+  <properties
+      key="TAM Application Id"
+      value="5.21.3"/>
+  <properties
+      key="Constructed Id"
+      value="5.21.3.198"/>
+</archimate:ApplicationFunction>

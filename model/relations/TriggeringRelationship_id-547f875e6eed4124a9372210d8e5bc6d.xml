@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GiveBacks"
+    id="id-547f875e6eed4124a9372210d8e5bc6d">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-41d5704966c8447abf8a36bfb957bd1c.xml#id-41d5704966c8447abf8a36bfb957bd1c"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ed2f28913c924e708eb312bed438dfe9.xml#id-ed2f28913c924e708eb312bed438dfe9"/>
+</archimate:TriggeringRelationship>

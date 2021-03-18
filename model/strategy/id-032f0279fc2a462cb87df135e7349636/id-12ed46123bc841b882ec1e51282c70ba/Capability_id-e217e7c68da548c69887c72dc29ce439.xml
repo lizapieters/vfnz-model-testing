@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Asset/Location Matching"
+    id="id-e217e7c68da548c69887c72dc29ce439"
+    documentation="The ability to associate an asset with a location.">
+  <properties
+      key="TMF_ID"
+      value="1.3.5.9.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

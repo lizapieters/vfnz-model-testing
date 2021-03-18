@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Strategy Access Management"
+    id="id-ed6ac777e46546aa849e968dbb186aec"
+    documentation="The ability to control who, internally or externally, is able to view a strategy.">
+  <properties
+      key="TMF_ID"
+      value="1.2.9.7"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

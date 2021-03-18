@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Produce Consolidated Maturity Level Assessment Report"
+    id="id-f9c5782f1a914472a1c68b419f2f566d"
+    documentation="The Maturity level assessment report incorporates the end to end process and results undertaken from the start of the assessment Process.">
+  <properties
+      key="Process Identifier"
+      value="1.7.8.2.6"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Produce Consolidated Maturity Level Assessment Report process involves producing a report that incorporates the end to end process and results undertaken from the start of the assessment Process. This will highlight to the stakeholders the methodology and analysis that went into producing the relevant recommendations for gap reduction. Through which the stakeholders can prioritize and select the relevant recommendations to focus on."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

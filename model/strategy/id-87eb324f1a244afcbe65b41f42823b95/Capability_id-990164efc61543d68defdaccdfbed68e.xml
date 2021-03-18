@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Test Command and Control"
+    id="id-990164efc61543d68defdaccdfbed68e"
+    documentation="The Service Test Command and Control application provides the necessary functionality to access, command, and control the devices required for service testing.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="6.8.3"/>
+  <properties
+      key="TMF Function"
+      value="Test Access and Control"/>
+  <properties
+      key="TMF Maturity"
+      value="Service Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

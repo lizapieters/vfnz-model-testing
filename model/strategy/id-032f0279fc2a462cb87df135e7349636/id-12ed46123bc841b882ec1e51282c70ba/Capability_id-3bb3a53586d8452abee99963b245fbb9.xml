@@ -1,0 +1,33 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Profile Management"
+    id="id-3bb3a53586d8452abee99963b245fbb9"
+    documentation="Customer Profile Management applications provide the necessary functionality to manage customer preferences and customer details.">
+  <properties
+      key="TMF_ID"
+      value="1.1.2.7.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.1.2"/>
+  <properties
+      key="TMF Function"
+      value="Customer Details Management Customer Preferences Management Customer Profile Inquiries"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

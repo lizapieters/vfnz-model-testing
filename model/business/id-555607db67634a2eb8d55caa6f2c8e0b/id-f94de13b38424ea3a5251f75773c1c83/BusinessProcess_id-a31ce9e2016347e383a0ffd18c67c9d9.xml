@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Remove Party Product Specification"
+    id="id-a31ce9e2016347e383a0ffd18c67c9d9"
+    documentation="Remove a party's product specification.">
+  <properties
+      key="Process Identifier"
+      value="1.6.4.2.2.1"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Remove Party Product Specification removes a party's product specificatioand related product specification testsn . This can occur when the agreement for this product specification is terminated or an item on an agreement associated with the specification for this product offering is terminated. Note that this process will interact with the Remove Product Specification Exit process which is part of Product Specification Development &amp; Retirement."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

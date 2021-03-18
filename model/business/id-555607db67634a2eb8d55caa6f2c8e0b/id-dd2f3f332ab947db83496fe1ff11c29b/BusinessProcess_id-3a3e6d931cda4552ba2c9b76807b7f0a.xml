@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Distribution"
+    id="id-3a3e6d931cda4552ba2c9b76807b7f0a"
+    documentation="Manage any orchestration required for distribution of the management and security information and/or data.">
+  <properties
+      key="Process Identifier"
+      value="1.5.7.3.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

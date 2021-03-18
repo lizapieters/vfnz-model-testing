@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Campaign Matching"
+    id="id-2f8bb54e3d68426a83f53edcb75cc86b"
+    documentation="The ability to associate a campaign with other business objects.">
+  <properties
+      key="TMF_ID"
+      value="1.2.12.7"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

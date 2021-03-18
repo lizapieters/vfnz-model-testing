@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agreement Standard Price Determination"
+    id="id-a1bc0bb7369140558f16963849259dec"
+    documentation="The ability to aggregate one or more predefined product or offer prices into a baseline starting point for agreement price finalization.">
+  <properties
+      key="TMF_ID"
+      value="1.1.5.2.2.1"/>
+  <properties
+      key="Level"
+      value="4"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

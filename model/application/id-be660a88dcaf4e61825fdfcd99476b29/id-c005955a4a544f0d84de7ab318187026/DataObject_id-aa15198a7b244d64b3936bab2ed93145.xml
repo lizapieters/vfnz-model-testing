@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PriceEvent"
+    id="id-aa15198a7b244d64b3936bab2ed93145"
+    documentation="An occurrence (happening) or schedule that triggers the creation of a billing charge for a product offering. For example; a price event instance may represent the end of a month when monthly recurring billing charges are created. In some cases; the creation of a charge associated with a ProductOfferingPrice may be triggered by multiple events. For example; a penalty (ProductOfferingPrice) may be triggered by over- or under-usage of a service. Under- and over-usage are represented as two separate PriceEvent entity instances."/>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SecVulnerabilityScoringMetricDefn"
+    id="id-2740fecac3b345b9a513e0d874b9a764"
+    documentation="The definition of a metric which may be categorized into three groups (Base; Temporal; and Environmental). These three groups are further decomposed into groupings for exploitability and/or impact which define metrics used to score vulnerability severity. Notes: For example; Base Metrics are grouped into Base Exploitability and Base Impact Metrics. Base Exploitability Metrics include Access Vector; Authentication; and Access Complexity Metrics."/>

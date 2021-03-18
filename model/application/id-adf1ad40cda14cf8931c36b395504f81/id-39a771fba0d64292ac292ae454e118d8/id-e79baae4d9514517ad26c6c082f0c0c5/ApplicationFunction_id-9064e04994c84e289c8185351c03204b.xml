@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collation Actions- Build payment plan"
+    id="id-9064e04994c84e289c8185351c03204b"
+    documentation="Based on system recommendation or CSR decision to build a payment plan.">
+  <properties
+      key="Function Identifier"
+      value="156"/>
+  <properties
+      key="TAM Application Name"
+      value="Collection Settlement"/>
+  <properties
+      key="TAM Application Id"
+      value="5.14.3"/>
+  <properties
+      key="Constructed Id"
+      value="5.14.3.156"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Access Interface"
+    id="id-26e48bc444294cedafcf6acf9afa617a"
+    documentation="Data Access Interface: Access interface to reading and updating stored data, individually or in bulk format. Access to data is controlled by authorization, compliance and privacy policies.">
+  <properties
+      key="Function Identifier"
+      value="1016"/>
+  <properties
+      key="TAM Application Name"
+      value="Data Distribution Management"/>
+  <properties
+      key="TAM Application Id"
+      value="9.11.3"/>
+  <properties
+      key="Constructed Id"
+      value="9.11.3.1016"/>
+</archimate:ApplicationFunction>

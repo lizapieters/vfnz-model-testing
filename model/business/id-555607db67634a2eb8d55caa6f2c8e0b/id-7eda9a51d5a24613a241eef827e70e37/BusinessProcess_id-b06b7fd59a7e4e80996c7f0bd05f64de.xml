@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Party Revenue Sharing and Settlement"
+    id="id-b06b7fd59a7e4e80996c7f0bd05f64de"
+    documentation="Develops party revenue sharing models, prepare party revenue sharing agreements, determine party revenue shares, and reconcile party revenue shares.">
+  <properties
+      key="Process Identifier"
+      value="1.6.18"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Party Revenue Sharing develops party revenue sharing models, prepares party revenue sharing agreements, determines party revenue shares, and reconciles party revenue shares. Party Revenue Sharing Model Development develops, maintains, and removes party revenue sharing models that define how revenue is shared by and enterprise with one or more other parties. Revenue sharing models are a key component revenue sharing agreements. Party Revenue Sharing Agreement Management develops an agreement that specifies how revenue will be shared between an enterprise and one or more other parties whose product offerings are made available in some way by an enterprise. Party Revenue Share Determination uses existing artefacts such as usage, invoices, product prices, and applied billing rates to determine how revenues will be shared. Party Revenue Sharing Reconciliation ensures that two sets of party revenue sharing records are aligned and agreed upon."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

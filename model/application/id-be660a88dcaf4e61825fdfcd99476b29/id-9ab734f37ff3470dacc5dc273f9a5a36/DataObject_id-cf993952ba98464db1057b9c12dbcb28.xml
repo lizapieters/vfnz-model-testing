@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PortVariable"
+    id="id-cf993952ba98464db1057b9c12dbcb28"
+    documentation="This class represents using the value of port source and/or destination fields as part of a condition expression. Thus; only BitStringValue and IntegerValue classes can be used in the value portion of the condition expression with this PolicyVariable."/>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organization Development"
+    id="id-75d08a4bd5ab4264964f2ad130bb1020"
+    documentation="Support the definition of the organization of the enterprise and coordinate its reorganizations.">
+  <properties
+      key="Process Identifier"
+      value="1.7.7.2"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Organization Development processes support the definition of the organization of the enterprise and coordinate its reorganizations. These processes can apply for the overall organization, can define the organization of single business units, or at least can ensure coherency and/or guarantee support to specific processes defining the organization of single business units elsewhere within the enterprise."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

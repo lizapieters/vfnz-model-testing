@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Networking Routing update"
+    id="id-0cedd28888ad44419626e6ee44dc2a87">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-41d5704966c8447abf8a36bfb957bd1c.xml#id-41d5704966c8447abf8a36bfb957bd1c"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3371ed1ab4a74769b2d5cba41cb5a58b.xml#id-3371ed1ab4a74769b2d5cba41cb5a58b"/>
+</archimate:TriggeringRelationship>

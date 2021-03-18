@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Enterprise Performance Data"
+    id="id-09ddeab345d942f1a4f5dcf4ce3eb602"
+    documentation="Collect and analyze the associated data. Note that performance is actually assessed within each area of the enterprise, but follows the guidelines defined by this process, which provides a template for specific applications of Performance Assessment in any areas of the Enterprise.">
+  <properties
+      key="Process Identifier"
+      value="1.7.3.4.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

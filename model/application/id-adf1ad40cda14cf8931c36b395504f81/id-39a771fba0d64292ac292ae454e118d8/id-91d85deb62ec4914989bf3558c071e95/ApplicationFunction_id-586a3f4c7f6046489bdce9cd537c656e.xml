@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Campaign template creation"
+    id="id-586a3f4c7f6046489bdce9cd537c656e"
+    documentation="Create Campaign templates function to pre-define frequently used campaigns, segments, content templates, and their tracking metrics, to be pre-defined to step through campaign setup and execution, and yet customizable.">
+  <properties
+      key="Function Identifier"
+      value="348"/>
+  <properties
+      key="TAM Application Name"
+      value="Campaign Design"/>
+  <properties
+      key="TAM Application Id"
+      value="3.9.1.2"/>
+  <properties
+      key="Constructed Id"
+      value="3.9.1.2.348"/>
+</archimate:ApplicationFunction>

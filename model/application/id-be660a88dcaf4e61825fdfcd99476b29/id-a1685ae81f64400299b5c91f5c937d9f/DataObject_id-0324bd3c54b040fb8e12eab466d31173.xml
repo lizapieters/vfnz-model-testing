@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WorkforceEmployeeReservation"
+    id="id-0324bd3c54b040fb8e12eab466d31173"
+    documentation="Represents an implementation of a request for reservation of work time in some human resource pool. It is also possible to reserve the work time of an individual employee. Note: the reservation; or booking according to appointment; is associated to Calendar Entry. The CalendarEntry here can belong to a reservation WorkSchedule. This Calendar entry may be floating. Once the Reservation becomes an Assignment (to be dispatched); a particular time slot (Calendar Entry) can be fixed in the WorkSchedule."/>

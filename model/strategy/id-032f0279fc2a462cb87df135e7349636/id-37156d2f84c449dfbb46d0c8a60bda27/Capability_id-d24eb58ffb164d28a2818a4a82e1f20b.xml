@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Network Compliance Management"
+    id="id-d24eb58ffb164d28a2818a4a82e1f20b"
+    documentation="The ability to verify and enforce that a network is being managed and used in accordance to the terms and conditions, preferences, policy, and good practice.">
+  <properties
+      key="TMF_ID"
+      value="1.1.7.5"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

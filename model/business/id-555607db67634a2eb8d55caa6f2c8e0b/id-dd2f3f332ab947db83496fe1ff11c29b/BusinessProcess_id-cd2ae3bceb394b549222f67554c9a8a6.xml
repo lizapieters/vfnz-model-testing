@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define Party Privacy Location, Jurisdiction and Regulation"
+    id="id-cd2ae3bceb394b549222f67554c9a8a6"
+    documentation="define how the relevant privacy regulations that must be followed are to be identified. This will include the geographical region which a product will be offered to customers; the location of the Data Controller and any Data Processors.">
+  <properties
+      key="Process Identifier"
+      value="1.6.7.1.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Define Party Privacy Location, Jurisdiction and Regulation process is used: - to identify the countries that a product will be offered in - to define the countries where Data Controller and Data Processors will be located - to define the privacy regulations that apply in those countries - to define the dominant regulation - If multiple legislations apply then to define the highest standards in each regulation for each part"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

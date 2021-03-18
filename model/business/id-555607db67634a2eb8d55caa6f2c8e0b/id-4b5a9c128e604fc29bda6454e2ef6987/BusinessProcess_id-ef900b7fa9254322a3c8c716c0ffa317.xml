@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Sales Contact"
+    id="id-ef900b7fa9254322a3c8c716c0ffa317"
+    documentation="Manage all sales contacts between potential or existing parties and the enterprise.">
+  <properties
+      key="Process Identifier"
+      value="1.1.11.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Manage Sales Contact manages all contacts between potential or existing parties and the enterprise. It deals with the creation of a contact, its development and updates to it. This process interacts with Customer Interaction Management and Party Interaction Management to manage the contact once an Market/Sales related interaction is initiated by a party."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

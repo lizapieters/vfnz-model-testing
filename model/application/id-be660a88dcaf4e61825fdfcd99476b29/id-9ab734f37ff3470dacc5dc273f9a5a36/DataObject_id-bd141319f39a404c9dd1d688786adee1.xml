@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicyBroker"
+    id="id-bd141319f39a404c9dd1d688786adee1"
+    documentation="PolicyServers affect ManagedEntities in a particular PolicyDomain; and are coordinated through a PolicyBroker. The purpose of the PolicyBroker is to control how different PolicyServers interact with each other. In this regard; it has two different functions. The first function is to ensure that conflicts between different policy rules dont exist when different Policy Servers are asked to work together. The second is to coordinate the application of different policies in different Policy Servers."/>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plan/Human Resource Matching"
+    id="id-9002ddf758f94efca2501f194e53db7a"
+    documentation="The ability to associate a plan with a human resource.">
+  <properties
+      key="TMF_ID"
+      value="1.2.7.6.16"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

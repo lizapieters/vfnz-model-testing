@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Report on Work Order"
+    id="id-09e8338813f14813abedf015c275234b"
+    documentation="The Report on Work Order process manages status and notifications and executes various reports about work orders.">
+  <properties
+      key="Process Identifier"
+      value="1.5.5.5.7"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Report on Work Order scope includes the following: â€¢{T}Executing reports on work orders, work items, and tasks being performed â€¢{T}Monitoring the status of work orders and managing notifications to processes and other parties registered to receive notifications of any status changes â€¢{T}Executing performance reports for various workforces"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

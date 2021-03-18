@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0988"
+    id="id-0e6fdf33f08c4b78a8c72bcb9907e116"
+    documentation="As a Billing Specialist, I require the ability to produce ad-hoc or on-demand invoices/credit notes. For example, for mobile hardware for each purchase to generate a separate invoice on completion of an order. It would be great to also be able to send adhoc credit notes seperate from tax invoices as we currently are unable to do this which leads to complete crediting of an invoice and re-billing as customers (mainly govt departments) are not able to take up credit values from the hybrid invoice we currently produce">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0988"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Kurt Harniss"/>
+  <properties
+      key="Tribe"
+      value="Finance &amp; Business / Billing"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Reporting"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Billing"/>
+  <properties
+      key="Remarks"
+      value="Requirement clear."/>
+  <properties
+      key="Module"
+      value="CRM, EP, BS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define Inter-Agreement Relationship"
+    id="id-ebd0289f59f9474c878c8184b16644c3"
+    documentation="Define relationship(s) with other agreement(s), such as a group of service level agreements.">
+  <properties
+      key="Process Identifier"
+      value="1.6.5.1.1.4"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Define Inter-Agreement Relationship defines relationship(s) with other agreement(s). For example a service level agreement for an end-to-end service may be related to individual service level agreements with other parties who provide components of the service; or relating a purchase agreements with the applicable service level agreement(s)."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

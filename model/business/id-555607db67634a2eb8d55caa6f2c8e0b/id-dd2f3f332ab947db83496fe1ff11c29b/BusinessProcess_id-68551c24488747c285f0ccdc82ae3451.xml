@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Data Access"
+    id="id-68551c24488747c285f0ccdc82ae3451"
+    documentation="Mange data access according to organization requirements.">
+  <properties
+      key="Process Identifier"
+      value="1.7.8.5.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Manage data access process ensures that the data can be accessed meets the required quality standards for use by other processes within and outside the organization."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

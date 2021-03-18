@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MemoryCard"
+    id="id-89fa7571efc64308bf342c48780aa4c5"
+    documentation="This is a type of Card that is dedicated to providing additional memory for use by other components of a Resource. Cards that are used to expand memory; or provide different types of memory; are examples of this type of Card. The SID differentiates between this and other types of Cards; such as NetworkCards and MemoryCards."/>

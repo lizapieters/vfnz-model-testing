@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0500"
+    id="id-6d1e19f04d8d433baca93048c69404a0"
+    documentation="As a customer, I want to be prompted to purchase the relevant add-on required to proceed with my chargeable activity, so that I can do what I want to do with certainty of charging">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0500"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1?"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Use"/>
+  <properties
+      key="Topic"
+      value="Chargeable activity outside plan"/>
+  <properties
+      key="Remarks"
+      value="To be discussed in details (step by step flow), how this prompt should be realized? IVR? Redirect to a webpage? Yes, this should be a prompt in a channel you are trying to use. IVR if on a call, SMS/app if Texting, (depending on if they have the app or not)"/>
+  <properties
+      key="Module"
+      value="OCS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

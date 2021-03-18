@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ManagedEntity"
+    id="id-d56dcfea1c474107ac9f12706fc77169"
+    documentation="A ManagedEntity is used to specify that an Entity is manageable by electronic means. It may produce and/or consume other ManagedEntities; and has a distinct state. A ManagedEntity may concern a simple concept; such as a logical point of communication; or a complex concept; such as an Application or System."/>

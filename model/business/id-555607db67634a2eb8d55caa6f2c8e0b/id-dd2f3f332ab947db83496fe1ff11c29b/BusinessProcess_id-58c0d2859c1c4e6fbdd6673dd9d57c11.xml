@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Offering Agreement Management"
+    id="id-58c0d2859c1c4e6fbdd6673dd9d57c11"
+    documentation="Develop a template agreement that defines the terms/conditions associated with a product offering.">
+  <properties
+      key="Process Identifier"
+      value="1.2.7.2.4"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Product Offering Agreement Management develops a template agreement that defines the terms/conditions associated with a product offering. The terms/conditions are accepted by a party when the offering is acquired. This process uses the general Party Agreement Management process to develop a template agreement. Its focus is on defining product offering terms/conditions, such as financial terms (which includes such things as acceptable methods of payment), shipment terms, and service term (which includes early termination fees). It also associates an offering and price(s) with the terms/conditions and with a template agreement. Note that Party Agreement Management is also used to define template service level agreements and associate them to a product offering and/or a product specification."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

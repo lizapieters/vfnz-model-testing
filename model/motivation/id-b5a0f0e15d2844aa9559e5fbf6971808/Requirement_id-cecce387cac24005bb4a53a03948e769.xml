@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0665"
+    id="id-cecce387cac24005bb4a53a03948e769"
+    documentation="As a customer, I want to be able to change my hardware order or personal details after I've purchased it (prior to dispatch) so that I can update my order if I need to.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0665"/>
+  <properties
+      key="Status"
+      value="Waiting for input"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="y"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="buy"/>
+  <properties
+      key="Topic"
+      value="Change order"/>
+  <properties
+      key="Remarks"
+      value="OOTB - cancel order before dispatching and start over or open an unsubmitted order to finish it. Need more details, what exactly should be modified to confirm feasibility from digital, in general - supported by the model, available in CRM. Updating personal details available in Selfcare OOTB. It is about changes of personal details, but also about a change of the ordered products (for example black iphones are out of stock and we want to allow customer to take a white one not to have to wait long for the delivery). Should be available for Customer an agent. Do not allow for changes that result in a price change (in such cases an order needs to be cancelled). For pre order: changing of device variant preferrably should not change the place in the queue. Open point: what in case a change of delivery address leads to change in delivery price/method. AP for VF to discuss."/>
+  <properties
+      key="Module"
+      value="DS, SC, OM, PIM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

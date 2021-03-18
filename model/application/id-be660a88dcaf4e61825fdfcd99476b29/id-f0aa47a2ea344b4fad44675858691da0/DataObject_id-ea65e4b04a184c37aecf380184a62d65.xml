@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BalanceUsageRule"
+    id="id-ea65e4b04a184c37aecf380184a62d65"
+    documentation="Balance-level rule information constraining the application of CustomerAccountBalance. It could describe the sharing rule; by which CustomerAccountBalance could be shared between different kinds of FinancialCharge which is related to different customerâ€™s product charge. It could emphasize associated CustomerAccountBalance is only applicable for certain usage; for example only applicable for local phone call or domestic flow or intra-PLMN SMS. BalanceUsageRule also includes priority and other kinds of rules limits the application of CustomerAccountBalance."/>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Party Order Handling"
+    id="id-a72141cc69954300aa34596b0ec6661b"
+    documentation="Track, monitor and report on an order to another party to ensure that the interactions are in accordance with the agreed commercial agreements with the other party.">
+  <properties
+      key="Process Identifier"
+      value="1.6.8"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Party Order Handling processes track, monitor and report on an order to another party to ensure that the interactions are in accordance with the agreed commercial agreements with the other party. External parties are engaged when: â€¢ specific resources need to be purchased and delivered to satisfy resource orders; â€¢ the enterprise has outsourced specific activities to another party that are required to be utilized as part of an activity (i.e. outsourced installation activities); â€¢ the specific service is purchased from another party (as in an interconnect service); â€¢ the specific product and/or service, or specific product and/or service component, is owned and delivered by an another party, or â€¢ previously issued orders for specific resources or services need to be modified or cancelled."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

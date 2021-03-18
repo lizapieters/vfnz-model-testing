@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Party Profiling"
+    id="id-2a99fddf43314308a1599fed2969ce97"
+    documentation="Define and collect attributes that are used to create and maintain party profiles or  profiles for a role played by a party.  These attributes are in addition to basic information maintained about a party, such as name, identification,  contact information, and demographics.">
+  <properties
+      key="Process Identifier"
+      value="1.6.3.3"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Party Profiling defines and collects attributes that are used to create and maintain party profiles or profiles for a role played by a party. These attributes are in addition to basic information maintained about a party, such as name, identification, contact information, and demographics. Profile attributes may include product offering preferences, social media memberships, and so forth. Party profiles can be used in a number of ways including targeting parties for marketing campaigns and/or product offerings and classifying parties into market segments."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

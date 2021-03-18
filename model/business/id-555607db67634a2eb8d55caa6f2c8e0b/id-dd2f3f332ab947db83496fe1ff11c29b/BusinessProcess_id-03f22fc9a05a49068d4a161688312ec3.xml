@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mark Service Order for Special Handling"
+    id="id-03f22fc9a05a49068d4a161688312ec3"
+    documentation="Where the purchased product offering has special or unusual requirements, and a specific feasibility assessment and/or specific service design has not been previously created, this process marks the issued service order as requiring special handling, and passes management for further processing to the Track &amp; Manage Service Provisioning process. &#xA;The orchestration, if required, and tracking of the service order progress is the responsibility of the Track &amp; Manage Service Provisioning processes.">
+  <properties
+      key="Process Identifier"
+      value="1.4.5.6.3"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

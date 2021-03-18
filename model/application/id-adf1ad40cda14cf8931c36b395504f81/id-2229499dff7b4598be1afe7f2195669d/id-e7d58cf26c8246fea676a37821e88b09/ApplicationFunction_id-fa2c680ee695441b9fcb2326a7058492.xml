@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sales Account Planning"
+    id="id-fa2c680ee695441b9fcb2326a7058492"
+    documentation="Sales Account Planning looks at the service provider�s complete relationship with a large customer. This includes the customer�s outages, revenues, opportunities in the pipeline, etc. It allows the account executive to effectively manage the service provider�s relationship with the customer and to plan the selling strategy going forward.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="3.11.3"/>
+  <properties
+      key="Frameworx Domain"
+      value="Market Sales Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

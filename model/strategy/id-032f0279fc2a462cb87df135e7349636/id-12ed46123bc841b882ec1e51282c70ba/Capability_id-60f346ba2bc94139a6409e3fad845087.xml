@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Location Access Enforcement"
+    id="id-60f346ba2bc94139a6409e3fad845087"
+    documentation="The ability to ensure that access rights are granted where constraints are not appropriate and to prevent access where constraints are in place to prevent access.">
+  <properties
+      key="TMF_ID"
+      value="1.3.3.6.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

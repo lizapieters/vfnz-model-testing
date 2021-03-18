@@ -1,0 +1,20 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Real Estate Management"
+    id="id-ca8b1d991d2345aea2885241376e4b70">
+  <properties
+      key="Process Identifier"
+      value="1.7.5.2.2.1"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Real Estate Management processes manage all aspects of corporate real estate such as planning for future needs, purchase and lease of real estate, build-out, maintenance and disposal."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

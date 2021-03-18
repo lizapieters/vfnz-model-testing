@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fallout Manual Correction Queue Handling"
+    id="id-7d889e8317a84331a6ad1b549dc5adf0"
+    documentation="Fallout Manual Correction Queue Handling function provides the required functionality to place error fallout into appropriate queues to be handled via various staff or workgroups assigned to handle or fix the various types of fallout that occurs during the fulfillment process. This includes the ability to create and configure queues, route errors to the appropriate queues, as well as the ability for staff to access and address the various fallout instances within the queues.">
+  <properties
+      key="Function Identifier"
+      value="19"/>
+  <properties
+      key="TAM Application Name"
+      value="Fallout Manual Correction Queue Handling"/>
+  <properties
+      key="TAM Application Id"
+      value="11.2.3"/>
+  <properties
+      key="Constructed Id"
+      value="11.2.3.19"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IPAddress"
+    id="id-3f0fd41620ee4bc98f905248a736498e"
+    documentation="This class represents an IP address. It can be either in v4 or v6 form; and can be formatted as dotted decimal or CIDR. One or more host aliases can also be supplied."/>

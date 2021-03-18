@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Establish Sales Goals and Measures"
+    id="id-13c96a8b200b4a529703b9545fc99e78"
+    documentation="Establish goals and measures for sales, customer management measures, and sales service level standards.">
+  <properties
+      key="Process Identifier"
+      value="1.1.2.3"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Establish Sales Goals and Measures sets sales goals and how they will be measured and how customer management sales related measures. Additionally sales service levels and standards are set. This process also conducts reviews of goals, measures, service levels, and standards as appropriate and adjusts them if needed."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agreement Risk Threshold Determination"
+    id="id-fd044f803c274737baf88b66f8c9b82f"
+    documentation="The ability to identify and define the level of acceptable risk associated with an agreement.">
+  <properties
+      key="TMF_ID"
+      value="1.1.5.6.2"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

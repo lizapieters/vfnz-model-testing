@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Asset Access Management"
+    id="id-9e180a51bf974153a9fc93f06819cff9"
+    documentation="The ability to establish, control, restrict, and administer rights to view, use, or change an asset in a variety of contexts.">
+  <properties
+      key="TMF_ID"
+      value="1.3.5.6"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Supporting"/>
+</archimate:Capability>

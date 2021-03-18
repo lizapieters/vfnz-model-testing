@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0852"
+    id="id-5fc15ca6aef94c70bfdefe5351fd1518"
+    documentation="As a Disclosure Manager/Analyst, I want a set/solid/long/binding retention schedule which aligns with international standards across the business for all datasets traditionally sought by NZ Law Enforcement Agencies under statutory orders served, to ensure that we are able to provide evidential records which assist NZ Law Enforcement Agencies in either proving the criminal offending or innocence of customers who are using our services or staff who may be administering the services.">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0852"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Caroline Carver"/>
+  <properties
+      key="Tribe"
+      value="Privacy, Fraud and Compliance"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="y"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="LEA (Law Enforcement Agencies) Disclosures"/>
+  <properties
+      key="Remarks"
+      value="Requirement clear, retention schedule delivered."/>
+  <properties
+      key="Module"
+      value="NFR"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="REQ_OSS_236"/>
+</archimate:Requirement>

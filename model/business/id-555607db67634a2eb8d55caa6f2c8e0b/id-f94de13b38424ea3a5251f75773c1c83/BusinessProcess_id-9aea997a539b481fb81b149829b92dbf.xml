@@ -1,0 +1,20 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Validate Party ID"
+    id="id-9aea997a539b481fb81b149829b92dbf">
+  <properties
+      key="Process Identifier"
+      value="1.6.3.1.7.1"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Validate Party ID is responsible for confirming the identity of parties. Note: If an organization carries an identity of an interacting party, the identity needs to be validated at a level suitable for the business purpose. Some national jurisdictions require an explicit validation of subscriber identities by enterprises before specified services can be provided. Most validation are, however at the discretion of the service provider."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

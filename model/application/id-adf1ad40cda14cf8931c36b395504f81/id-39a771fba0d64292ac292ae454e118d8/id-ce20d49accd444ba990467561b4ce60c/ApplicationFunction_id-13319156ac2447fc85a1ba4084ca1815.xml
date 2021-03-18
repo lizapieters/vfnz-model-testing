@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fallout Rules Engine"
+    id="id-13319156ac2447fc85a1ba4084ca1815"
+    documentation="The Fallout Rules Engine provides the capability to handling various errors or error types based on built rules. These rules can facilitate auto correction, correction assistance, placement of errors in the appropriate queues for manual handling, as well as access to various systems via the Fallout Interface Bus.">
+  <properties
+      key="Function Identifier"
+      value="756"/>
+  <properties
+      key="TAM Application Name"
+      value="Fallout Rules Engine"/>
+  <properties
+      key="TAM Application Id"
+      value="11.2.7"/>
+  <properties
+      key="Constructed Id"
+      value="11.2.7.756"/>
+</archimate:ApplicationFunction>

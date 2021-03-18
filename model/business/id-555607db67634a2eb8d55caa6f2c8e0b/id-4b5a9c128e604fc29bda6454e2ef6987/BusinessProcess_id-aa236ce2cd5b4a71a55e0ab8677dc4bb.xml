@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Track Customer QoS/SLA Management Process Capability"
+    id="id-aa236ce2cd5b4a71a55e0ab8677dc4bb"
+    documentation="Not used for this process element">
+  <properties
+      key="Process Identifier"
+      value="1.2.6.7"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Tracking and monitoring of the Customer QoS/SLA Management processes and associated costs, and reporting on the capability of the Customer QoS/SLA Management processes;"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

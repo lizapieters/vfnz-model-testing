@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Content Management Support for O&amp;M"
+    id="id-93e034e7d2b24b0eace81c6f3d4fc3de"
+    documentation="BI Metadata Management specifies the &#xA;> Technical Metadata that describes the physical objects like Tables, fields, indexes, sources, transformations etc. &#xA;> Business Metadata that describes the content's facts, dimensions, Logical relationships etc. &#xA;> Process Metadata describes the operations executed on the BI warehouse data and the results.">
+  <properties
+      key="Function Identifier"
+      value="714"/>
+  <properties
+      key="TAM Application Name"
+      value="Content Management Knowledge Hosting and Sharing"/>
+  <properties
+      key="TAM Application Id"
+      value="#N/A"/>
+  <properties
+      key="Constructed Id"
+      value="#N/A"/>
+</archimate:ApplicationFunction>

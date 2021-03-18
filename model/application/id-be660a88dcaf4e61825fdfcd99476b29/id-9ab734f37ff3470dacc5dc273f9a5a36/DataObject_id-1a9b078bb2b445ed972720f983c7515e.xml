@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IPv6Variable"
+    id="id-1a9b078bb2b445ed972720f983c7515e"
+    documentation="This class represents using the value of IPv6 source and/or destination addresses as part of a condition expression. Thus; only IPv6AddressValue classes can be used in the value portion of the condition expression with this PolicyVariable."/>

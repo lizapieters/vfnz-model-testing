@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Resource Capability Delivery"
+    id="id-af6b40edbe5d4523a2a2f69d6e26e24f"
+    documentation="Manage the provision, implementation, commissioning and roll-out of the new or enhanced resource capability, and associated operational support processes.">
+  <properties
+      key="Process Identifier"
+      value="1.5.2.6"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Manage Resource Capability Delivery processes manage the provision, implementation, commissioning and roll-out of the new or enhanced resource capability and associated operational support processes. These processes are predominantly program/project management process functions, and require the detailed management and co-ordination of the delivery of individual resource infrastructure components to achieve the delivery of the overall resource capability. Within the Manage Resource Capability Delivery processes separate other parties may be responsible for the delivery of the resource capability, and other parties for the installation and construction. The Manage Resource Capability Delivery processes ensure that the roles and responsibilities of all parties are identified, managed and coordinated. These processes are responsible to ensure that the quality of the implemented resource capability meets the design specifications. These processes manage the commissioning of the new resource infrastructure by ensuring the availability of test programs and specifications against which to test the new resource infrastructure meets the design requirements. These processes leverage the Party Offering Development &amp; Retirement processes as necessary to establish any new sourcing arrangements for the delivery of resource components."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

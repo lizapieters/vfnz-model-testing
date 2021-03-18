@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CFSSpecVersionDetails"
+    id="id-6bb06dea9170470f88d56f989db572b9"
+    documentation="This class defines the semantics of the modifiesCFSSpec aggregation. Specifically; it enables an application to define which set of versions of this CustomerFacingServiceSpecification are appropriate for a given task.This aggregation represents the set of versions of this CustomerFacingServiceSpecification. The semantics of this aggregation are implemented with the CFSSpecVersionDetails class."/>

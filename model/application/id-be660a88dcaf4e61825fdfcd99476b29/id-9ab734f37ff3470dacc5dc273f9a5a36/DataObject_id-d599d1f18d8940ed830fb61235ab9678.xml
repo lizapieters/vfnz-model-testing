@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ConsequenceMetricNotification"
+    id="id-d599d1f18d8940ed830fb61235ab9678"
+    documentation="A communication that occurs as part of a MetricMeasureConsquence to inform about a MetricDefMeasureThresholdRule being crossed. A Notification is typically one-sided; in that no Response is expected. For example; a notification might be sent to a supervisor and another one to a technician as the result of a MetricDefMeasureThresholdRule fixing the limits of lost packets; being crossed. Each ConsequenceMetricNotification will include the value of the MetricMeasure and other information according to the scope of interest from the supervisor and the technician."/>

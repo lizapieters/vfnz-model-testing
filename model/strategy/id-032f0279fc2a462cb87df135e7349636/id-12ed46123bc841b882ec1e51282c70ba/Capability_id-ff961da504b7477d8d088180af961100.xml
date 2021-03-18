@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Message/Agreement Matching"
+    id="id-ff961da504b7477d8d088180af961100"
+    documentation="The ability to associate messages with agreements.">
+  <properties
+      key="TMF_ID"
+      value="1.2.1.6.16"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

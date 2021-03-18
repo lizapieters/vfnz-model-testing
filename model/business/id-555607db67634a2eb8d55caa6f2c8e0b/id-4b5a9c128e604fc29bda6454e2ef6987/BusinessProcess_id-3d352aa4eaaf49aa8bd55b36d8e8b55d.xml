@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Track &amp; Manage Party Orders"
+    id="id-3d352aa4eaaf49aa8bd55b36d8e8b55d"
+    documentation="Ensure a party's orders are being processed and delivered efficiently and effectively.">
+  <properties
+      key="Process Identifier"
+      value="1.6.8.3"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of the Track &amp; Manage Party Orders processes is to ensure a party's orders are being processed and delivered efficiently and effectively, and that escalation is being invoked as required for any open party orders in jeopardy. Responsibilities of these processes include, but are not limited to: â€¢ Managing regular interaction with the party to establish progress of party orders; â€¢ Modifying information in an existing party order based on feedback of progress from the party â€¢ Modifying the party order status; â€¢ Cancelling a party order when the specific order requirements are no longer required as notified by the other processes â€¢ Monitoring the jeopardy status of open party orders, and initiating escalation of party orders as necessary. These processes track progress with the party, either periodically, or at defined points according to a project or program plan. This tracking may be driven from the enterprise, or triggered by reports from the party (e.g. periodically or at key events). These processes also initiate jeopardy and risk management in relation to the supplied specific resources, services and products, their availability and delivery schedule. These processes also manage notifications or requests from parties regarding forced or requested changes to the party order or delivery schedule. These change requests may be caused by the party or may be outside its control. Change requests are sent to the originating processes where a resolution is agreed. The Track &amp; Manage Party Order processes will also inform the Close Party Order process by modifying the party order status to completed when the party order has been successfully delivered."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

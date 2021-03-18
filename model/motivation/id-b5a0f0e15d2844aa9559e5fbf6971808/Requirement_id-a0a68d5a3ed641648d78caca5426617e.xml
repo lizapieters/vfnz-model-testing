@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0977"
+    id="id-a0a68d5a3ed641648d78caca5426617e"
+    documentation="As a Billing specialist, we need to ensure the reference to a service shown on the invoice aligns with what is in the customer contract so that it reduces customer queries in relation misunderstood charges on the invoice">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0977"/>
+  <properties
+      key="Status"
+      value="HLD Completed"/>
+  <properties
+      key="Created by"
+      value="Kurt Harniss"/>
+  <properties
+      key="Tribe"
+      value="Finance &amp; Business / Billing"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Manage"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Billing"/>
+  <properties
+      key="Remarks"
+      value="Requirement clear. Please provide a template, one template is assumed. Kiri: I understand Invoice template will be during detailed requirements Waiting for invoice templates (REQ_BSS_0939 AP). Comarch is able to split charges into multiple invoice item based on grouping rules (like separate position for recurrings, usage, one-times per each service)."/>
+  <properties
+      key="Module"
+      value="BS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

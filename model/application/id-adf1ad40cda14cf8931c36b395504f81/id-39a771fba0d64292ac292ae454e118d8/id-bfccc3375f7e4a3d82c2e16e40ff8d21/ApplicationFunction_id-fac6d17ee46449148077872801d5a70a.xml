@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="End-to-End Test Management"
+    id="id-fac6d17ee46449148077872801d5a70a"
+    documentation="Service Test Lifecycle Management functions provides the necessary functionality to manage the end-to-end lifecycle of a test of a service.&#xA;Including the management of scheduling, retrieval of appropriate inventory data, setting up the test configuration, acquisition and management of test resources, test execution, test results interpretation, reporting of test results and close down of the test of the service.">
+  <properties
+      key="Function Identifier"
+      value="626"/>
+  <properties
+      key="TAM Application Name"
+      value="Service Test Lifecycle Management"/>
+  <properties
+      key="TAM Application Id"
+      value="6.8.2"/>
+  <properties
+      key="Constructed Id"
+      value="6.8.2.626"/>
+</archimate:ApplicationFunction>

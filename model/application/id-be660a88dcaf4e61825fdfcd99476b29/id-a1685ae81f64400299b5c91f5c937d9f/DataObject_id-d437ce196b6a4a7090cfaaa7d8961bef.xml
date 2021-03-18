@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CompositeSecurityVulnerabilityMetric"
+    id="id-d437ce196b6a4a7090cfaaa7d8961bef"
+    documentation="A type of SecurityVulnerabilityMetric that is formed by aggregating other SecurityVulnerabilityMetrics; which may be Composite or Atomic SecurityVulnerabilityMetrics."/>

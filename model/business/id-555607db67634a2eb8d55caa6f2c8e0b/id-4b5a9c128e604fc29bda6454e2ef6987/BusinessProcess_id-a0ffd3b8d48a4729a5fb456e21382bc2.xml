@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop Detailed Service Specifications"
+    id="id-a0ffd3b8d48a4729a5fb456e21382bc2"
+    documentation="Develop and document the detailed service-related technical and operational specifications, and customer manuals.">
+  <properties
+      key="Process Identifier"
+      value="1.4.3.4"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Develop Detailed Service Specifications processes develop and document the detailed service-related technical and operational specifications, and customer manuals. These processes develop and document the required service features, the specific underpinning resource requirements and selections, the specific operational, and quality requirements and support activities, any service specific data required for the systems and network infrastructure as agreed through the Develop New Service Business Proposal processes. The Develop Detailed Product Specifications processes provide input to these specifications. The processes ensure that all detailed specifications are produced and appropriately documented. Additionally the processes ensure that the documentation is captured in an appropriate enterprise repository."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

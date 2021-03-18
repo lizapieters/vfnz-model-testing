@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product Lifecycle Administration Support"
+    id="id-9fd0982b625c4d17b4734c2449ad8ed8"
+    documentation="Create a product, specify the involvement one or more parties have with it, update information about the product, and remove the product when it is no longer of interest to an enterprise and/or the primary party responsible for the product at request from Operations processes.">
+  <properties
+      key="Process Identifier"
+      value="1.2.11.7.1"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Product Lifecycle Administration Support creates a product, specifies the involvement one or more parties have with it, updates information about the product including the status and relationships with Product Specification, Product Offering, CustomerAccount and all related roles at request from Operations processes. Involvement may include the party account responsible for paying for the purchase and other charges, the party primarily responsible for the product, as well as users of the product. Updates may include adding new products to a bundle as well as the location of the product."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

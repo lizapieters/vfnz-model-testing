@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Usage Event Error Management"
+    id="id-4c23fd19b3434b05b9356f47754caa13"
+    documentation="The Usage Event Error Management function accepts usage records which have been identified as being non-process able due to edit, rate, guide, routing, etc. failures - i.e., unable to identify the owner of the usage (customer), unable to apply a valid rate, etc., or failures due to insufficient balance to execute the Management and Control events like (Resource reservation request). The Usage Event Error Management function provides users with the ability to:&#xA;� Categorize unbilled usage events&#xA;� Provide features to identify the error cause&#xA;� Provide correction capabilities (via mechanized script or manual correction)&#xA;� Provide re-distribution features to send the usage to the proper destination(s)&#xA;� Reporting back error to the Event generating system/functional block with the information that caused the failure. Specifically required for failures of Management and Control events.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="7.14.2"/>
+  <properties
+      key="TMF Function"
+      value="Erroneous Usage Event re-distribution to the proper destination(s) Usage Event Error Categorization Usage Event Error cause identification Usage Event Error correction capabilities"/>
+  <properties
+      key="TMF Maturity"
+      value="Resource Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

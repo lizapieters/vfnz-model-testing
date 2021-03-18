@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voice Channel Contact Routing"
+    id="id-6310ed66e641485d9d26617f1d6fc6cd"
+    documentation="Contact Skills Management profices the required functionality to capture the list of skills required for the contacts that might come in.  These skills are then associated with the service provider agents, as well as to contacts.">
+  <properties
+      key="Function Identifier"
+      value="164"/>
+  <properties
+      key="TAM Application Name"
+      value="Voice Channel Contact"/>
+  <properties
+      key="TAM Application Id"
+      value="5.22.3.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.22.3.2.164"/>
+</archimate:ApplicationFunction>

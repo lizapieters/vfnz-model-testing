@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Make Other Product Offering Purchase Recommendation"
+    id="id-9ab34704549e4762bbdccfe1b61f018f"
+    documentation="Recommend one or more other product offerings that may be of interest based on the offering selected.">
+  <properties
+      key="Process Identifier"
+      value="1.2.9.2.1.4"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Make Other Product Offering Purchase Recommendation recommends one or more other product offerings that may be of interest based on the offering selected. The recommendation is for inbound purchases and may be based on purchases made by other parties of this item that include other similar items. It could also be based on offering(s) related to the one purchased that may be of interest. For example, accessories that complement the offering purchased."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

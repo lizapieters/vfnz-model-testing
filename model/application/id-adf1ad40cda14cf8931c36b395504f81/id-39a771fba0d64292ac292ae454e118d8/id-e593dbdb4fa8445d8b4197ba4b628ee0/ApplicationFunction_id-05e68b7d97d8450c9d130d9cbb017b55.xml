@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Number Aging"
+    id="id-05e68b7d97d8450c9d130d9cbb017b55"
+    documentation="Manages the aging of numbers before they can be re-assigned.">
+  <properties
+      key="Function Identifier"
+      value="436"/>
+  <properties
+      key="TAM Application Name"
+      value="Network Number Inventory Management"/>
+  <properties
+      key="TAM Application Id"
+      value="7.13.1"/>
+  <properties
+      key="Constructed Id"
+      value="7.13.1.436"/>
+</archimate:ApplicationFunction>

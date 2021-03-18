@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0126"
+    id="id-127beb6b0e3e41919cecdbe1a0390dd5"
+    documentation="As a product owner, I want to require customers to pay a (configurable) deposit for their interest free device before receiving it, to reduce fraud &amp; bad debt">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0126"/>
+  <properties
+      key="Status"
+      value="Parked for workshop"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="y"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Topic"
+      value="Core proposition"/>
+  <properties
+      key="Remarks"
+      value="Is there a credit check dependency or something else, what should happen with deposit (is this dedicated type of a document? what should happen with deposit when a customer terminate a service?) What are the rules for credit check, to be clarified if it is the part of Comarch solution."/>
+  <properties
+      key="Module"
+      value="OM, BS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="Not Applicable"/>
+</archimate:Requirement>

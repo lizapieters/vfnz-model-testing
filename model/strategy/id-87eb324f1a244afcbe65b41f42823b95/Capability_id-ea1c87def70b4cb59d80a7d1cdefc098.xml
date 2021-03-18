@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Billing Inquiry, Dispute &amp; Adjustment Management"
+    id="id-ea1c87def70b4cb59d80a7d1cdefc098"
+    documentation="This is a front end application for managing billing inquiries, disputes, and adjustments. Billing inquiries are provided by Bill Calculation. Open dispute cases can be handled by Case Management system or internally. The financial activities are performed by Receivables Management.">
+  <properties
+      key="TMF Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.10"/>
+  <properties
+      key="TMF Function"
+      value="0"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Real Estate Facility Operations Management"
+    id="id-b78c0b4236304a9491c059bd872e22c0"
+    documentation="Real Estate Facility Operations Management prioritize the day-to-day operations for the user's/occupier's needs and demands.Real Estate Facility Management function supports the Facility Managers control of the expenses and operational planning.">
+  <properties
+      key="TMF Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.4.1.2"/>
+  <properties
+      key="TMF Function"
+      value="Real Estate Facility Management"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Risk Level Determination"
+    id="id-876fa58207d545f8b45ee154d5c42dc7"
+    documentation="The ability to identify and define the level of risk associated with a customer.">
+  <properties
+      key="TMF_ID"
+      value="1.1.2.3.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

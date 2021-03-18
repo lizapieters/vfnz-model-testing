@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Campaign Execution &amp; Refinement"
+    id="id-d9fb2ed135244d8a86d1dbab36f036ff"
+    documentation="Campaign Execution &amp; Refinement applications provide the necessary tools to execute a previously designed campaign.">
+  <properties
+      key="TMF Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="3.9.1.4"/>
+  <properties
+      key="TMF Function"
+      value="Campaign Execution handling Campaign execution workflow handling Campaign to customer event handling Campaign to Customer profile handling Campaign Update function"/>
+  <properties
+      key="TMF Maturity"
+      value="Market_Sales Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

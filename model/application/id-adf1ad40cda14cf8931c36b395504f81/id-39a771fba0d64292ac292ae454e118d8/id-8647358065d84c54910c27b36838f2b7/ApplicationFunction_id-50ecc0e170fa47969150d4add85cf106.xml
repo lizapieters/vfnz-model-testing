@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Electronic Attachments to Expence Reports"
+    id="id-50ecc0e170fa47969150d4add85cf106"
+    documentation="Employee Expense Reimbursement Function for Attachment of electronic receipts to expense reports from faxed images">
+  <properties
+      key="Function Identifier"
+      value="830"/>
+  <properties
+      key="TAM Application Name"
+      value="Employee Expense Reimbursement"/>
+  <properties
+      key="TAM Application Id"
+      value="9.3.2"/>
+  <properties
+      key="Constructed Id"
+      value="9.3.2.830"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API Lifecycle Management Access Control"
+    id="id-d24ee5dbf1514eecb99e301a4f875670"
+    documentation="Access control policies based on a Role-Based Access Control (RBAC) system that restrict permissions for Create, Read, Update and Delete, thus enabling different stakeholders wrights.">
+  <properties
+      key="Function Identifier"
+      value="669"/>
+  <properties
+      key="TAM Application Name"
+      value="API Management"/>
+  <properties
+      key="TAM Application Id"
+      value="10.3"/>
+  <properties
+      key="Constructed Id"
+      value="10.3.669"/>
+</archimate:ApplicationFunction>

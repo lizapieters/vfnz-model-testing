@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tax Calculation"
+    id="id-f75f14ee07474fd5b749116ca165a277"
+    documentation="Tax Calculation provides the necessary functionality to calculate taxes, including surcharges and fees&amp; where applicable. This function can occur within the Invoicing application or through the use of an external Tax module.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.15.3"/>
+  <properties
+      key="TMF Function"
+      value="Calculate taxes"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

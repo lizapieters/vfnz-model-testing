@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Policy Compliance Determination"
+    id="id-a6a01f458f0a4abd9fdc6c93209a94a3"
+    documentation="The ability to determine if an organization is conforming to a policy or policies at a specific level, as dictated by the forces governing conformance to those policies.">
+  <properties
+      key="TMF_ID"
+      value="1.2.3.3"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

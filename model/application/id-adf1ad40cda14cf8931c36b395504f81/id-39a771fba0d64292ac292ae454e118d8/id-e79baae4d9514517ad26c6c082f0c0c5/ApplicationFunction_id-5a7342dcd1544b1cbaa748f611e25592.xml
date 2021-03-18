@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collection Policy Manual Intervention"
+    id="id-5a7342dcd1544b1cbaa748f611e25592"
+    documentation="Manual Intervention - Provides the CSR with many options to override the automated flow such as pause and continue the collection treatment, force an account into collection, change the selected collection policy and stop manually the collection treatment.">
+  <properties
+      key="Function Identifier"
+      value="148"/>
+  <properties
+      key="TAM Application Name"
+      value="Collection Policy Execution and Monitoring"/>
+  <properties
+      key="TAM Application Id"
+      value="5.14.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.14.2.148"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0874"
+    id="id-dab35ebe695e420f8a511bf46293b1ef"
+    documentation="As a Revenue Assurance Analyst I want be able to access and provide automated reporting from test SIMS making test calls on our network so that we are can ensure we are not under or overcharging customers and that additional bundle is being allocated correct  (covered with access to the Rated CDR feed)">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0874"/>
+  <properties
+      key="Status"
+      value="Submitted for HLD"/>
+  <properties
+      key="Created by"
+      value="Samuel Pachoud"/>
+  <properties
+      key="Tribe"
+      value="Finance / Revenue &amp; Network Assurance"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Reporting"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="SIM test calls reporting"/>
+  <properties
+      key="Remarks"
+      value="What do you mean by automated reporting? What is Comarch role here? Kiri: We currently received all the rated call records from BRM and Surepay for our Mobile customers. From this hourly feed of CDRs that go into our Revenue Assurance DB we extract all the call from our test SIMS and send an automated daily report to our testing partner so they can be validated. So to cover this requirement we need the delivery of the rated CDRs for both Mobile Postpaid and Preapaid accounts sent to our RA system. The Rated CDR feed will need to meet the minimum requirement of fields so that the rating validation can be performed by our testing partner – Waiting to see what fields are available from Comarch so we can confirm."/>
+  <properties
+      key="Module"
+      value="REP"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

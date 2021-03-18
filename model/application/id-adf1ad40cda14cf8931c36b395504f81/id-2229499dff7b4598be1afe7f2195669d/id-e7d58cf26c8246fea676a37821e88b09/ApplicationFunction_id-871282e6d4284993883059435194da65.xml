@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Network Number Inventory Management"
+    id="id-871282e6d4284993883059435194da65"
+    documentation="Network Number Inventory Management provides the required functionality to manage dialable (telephone numbers) and non-dialable (network routing number) numbers. It can include both land-line and mobility numbers. It also handles ip type addresses (V4 or V6) along with any other network numbers of interest to a service provider. Numbers can be private or public.">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="7.13.1"/>
+  <properties
+      key="Frameworx Domain"
+      value="Resource Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

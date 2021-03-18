@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Governmental &amp; Regulatory Tracking &amp; Reporting"
+    id="id-42fa5b986e444959b74cc3b4f6004948"
+    documentation="Governmental &amp; Regulatory Tracking &amp; Reporting provides the necessary functionality to track the implementation of governmental &amp; regulatory rules or requirements, along with the means to report as required to various Legal and Regulatory bodies.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.2.3"/>
+  <properties
+      key="TMF Function"
+      value="Governmental &amp; Regulatory Reporting Governmental &amp; Regulatory Tracking"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CustomerFacingServiceSpecAtomic"
+    id="id-32bc06524aa44d2dbaea70614c307464"
+    documentation="This is an abstract base class for defining CustomerFacingServiceSpecifications that do not have any subordinate CustomerFacingServiceSpecifications. In other words; a CustomerFacingServiceSpecAtomic is a stand-alone CustomerFacingServiceSpecification; and doesnt require any supporting CustomerFacingServiceSpecifications to define the shared characteristics (i.e.; attributes; relationships; and constraints) of any CustomerFacingServices that it serves as a template for."/>

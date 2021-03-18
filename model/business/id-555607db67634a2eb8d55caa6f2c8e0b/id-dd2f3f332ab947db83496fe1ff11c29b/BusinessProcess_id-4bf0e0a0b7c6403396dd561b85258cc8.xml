@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Send Party Privacy Profile"
+    id="id-4bf0e0a0b7c6403396dd561b85258cc8"
+    documentation="Communicate a Privacy Policy Profile attached to a PII to a Data Processor Party so that the Privacy of PII is still protected outside of the Data Controller and when with  the Data Processor. Ensuring the end-to-end protection of the PII , ensuring privacy, is an essential requirement to avoid flaws in the data processing processes.">
+  <properties
+      key="Process Identifier"
+      value="1.6.7.3.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Send Party Privacy Profile process manages the application of External Privacy Policy Rules when a PII must be sent to a Data Processor Party. It applies the External Rules, then transforms the existing Party Privacy Profile External Rules into Internal Rules, in order the Data Processor Party can import it into its Privacy Management."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

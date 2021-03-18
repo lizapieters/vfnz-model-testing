@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define Complex Configuration Specification Relationship"
+    id="id-15a4d7c9cb504d4ebcd5087b236bc250"
+    documentation="Define a complex relationship between/among configuration specifications.">
+  <properties
+      key="Process Identifier"
+      value="1.8.3.1.1.5.2"/>
+  <properties
+      key="Category"
+      value="(6) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Define Complex Configuration Specification Relationship defines a complex relationship between/among configuration specifications. A complex relationship may specify the order in which related specifications must be applied when configuring an entity, such as a product, service, or resource. This type of configuration specification relationship represents a group of configuration specifications that is made up of other configuration specifications. For example, the configuration specification for a digital health monitoring service may be composed of a specification for the activating the monitoring device, which must be done first, and a specification establishing connection between the device and a network, which must be done second."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

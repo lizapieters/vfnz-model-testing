@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SRBridging"
+    id="id-7c31937e535e4c27a593c7fd19124780"
+    documentation="Source-route bridges are used almost exclusively in Token Ring networks. In a SRB network; the source device prescribes the route to the destination and indicates its desired path. SRBs store and forward the frames as indicated by the route appearing in the appropriate frame field."/>

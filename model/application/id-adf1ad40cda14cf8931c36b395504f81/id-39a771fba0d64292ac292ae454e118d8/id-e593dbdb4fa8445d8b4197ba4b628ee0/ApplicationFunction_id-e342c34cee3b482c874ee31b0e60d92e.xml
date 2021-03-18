@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Usage Event Collection"
+    id="id-e342c34cee3b482c874ee31b0e60d92e"
+    documentation="Usage Event Collection . These functions are required to support both file and event based (batch and real-time) processing when distributed to upstream systems. The events are used in the functions for charging/billing, assurance and management of customers and networks.">
+  <properties
+      key="Function Identifier"
+      value="534"/>
+  <properties
+      key="TAM Application Name"
+      value="Usage Event Processing"/>
+  <properties
+      key="TAM Application Id"
+      value="7.14.1"/>
+  <properties
+      key="Constructed Id"
+      value="7.14.1.534"/>
+</archimate:ApplicationFunction>

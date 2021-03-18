@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agreement/Partner Matching"
+    id="id-e5b52e9a51de4ed1b17de241dc36627d"
+    documentation="The ability to associate an agreement with one or more of the organization's partners.">
+  <properties
+      key="TMF_ID"
+      value="1.1.5.9.4"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

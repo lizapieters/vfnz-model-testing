@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer/Prospect Data Acquisition"
+    id="id-45a9b22d95fa4ce1924a96c25426d183"
+    documentation="Customer/Prospect Data Acquisition applications provides functionality to collect all necessary information to support the sale.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="3.11.1"/>
+  <properties
+      key="TMF Function"
+      value="Customer/Prospect Data Acquisition"/>
+  <properties
+      key="TMF Maturity"
+      value="Market_Sales Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

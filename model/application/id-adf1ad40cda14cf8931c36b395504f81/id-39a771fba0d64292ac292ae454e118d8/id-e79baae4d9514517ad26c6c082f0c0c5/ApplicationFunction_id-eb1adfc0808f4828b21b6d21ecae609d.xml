@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Access to call center agents"
+    id="id-eb1adfc0808f4828b21b6d21ecae609d"
+    documentation="Access to applications for interaction to provide fully automated service or assisted service over customers touch points. These applications create enablement for customers to assure the service level that they benefit from their service provider. � Account management - Account management (such as contact attributes) &#xA;� Self registration to online services &#xA;� Service requests management: &#xA;� Service request submission &#xA;� Service request amendment &#xA;� Service request closure &#xA;� Users management &#xA;� Alerts and notifications setting &#xA;� Address book management &#xA;� Access to Knowledge Management database &amp; solutions to common problems &#xA;� Service Requests and SLA Reporting - Reports on service requests and SLA across services">
+  <properties
+      key="Function Identifier"
+      value="244"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer Self Empowered Assurance"/>
+  <properties
+      key="TAM Application Id"
+      value="5.4.2"/>
+  <properties
+      key="Constructed Id"
+      value="5.4.2.244"/>
+</archimate:ApplicationFunction>

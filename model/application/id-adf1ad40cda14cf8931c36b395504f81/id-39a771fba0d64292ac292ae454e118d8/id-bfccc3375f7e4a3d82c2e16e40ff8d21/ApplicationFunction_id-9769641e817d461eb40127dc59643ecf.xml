@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service design management"
+    id="id-9769641e817d461eb40127dc59643ecf"
+    documentation="The Design Solution function supports the end to end service design. It applies engineering rules to determine required network facilities, equipment configurations and the method and access path to the customer site or location of service termination. &#xA;This function also establishes and manages the detailed design tasks required to issue the work orders.">
+  <properties
+      key="Function Identifier"
+      value="570"/>
+  <properties
+      key="TAM Application Name"
+      value="Design Solution"/>
+  <properties
+      key="TAM Application Id"
+      value="6.3.4.1"/>
+  <properties
+      key="Constructed Id"
+      value="6.3.4.1.570"/>
+</archimate:ApplicationFunction>

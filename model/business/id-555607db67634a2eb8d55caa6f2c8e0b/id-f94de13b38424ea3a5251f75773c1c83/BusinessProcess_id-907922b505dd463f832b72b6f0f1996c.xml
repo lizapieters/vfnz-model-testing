@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Earn Loyalty Program Currency From Enterprise Partner"
+    id="id-907922b505dd463f832b72b6f0f1996c"
+    documentation="Earn loyalty program currency via an enterprise's loyalty program partner. A partner provides the currency or information that can be used to determine currency.">
+  <properties
+      key="Process Identifier"
+      value="1.1.19.2.2.2"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Earn Loyalty Program Currency From Enterprise Partner earns loyalty program currency via an enterprise's loyalty program partner. A partner provides the currency or information that can be used to determine currency. For example converting money charged to a credit card to a currency, such as points, of an enterprise's loyalty program."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

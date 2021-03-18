@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer/Prospect Data Acquisition"
+    id="id-3c2d830f5d8549ecbb00bed06c1a3efc"
+    documentation="Customer/Prospect Data Acquisition obtains all necessary information to make a sale. The prospect could be a new or current customer. Customer/Prospect Data Acquisition includes information about the service location, billing address, demographic information about the customer, any existing products and services the customer currently has, as well as the customer's needs (requirements).">
+  <properties
+      key="Function Identifier"
+      value="364"/>
+  <properties
+      key="TAM Application Name"
+      value="Customer/Prospect Data Acquisition"/>
+  <properties
+      key="TAM Application Id"
+      value="3.11.1"/>
+  <properties
+      key="Constructed Id"
+      value="3.11.1.364"/>
+</archimate:ApplicationFunction>

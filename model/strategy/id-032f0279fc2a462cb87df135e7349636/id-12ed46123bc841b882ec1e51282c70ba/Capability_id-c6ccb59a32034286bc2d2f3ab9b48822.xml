@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Investment Risk Level Determination"
+    id="id-c6ccb59a32034286bc2d2f3ab9b48822"
+    documentation="The ability to identify and define the level of risk associated with an investment or set of investments.">
+  <properties
+      key="TMF_ID"
+      value="1.2.6.4.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

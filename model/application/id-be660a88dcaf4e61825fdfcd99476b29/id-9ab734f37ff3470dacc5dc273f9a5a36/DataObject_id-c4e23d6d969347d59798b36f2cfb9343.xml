@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Event"
+    id="id-c4e23d6d969347d59798b36f2cfb9343"
+    documentation="Fowler provides a good overview of the business problem that requires a calendar [Fowler-Calendar]. A good starting point for our discussion is shown in the following Figure. Note that here we are using the term Calendar rather than Schedule. A Calendar has an owner who can control updates to it. The Calendar could also be associated with Assets like a Site or a Workgroup. A Calendar contains Calendar Entries. These entries are related to events and have a temporal expression that indicates the Time Periods for the entry. Note that an entry may have repeating Time Periods in the temporal expression. In the following Figure; the slashes on the associations denote that the association is derived. This is because the entities are logically associated; but the actual association is done via subclasses of the entities."/>

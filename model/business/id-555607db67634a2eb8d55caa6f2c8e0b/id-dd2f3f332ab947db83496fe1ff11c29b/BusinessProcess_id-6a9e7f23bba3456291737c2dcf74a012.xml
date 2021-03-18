@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Convert Report To Resource Performance Degradation Report Format"
+    id="id-6a9e7f23bba3456291737c2dcf74a012"
+    documentation="If the resource performance degradation report is created as a result of a notification or request from processes other than Monitor Resource Performance processes, this process responsible for converting the received information into a form suitable for the Resource Performance Management processes, and for requesting additional information if required.">
+  <properties
+      key="Process Identifier"
+      value="1.5.9.5.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Not used for this process element"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

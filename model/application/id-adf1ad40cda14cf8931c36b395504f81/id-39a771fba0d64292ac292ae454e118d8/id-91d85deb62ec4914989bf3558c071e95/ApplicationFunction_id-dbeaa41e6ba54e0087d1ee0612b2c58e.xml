@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Retail Outlet Billing"
+    id="id-dbeaa41e6ba54e0087d1ee0612b2c58e"
+    documentation="Retail Outlet Billing management function provides access to Billing management specific to retail stores.">
+  <properties
+      key="Function Identifier"
+      value="380"/>
+  <properties
+      key="TAM Application Name"
+      value="Retail Outlets"/>
+  <properties
+      key="TAM Application Id"
+      value="3.4.3"/>
+  <properties
+      key="Constructed Id"
+      value="3.4.3.380"/>
+</archimate:ApplicationFunction>

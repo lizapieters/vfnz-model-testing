@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Order Item Decomposition"
+    id="id-65ef500e895a49f7963dfeb3a1254b10"
+    documentation="Customer Order Item Decomposition prepares the customer order structure for breakdown into customer order items.">
+  <properties
+      key="TMF Category"
+      value="(3) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.3.11.1"/>
+  <properties
+      key="TMF Function"
+      value="Customer Order Item Decomposition"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="3"/>
+</archimate:Capability>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ServiceSpecificationType"
+    id="id-c8f422e298924f3ea9e1f36da945c01e"
+    documentation="The ServiceSpecificationType class defines a generic category of ServiceSpecifications. Each ServiceSpecificationType serves to group a set of particular ServiceSpecifications that share some of the same behavior and other semantics. One result of this is to be able to more efficiently define a set of related Services that can be grouped together to form a higher-level Service. For example; a given higher-level Service might include VPN and QoS Services. If these Services are always used together; then they can be categorized using a common type."/>

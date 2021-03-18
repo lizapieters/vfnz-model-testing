@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fixed Assets Reconciliation"
+    id="id-e84d67f1326d408186acdd375e13f1e1"
+    documentation="General Ledger Account Reconciliation function for Fixed Assets">
+  <properties
+      key="Function Identifier"
+      value="868"/>
+  <properties
+      key="TAM Application Name"
+      value="General Ledger Account Reconciliation"/>
+  <properties
+      key="TAM Application Id"
+      value="9.3.9"/>
+  <properties
+      key="Constructed Id"
+      value="9.3.9.868"/>
+</archimate:ApplicationFunction>

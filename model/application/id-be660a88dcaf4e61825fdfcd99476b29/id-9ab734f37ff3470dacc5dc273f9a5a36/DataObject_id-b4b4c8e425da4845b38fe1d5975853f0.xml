@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MetricMeasurementCollectionJob"
+    id="id-b4b4c8e425da4845b38fe1d5975853f0"
+    documentation="A job for collecting MetricMeasures produced by another job to make available MetricMeasures for subscribers."/>

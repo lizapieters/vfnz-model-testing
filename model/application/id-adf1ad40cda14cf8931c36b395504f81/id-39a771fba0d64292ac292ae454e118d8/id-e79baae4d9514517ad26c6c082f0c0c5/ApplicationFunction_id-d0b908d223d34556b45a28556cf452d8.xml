@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product catalog browsing"
+    id="id-d0b908d223d34556b45a28556cf452d8"
+    documentation="Product catalog browsing � identify products available for purchase by a given customer, provide relevant information (e.g. cost, requirements, configurable attributes) to the customer. This information will be used in the step guidance.">
+  <properties
+      key="Function Identifier"
+      value="123"/>
+  <properties
+      key="TAM Application Name"
+      value="Channel Guidance and Data Capture"/>
+  <properties
+      key="TAM Application Id"
+      value="5.3.1.1"/>
+  <properties
+      key="Constructed Id"
+      value="5.3.1.1.123"/>
+</archimate:ApplicationFunction>

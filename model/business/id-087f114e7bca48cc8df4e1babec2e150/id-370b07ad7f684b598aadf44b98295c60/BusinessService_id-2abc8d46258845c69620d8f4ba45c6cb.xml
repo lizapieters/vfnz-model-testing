@@ -1,0 +1,30 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OTT - Amazon Prime"
+    id="id-2abc8d46258845c69620d8f4ba45c6cb"
+    documentation="0">
+  <properties
+      key="Target Horizon"
+      value="2"/>
+  <properties
+      key="Segment"
+      value="0"/>
+  <properties
+      key="Access/Service Type"
+      value="0"/>
+  <properties
+      key="Comarch can support"
+      value="0"/>
+  <properties
+      key="Non-Comarch IT support needed"
+      value="0"/>
+  <properties
+      key="NaaS will support"
+      value="0"/>
+  <properties
+      key="Automated non-NaaS support"
+      value="0"/>
+  <properties
+      key="Unexpected"
+      value="true"/>
+</archimate:BusinessService>

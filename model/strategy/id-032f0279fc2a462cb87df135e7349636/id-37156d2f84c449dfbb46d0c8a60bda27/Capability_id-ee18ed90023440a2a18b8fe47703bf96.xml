@@ -1,0 +1,33 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fraud Management"
+    id="id-ee18ed90023440a2a18b8fe47703bf96"
+    documentation="Investigating, preventing and responding to activities that indicate fraudulent use of networks or systems. This is achieved by effective Fraud Management systems coupled with the instrumentation and monitoring that enables potential fraudulent activities to be identified. There are close linkages between fraud identification and anomaly detection.">
+  <properties
+      key="TMF_ID"
+      value="1.2.2.2"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+  <properties
+      key="TMF Category"
+      value="(1) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="9.7"/>
+  <properties
+      key="TMF Function"
+      value="Fraud &amp; Anomaly Detecting"/>
+  <properties
+      key="TMF Maturity"
+      value="Enterprise Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

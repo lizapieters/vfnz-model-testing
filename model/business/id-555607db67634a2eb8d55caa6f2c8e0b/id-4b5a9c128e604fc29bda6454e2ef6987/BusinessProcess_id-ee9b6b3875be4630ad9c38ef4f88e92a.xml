@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Order Fallout"
+    id="id-ee9b6b3875be4630ad9c38ef4f88e92a"
+    documentation="This process defines tasks involved in handling fallouts (exceptions) generated in the order fulfilment lifecycle. It deals with identifying, assigning, managing, monitoring and reporting order fallouts.">
+  <properties
+      key="Process Identifier"
+      value="1.3.3.8"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Order fulfilment lifecycle can have exceptions (due to incorrect data, capacity issues, and other unforeseen circumstances), such exceptions require special actions and interventions, which are not part of the standard fulfilment lifecycle. Manage Order Fallout process defines the tasks involved in the intervention required to successfully complete the order fulfilment lifecycle. The key tasks in the process are: â€¢ Identification of fallout events along with the originating process flow from which the fallout occurred. â€¢ Assignment of order fallout to a specialized processing queue and/or appropriate operations team based on identified source of trouble, type of fallout and required corrective actions. â€¢ Allocation of fallout to the processing entity based on fallout nature, origin and assigned order priority. â€¢ Assess order fallout for root cause and identification of preventive and corrective action â€¢ Implementation of corrective action(s) to address fallout â€¢ Verify and confirm results once corrective actions have been performed â€¢ Track, monitor and manage order fallout based on order priority, jeopardy status, fallout impact and availability of resources. Escalate order to appropriate agent as needed. This task will align to Track &amp; Manage Customer Order Handling process â€¢ Handover to change/problem management process to address preventive action in line with established requirements â€¢ Restart order fulfilment process from the point of fallout to ensure all further process flows and tasks are executing normally. â€¢ Report fallout status to Customer Order Handling process to ensure customer and other involved parties are notified of updates and order status â€¢ Report analysis of order fallouts for identifying key patterns like fallout trends, top fallout categories, infrastructure and geographies in which fallouts occur, efficiency of agents and processes resolving order fallouts, etc. â€¢ Close order fallout"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

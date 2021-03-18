@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Compliance and Policy Configuration"
+    id="id-000830e3870f4c259ff2662ffd0a32a3"
+    documentation="Data Compliance and Policy Configuration: Configuration function to define Data Compliance and Policy Rules and guidelines for e.g. authorization groups, data types etc. Configuration changes are logged for auditing">
+  <properties
+      key="Function Identifier"
+      value="1019"/>
+  <properties
+      key="TAM Application Name"
+      value="Data Compliance and Policy Management"/>
+  <properties
+      key="TAM Application Id"
+      value="9.11.4"/>
+  <properties
+      key="Constructed Id"
+      value="9.11.4.1019"/>
+</archimate:ApplicationFunction>

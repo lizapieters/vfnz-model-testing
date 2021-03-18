@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define Engaged Element Relationships"
+    id="id-6120f7087e5b4fb98c6623799636809b"
+    documentation="Define Engaged Element Relationships process defines the relationship between engaged elements e.g. dependencies between engaged elements.">
+  <properties
+      key="Process Identifier"
+      value="1.8.5.1.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Define Engaged Element Relationships process defines the relationship between engaged elements e.g. dependencies between engaged elements. For example, in the case of a technician visit to a customer premise the expected time of technician arrival may be dependent on, amongst other things, distance from customer premise, level of traffic congestion etc."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resource Commissioning &amp; Configuration Management"
+    id="id-d6adc3d456c1403b929c847ead19a373"
+    documentation="These applications are responsible for managing and tracking the configuration of the resource (AKA CMDB). These applications typically work in a federated environment, where they rely on other applications for the data">
+  <properties
+      key="TAM Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Application Identifier"
+      value="7.1.1"/>
+  <properties
+      key="Frameworx Domain"
+      value="Resource Domain"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:ApplicationFunction>

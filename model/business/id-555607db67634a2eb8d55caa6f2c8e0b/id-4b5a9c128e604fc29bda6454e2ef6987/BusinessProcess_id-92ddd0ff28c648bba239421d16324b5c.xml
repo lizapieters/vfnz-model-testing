@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gather &amp; Analyze New Service Ideas"
+    id="id-92ddd0ff28c648bba239421d16324b5c"
+    documentation="Combine specific product requirements with demographic, customer, technology and marketing information to identify specific new service classes/components or enhancements to existing service classes/components.">
+  <properties
+      key="Process Identifier"
+      value="1.4.3.1"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Gather &amp; Analyze New Service Ideas processes combine specific product requirements with demographic, customer, technology and marketing information to identify specific new service classes/components or enhancements to existing service classes/components. These processes undertake the necessary analysis to identify potential service classes, compare current service classes with the identified required service classes, and as a result of the analysis develop new service class ideas. The new service class ideas include an analysis of the customer value proposition."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

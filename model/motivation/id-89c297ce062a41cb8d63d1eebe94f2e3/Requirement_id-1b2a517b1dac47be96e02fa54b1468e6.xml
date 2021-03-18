@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0027"
+    id="id-1b2a517b1dac47be96e02fa54b1468e6"
+    documentation="As a new customer, I want to be able to purchase a new subscription via e-SIM, so that I can join Vodafone">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0027"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Dallas Pickens"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="1"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="Buy"/>
+  <properties
+      key="Topic"
+      value="New customer, e-SIM"/>
+  <properties
+      key="Remarks"
+      value="OOTB G&amp;D is the e-SIM provider."/>
+  <properties
+      key="Module"
+      value="DS, SC, OM, PC, PIM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="REQ_OSS_290 REQ_OSS_291 REQ_OSS_292"/>
+</archimate:Requirement>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Performance Reporting"
+    id="id-185bfb0b73e045c5b26163f92a2fe01e"
+    documentation="Service Performance Reporting provides the necessary functionality required to generate reports about the performance of the service provider's services. &#xA;These reports may be generated as part of the normal periodic operations (&quot;scheduled&quot;), or may be as a result of a specific analysis request (&quot;in-demand&quot;).  Report types include near real time, historical view, and trend analysis.&#xA;Relevant performance reports are also provided to service/network planning to perform network updates.">
+  <properties
+      key="Function Identifier"
+      value="606"/>
+  <properties
+      key="TAM Application Name"
+      value="Service Performance Reporting"/>
+  <properties
+      key="TAM Application Id"
+      value="6.7.3"/>
+  <properties
+      key="Constructed Id"
+      value="6.7.3.606"/>
+</archimate:ApplicationFunction>

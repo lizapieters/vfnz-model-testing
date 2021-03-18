@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Billing Account Associations Management"
+    id="id-3b1d018c5c764783bf51d69e58b365cd"
+    documentation="The Billing Account Associations Management application provides the necessary capabilities to manage billing account associations with other entities.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="5.13.2"/>
+  <properties
+      key="TMF Function"
+      value="Billing Account Prepaid automatic replenishment Billing Account Price plan determination Billing Account Reporting Billing statement association Charge association to billing account Charge distribution to pay means Shared allowances community"/>
+  <properties
+      key="TMF Maturity"
+      value="Customer Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

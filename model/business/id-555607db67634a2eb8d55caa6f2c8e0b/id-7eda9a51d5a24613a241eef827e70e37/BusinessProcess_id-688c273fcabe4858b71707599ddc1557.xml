@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financial &amp; Asset Management"
+    id="id-688c273fcabe4858b71707599ddc1557"
+    documentation="The Financial &amp; Asset Management (F&amp;AM) process grouping focuses on managing the finances and assets of the enterprise. Financial Management processes include Accounts Payable, Accounts Receivable, Expense Reporting, Revenue Assurance, Payroll, Book Closings, Tax Planning and Payment etc. Financial Management processes collect data, report and analyze the results of the enterprise. They are accountable for overall management of the enterprise income statement. Asset Management processes set asset policies, track assets and manage the overall corporate balance sheet.">
+  <properties
+      key="Process Identifier"
+      value="1.7.5"/>
+  <properties
+      key="Category"
+      value="(2) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The Financial &amp; Asset Management process grouping focuses on managing the finances and assets of the enterprise. Financial Management processes include Accounts Payable, Accounts Receivable, Expense Reporting, Payroll, Book Closings, Tax Planning and Payment etc. Financial Management collects data, reports and analyzes the results of the enterprise. They are accountable for overall management of the enterprise income statement. Asset Management processes set asset policies, track assets and manage the overall corporate balance sheet. TM Forum does not intend to develop process models for these processes, since they are not processes that require significant specialization for information and communications service providers. It is hoped cross-industry models can be referenced."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

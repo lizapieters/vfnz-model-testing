@@ -1,0 +1,80 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Value Chain Scope"
+    id="id-b9d0ffe90c3140d5a7b23a0dcfb93fe5">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-e9d67bfe81dd415d902d1fab3f976815"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      fillColor="#f5deaa">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-26add27d8975402f84cf5882e4f4818d"
+        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+        fontColor="#000000"
+        lineColor="#000000"
+        source="id-e9d67bfe81dd415d902d1fab3f976815"
+        target="id-74b3f4865b2b4b2299863466899b04de">
+      <archimateRelationship
+          xsi:type="archimate:TriggeringRelationship"
+          href="TriggeringRelationship_id-9b408cf533924d85aa5e4d47b3f93c28.xml#id-9b408cf533924d85aa5e4d47b3f93c28"/>
+    </sourceConnections>
+    <bounds
+        x="84"
+        y="193"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ValueStream"
+        href="ValueStream_id-4aa11720388043ffa2bb0304a0568976.xml#id-4aa11720388043ffa2bb0304a0568976"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-74b3f4865b2b4b2299863466899b04de"
+      targetConnections="id-26add27d8975402f84cf5882e4f4818d"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      fillColor="#f5deaa">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-47fb9c1312074bb0bab3acd701b29e2b"
+        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+        fontColor="#000000"
+        lineColor="#000000"
+        source="id-74b3f4865b2b4b2299863466899b04de"
+        target="id-e47840fe92c245349df934632c97f994">
+      <archimateRelationship
+          xsi:type="archimate:TriggeringRelationship"
+          href="TriggeringRelationship_id-a32ec89f1c534f85a10df7a3666167d9.xml#id-a32ec89f1c534f85a10df7a3666167d9"/>
+    </sourceConnections>
+    <bounds
+        x="410"
+        y="193"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ValueStream"
+        href="ValueStream_id-2734d8af01214d49ab206cf7d76b1cc3.xml#id-2734d8af01214d49ab206cf7d76b1cc3"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-e47840fe92c245349df934632c97f994"
+      targetConnections="id-47fb9c1312074bb0bab3acd701b29e2b"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      fillColor="#f5deaa">
+    <bounds
+        x="756"
+        y="204"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ValueStream"
+        href="ValueStream_id-53e52a6494fb4d249c28cf7bd7e1a520.xml#id-53e52a6494fb4d249c28cf7bd7e1a520"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Attachment"
+    id="id-a8839e041de04d6a89507c9cbef105dc"
+    documentation="This is the class to represent an attachment like document; image or video (or link to one of those) to an entity. It can describe a RootEntity; a BusinessInteraction... This can be a document that was provided by the Customer (such as report; log or picture showing a problem with one of the products); or a document provided by the CSP to the customer as part of the interaction (such as manual or a brochure)."/>

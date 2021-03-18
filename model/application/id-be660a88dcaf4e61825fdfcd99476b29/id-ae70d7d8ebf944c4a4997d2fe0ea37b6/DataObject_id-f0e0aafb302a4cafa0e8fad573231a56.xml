@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MPLS"
+    id="id-f0e0aafb302a4cafa0e8fad573231a56"
+    documentation="This class is the base class of the MPLS (Multi-Protocol Label Switching) Protocol. Subclasses of the MPLS class are used to configure various aspects of MPLS. MPLS separates forwarding packets from defining what the label means. The forwarding paradigm used is based on the notion of label swapping. MPLS supports a wide variety of forwarding behavior; ranging from a label being associated to a group of routes to a label being associated to a particular flow."/>

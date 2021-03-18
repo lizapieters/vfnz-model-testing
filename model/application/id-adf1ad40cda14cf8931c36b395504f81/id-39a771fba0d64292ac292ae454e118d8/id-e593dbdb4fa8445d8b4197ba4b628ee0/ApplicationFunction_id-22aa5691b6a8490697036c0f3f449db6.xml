@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Retrieval of appropriate resource inventory data"
+    id="id-22aa5691b6a8490697036c0f3f449db6"
+    documentation="Retrieval of appropriate inventory data for resource end to end testing">
+  <properties
+      key="Function Identifier"
+      value="511"/>
+  <properties
+      key="TAM Application Name"
+      value="Resource Test Lifecycle Management"/>
+  <properties
+      key="TAM Application Id"
+      value="7.11.2"/>
+  <properties
+      key="Constructed Id"
+      value="7.11.2.511"/>
+</archimate:ApplicationFunction>

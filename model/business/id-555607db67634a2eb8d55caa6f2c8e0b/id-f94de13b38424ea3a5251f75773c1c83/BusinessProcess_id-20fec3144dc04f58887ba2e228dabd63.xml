@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage Analytics Consumer"
+    id="id-20fec3144dc04f58887ba2e228dabd63"
+    documentation="Manage Analytics Consumer process provides capabilities to manage the consumer of analytics where the consumer could be an application, Business unit or external entity.">
+  <properties
+      key="Process Identifier"
+      value="1.7.8.1.4.2"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Manage Analytics Consumer process provides capabilities to manage the lifecycle of analytic consumers and their access to analytical results. It ensures that the proper authorization and authentication process are in place for consumer of analytics. BDA monetization focuses on the need of expanding consumer of analytics not only within the organization but also outside the organization thus making analytic consumer management process an essential part of domain."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

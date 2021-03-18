@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Initiate Interaction With Sales Contact"
+    id="id-973f5931783b4f679fb908a820116e8a"
+    documentation="Initiate contact with a party to acknowledge their interest via the Customer or Party Interaction Management process.">
+  <properties
+      key="Process Identifier"
+      value="1.1.11.1.2.1"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Initiate Interaction With Sales Contact initiates contact with a party to acknowledge their interest via the Customer or Party Interaction Management process. This process may be repeated based on the response to the interaction that is provided to the Record Additional Sales Contact Information process."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

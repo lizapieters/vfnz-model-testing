@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AtomicProjectDeliverable"
+    id="id-1e855d12c11744aeb4866fc1ee13fa12"
+    documentation="A type of ProjectDeliverable that does not have any subordinate ProjectDeliverables; that is; an Atomic ProjectDeliverable is a leaf-level ProjectDeliverable."/>

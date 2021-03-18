@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Receive Party Bill/Invoice"
+    id="id-5d86cd17f5d0452bb53e381e733d3b30"
+    documentation="Receive and record the bill/invoice from a party . Compare a party bill/invoice against all transactions with the party that would result in a bill/invoice being sent to the enterprise. Manage the interactions between a party and an enterprise. Approve a party bill/invoice for payment.">
+  <properties
+      key="Process Identifier"
+      value="1.6.15.3.5"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Receive and record the bill/invoice from a party . Compare a party bill/invoice against all transactions with the party that would result in a bill/invoice being sent to the enterprise. Manage the interactions between a party and an enterprise. Approve a party bill/invoice for payment."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

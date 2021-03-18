@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PolicyConfigDecisionRole"
+    id="id-81b40520b35141b5ad930e1e1c9f3c0f"
+    documentation="This is a concrete base class that defines the concept of various types of roles used to describe processes that control configuration processes; and their use in the model. A PolicyConfigDecisionRole refines the generic concepts of a PolicyConfigRole. Specifically; this base class is used to describe different processes required to request decisions involving the monitoring; changing and/or verifying of the configuration of a Managed Object. These processes will orchestrate the use of one or more instances of other PolicyConfigRoles as part of executing the configuration decision."/>

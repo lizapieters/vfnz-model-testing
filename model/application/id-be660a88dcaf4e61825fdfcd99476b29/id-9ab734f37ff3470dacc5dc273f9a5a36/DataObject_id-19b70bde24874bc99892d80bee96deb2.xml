@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MetricMeasurementObservation"
+    id="id-19b70bde24874bc99892d80bee96deb2"
+    documentation="A MetricMeasurementObservation represents the contextual information of a measurement such as the observation period; the MetricMeasurementJob used; the requester of the observation and the scope of the observation through the related MonitoredMetricObjectCriterion. The MonitoredMetricObjectCriterion related to MetricMeasurementObservation has to be equal to or a sub-set of the one related to the concerned MetricMeasurementJob. A MetricMeasurementObservation also specifies the MectricMeasures resulting from this observation."/>

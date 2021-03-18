@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Specify Party Revenue Sharing Model Associated Revenue"
+    id="id-07200a3a3be74a13a0588760ff435eb3"
+    documentation="Specify the revenue shared with an enterprise or with a party involved in the revenue sharing model.">
+  <properties
+      key="Process Identifier"
+      value="1.6.18.1.2.3"/>
+  <properties
+      key="Category"
+      value="(5) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Specify Party Revenue Sharing Model Associated Revenue specifies the revenue shared for an enterprise's offering with an enterprise or with a party involved in the revenue sharing model. This process is also responsible for modifying the revenue shared. It also references the party's offering. The amount shared may depend on which processes an entries or a party carries out with respect to an offering, such as fulfilled by, billed by, and so forth. For example, if an enterprise fulfills an order on behalf of a party and accepts payment on behalf of a party then the revenue shared with a party will be less than if a party fulfills the order and accepts payment after it has been placed with an enterprise. Note that the revenue is defined by reusing the Product Offering Pricing process."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

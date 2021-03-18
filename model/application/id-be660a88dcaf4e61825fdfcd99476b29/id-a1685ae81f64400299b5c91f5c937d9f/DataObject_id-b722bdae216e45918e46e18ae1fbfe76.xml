@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NetFlowSecurityEvent"
+    id="id-b722bdae216e45918e46e18ae1fbfe76"
+    documentation="A NetFlowSecurityEvent is a capture of IP traffic between two end hosts. The number of packets; number of bytes; and other characteristics about the flow are captured; so further analysis can be performed with other inputs to determine malicious activity."/>

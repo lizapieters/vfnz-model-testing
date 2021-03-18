@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Report Resource Usage Records"
+    id="id-e8f79756674e4e3b8d50b1b6a317fa2c"
+    documentation="Generate reports on resource usage records based on requests from other processes.">
+  <properties
+      key="Process Identifier"
+      value="1.5.10.2"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The purpose of the Report Resource Usage Records is to generate reports on usage records based on requests from other processes. These processes produce reports that may identify abnormalities, which may be caused by fraudulent activity or related to customer complaints or network problems."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

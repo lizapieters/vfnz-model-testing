@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Adjust Party Revenue Share"
+    id="id-3a07207d5c5446efac0a2e46e5d027fd"
+    documentation="Make an adjustment to the revenue to be shared among an enterprise and one or more other parties.">
+  <properties
+      key="Process Identifier"
+      value="1.6.18.3.7"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Adjust Party Revenue Share makes an adjustment to the revenue to be shared among an enterprise and one or more other parties. This could be required, but not limited to, based on changes to a revenue sharing model associated with a party revenue sharing agreement or based on discrepancies found by the Party Revenue Share Reconciliation process. If an adjustment is to be made it typically requires re-executing many of the other Party Revenue Sharing Determination processes."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Preliminary"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Price Optimization"
+    id="id-84676ffb0dd1460baf12d8b14bcee6db"
+    documentation="Price/Cost Optimization applications provide functionality regarding price and cost optimization of a given solution.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="3.10.4"/>
+  <properties
+      key="TMF Function"
+      value="Price/Cost Optimization"/>
+  <properties
+      key="TMF Maturity"
+      value="Market_Sales Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

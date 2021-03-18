@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Shipment/Plan Matching"
+    id="id-4bde421a64594f97b39e25513ffff357"
+    documentation="The Ability to associate a shipment with a plan.">
+  <properties
+      key="TMF_ID"
+      value="1.1.11.6.8"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

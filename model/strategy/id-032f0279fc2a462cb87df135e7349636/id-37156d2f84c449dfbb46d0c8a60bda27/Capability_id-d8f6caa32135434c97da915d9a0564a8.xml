@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Channel Risk Management"
+    id="id-d8f6caa32135434c97da915d9a0564a8"
+    documentation="The ability to assess the likelihood of harm to the business associated with a channel.">
+  <properties
+      key="TMF_ID"
+      value="1.1.1.4"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

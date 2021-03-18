@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ValueCustom"
+    id="id-0842fb42dac14f4f8be20689d079dcfc"
+    documentation="ValueCustom is an abstract base class that provides two basic attributes to define custom value objects that can be used in an application-specific fashion. These two attributes are called valueModelAttribute and valueModelClass. The valueModelAttribute is a string attribute that defines the name of the attribute within the class specified in the valueModelClass attribute that is to be evaluated or set as a PolicyValue. The valueModelClass is a string attribute that defines the class name whose attribute is to be evaluated or set as a PolicyValue. This combination enables new custom subclasses of ValueCustom to be defined that specify the class and attribute that they are modeling. These new subclasses can be found by users of the current schema by searching for these two properties. That also enables SID users to immediately understand the purpose of new extensions."/>

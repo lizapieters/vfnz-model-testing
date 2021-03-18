@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ConfigRelationship"
+    id="id-7171b70c9f3240cfb20a49e72954ca01"
+    documentation="A relationship between two Configurations. One relationship may represent a group of Configurations that are configured. For example; the Configuration for a connection may be composed of the Configurations for the connection as well as for connection termination points that are assigned to the connection."/>

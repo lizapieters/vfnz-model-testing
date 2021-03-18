@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identify Upstream and Downstream Partner Security or Privacy Interests"
+    id="id-f09184b356644258b86a16f4be910e02"
+    documentation="Identify Partner Security or Privacy Interests. This strategy may differ from parties covered by explicit consumer rights or privacy regulation.">
+  <properties
+      key="Process Identifier"
+      value="1.6.1.1.2"/>
+  <properties
+      key="Category"
+      value="(4) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Identify Upstream and Downstream Partner Security or Privacy Interests informs any strategy or intents adopted or executed by the enterprise. This strategy may differ from parties covered by explicit consumer rights or privacy regulation. Note: An enterprise needs to continuously validate and correct its understanding of any participating partners' interests. Most ecosystems are subject to shifting concerns, and changes in how partners view their exposures to those concerns."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_1396"
+    id="id-d6b59bea588f45e498a1120c725749e0"
+    documentation="Related to:&#xA;- Feature_20: Mobile Addon&#xA;- Feature_24: Mobile - Add-on - Extra Data - minutes - MVNO&#xA;- Feature_27: Mobile - Carry-over Data&#xA;&#xA;&#xA;As a customer I want to add &quot;Extra Data&quot; and/or &quot;Extra Minutes&quot; to a new or existing subscription; where I can specify to apply the add-on as one-off or recurring.  Any unused data can be carried over/added to the newly added add-on">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_1396"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Angelo Bagay"/>
+  <properties
+      key="Tribe"
+      value="Consumer Mobile"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="y"/>
+  <properties
+      key="Base"
+      value="1"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="2"/>
+  <properties
+      key="Lifecycle"
+      value="Use"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Add-ons"/>
+  <properties
+      key="Remarks"
+      value="Extra add on can be defined as additional bucket of data or minutes."/>
+  <properties
+      key="Module"
+      value="PC, OCS"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="REQ_OSS_221 REQ_OSS_222"/>
+</archimate:Requirement>

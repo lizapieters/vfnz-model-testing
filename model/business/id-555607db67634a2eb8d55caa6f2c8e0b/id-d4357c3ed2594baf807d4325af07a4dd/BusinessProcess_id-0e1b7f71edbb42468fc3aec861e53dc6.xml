@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Develop Algorithmic Product Offering Pricing Matrix Specification"
+    id="id-0e1b7f71edbb42468fc3aec861e53dc6"
+    documentation="Define the matrix and its rows and columns and other dimensions.  The rows and columns represent the criteria evaluated to determine the charge/allowance.">
+  <properties
+      key="Process Identifier"
+      value="1.2.7.2.2.3.1"/>
+  <properties
+      key="Category"
+      value="(6) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Develop Algorithmic Product Offering Pricing Matrix Specification defines (creates, modifies, and removes) the matrix and its rows and columns and other dimensions of a multi-dimensional matrix. The rows and columns represent the criteria evaluated to determine the charge/allowance. They represent such things as types of product features/properties, types of product offering prices, algorithmic specific criteria such as type of customer, and so forth. Note that properties/features are also known as characteristic specifications."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

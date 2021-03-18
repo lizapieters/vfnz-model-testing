@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plan and Forecast Workforce Management"
+    id="id-29d9ed2cc69142a0a7fe11095191a579"
+    documentation="This process is responsible for planning and forecasting future workload and workforce availability demands and for making adjustments based on reports and forecasts.">
+  <properties
+      key="Process Identifier"
+      value="1.5.5.2"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="Plan and Forecast Workforce processes are responsible for planning and forecasting the workload of manual activities to be assigned to technicians within the enterprise and/or third parties. Responsibilities of these processes include, but are not limited to: â€¢{T}Forecasting the future demand for workforces based on work order statistics â€¢{T}Forecasting the workload and respective assignable staffing requirements on a daily, weekly, and longer period basis, based on workload history, considering special events (extraordinary activities), staff vacation considerations, and distributing the available workforce in order to best meet the estimated load â€¢{T}Making adjustments, whenever necessary, to the estimated load: â€¢{T}Adjust duration estimates for all known work activities, based on actual historic results or on forward estimates"/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voucher Ordering"
+    id="id-18a41c0f419a41528cda11930efbc71a"
+    documentation="Voucher Ordering including the ability to generate, modify, authorize and associate a PIN with serial numbers and dispatch the order to the manufacturer">
+  <properties
+      key="Function Identifier"
+      value="565"/>
+  <properties
+      key="TAM Application Name"
+      value="Voucher Management"/>
+  <properties
+      key="TAM Application Id"
+      value="7.6"/>
+  <properties
+      key="Constructed Id"
+      value="7.6.565"/>
+</archimate:ApplicationFunction>

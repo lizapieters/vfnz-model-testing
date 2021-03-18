@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Network Enforcement"
+    id="id-15365942c21a4ebcb684063418d7934c"
+    documentation="The ability to ensure compliance with agreed terms.">
+  <properties
+      key="TMF_ID"
+      value="1.1.7.5.3"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Report Service Provisioning"
+    id="id-e55ae3e5ce2045439eb1cce5b419dc9e"
+    documentation="Monitor the status of service orders, provide notifications of any changes and provide management reports.">
+  <properties
+      key="Process Identifier"
+      value="1.4.5.7"/>
+  <properties
+      key="Category"
+      value="(3) eTOM Process Type"/>
+  <properties
+      key="Extended Description"
+      value="The objective of the Report Service Provisioning processes is to monitor the status of service orders, provide notifications of any changes and provide management reports. These processes are responsible for continuously monitoring the status of service orders and managing notifications to processes and other parties registered to receive notifications of any status changes. Notification lists are managed and maintained by the Enable Service Configuration &amp; Activation processes. These processes record, analyze and assess the service order status changes to provide management reports and any specialized summaries of the efficiency and effectiveness of the overall Service Configuration &amp; Activation process. These specialized summaries could be specific reports required by specific audiences."/>
+  <properties
+      key="Maturity Level"
+      value="4"/>
+  <properties
+      key="Frameworx Status"
+      value="Released"/>
+</archimate:BusinessProcess>

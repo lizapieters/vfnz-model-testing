@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sales Negotiation"
+    id="id-cab26a7e80544a0999d921f1cfdd07b7"
+    documentation="Sales Negotiation applications provide the capability to provide quotations based on products available to the customer and produce an order request upon customer acceptance.">
+  <properties
+      key="TMF Category"
+      value="(2) TAM Application Type"/>
+  <properties
+      key="Stereotype"
+      value="application_capability"/>
+  <properties
+      key="TMF ID"
+      value="3.10.6"/>
+  <properties
+      key="TMF Function"
+      value="Sales Negotiation"/>
+  <properties
+      key="TMF Maturity"
+      value="Market_Sales Domain"/>
+  <properties
+      key="TMF Status"
+      value="4"/>
+</archimate:Capability>

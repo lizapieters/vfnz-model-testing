@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Network Access Constraints Definition"
+    id="id-41406f59bd784f848f95994ad524144a"
+    documentation="The ability to define and impose limitations of access rights to a network.">
+  <properties
+      key="TMF_ID"
+      value="1.1.7.7.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Policy Validation"
+    id="id-40f48e9d9d4143a3a16c53b8d8200392"
+    documentation="The ability to determine if a policy is accurate and generally fit for its intended purpose.">
+  <properties
+      key="TMF_ID"
+      value="1.2.3.7"/>
+  <properties
+      key="Level"
+      value="2"/>
+  <properties
+      key="Group"
+      value="Strategic"/>
+</archimate:Capability>

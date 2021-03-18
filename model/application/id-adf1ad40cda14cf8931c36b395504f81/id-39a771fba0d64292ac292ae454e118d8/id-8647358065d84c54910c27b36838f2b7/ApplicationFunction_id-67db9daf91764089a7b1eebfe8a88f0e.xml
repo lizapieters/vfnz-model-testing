@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Distribution"
+    id="id-67db9daf91764089a7b1eebfe8a88f0e"
+    documentation="Data Distribution: Distribution function that push data according to configured subscriptions of data in requested formats, etc.">
+  <properties
+      key="Function Identifier"
+      value="1017"/>
+  <properties
+      key="TAM Application Name"
+      value="Data Distribution Management"/>
+  <properties
+      key="TAM Application Id"
+      value="9.11.3"/>
+  <properties
+      key="Constructed Id"
+      value="9.11.3.1017"/>
+</archimate:ApplicationFunction>

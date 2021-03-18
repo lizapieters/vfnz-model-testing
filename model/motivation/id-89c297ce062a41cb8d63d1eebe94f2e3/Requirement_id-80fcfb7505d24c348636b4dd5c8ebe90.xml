@@ -1,0 +1,54 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ_BSS_0425"
+    id="id-80fcfb7505d24c348636b4dd5c8ebe90"
+    documentation="As a BSS solution, I should track and show potential customers. (Note this may be info added by Vodafone or other customers)">
+  <properties
+      key="﻿UID"
+      value="REQ_BSS_0425"/>
+  <properties
+      key="Status"
+      value="HLD in Progress"/>
+  <properties
+      key="Created by"
+      value="Jared Mortlock"/>
+  <properties
+      key="Tribe"
+      value="Business"/>
+  <properties
+      key="Target Horizon"
+      value="1"/>
+  <properties
+      key="Reviewed"
+      value="0"/>
+  <properties
+      key="Base"
+      value="0"/>
+  <properties
+      key="Base_Old"
+      value="0"/>
+  <properties
+      key="Proposed New Base"
+      value="1"/>
+  <properties
+      key="Lifecycle"
+      value="Learn"/>
+  <properties
+      key="Proposed New Lifecycle"
+      value="0"/>
+  <properties
+      key="Topic"
+      value="Prospecting"/>
+  <properties
+      key="Remarks"
+      value="OOTB its a lifecycle of the customer. A customer can create a prospect? Customer creating prospect for Horizion 2 to be discussed during customer structure session"/>
+  <properties
+      key="Module"
+      value="PIM"/>
+  <properties
+      key="Applies to Consumer only, Business only, or Both"
+      value="Bus. &amp; Cons."/>
+  <properties
+      key="OSS BUC ID (# or N/A)"
+      value="0"/>
+</archimate:Requirement>

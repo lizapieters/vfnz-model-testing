@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PartyBillingStatisticSpec"
+    id="id-874ed909553a44609e2bcbc2b0b333f5"
+    documentation="A detailed description of a collection of statistical data derived from PartyBills (for example; party account charge sum over a certain period of time). Statistical data are typically collected during rating and billing processes. A specification may be implemented using a rules engine or a policy to determine collection rules."/>

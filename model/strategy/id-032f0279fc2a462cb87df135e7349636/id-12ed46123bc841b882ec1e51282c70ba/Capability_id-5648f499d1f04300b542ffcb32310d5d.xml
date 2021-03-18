@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Network Performance Threshold Setting"
+    id="id-5648f499d1f04300b542ffcb32310d5d"
+    documentation="The ability to determine acceptable or unacceptable levels of performance.">
+  <properties
+      key="TMF_ID"
+      value="1.1.7.4.1"/>
+  <properties
+      key="Level"
+      value="3"/>
+  <properties
+      key="Group"
+      value="Core"/>
+</archimate:Capability>
